@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001572",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002649.htm",
+        "Focus": "Fenoprofen calcium overdose",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Nalfon overdose"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001572-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Fenoprofen calcium overdose"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

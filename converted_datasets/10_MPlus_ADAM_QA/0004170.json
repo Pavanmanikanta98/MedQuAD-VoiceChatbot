@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0004170",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000514.htm",
+        "Focus": "Vacuum-assisted delivery",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C2053584"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004170-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Vacuum-assisted delivery ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0004170-4",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Vacuum-assisted delivery? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

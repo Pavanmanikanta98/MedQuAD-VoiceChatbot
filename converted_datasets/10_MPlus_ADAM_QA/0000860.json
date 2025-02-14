@@ -1,0 +1,39 @@
+{
+    "Document": {
+        "@id": "0000860",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007487.htm",
+        "Focus": "Clean catch urine sample",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0231617"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Urine culture - clean catch",
+                    "Urinalysis - clean catch",
+                    "Clean catch urine specimen",
+                    "Urine collection - clean catch"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000860-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Clean catch urine sample ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

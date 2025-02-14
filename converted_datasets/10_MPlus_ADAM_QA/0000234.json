@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0000234",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007393.htm",
+        "Focus": "Angioplasty and stent placement -- peripheral arteries",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Percutaneous transluminal angioplasty - peripheral artery",
+                    "PTA - peripheral artery",
+                    "Angioplasty - peripheral arteries",
+                    "Iliac artery -angioplasty",
+                    "Femoral artery - angioplasty",
+                    "Popliteal artery - angioplasty",
+                    "Tibial artery - angioplasty",
+                    "Peroneal artery - angioplasty",
+                    "Peripheral vascular disease - angioplasty",
+                    "PVD - angioplasty",
+                    "PAD - angioplasty"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000234-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Angioplasty and stent placement -- peripheral arteries"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

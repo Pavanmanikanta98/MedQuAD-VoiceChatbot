@@ -1,0 +1,60 @@
+{
+    "Document": {
+        "@id": "0002036",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000854.htm",
+        "Focus": "How to stop smoking: Dealing with cravings",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1519384"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002036-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) How to stop smoking: Dealing with cravings ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002036-2",
+                        "@qtype": "causes",
+                        "#text": "What causes How to stop smoking: Dealing with cravings ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002036-3",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for How to stop smoking: Dealing with cravings ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002036-4",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for How to stop smoking: Dealing with cravings ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002176",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002447.htm",
+        "Focus": "Infant formulas - overview",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Formula feeding",
+                    "Bottle feeding"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002176-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Infant formulas - overview"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

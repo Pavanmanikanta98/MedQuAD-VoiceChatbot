@@ -1,0 +1,108 @@
+{
+    "Document": {
+        "@id": "0000069",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000599.htm",
+        "Focus": "Actinomycosis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0001261"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Lumpy jaw"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000069-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Actinomycosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000069-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Actinomycosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000069-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Actinomycosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000069-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Actinomycosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000069-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Actinomycosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000069-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Actinomycosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000069-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Actinomycosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000069-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Actinomycosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000069-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Actinomycosis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0002045",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007534.htm",
+        "Focus": "HPV DNA test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Human papilloma virus - testing",
+                    "Abnormal Pap smear - HPV testing",
+                    "LSIL-HPV testing, Low-grade dysplasia - HPV testing",
+                    "HSIL - HPV testing",
+                    "High-grade dysplasia - HPV testing",
+                    "HPV testing in women"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002045-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about HPV DNA test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

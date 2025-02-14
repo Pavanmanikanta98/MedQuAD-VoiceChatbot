@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0002754",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000659.htm",
+        "Focus": "Neck dissection - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Radical neck dissection - discharge",
+                    "Modified radical neck dissection - discharge",
+                    "Selective neck dissection - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002754-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Neck dissection - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

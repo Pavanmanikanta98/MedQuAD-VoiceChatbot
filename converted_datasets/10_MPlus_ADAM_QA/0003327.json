@@ -1,0 +1,35 @@
+{
+    "Document": {
+        "@id": "0003327",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007300.htm",
+        "Focus": "Radical prostatectomy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Prostatectomy - radical",
+                    "Radical retropubic prostatectomy",
+                    "Radical perineal prostatectomy",
+                    "Laparoscopic radical prostatectomy",
+                    "LRP",
+                    "Robotic-assisted laparoscopic prostatectomy",
+                    "RALP",
+                    "Pelvic lymphadenectomy",
+                    "Prostate cancer - prostatectomy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003327-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Radical prostatectomy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

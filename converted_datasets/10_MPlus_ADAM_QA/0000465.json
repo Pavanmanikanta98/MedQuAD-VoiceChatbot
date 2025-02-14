@@ -1,0 +1,123 @@
+{
+    "Document": {
+        "@id": "0000465",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000486.htm",
+        "Focus": "Bladder cancer",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0699885",
+                        "C0005684"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Transitional cell carcinoma of the bladder",
+                    "Urothelial cancer"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000465-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Bladder cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000465-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Bladder cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000465-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Bladder cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000465-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Bladder cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000465-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Bladder cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000465-6",
+                        "@qtype": "support groups",
+                        "#text": "Where to find support for people with Bladder cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000465-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Bladder cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000465-8",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Bladder cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000465-9",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Bladder cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "10",
+                    "Question": {
+                        "@qid": "0000465-10",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Bladder cancer ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

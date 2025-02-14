@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0002831",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000983.htm",
+        "Focus": "Nursemaids elbow",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Radial head dislocation",
+                    "Pulled elbow",
+                    "Dislocated elbow - children",
+                    "Elbow - nursemaid's",
+                    "Elbow - pulled",
+                    "Elbow subluxation",
+                    "Dislocation - elbow - partial",
+                    "Dislocation - radial head"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002831-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Nursemaids elbow"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

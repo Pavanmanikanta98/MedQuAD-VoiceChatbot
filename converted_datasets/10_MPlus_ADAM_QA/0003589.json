@@ -1,0 +1,114 @@
+{
+    "Document": {
+        "@id": "0003589",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000647.htm",
+        "Focus": "Sinusitis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0037199"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Acute sinusitis",
+                    "Sinus infection",
+                    "Sinusitis - acute",
+                    "Sinusitis - chronic",
+                    "Rhinosinusitis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003589-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Sinusitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003589-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Sinusitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003589-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Sinusitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003589-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Sinusitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003589-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Sinusitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003589-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Sinusitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003589-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Sinusitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003589-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Sinusitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0003589-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Sinusitis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

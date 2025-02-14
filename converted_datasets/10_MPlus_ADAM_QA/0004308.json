@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0004308",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000693.htm",
+        "Focus": "When your child has diarrhea",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0011991"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004308-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) When your child has diarrhea ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0004308-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for When your child has diarrhea ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

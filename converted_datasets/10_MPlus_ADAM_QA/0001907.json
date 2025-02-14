@@ -1,0 +1,108 @@
+{
+    "Document": {
+        "@id": "0001907",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000572.htm",
+        "Focus": "Hemoglobin C disease",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0019021"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Clinical hemoglobin C"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001907-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hemoglobin C disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001907-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Hemoglobin C disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001907-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Hemoglobin C disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001907-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Hemoglobin C disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001907-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Hemoglobin C disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001907-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Hemoglobin C disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001907-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Hemoglobin C disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001907-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Hemoglobin C disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0001907-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Hemoglobin C disease ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

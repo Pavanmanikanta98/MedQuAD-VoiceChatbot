@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0002147",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003541.htm",
+        "Focus": "Immunoelectrophoresis - blood",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "IEP - serum",
+                    "Immunoglobulin electrophoresis - blood",
+                    "Gamma globulin electrophoresis",
+                    "Serum immunoglobulin electrophoresis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002147-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Immunoelectrophoresis - blood"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

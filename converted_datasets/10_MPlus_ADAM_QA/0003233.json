@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0003233",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003718.htm",
+        "Focus": "Prolactin blood test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "PRL"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003233-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Prolactin blood test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

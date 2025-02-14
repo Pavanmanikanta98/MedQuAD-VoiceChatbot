@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001991",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003550.htm",
+        "Focus": "Histocompatibility antigen test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "HLA typing",
+                    "Tissue typing"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001991-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Histocompatibility antigen test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

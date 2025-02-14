@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0000894",
+        "@source": "MPlusDrugs",
+        "@url": "https://www.nlm.nih.gov/medlineplus/druginfo/meds/a611030.html",
+        "Focus": "Olmesartan and Hydrochlorothiazide",
+        "FocusAnnotations": {
+            "Category": "Drug"
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000894-1",
+                        "@qtype": "brand names of combination products",
+                        "#text": "What are the brand names of combination products of Olmesartan and Hydrochlorothiazide ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000894-2",
+                        "@qtype": "brand names of combination products",
+                        "#text": "What are the brand names of combination products of Olmesartan and Hydrochlorothiazide ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

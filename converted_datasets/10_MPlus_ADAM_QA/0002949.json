@@ -1,0 +1,108 @@
+{
+    "Document": {
+        "@id": "0002949",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001085.htm",
+        "Focus": "Paraquat poisoning",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0238343"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Paraquat lung"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002949-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Paraquat poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002949-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Paraquat poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002949-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Paraquat poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002949-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Paraquat poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002949-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Paraquat poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002949-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Paraquat poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002949-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Paraquat poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002949-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Paraquat poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002949-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Paraquat poisoning ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

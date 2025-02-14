@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001639",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002990.htm",
+        "Focus": "Forehead lift",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Endobrow lift",
+                    "Open browlift",
+                    "Temporal lift"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001639-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Forehead lift"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

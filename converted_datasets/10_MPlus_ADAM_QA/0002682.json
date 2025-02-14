@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0002682",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000428.htm",
+        "Focus": "Moving a patient from bed to a wheelchair",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C2135586"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Pivot turn",
+                    "Transfer from bed to wheelchair"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002682-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Moving a patient from bed to a wheelchair ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

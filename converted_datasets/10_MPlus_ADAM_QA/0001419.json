@@ -1,0 +1,114 @@
+{
+    "Document": {
+        "@id": "0001419",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001412.htm",
+        "Focus": "Epidural hematoma",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0238154",
+                        "C0877172"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T046"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Extradural hematoma",
+                    "Extradural hemorrhage"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001419-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Epidural hematoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001419-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Epidural hematoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001419-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Epidural hematoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001419-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Epidural hematoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001419-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Epidural hematoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001419-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Epidural hematoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001419-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Epidural hematoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001419-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Epidural hematoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0001419-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Epidural hematoma ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

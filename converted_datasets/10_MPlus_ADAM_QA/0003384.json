@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0003384",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000527.htm",
+        "Focus": "Responsible drinking",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Alcohol use disorder - responsible drinking",
+                    "Drinking alcohol responsibly",
+                    "Drinking in moderation"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003384-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Responsible drinking"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

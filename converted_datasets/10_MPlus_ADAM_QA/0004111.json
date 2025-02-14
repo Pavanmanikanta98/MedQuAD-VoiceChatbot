@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0004111",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003981.htm",
+        "Focus": "Urinary catheters",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Catheter - urine",
+                    "Foley catheter",
+                    "Indwelling catheter",
+                    "Suprapubic catheters"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004111-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Urinary catheters"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

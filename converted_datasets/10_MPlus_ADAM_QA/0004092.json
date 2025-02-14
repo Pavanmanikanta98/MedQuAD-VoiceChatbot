@@ -1,0 +1,75 @@
+{
+    "Document": {
+        "@id": "0004092",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003002.htm",
+        "Focus": "Undescended testicle repair",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0010417",
+                        "C2051971"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T019",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Orchidopexy",
+                    "Inguinal orchidopexy",
+                    "Orchiopexy",
+                    "Repair of undescended testicle",
+                    "Cryptorchidism repair"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004092-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Undescended testicle repair ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004092-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Undescended testicle repair ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0004092-4",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Undescended testicle repair? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0004092-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Undescended testicle repair ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

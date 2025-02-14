@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0000847",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000026.htm",
+        "Focus": "Chronic obstructive pulmonary disease - quick-relief drugs",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0024117",
+                        "C0564405"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T047",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000847-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Chronic obstructive pulmonary disease - quick-relief drugs ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000847-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Chronic obstructive pulmonary disease - quick-relief drugs ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

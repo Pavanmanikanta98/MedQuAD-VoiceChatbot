@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0003884",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003908.htm",
+        "Focus": "Testicular biopsy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Biopsy - testicle"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003884-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Testicular biopsy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

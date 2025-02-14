@@ -1,0 +1,96 @@
+{
+    "Document": {
+        "@id": "0003559",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000039.htm",
+        "Focus": "Shock",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0036974"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T046"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003559-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Shock ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003559-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Shock ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003559-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Shock ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003559-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Shock ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003559-5",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Shock ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003559-6",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Shock ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003559-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Shock ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003559-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Shock ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

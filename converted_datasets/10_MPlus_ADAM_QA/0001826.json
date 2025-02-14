@@ -1,0 +1,35 @@
+{
+    "Document": {
+        "@id": "0001826",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003791.htm",
+        "Focus": "Head MRI",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Nuclear magnetic resonance - cranial",
+                    "Magnetic resonance imaging - cranial",
+                    "MRI of the head",
+                    "MRI - cranial",
+                    "NMR - cranial",
+                    "Cranial MRI",
+                    "Brain MRI",
+                    "MRI - brain",
+                    "MRI - head"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001826-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Head MRI"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

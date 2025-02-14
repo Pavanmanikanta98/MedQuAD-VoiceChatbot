@@ -1,0 +1,99 @@
+{
+    "Document": {
+        "@id": "0001283",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000016.htm",
+        "Focus": "Drug abuse first aid",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0013146"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T048"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Overdose from drugs"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001283-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Drug abuse first aid ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001283-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Drug abuse first aid ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001283-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Drug abuse first aid ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001283-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Drug abuse first aid ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001283-5",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Drug abuse first aid ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001283-6",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Drug abuse first aid ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001283-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Drug abuse first aid ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001283-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Drug abuse first aid ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

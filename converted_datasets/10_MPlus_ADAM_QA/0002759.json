@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0002759",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002266.htm",
+        "Focus": "Necrosis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1334928"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002759-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Necrosis ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

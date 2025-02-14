@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002452",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003807.htm",
+        "Focus": "Lumbosacral spine x-ray",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "X-ray - lumbosacral spine",
+                    "X-ray - lower spine"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002452-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Lumbosacral spine x-ray"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

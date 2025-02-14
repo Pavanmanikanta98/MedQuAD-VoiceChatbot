@@ -1,0 +1,115 @@
+{
+    "Document": {
+        "@id": "0000374",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007263.htm",
+        "Focus": "Avian influenza",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0016627"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Bird flu",
+                    "H5N1",
+                    "H5N2",
+                    "H5N8",
+                    "H7N9",
+                    "Avian influenza A (HPAI) H5"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000374-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Avian influenza ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000374-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Avian influenza ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000374-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Avian influenza ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000374-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Avian influenza ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000374-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Avian influenza ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000374-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Avian influenza ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000374-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Avian influenza ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000374-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Avian influenza ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000374-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Avian influenza ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

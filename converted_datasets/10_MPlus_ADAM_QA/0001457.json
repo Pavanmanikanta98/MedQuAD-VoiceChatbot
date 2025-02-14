@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0001457",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000241.htm",
+        "Focus": "Esophagectomy - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Trans-hiatal esophagectomy - discharge",
+                    "Trans-thoracic esophagectomy - discharge",
+                    "Minimally invasive esophagectomy - discharge",
+                    "En bloc esophagectomy - discharge",
+                    "Removal of the esophagus - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001457-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Esophagectomy - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

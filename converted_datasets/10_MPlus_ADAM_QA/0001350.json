@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001350",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000898.htm",
+        "Focus": "EGD discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Esophagogastroduodenoscopy - discharge",
+                    "Upper endoscopy - discharge",
+                    "Gastroscopy - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001350-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about EGD discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

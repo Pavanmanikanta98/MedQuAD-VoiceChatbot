@@ -1,0 +1,67 @@
+{
+    "Document": {
+        "@id": "0003184",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000606.htm",
+        "Focus": "Preeclampsia - self-care",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0032914"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T046"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Toxemia - self-care",
+                    "PIH - self-care",
+                    "Pregnancy-induced hypertension - self-care"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003184-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Preeclampsia - self-care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003184-2",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Preeclampsia - self-care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003184-4",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Preeclampsia - self-care? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003184-6",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Preeclampsia - self-care ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

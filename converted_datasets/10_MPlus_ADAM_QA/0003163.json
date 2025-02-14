@@ -1,0 +1,45 @@
+{
+    "Document": {
+        "@id": "0003163",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001290.htm",
+        "Focus": "Post-splenectomy syndrome",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0039082"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Splenectomy - post-surgery syndrome"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003163-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Post-splenectomy syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003163-2",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Post-splenectomy syndrome ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

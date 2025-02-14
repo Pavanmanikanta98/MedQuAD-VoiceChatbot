@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0004137",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003752.htm",
+        "Focus": "Urine culture - catheterized specimen",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Culture - urine - catheterized specimen",
+                    "Urine culture - catheterization",
+                    "Catheterized urine specimen culture"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004137-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Urine culture - catheterized specimen"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

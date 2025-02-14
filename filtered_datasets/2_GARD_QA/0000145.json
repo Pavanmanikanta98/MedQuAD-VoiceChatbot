@@ -1,0 +1,38 @@
+[
+    {
+        "question": "What is (are) Adenoameloblastoma ?",
+        "answer": "Adenoameloblastoma is a lesion that is often found in the upper jaw. Some consider it a non-cancerous tumor, others a hamartoma (tumor-like growth) or cyst.  Often, an early sign of the lesion is painless swelling. These tumors are rarely found outside of the jaw.",
+        "qtype": "information",
+        "focus": "Adenoameloblastoma",
+        "synonyms": [
+            "Ameloblastoma",
+            "Adenomatoid odontogenic tumor",
+            "AOT"
+        ],
+        "semantic_group": "Disorders"
+    },
+    {
+        "question": "What causes Adenoameloblastoma ?",
+        "answer": "What causes adenoameloblastoma? Currently the cause of adenoameloblastoma is not well understood. It may be associated with an interruption in tooth development. These legions tend to occur more commonly in young people (around 20 year-old), and most often in young women. Adenoameloblastomas in the front upper jaw are often associated with an impacted tooth.",
+        "qtype": "causes",
+        "focus": "Adenoameloblastoma",
+        "synonyms": [
+            "Ameloblastoma",
+            "Adenomatoid odontogenic tumor",
+            "AOT"
+        ],
+        "semantic_group": "Disorders"
+    },
+    {
+        "question": "What are the treatments for Adenoameloblastoma ?",
+        "answer": "How might adenoameloblastoma be treated? Treatment may require the removal of the legion as well as the surrounding tissues. Once the treatment is complete, recurrence of the legion is very rare.",
+        "qtype": "treatment",
+        "focus": "Adenoameloblastoma",
+        "synonyms": [
+            "Ameloblastoma",
+            "Adenomatoid odontogenic tumor",
+            "AOT"
+        ],
+        "semantic_group": "Disorders"
+    }
+]

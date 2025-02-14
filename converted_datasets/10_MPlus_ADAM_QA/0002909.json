@@ -1,0 +1,60 @@
+{
+    "Document": {
+        "@id": "0002909",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007062.htm",
+        "Focus": "Ovulation home test",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0456984"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Luteinizing hormone urine test (home test)",
+                    "Ovulation prediction test",
+                    "Urinary LH immunoassays",
+                    "At-home ovulation prediction test",
+                    "LH urine test"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002909-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Ovulation home test ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002909-7",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Ovulation home test? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002909-8",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Ovulation home test ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

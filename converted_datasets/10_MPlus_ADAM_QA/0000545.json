@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0000545",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007433.htm",
+        "Focus": "Breast biopsy - stereotactic",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Biopsy - breast - stereotactic",
+                    "Core needle breast biopsy - stereotactic",
+                    "Stereotactic breast biopsy",
+                    "Abnormal mammogram - stereotactic breast biopsy",
+                    "Breast cancer - stereotactic breast biopsy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000545-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Breast biopsy - stereotactic"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

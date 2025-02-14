@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002221",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007635.htm",
+        "Focus": "Intrauterine devices (IUD)",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Mirena",
+                    "ParaGard"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002221-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Intrauterine devices (IUD)"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

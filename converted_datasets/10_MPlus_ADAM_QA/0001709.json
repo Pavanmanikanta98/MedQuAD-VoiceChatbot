@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0001709",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002048.htm",
+        "Focus": "Genetics",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Homozygous",
+                    "Inheritance",
+                    "Heterozygous",
+                    "Inheritance patterns",
+                    "Heredity and disease",
+                    "Heritable",
+                    "Genetic markers"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001709-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Genetics"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

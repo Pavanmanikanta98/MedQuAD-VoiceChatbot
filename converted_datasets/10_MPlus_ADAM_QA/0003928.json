@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0003928",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002933.htm",
+        "Focus": "Thyroid gland removal",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Total thyroidectomy",
+                    "Partial thyroidectomy",
+                    "Thyroidectomy",
+                    "Subtotal thyroidectomy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003928-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Thyroid gland removal"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

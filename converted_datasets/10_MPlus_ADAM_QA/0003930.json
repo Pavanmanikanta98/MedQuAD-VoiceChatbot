@@ -1,0 +1,108 @@
+{
+    "Document": {
+        "@id": "0003930",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007265.htm",
+        "Focus": "Thyroid nodule",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0028259",
+                        "C0040137",
+                        "C2116082"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T191",
+                        "T033",
+                        "T020"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Thyroid tumor - nodule",
+                    "Thyroid adenoma - nodule",
+                    "Thyroid carcinoma - nodule",
+                    "Thyroid cancer - nodule",
+                    "Thyroid incidentaloma",
+                    "Hot nodule",
+                    "Cold nodule",
+                    "Thyrotoxicosis - nodule",
+                    "Hyperthyroidism - nodule"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003930-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Thyroid nodule ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003930-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Thyroid nodule ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003930-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Thyroid nodule ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003930-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Thyroid nodule ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003930-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Thyroid nodule ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003930-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Thyroid nodule ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003930-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Thyroid nodule ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0002730",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001914.htm",
+        "Focus": "Nail care for newborns",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002730-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Nail care for newborns"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

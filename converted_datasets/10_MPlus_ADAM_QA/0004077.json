@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0004077",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003336.htm",
+        "Focus": "Ultrasound",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Sonogram"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004077-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Ultrasound"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

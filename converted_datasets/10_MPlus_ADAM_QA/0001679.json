@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0001679",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007199.htm",
+        "Focus": "Gastric bypass surgery",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Bariatric surgery - gastric bypass",
+                    "Roux-en-Y gastric bypass",
+                    "Gastric bypass - Roux-en-Y",
+                    "Weight-loss surgery - gastric bypass",
+                    "Obesity surgery - gastric bypass"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001679-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Gastric bypass surgery"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

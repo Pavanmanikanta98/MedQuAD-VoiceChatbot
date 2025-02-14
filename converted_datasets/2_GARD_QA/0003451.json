@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0003451",
+        "@source": "GARD",
+        "@url": "https://rarediseases.info.nih.gov/gard/3159/lactate-dehydrogenase-deficiency",
+        "Focus": "Lactate dehydrogenase deficiency",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0342769"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Lactate dehydrogenase B deficiency"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003451-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Lactate dehydrogenase deficiency ?"
+                },
+                "Answer": "Lactate dehydrogenase deficiency is a condition that affects how the body breaks down sugar to use as energy in cells, primarily muscle cells. There are two types of lactate dehydrogenase deficiency: lactate dehydrogenase A deficiency (sometimes called glycogen storage disease XI) and lactate dehydrogenase B deficiency. People with lactate dehydrogenase A deficiency experience fatigue, muscle pain, and cramps during exercise (exercise intolerance). People with lactate dehydrogenase B deficiency typically do not have symptoms. Lactate dehydrogenase A deficiency is caused by mutations in the LDHA gene. Lactate dehydrogenase B deficiency is caused by mutations in the LDHB gene. Both types are inherited in an autosomal recessive pattern."
+            }
+        }
+    }
+}

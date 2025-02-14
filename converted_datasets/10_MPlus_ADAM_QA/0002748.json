@@ -1,0 +1,63 @@
+{
+    "Document": {
+        "@id": "0002748",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000804.htm",
+        "Focus": "Natural short sleeper",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0751509"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Sleep - natural short sleeper"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002748-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Natural short sleeper ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002748-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Natural short sleeper ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002748-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Natural short sleeper ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002748-4",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Natural short sleeper ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

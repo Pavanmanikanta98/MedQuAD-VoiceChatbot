@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0003294",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003853.htm",
+        "Focus": "Pulmonary function tests",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "PFTs",
+                    "Spirometry",
+                    "Spirogram",
+                    "Lung function tests"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003294-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Pulmonary function tests"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

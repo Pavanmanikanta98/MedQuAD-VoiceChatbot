@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0001502",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002085.htm",
+        "Focus": "Eye floaters",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0016242"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Specks in your vision."
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001502-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Eye floaters ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

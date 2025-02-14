@@ -1,0 +1,111 @@
+{
+    "Document": {
+        "@id": "0003407",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001600.htm",
+        "Focus": "Rh incompatibility",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1504421"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T046"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Rh-induced hemolytic disease of the newborn",
+                    "Erythroblastosis fetalis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003407-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Rh incompatibility ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003407-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Rh incompatibility ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003407-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Rh incompatibility ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003407-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Rh incompatibility ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003407-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Rh incompatibility ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003407-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Rh incompatibility ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003407-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Rh incompatibility ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003407-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Rh incompatibility ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0003407-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Rh incompatibility ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

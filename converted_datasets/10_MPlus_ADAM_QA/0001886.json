@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0001886",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002954.htm",
+        "Focus": "Heart valve surgery",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Valve replacement",
+                    "Valve repair",
+                    "Heart valve prosthesis",
+                    "Mechanical valves, Prosthetic valves"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001886-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Heart valve surgery"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

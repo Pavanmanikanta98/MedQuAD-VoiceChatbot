@@ -1,0 +1,85 @@
+{
+    "Document": {
+        "@id": "0002919",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003116.htm",
+        "Focus": "Painful swallowing",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0221150"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Swallowing - pain or burning",
+                    "Odynophagia",
+                    "Burning feeling when swallowing"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002919-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Painful swallowing ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002919-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Painful swallowing ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002919-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Painful swallowing ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002919-4",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Painful swallowing ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002919-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Painful swallowing ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002919-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Painful swallowing ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

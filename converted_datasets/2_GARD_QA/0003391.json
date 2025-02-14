@@ -1,0 +1,50 @@
+{
+    "Document": {
+        "@id": "0003391",
+        "@source": "GARD",
+        "@url": "https://rarediseases.info.nih.gov/gard/6835/kimura-disease",
+        "Focus": "Kimura disease",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0033838"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Angiolymphoid hyperplasia with eosinophilia",
+                    "Eosinophilic granuloma of soft tissue",
+                    "Eosinophilic hyperplastic lymphogranuloma",
+                    "Eosinophilic lymphofolliculosis",
+                    "Eosinophilic lymphofollicular granuloma"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003391-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Kimura disease ?"
+                    },
+                    "Answer": "Kimura disease is a rare, benign, chronic disorder that causes inflammation of tissue (nodules) under the skin of the head or neck.  These nodules tend to recur despite treatment. The cause of this condition is unknown, but may be due to an immune response."
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003391-2",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Kimura disease ?"
+                    },
+                    "Answer": "How might Kimura disease be treated? For individuals with symptoms caused by Kimura disease, surgery to remove the nodules is the treatment of choice; however, the nodules often reappear after surgery. Steroids (such as prednisone), taken by mouth or via an injection in the skin, can shrink the nodules but rarely result in a cure. Other, less common, treatments include oral pentoxifylline, medication that supresses the immune system (such as cyclosporine), radiotherapy, and a combination of all trans-retinoic acid and prednisone. It is important to consult with your healthcare provider before taking any medication."
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0003435",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000438.htm",
+        "Focus": "Rotator cuff problems",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Swimmer's shoulder",
+                    "Pitcher's shoulder",
+                    "Shoulder impingement syndrome",
+                    "Tennis shoulder",
+                    "Tendinitis - rotator cuff",
+                    "Rotator cuff tendinitis",
+                    "Shoulder overuse syndrome"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003435-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Rotator cuff problems"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

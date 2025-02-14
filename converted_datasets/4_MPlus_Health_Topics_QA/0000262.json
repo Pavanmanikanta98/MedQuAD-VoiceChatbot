@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000262",
+        "@source": "MPlusHealthTopics",
+        "@url": "https://www.nlm.nih.gov/medlineplus/dentalhealth.html",
+        "Focus": "Dental Health",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Oral health"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000262-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Dental Health"
+                },
+                "Answer": "Summary : It's important to take care of your mouth and teeth starting in childhood. If you don't, you could have problems with your teeth and gums - like cavities or even tooth loss.     Here's how to keep your mouth and teeth healthy:       - Brush your teeth every day with a fluoride toothpaste    - Clean between your teeth every day with floss or another type of between-the-teeth cleaner    - Snack smart - limit sugary snacks    - Don't smoke or chew tobacco    - See your dentist or oral health professional regularly       NIH: National Institute of Dental and Craniofacial Research"
+            }
+        }
+    }
+}

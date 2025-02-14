@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0000327",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003532.htm",
+        "Focus": "Aspergillosis precipitin",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0004030"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Aspergillus immunodiffusion test",
+                    "Test for precipitating antibodies"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000327-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Aspergillosis precipitin ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000327-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Aspergillosis precipitin? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "Document": {
+        "@id": "0000884",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000191.htm",
+        "Focus": "Coarctation of the aorta",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0003492"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T019"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Aortic coarctation"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000884-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Coarctation of the aorta ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000884-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Coarctation of the aorta ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000884-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Coarctation of the aorta ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000884-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Coarctation of the aorta ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000884-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Coarctation of the aorta ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000884-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Coarctation of the aorta ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000884-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Coarctation of the aorta ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000884-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Coarctation of the aorta ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000884-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Coarctation of the aorta ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

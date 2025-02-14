@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0003640",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003052.htm",
+        "Focus": "Smell - impaired",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Loss of smell",
+                    "Anosmia",
+                    "Hyposmia",
+                    "Parosmia"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003640-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Smell - impaired"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

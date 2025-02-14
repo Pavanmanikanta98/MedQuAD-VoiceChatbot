@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0002555",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000501.htm",
+        "Focus": "Medication safety during your hospital stay",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Five-rights - medication",
+                    "Medication administration - hospital",
+                    "Medical errors - medication"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002555-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Medication safety during your hospital stay"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

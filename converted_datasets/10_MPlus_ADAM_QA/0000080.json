@@ -1,0 +1,124 @@
+{
+    "Document": {
+        "@id": "0000080",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007656.htm",
+        "Focus": "Acute myelogenous leukemia (AML) - children",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0023467"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Acute myelogenous leukemia - children",
+                    "AML",
+                    "Acute myeloid leukemia - children",
+                    "Acute granulocytic leukemia - children",
+                    "Acute myeloblastic leukemia - children",
+                    "Acute non-lymphocytic leukemia (ANLL) - children"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000080-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Acute myelogenous leukemia (AML) - children ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000080-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Acute myelogenous leukemia (AML) - children ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000080-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Acute myelogenous leukemia (AML) - children ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000080-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Acute myelogenous leukemia (AML) - children ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000080-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Acute myelogenous leukemia (AML) - children ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000080-6",
+                        "@qtype": "support groups",
+                        "#text": "Where to find support for people with Acute myelogenous leukemia (AML) - children ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000080-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Acute myelogenous leukemia (AML) - children ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000080-8",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Acute myelogenous leukemia (AML) - children ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000080-9",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Acute myelogenous leukemia (AML) - children ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "10",
+                    "Question": {
+                        "@qid": "0000080-10",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Acute myelogenous leukemia (AML) - children ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

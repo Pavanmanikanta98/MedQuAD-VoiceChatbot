@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002192",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002791.htm",
+        "Focus": "Ink poisoning",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Fountain pen ink poisoning",
+                    "Writing ink poisoning"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002192-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Ink poisoning"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

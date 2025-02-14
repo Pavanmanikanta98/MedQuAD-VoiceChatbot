@@ -1,0 +1,113 @@
+{
+    "Document": {
+        "@id": "0003825",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000435.htm",
+        "Focus": "Systemic lupus erythematosus",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0024141"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Disseminated lupus erythematosus",
+                    "SLE",
+                    "Lupus",
+                    "Lupus erythematosus"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003825-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Systemic lupus erythematosus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003825-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Systemic lupus erythematosus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003825-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Systemic lupus erythematosus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003825-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Systemic lupus erythematosus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003825-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Systemic lupus erythematosus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003825-6",
+                        "@qtype": "support groups",
+                        "#text": "Where to find support for people with Systemic lupus erythematosus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003825-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Systemic lupus erythematosus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003825-8",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Systemic lupus erythematosus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0003825-9",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Systemic lupus erythematosus ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

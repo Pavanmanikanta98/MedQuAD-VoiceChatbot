@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0004218",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003019.htm",
+        "Focus": "Ventriculoperitoneal shunting",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Shunt - ventriculoperitoneal",
+                    "VP shunt",
+                    "Shunt revision"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004218-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Ventriculoperitoneal shunting"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

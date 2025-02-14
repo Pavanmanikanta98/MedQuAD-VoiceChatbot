@@ -1,0 +1,35 @@
+{
+    "Document": {
+        "@id": "0000520",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007637.htm",
+        "Focus": "Botulinum toxin injection - larynx",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Injection laryngoplasty",
+                    "Botox-larynx: spasmodic dysphonia-BTX",
+                    "Essential voice tremor (EVT)-btx",
+                    "Glottic insufficiency",
+                    "Percutaneous electromyography-guided botulinum toxin treatment",
+                    "Percutaneous indirect laryngoscopy-guided botulinum toxin Treatment",
+                    "Adductor dysphonia-BTX",
+                    "OnabotulinumtoxinA-larynx",
+                    "AbobotulinumtoxinA"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000520-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Botulinum toxin injection - larynx"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

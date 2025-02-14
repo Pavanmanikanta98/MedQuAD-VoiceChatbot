@@ -1,0 +1,99 @@
+{
+    "Document": {
+        "@id": "0000096",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001663.htm",
+        "Focus": "Adrenocortical carcinoma",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0206686"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Tumor - adrenal"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000096-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Adrenocortical carcinoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000096-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Adrenocortical carcinoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000096-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Adrenocortical carcinoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000096-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Adrenocortical carcinoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000096-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Adrenocortical carcinoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000096-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Adrenocortical carcinoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000096-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Adrenocortical carcinoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000096-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Adrenocortical carcinoma ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

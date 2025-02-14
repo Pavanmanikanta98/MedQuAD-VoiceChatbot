@@ -1,0 +1,103 @@
+{
+    "Document": {
+        "@id": "0003130",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000145.htm",
+        "Focus": "Pneumonia - adults (community acquired)",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0032285"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Bronchopneumonia",
+                    "Community-acquired pneumonia",
+                    "CAP"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003130-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Pneumonia - adults (community acquired) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003130-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Pneumonia - adults (community acquired) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003130-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Pneumonia - adults (community acquired) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003130-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Pneumonia - adults (community acquired) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003130-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Pneumonia - adults (community acquired) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003130-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Pneumonia - adults (community acquired) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003130-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Pneumonia - adults (community acquired) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003130-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Pneumonia - adults (community acquired) ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

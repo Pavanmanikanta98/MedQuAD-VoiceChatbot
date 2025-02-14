@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0001127",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000029.htm",
+        "Focus": "Dementia - behavior and sleep problems",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0497327",
+                        "C0011265"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T048"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Sundowning - care"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001127-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Dementia - behavior and sleep problems ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001127-3",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Dementia - behavior and sleep problems ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

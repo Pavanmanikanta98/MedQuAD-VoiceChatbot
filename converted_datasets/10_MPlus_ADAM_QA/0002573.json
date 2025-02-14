@@ -1,0 +1,76 @@
+{
+    "Document": {
+        "@id": "0002573",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003257.htm",
+        "Focus": "Memory loss",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0751295",
+                        "C0002622"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T048",
+                        "T184"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Forgetfulness",
+                    "Amnesia",
+                    "Impaired memory",
+                    "Loss of memory",
+                    "Amnestic syndrome",
+                    "Dementia - memory loss"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002573-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Memory loss ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002573-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Memory loss ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002573-3",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Memory loss ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002573-4",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Memory loss ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

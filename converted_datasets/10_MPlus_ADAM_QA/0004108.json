@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0004108",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003579.htm",
+        "Focus": "Urinalysis",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Urine appearance and color",
+                    "Routine urine test"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004108-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Urinalysis"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000616",
+        "@source": "MPlusHealthTopics",
+        "@url": "https://www.nlm.nih.gov/medlineplus/molds.html",
+        "Focus": "Molds",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Fungi"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000616-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Molds"
+                },
+                "Answer": "Summary : Molds are fungi that can be found both outdoors and indoors. They grow best in warm, damp and humid conditions. If you have damp or wet spots in your house, you will probably get mold.    Molds can cause health problems. Inhaling or touching mold or mold spores may cause allergic reactions or asthma attacks in sensitive people. Molds can cause fungal infections. In addition, mold exposure may irritate your eyes, skin, nose, throat, and lungs.     Centers for Disease Control and Prevention"
+            }
+        }
+    }
+}

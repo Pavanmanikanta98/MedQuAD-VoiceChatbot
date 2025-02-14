@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0002466",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002956.htm",
+        "Focus": "Lung surgery",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Thoracotomy",
+                    "Lung tissue removal",
+                    "Pneumonectomy",
+                    "Lobectomy",
+                    "Lung biopsy",
+                    "Thoracoscopy",
+                    "Video-assisted thoracoscopic surgery",
+                    "VATS"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002466-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Lung surgery"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

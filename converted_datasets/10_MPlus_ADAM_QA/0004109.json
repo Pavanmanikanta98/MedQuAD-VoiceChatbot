@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0004109",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003586.htm",
+        "Focus": "Urinary casts",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Hyaline casts",
+                    "Granular casts",
+                    "Renal tubular epithelial casts",
+                    "Waxy casts",
+                    "Casts in the urine",
+                    "Fatty casts",
+                    "Red blood cell casts",
+                    "White blood cell casts"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004109-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Urinary casts"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

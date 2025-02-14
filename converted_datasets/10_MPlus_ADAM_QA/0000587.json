@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000587",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000058.htm",
+        "Focus": "Broken or knocked out tooth",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Teeth - broken",
+                    "Tooth - knocked out"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000587-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Broken or knocked out tooth"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

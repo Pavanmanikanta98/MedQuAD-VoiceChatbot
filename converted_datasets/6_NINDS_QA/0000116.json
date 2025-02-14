@@ -1,0 +1,59 @@
+{
+    "Document": {
+        "@id": "0000116",
+        "@source": "NINDS",
+        "@url": "http://www.ninds.nih.gov/disorders/encephalitis_lethargica/encephalitis_lethargica.htm",
+        "Focus": "Encephalitis Lethargica",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0014040"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000116-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Encephalitis Lethargica ?"
+                    },
+                    "Answer": "Encephalitis lethargica is a disease characterized by high fever, headache, double vision, delayed physical and mental response, and lethargy. In acute cases, patients may enter coma. Patients may also experience abnormal eye movements, upper body weakness, muscular pains, tremors, neck rigidity, and behavioral changes including psychosis. The cause of encephalitis lethargica is unknown. Between 1917 to 1928, an epidemic of encephalitis lethargica spread throughout the world, but no recurrence of the epidemic has since been reported. Postencephalitic Parkinson's disease may develop after a bout of encephalitis-sometimes as long as a year after the illness."
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000116-2",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Encephalitis Lethargica ?"
+                    },
+                    "Answer": "Treatment for encephalitis lethargica is symptomatic. Levodopa and other antiparkinson drugs often produce dramatic responses."
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000116-3",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Encephalitis Lethargica ?"
+                    },
+                    "Answer": "The course of encephalitis lethargica varies depending upon complications or accompanying disorders."
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000116-4",
+                        "@qtype": "research",
+                        "#text": "what research (or clinical trials) is being done for Encephalitis Lethargica ?"
+                    },
+                    "Answer": "The NINDS supports research on disorders that affect the brain, such as encephalitis lethargica, with the goal of finding ways to prevent and treat them. (The disease was the subject of the book and film, \"Awakenings.\")"
+                }
+            ]
+        }
+    }
+}

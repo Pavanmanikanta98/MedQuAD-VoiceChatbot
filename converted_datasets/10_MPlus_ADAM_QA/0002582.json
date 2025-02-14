@@ -1,0 +1,114 @@
+{
+    "Document": {
+        "@id": "0002582",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000613.htm",
+        "Focus": "Meningitis - staphylococcal",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0025289",
+                        "C0038170"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T007",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Staphylococcal meningitis"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002582-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Meningitis - staphylococcal ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002582-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Meningitis - staphylococcal ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002582-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Meningitis - staphylococcal ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002582-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Meningitis - staphylococcal ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002582-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Meningitis - staphylococcal ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002582-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Meningitis - staphylococcal ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002582-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Meningitis - staphylococcal ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002582-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Meningitis - staphylococcal ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002582-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Meningitis - staphylococcal ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

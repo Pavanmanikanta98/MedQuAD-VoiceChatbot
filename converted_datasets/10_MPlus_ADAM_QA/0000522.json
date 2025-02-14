@@ -1,0 +1,86 @@
+{
+    "Document": {
+        "@id": "0000522",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003135.htm",
+        "Focus": "Bowel incontinence",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0015732"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Uncontrollable passage of feces",
+                    "Loss of bowel control",
+                    "Fecal incontinence",
+                    "Incontinence - bowel"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000522-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Bowel incontinence ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000522-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Bowel incontinence ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000522-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Bowel incontinence ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000522-4",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Bowel incontinence ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000522-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Bowel incontinence ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000522-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Bowel incontinence ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

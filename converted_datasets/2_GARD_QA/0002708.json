@@ -1,0 +1,36 @@
+{
+    "Document": {
+        "@id": "0002708",
+        "@source": "GARD",
+        "@url": "https://rarediseases.info.nih.gov/gard/9188/hair-an-syndrome",
+        "Focus": "HAIR-AN syndrome",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1963745"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Hyperandrogenism (HA), insulin resistance (IR), and acanthosis nigricans (AN)",
+                    "Hyperandrogenic, insulin-resistant acanthosis nigricans syndrome"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002708-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) HAIR-AN syndrome ?"
+                },
+                "Answer": "HAIR-AN syndrome is a condition that affects women. It is characterized by hyperandrogenism, insulin resistance, and acanthosis nigricans. Insulin resistance is a condition in which the body produces insulin but does not use it properly. This causes the pancreas to produce more insulin. High levels of insulin stimulate the ovaries to make too much androgen, leading too excessive  hair growth, acne, and irregular periods. Insulin resistance can also lead to diabetes, high blood pressure, heart disease, and excessive growth and darkening of the skin (aconthosis nigricans). Women with HAIR-AN may be born with insulin resistance or acquire it over time."
+            }
+        }
+    }
+}

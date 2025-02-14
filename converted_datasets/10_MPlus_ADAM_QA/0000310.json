@@ -1,0 +1,79 @@
+{
+    "Document": {
+        "@id": "0000310",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003099.htm",
+        "Focus": "Armpit lump",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0577559"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Lump in the armpit",
+                    "Localized lymphadenopathy - armpit",
+                    "Axillary lymphadenopathy",
+                    "Axillary lymph enlargement",
+                    "Lymph nodes enlargement - axillary",
+                    "Axillary abscess"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000310-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Armpit lump ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000310-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Armpit lump ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000310-3",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Armpit lump ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000310-4",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Armpit lump ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000310-5",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Armpit lump ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

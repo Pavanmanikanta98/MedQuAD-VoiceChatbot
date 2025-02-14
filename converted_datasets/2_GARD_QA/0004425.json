@@ -1,0 +1,36 @@
+{
+    "Document": {
+        "@id": "0004425",
+        "@source": "GARD",
+        "@url": "https://rarediseases.info.nih.gov/gard/7210/nocardiosis",
+        "Focus": "Nocardiosis",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0028242"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Nocardia infection",
+                    "Lung nocardiosis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004425-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Nocardiosis ?"
+                },
+                "Answer": "Nocardiosis is a rare disorder that affects the brain, skin, and/or lungs. It occurs mainly in people with a weakened immune system. This condition usually starts in the lungs and can spread to other body organs. Affected individuals usually experience problems with their lungs (chest pain, coughing up blood, fevers), brain (headaches and seizures), and skin (skin infections, ulcers, and abscesses). The nocardia bacteria are found in soil around the world. People contract this disease by either inhaling contaminated dust or if soil containing nocardia bacteria get into an open wound. While anyone can contract this condition, people with a weakened immune system or chronic lung disease are at greatest risk of this condition."
+            }
+        }
+    }
+}

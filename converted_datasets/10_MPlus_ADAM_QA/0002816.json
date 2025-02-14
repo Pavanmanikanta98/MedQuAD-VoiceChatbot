@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0002816",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001648.htm",
+        "Focus": "Nonallergic rhinopathy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Rhinitis - nonallergic",
+                    "Idiopathic rhinitis",
+                    "Nonallergic rhinitis",
+                    "Vasomotor rhinitis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002816-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Nonallergic rhinopathy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

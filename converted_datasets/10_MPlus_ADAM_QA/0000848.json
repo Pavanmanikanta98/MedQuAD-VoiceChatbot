@@ -1,0 +1,43 @@
+{
+    "Document": {
+        "@id": "0000848",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002164.htm",
+        "Focus": "Chronic pain - resources",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0150055",
+                        "C2020637"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T047",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Pain - resources",
+                    "Resources - chronic pain"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000848-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Chronic pain - resources ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "Document": {
+        "@id": "0000812",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000290.htm",
+        "Focus": "Cholangitis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0008311"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000812-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Cholangitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000812-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Cholangitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000812-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Cholangitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000812-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Cholangitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000812-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Cholangitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000812-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Cholangitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000812-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Cholangitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000812-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Cholangitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000812-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Cholangitis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

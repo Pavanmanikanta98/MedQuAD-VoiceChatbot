@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0002923",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000470.htm",
+        "Focus": "Palliative care - fear and anxiety",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0860603"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002923-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Palliative care - fear and anxiety ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002923-4",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Palliative care - fear and anxiety ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

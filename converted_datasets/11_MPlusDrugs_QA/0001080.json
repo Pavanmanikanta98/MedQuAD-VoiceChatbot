@@ -1,0 +1,96 @@
+{
+    "Document": {
+        "@id": "0001080",
+        "@source": "MPlusDrugs",
+        "@url": "https://www.nlm.nih.gov/medlineplus/druginfo/meds/a601109.html",
+        "Focus": "Rizatriptan",
+        "FocusAnnotations": {
+            "Category": "Drug"
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001080-1",
+                        "@qtype": "indication",
+                        "#text": "Who should get Rizatriptan and why is it prescribed ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001080-2",
+                        "@qtype": "usage",
+                        "#text": "How should Rizatriptan be used and what is the dosage ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001080-4",
+                        "@qtype": "precautions",
+                        "#text": "Are there safety concerns or special precautions about Rizatriptan ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001080-5",
+                        "@qtype": "dietary",
+                        "#text": "What special dietary instructions should I follow with Rizatriptan ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001080-6",
+                        "@qtype": "side effects",
+                        "#text": "What are the side effects or risks of Rizatriptan ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001080-7",
+                        "@qtype": "storage and disposal",
+                        "#text": "What should I know about storage and disposal of Rizatriptan ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001080-8",
+                        "@qtype": "emergency or overdose",
+                        "#text": "What to do in case of emergency or overdose of Rizatriptan ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0001080-9",
+                        "@qtype": "other information",
+                        "#text": "What other information should I know about Rizatriptan ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "10",
+                    "Question": {
+                        "@qid": "0001080-10",
+                        "@qtype": "brand names",
+                        "#text": "What are the brand names of Rizatriptan ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

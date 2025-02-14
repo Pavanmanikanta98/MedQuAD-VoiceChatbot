@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0001970",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007483.htm",
+        "Focus": "High blood pressure and diet",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0020538"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Hypertension - diet"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001970-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) High blood pressure and diet ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

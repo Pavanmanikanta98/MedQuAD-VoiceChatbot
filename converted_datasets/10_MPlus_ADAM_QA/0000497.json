@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0000497",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003130.htm",
+        "Focus": "Bloody or tarry stools",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Stools - bloody",
+                    "Hematochezia",
+                    "Melena",
+                    "Stools - black or tarry"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000497-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Bloody or tarry stools"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

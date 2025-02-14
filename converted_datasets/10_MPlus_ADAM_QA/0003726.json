@@ -1,0 +1,116 @@
+{
+    "Document": {
+        "@id": "0003726",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000223.htm",
+        "Focus": "Stomach cancer",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0024623",
+                        "C0699791"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Cancer - stomach",
+                    "Gastric cancer",
+                    "Gastric carcinoma",
+                    "Adenocarcinoma of the stomach"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003726-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Stomach cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003726-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Stomach cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003726-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Stomach cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003726-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Stomach cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003726-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Stomach cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003726-6",
+                        "@qtype": "support groups",
+                        "#text": "Where to find support for people with Stomach cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003726-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Stomach cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003726-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Stomach cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0003726-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Stomach cancer ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

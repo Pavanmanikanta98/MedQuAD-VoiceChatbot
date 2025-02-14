@@ -1,0 +1,45 @@
+{
+    "Document": {
+        "@id": "0002980",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000015.htm",
+        "Focus": "Pediatric heart surgery - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Congenital heart surgery - discharge",
+                    "Patent ductus arteriosus ligation - discharge",
+                    "Hypoplastic left heart repair - discharge",
+                    "Tetralogy of Fallot repair - discharge",
+                    "Coarctation of the aorta repair - discharge",
+                    "Heart surgery for children - discharge",
+                    "Atrial septal defect repair - discharge",
+                    "Ventricular septal defect repair - discharge",
+                    "Truncus arteriosus repair - discharge",
+                    "Total anomalous pulmonary artery correction - discharge",
+                    "Transposition of great vessels repair - discharge",
+                    "Tricuspid atresia repair - discharge",
+                    "VSD repair - discharge",
+                    "ASD repair - discharge",
+                    "PDA ligation - discharge",
+                    "Acquired heart disease - discharge",
+                    "Heart valve surgery - children - discharge",
+                    "Heart surgery - pediatric - discharge",
+                    "Heart transplant - pediatric - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002980-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Pediatric heart surgery - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

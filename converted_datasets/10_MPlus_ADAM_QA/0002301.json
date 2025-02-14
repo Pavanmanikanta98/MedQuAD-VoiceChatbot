@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0002301",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007361.htm",
+        "Focus": "Knee MRI scan",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "MRI - knee"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002301-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Knee MRI scan"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

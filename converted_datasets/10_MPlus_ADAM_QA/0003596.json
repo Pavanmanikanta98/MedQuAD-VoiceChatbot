@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0003596",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000376.htm",
+        "Focus": "Skilled nursing facilities after joint replacement",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003596-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Skilled nursing facilities after joint replacement"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

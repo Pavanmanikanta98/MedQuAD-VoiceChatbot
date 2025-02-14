@@ -1,0 +1,108 @@
+{
+    "Document": {
+        "@id": "0001253",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000493.htm",
+        "Focus": "Distal renal tubular acidosis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C1704380",
+                        "C0259810"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Renal tubular acidosis - distal",
+                    "Renal tubular acidosis type I",
+                    "Type I RTA",
+                    "RTA - distal",
+                    "Classical RTA"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001253-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Distal renal tubular acidosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001253-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Distal renal tubular acidosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001253-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Distal renal tubular acidosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001253-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Distal renal tubular acidosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001253-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Distal renal tubular acidosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001253-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Distal renal tubular acidosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001253-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Distal renal tubular acidosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001253-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Distal renal tubular acidosis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

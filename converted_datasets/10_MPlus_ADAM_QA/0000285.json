@@ -1,0 +1,73 @@
+{
+    "Document": {
+        "@id": "0000285",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001123.htm",
+        "Focus": "Aortic arch syndrome",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0003490",
+                        "C0039263"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Subclavian artery occlusive syndrome",
+                    "Carotid artery occlusion syndrome",
+                    "Subclavian steal syndrome",
+                    "Vertebral-basilar artery occlusive syndrome",
+                    "Takayasu disease",
+                    "Pulseless disease"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000285-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Aortic arch syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000285-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Aortic arch syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000285-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Aortic arch syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000285-4",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Aortic arch syndrome ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0003623",
+        "@source": "GARD",
+        "@url": "https://rarediseases.info.nih.gov/gard/9513/linear-scleroderma",
+        "Focus": "Linear scleroderma",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0263409"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Scleroderma, linear",
+                    "En coup de sabre",
+                    "Localized scleroderma"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003623-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Linear scleroderma ?"
+                },
+                "Answer": "Linear scleroderma  is one sub-type of localized scleroderma, most commonly occurring in childhood. It is characterized by abnormalities of the skin and subcutaneous tissues that often follow a dermatomal distribution and that are found on one side of the body. Besides the lesion in the face or scalp there are also abnormalities of the muscles, fat tissue and skull. When the face is affected, some strips located on the forehead may be hollow and lead to an appearance termed \"en coup de sabre\". In most cases, Raynaud's phenomenon is absent. The exact cause is still unknown but may be related to an autoimmune reaction resulting in too much collagen. Management is symptomatic and includes immunosupressant medication. Physical therapy is helpful for the muscle retraction problems."
+            }
+        }
+    }
+}

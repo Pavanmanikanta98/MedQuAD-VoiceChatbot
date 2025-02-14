@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001267",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003668.htm",
+        "Focus": "Donath-Landsteiner test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Anti-P antibody"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001267-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Donath-Landsteiner test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

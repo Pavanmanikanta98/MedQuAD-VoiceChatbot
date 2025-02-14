@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0003786",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003110.htm",
+        "Focus": "Supernumerary nipples",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Polymastia",
+                    "Polythelia",
+                    "Accessory nipples"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003786-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Supernumerary nipples"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

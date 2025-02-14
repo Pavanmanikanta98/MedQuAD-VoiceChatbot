@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003656",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002487.htm",
+        "Focus": "Sodium hydroxide poisoning",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Lye poisoning",
+                    "Caustic soda poisoning"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003656-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Sodium hydroxide poisoning"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

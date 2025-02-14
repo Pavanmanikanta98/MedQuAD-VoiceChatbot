@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0003840",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000535.htm",
+        "Focus": "Taking medicines - what to ask your doctor",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003840-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Taking medicines - what to ask your doctor"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

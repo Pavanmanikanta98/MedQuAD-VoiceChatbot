@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0002803",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007249.htm",
+        "Focus": "NICU consultants and support staff",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C3840714"
+                },
+                "SemanticTypes": null,
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002803-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) NICU consultants and support staff ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

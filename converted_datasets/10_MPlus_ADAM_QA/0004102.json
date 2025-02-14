@@ -1,0 +1,49 @@
+{
+    "Document": {
+        "@id": "0004102",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003750.htm",
+        "Focus": "Urethral discharge culture",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0152447"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Culture of urethral discharge",
+                    "Genital exudate culture",
+                    "Culture - genital discharge or exudate"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004102-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Urethral discharge culture ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0004102-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Urethral discharge culture? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

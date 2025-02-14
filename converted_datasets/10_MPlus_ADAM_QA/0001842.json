@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001842",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000728.htm",
+        "Focus": "Healthy food trends -- flaxseeds",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Healthy food trends -- flax meal",
+                    "Healthy food trends -- flax seeds",
+                    "Healthy food trends -- linseeds"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001842-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Healthy food trends -- flaxseeds"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "Document": {
+        "@id": "0001473",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003654.htm",
+        "Focus": "Euglobulin lysis time",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0024348"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T046"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Euglobulin clot lysis",
+                    "Fibrinolysis/euglobulin lysis",
+                    "ELT"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001473-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Euglobulin lysis time ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001473-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Euglobulin lysis time? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

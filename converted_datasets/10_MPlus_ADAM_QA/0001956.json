@@ -1,0 +1,77 @@
+{
+    "Document": {
+        "@id": "0001956",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002861.htm",
+        "Focus": "Heroin overdose",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0572070"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Acetomorphine overdose",
+                    "Diacetylmorphine overdose",
+                    "Opiate overdose",
+                    "Opioid overdose"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001956-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Heroin overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001956-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Heroin overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001956-5",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Heroin overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001956-8",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Heroin overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0001956-9",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Heroin overdose ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

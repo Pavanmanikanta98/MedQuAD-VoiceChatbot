@@ -1,0 +1,94 @@
+{
+    "Document": {
+        "@id": "0004027",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003192.htm",
+        "Focus": "Tremor",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C1963252",
+                        "C0040822"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T033",
+                        "T184"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Tremor - hand",
+                    "Hand tremor",
+                    "Tremor - arms",
+                    "Kinetic tremor",
+                    "Intention tremor",
+                    "Postural tremor"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004027-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Tremor ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004027-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Tremor ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0004027-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Tremor ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0004027-4",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Tremor ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0004027-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Tremor ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0004027-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Tremor ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "Document": {
+        "@id": "0002243",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000379.htm",
+        "Focus": "Irritable bowel syndrome - aftercare",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0022104"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "IBS - aftercare"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002243-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Irritable bowel syndrome - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002243-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Irritable bowel syndrome - aftercare ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

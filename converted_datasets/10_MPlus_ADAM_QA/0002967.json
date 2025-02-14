@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0002967",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003653.htm",
+        "Focus": "Partial thromboplastin time (PTT)",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "APTT",
+                    "PTT",
+                    "Activated partial thromboplastin time"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002967-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Partial thromboplastin time (PTT)"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

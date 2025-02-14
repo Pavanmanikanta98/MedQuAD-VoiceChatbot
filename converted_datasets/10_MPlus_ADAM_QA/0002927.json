@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002927",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000533.htm",
+        "Focus": "Palliative care - what the final days are like",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "End of life - final days",
+                    "Hospice - final days"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002927-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Palliative care - what the final days are like"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

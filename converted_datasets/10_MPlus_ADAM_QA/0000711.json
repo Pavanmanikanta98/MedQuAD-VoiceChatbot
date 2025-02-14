@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0000711",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002860.htm",
+        "Focus": "Caterpillars",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000711-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Caterpillars"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

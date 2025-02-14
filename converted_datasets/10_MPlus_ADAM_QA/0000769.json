@@ -1,0 +1,40 @@
+{
+    "Document": {
+        "@id": "0000769",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002169.htm",
+        "Focus": "Chemical dependence - resources",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C1510472",
+                        "C0038580"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T048"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Drug abuse - resources",
+                    "Resources - chemical dependence"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000769-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Chemical dependence - resources ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

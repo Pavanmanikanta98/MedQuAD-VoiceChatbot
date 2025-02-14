@@ -1,0 +1,51 @@
+{
+    "Document": {
+        "@id": "0002893",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001336.htm",
+        "Focus": "Otitis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0029877",
+                        "C0699744"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Ear infection",
+                    "Infection - ear"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002893-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Otitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002893-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Otitis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

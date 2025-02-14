@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0002029",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000040.htm",
+        "Focus": "How to make a splint",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Splint - instructions"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002029-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about How to make a splint"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

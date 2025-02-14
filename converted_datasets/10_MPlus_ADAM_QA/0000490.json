@@ -1,0 +1,50 @@
+{
+    "Document": {
+        "@id": "0000490",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007490.htm",
+        "Focus": "Blood pressure measurement",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1272641"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Diastolic blood pressure",
+                    "Systolic blood pressure",
+                    "Blood pressure reading",
+                    "Measuring blood pressure"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000490-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Blood pressure measurement ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000490-8",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Blood pressure measurement ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

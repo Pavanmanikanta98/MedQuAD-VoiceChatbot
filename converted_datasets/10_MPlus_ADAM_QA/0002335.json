@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0002335",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003851.htm",
+        "Focus": "Laryngoscopy",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002335-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Laryngoscopy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

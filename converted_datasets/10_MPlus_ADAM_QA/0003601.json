@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0003601",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000611.htm",
+        "Focus": "Skin and hair changes during pregnancy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Dermatosis of pregnancy",
+                    "Polymorphic eruption of pregnancy",
+                    "Melasma"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003601-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Skin and hair changes during pregnancy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0000390",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003926.htm",
+        "Focus": "BAER - brainstem auditory evoked response",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Evoked auditory potentials",
+                    "Brainstem auditory evoked potentials",
+                    "Evoked response audiometry",
+                    "Auditory brainstem response",
+                    "ABR",
+                    "BAEP"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000390-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about BAER - brainstem auditory evoked response"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

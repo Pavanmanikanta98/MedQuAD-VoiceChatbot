@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0002753",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007573.htm",
+        "Focus": "Neck dissection",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Radical neck dissection",
+                    "Modified radical neck dissection",
+                    "Selective neck dissection",
+                    "Lymph node removal - neck"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002753-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Neck dissection"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0001208",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000219.htm",
+        "Focus": "Diarrhea - what to ask your doctor - child",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0011991"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "What to ask your doctor about diarrhea - child",
+                    "Loose stools - what to ask your doctor - child"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001208-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Diarrhea - what to ask your doctor - child ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

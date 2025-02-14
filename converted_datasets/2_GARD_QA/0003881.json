@@ -1,0 +1,65 @@
+{
+    "Document": {
+        "@id": "0003881",
+        "@source": "GARD",
+        "@url": "https://rarediseases.info.nih.gov/gard/10341/megalencephaly-polymicrogyria-and-hydrocephalus-mpph-syndrome",
+        "Focus": "Megalencephaly, polymicrogyria, and hydrocephalus (MPPH) syndrome",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0266464",
+                        "C2720434",
+                        "C0020255",
+                        "C0039082",
+                        "C0221355"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T019",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "MPPH syndrome",
+                    "Megalencephaly and perisylvian polymicrogyria with postaxial polydactyly and hydrocephalus"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003881-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Megalencephaly, polymicrogyria, and hydrocephalus (MPPH) syndrome ?"
+                    },
+                    "Answer": "Megalencephaly, polymicrogyria, and hydrocephalus (MPPH) syndrome is a syndrome that is characterized by the presence of polymicrogyria, megalencephaly, mental retardation, seizures, polydactyly, and hydrocephalus. The cause of the condition is currently unknown."
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003881-2",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Megalencephaly, polymicrogyria, and hydrocephalus (MPPH) syndrome ?"
+                    },
+                    "Answer": "What are the symptoms of polymicrogyria? A wide variety of symptoms may be observed in people with polymicrogyria, including: Cognitive deficits Epilepsy Paralysis of the face, throat, and tongue Difficulty with speech Drooling"
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003881-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Megalencephaly, polymicrogyria, and hydrocephalus (MPPH) syndrome ?"
+                    },
+                    "Answer": "What causes megalencephaly, polymicrogyria, and hydrocephalus (MPPH) syndrome? The cause of MPPH syndrome is unknown. Infection during pregnancy or fetal accident is thought to be unlikely."
+                }
+            ]
+        }
+    }
+}

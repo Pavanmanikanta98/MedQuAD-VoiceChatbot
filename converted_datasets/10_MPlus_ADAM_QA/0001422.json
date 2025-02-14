@@ -1,0 +1,51 @@
+{
+    "Document": {
+        "@id": "0001422",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000127.htm",
+        "Focus": "Epilepsy - children - discharge",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0014544"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001422-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Epilepsy - children - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001422-2",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Epilepsy - children - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001422-6",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Epilepsy - children - discharge ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

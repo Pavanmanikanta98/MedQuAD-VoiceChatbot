@@ -1,0 +1,115 @@
+{
+    "Document": {
+        "@id": "0002086",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000874.htm",
+        "Focus": "Hypersensitivity vasculitis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0151436",
+                        "C2973529"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Allergic vasculitis",
+                    "Leukocytoclastic vasculitis",
+                    "Cutaneous vasculitis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002086-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hypersensitivity vasculitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002086-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Hypersensitivity vasculitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002086-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Hypersensitivity vasculitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002086-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Hypersensitivity vasculitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002086-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Hypersensitivity vasculitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002086-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Hypersensitivity vasculitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002086-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Hypersensitivity vasculitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002086-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Hypersensitivity vasculitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002086-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Hypersensitivity vasculitis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0001459",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007397.htm",
+        "Focus": "Esophagectomy - open",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Trans-hiatal esophagectomy",
+                    "Trans-thoracic esophagectomy",
+                    "En bloc esophagectomy",
+                    "Removal of the esophagus - open",
+                    "Ivor-Lewis esophagectomy, Blunt esophagectomy",
+                    "Esophageal cancer - esophagectomy - open",
+                    "Cancer of the esophagus - esophagectomy - open"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001459-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Esophagectomy - open"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

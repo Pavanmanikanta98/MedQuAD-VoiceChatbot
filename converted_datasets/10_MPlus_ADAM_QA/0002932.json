@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002932",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003007.htm",
+        "Focus": "Pancreas transplant",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Transplant - pancreas",
+                    "Transplantation - pancreas"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002932-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Pancreas transplant"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0000940",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000212.htm",
+        "Focus": "Concussion - what to ask your doctor - adult",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0006107"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "What to ask your doctor about concussion - adult",
+                    "Brain injury - mild - what to ask your doctor - adult"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000940-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Concussion - what to ask your doctor - adult ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

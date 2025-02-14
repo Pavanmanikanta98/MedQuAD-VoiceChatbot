@@ -1,0 +1,76 @@
+{
+    "Document": {
+        "@id": "0003136",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002886.htm",
+        "Focus": "Poison ivy - oak - sumac",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0162451"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Sumac - poisonous",
+                    "Oak - poisonous",
+                    "Ivy - poisonous"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003136-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Poison ivy - oak - sumac ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003136-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Poison ivy - oak - sumac ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003136-5",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Poison ivy - oak - sumac ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003136-8",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Poison ivy - oak - sumac ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0003136-9",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Poison ivy - oak - sumac ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

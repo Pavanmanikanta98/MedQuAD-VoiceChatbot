@@ -1,0 +1,63 @@
+{
+    "Document": {
+        "@id": "0002298",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002974.htm",
+        "Focus": "Knee joint replacement",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0375841"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Total knee replacement",
+                    "Knee arthroplasty",
+                    "Knee replacement - total",
+                    "Tricompartmental knee replacement",
+                    "Subvastus knee replacement",
+                    "Knee replacement - minimally invasive",
+                    "Knee arthroplasty - minimally invasive",
+                    "TKA - knee replacement"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002298-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Knee joint replacement ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002298-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Knee joint replacement ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002298-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Knee joint replacement ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

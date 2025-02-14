@@ -1,0 +1,87 @@
+{
+    "Document": {
+        "@id": "0001443",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000881.htm",
+        "Focus": "Erythema nodosum",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0014743"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001443-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Erythema nodosum ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001443-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Erythema nodosum ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001443-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Erythema nodosum ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001443-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Erythema nodosum ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001443-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Erythema nodosum ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001443-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Erythema nodosum ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001443-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Erythema nodosum ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

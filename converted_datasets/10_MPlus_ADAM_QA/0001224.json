@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001224",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000294.htm",
+        "Focus": "Diet and eating after esophagectomy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Esophagectomy - diet",
+                    "Post-esophagectomy diet"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001224-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Diet and eating after esophagectomy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

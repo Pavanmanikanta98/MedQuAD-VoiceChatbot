@@ -1,0 +1,87 @@
+{
+    "Document": {
+        "@id": "0001759",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001309.htm",
+        "Focus": "Graft-versus-host disease",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0018133"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001759-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Graft-versus-host disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001759-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Graft-versus-host disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001759-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Graft-versus-host disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001759-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Graft-versus-host disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001759-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Graft-versus-host disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001759-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Graft-versus-host disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001759-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Graft-versus-host disease ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

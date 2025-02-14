@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0000030",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000658.htm",
+        "Focus": "Abortion - surgical - aftercare",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0156543"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000030-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Abortion - surgical - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000030-2",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Abortion - surgical - aftercare ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

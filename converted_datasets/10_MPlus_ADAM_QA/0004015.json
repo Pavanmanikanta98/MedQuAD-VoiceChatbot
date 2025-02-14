@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0004015",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002996.htm",
+        "Focus": "Transurethral resection of the prostate",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "TURP",
+                    "Prostate resection - transurethral"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004015-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Transurethral resection of the prostate"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

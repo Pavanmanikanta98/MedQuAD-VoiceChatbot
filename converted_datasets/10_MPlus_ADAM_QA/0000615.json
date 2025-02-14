@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0000615",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002180.htm",
+        "Focus": "Burns - resources",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0006434"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Resources - burns"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000615-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Burns - resources ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

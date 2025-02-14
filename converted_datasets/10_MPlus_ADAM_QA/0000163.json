@@ -1,0 +1,54 @@
+{
+    "Document": {
+        "@id": "0000163",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000405.htm",
+        "Focus": "Allergy shots",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0020517",
+                        "C0489531"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T046",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Allergy injections",
+                    "Allergen immunotherapy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000163-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Allergy shots ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000163-6",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Allergy shots ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

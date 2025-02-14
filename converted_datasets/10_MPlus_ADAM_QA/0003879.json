@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0003879",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003930.htm",
+        "Focus": "Tensilon test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Myasthenia gravis-tensilon"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003879-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Tensilon test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

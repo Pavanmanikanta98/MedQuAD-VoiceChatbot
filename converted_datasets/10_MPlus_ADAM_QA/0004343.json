@@ -1,0 +1,49 @@
+{
+    "Document": {
+        "@id": "0004343",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007444.htm",
+        "Focus": "Your baby and the flu",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0021400"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Babies and the flu",
+                    "Your infant and the flu",
+                    "Your toddler and the flu"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004343-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Your baby and the flu ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004343-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Your baby and the flu ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

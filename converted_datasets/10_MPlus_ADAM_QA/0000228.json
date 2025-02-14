@@ -1,0 +1,93 @@
+{
+    "Document": {
+        "@id": "0000228",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000846.htm",
+        "Focus": "Angioedema",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0002994"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T046"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Angioneurotic edema",
+                    "Welts"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000228-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Angioedema ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000228-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Angioedema ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000228-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Angioedema ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000228-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Angioedema ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000228-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Angioedema ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000228-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Angioedema ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000228-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Angioedema ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

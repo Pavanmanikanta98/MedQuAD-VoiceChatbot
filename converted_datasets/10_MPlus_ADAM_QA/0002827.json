@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0002827",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003822.htm",
+        "Focus": "Nuclear ventriculography",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Cardiac blood pooling imaging",
+                    "Heart scan - nuclear",
+                    "Radionuclide ventriculography (RNV)",
+                    "Multiple gate acquisition scan (MUGA)",
+                    "Nuclear cardiology"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002827-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Nuclear ventriculography"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

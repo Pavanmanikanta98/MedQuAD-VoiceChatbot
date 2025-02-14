@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0003532",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003523.htm",
+        "Focus": "Serology for tularemia",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0041351"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Tularemia test",
+                    "Serology for Francisella tularensis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003532-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Serology for tularemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003532-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Serology for tularemia? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

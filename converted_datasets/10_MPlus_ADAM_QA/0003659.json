@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003659",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003599.htm",
+        "Focus": "Sodium urine test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Urinary 24 hours sodium",
+                    "Urine Na+"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003659-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Sodium urine test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

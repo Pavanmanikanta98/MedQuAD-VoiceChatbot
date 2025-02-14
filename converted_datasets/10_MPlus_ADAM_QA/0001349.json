@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001349",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003888.htm",
+        "Focus": "EGD - esophagogastroduodenoscopy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Esophagogastroduodenoscopy",
+                    "Upper endoscopy",
+                    "Gastroscopy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001349-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about EGD - esophagogastroduodenoscopy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

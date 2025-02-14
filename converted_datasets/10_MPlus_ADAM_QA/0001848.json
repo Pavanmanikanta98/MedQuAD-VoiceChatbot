@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001848",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002393.htm",
+        "Focus": "Healthy living",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Healthy habits"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001848-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Healthy living"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

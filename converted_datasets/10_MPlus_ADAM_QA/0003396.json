@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003396",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003783.htm",
+        "Focus": "Retrograde cystography",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Cystography - retrograde",
+                    "Cystogram"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003396-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Retrograde cystography"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

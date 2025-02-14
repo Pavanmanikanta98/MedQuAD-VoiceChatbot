@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0003617",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002135.htm",
+        "Focus": "Skin sagging treatment - underarms",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Sagging skin treatment - triceps"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003617-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Skin sagging treatment - underarms"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

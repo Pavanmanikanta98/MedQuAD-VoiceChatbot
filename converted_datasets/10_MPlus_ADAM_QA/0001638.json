@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001638",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007390.htm",
+        "Focus": "Foraminotomy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Intervertebral foramina",
+                    "Spine surgery - foraminotomy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001638-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Foraminotomy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

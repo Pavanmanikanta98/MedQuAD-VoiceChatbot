@@ -1,0 +1,16 @@
+[
+    {
+        "question": "What is (are) Chromosome 8p deletion ?",
+        "answer": "Chromosome 8p deletion is a chromosome abnormality that affects many different parts of the body. People with this condition are missing genetic material located on the short arm (p) of chromosome 8 in each cell. The severity of the condition and the associated signs and symptoms vary based on the size and location of the deletion and which genes are involved. Most cases are not inherited, although affected people can pass the deletion on to their children. Treatment is based on the signs and symptoms present in each person.",
+        "qtype": "information",
+        "focus": "Chromosome 8p deletion",
+        "synonyms": [
+            "Deletion 8p",
+            "Monosomy 8p",
+            "8p deletion",
+            "8p monosomy",
+            "Partial monosomy 8p"
+        ],
+        "semantic_group": "Disorders"
+    }
+]

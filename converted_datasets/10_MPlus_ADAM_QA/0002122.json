@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0002122",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007571.htm",
+        "Focus": "Hysteroscopy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Hysteroscopic surgery",
+                    "Operative hysteroscopy",
+                    "Uterine endoscopy",
+                    "Uteroscopy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002122-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Hysteroscopy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

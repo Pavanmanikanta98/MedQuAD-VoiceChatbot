@@ -1,0 +1,63 @@
+{
+    "Document": {
+        "@id": "0001185",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000082.htm",
+        "Focus": "Diabetes - tests and checkups",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0011860",
+                        "C0011849"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001185-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Diabetes - tests and checkups ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001185-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Diabetes - tests and checkups ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001185-6",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Diabetes - tests and checkups ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001185-8",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Diabetes - tests and checkups ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

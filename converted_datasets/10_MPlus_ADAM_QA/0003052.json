@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0003052",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002525.htm",
+        "Focus": "Petroleum jelly overdose",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Vaseline overdose"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003052-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Petroleum jelly overdose"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

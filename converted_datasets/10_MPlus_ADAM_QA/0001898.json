@@ -1,0 +1,51 @@
+{
+    "Document": {
+        "@id": "0001898",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000815.htm",
+        "Focus": "Helping a loved one with a drinking problem",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0085762"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T048"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001898-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Helping a loved one with a drinking problem ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001898-3",
+                        "@qtype": "information",
+                        "#text": "What is (are) Helping a loved one with a drinking problem ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001898-6",
+                        "@qtype": "information",
+                        "#text": "What is (are) Helping a loved one with a drinking problem ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

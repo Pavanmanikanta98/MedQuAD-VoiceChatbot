@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000392",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002738.htm",
+        "Focus": "Baking powder overdose",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Sodium bicarbonate"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000392-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Baking powder overdose"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

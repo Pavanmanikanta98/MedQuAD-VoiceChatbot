@@ -1,0 +1,83 @@
+{
+    "Document": {
+        "@id": "0002976",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003320.htm",
+        "Focus": "Pectus excavatum",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0016842",
+                        "C2051831"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T019",
+                        "T190",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Funnel chest",
+                    "Cobbler's chest",
+                    "Sunken chest"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002976-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Pectus excavatum ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002976-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Pectus excavatum ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002976-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Pectus excavatum ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002976-4",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Pectus excavatum ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002976-5",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Pectus excavatum ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

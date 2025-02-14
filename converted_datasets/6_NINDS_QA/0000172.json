@@ -1,0 +1,59 @@
+{
+    "Document": {
+        "@id": "0000172",
+        "@source": "NINDS",
+        "@url": "http://www.ninds.nih.gov/disorders/kluver_bucy/kluver_bucy.htm",
+        "Focus": "Klver-Bucy Syndrome",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0039082"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000172-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Klver-Bucy Syndrome ?"
+                    },
+                    "Answer": "Klver-Bucy syndrome is a rare behavioral impairment that is associated with damage to both of the anterior temporal lobes of the brain. It causes individuals to put objects in their mouths and engage in inappropriate sexual behavior. Other symptoms may include visual agnosia (inability to visually recognize objects), loss of normal fear and anger responses, memory loss, distractibility, seizures, and dementia. The disorder may be associated with herpes encephalitis and trauma, which can result in brain damage."
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000172-2",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Klver-Bucy Syndrome ?"
+                    },
+                    "Answer": "Treatment is symptomatic and supportive, and may include drug therapy."
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000172-3",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Klver-Bucy Syndrome ?"
+                    },
+                    "Answer": "There is no cure for Klver-Bucy syndrome. The disorder is not life-threatening, but the patient can be difficult to manage. With treatment, symptoms may slowly decline."
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000172-4",
+                        "@qtype": "research",
+                        "#text": "what research (or clinical trials) is being done for Klver-Bucy Syndrome ?"
+                    },
+                    "Answer": "NINDS supports and conducts research on neurobehavioral disorders such as Klver-Bucy syndrome. Much of the research focuses on learning more about these disorders and finding ways to prevent and treat them."
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0002600",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003819.htm",
+        "Focus": "Mesenteric angiography",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Abdominal arteriogram",
+                    "Arteriogram - abdomen",
+                    "Mesenteric angiogram"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002600-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Mesenteric angiography"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

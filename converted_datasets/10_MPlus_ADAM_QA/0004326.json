@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0004326",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000834.htm",
+        "Focus": "Working during cancer treatment",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004326-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Working during cancer treatment"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

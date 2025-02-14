@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001462",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003638.htm",
+        "Focus": "ESR",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Erythrocyte sedimentation rate",
+                    "Sed rate",
+                    "Sedimentation rate"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001462-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about ESR"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

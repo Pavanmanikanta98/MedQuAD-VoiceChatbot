@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0004240",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002400.htm",
+        "Focus": "Vitamin A",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Retinol",
+                    "Retinal",
+                    "Retinoic acid",
+                    "Carotenoids"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004240-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Vitamin A"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

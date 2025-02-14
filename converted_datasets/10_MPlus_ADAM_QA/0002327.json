@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0002327",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007388.htm",
+        "Focus": "Laparoscopic gastric banding",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Lap-Band",
+                    "LAGB",
+                    "Laparoscopic adjustable gastric banding",
+                    "Bariatric surgery - laparoscopic gastric banding"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002327-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Laparoscopic gastric banding"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0004217",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000149.htm",
+        "Focus": "Ventriculoperitoneal shunt - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Shunt - ventriculoperitoneal - discharge",
+                    "VP shunt - discharge",
+                    "Shunt revision - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004217-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Ventriculoperitoneal shunt - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

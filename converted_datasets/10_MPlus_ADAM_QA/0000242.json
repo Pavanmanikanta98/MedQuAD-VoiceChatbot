@@ -1,0 +1,71 @@
+{
+    "Document": {
+        "@id": "0000242",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000574.htm",
+        "Focus": "Ankle sprain - aftercare",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0160087"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Lateral ankle sprain - aftercare",
+                    "Medial ankle sprain - aftercare",
+                    "Medial ankle injury - aftercare",
+                    "Ankle syndesmosis sprain -aftercare",
+                    "Syndesmosis injury - aftercare",
+                    "ATFL injury - aftercare",
+                    "CFL injury- aftercare"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000242-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Ankle sprain - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000242-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Ankle sprain - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000242-3",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Ankle sprain - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000242-6",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Ankle sprain - aftercare ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

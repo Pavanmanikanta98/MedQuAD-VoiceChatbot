@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001627",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002425.htm",
+        "Focus": "Food jags",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Refusal to eat",
+                    "Fear of new foods"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001627-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Food jags"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

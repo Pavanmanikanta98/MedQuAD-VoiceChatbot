@@ -1,0 +1,75 @@
+{
+    "Document": {
+        "@id": "0002948",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000139.htm",
+        "Focus": "Parapneumonic pleural effusion",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C2073625",
+                        "C0032227"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T047",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002948-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Parapneumonic pleural effusion ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002948-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Parapneumonic pleural effusion ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002948-3",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Parapneumonic pleural effusion ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002948-4",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Parapneumonic pleural effusion ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002948-5",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Parapneumonic pleural effusion ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

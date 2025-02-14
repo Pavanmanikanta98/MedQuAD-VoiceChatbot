@@ -1,0 +1,104 @@
+{
+    "Document": {
+        "@id": "0002152",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001057.htm",
+        "Focus": "Impacted tooth",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0040456"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T190"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Tooth - unemerged",
+                    "Unemerged tooth",
+                    "Dental impaction",
+                    "Unerupted tooth"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002152-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Impacted tooth ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002152-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Impacted tooth ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002152-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Impacted tooth ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002152-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Impacted tooth ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002152-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Impacted tooth ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002152-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Impacted tooth ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002152-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Impacted tooth ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002152-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Impacted tooth ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

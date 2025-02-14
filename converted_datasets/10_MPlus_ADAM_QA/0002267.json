@@ -1,0 +1,116 @@
+{
+    "Document": {
+        "@id": "0002267",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000451.htm",
+        "Focus": "Juvenile idiopathic arthritis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C3495559",
+                        "C3714757"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Juvenile rheumatoid arthritis (JRA)",
+                    "Juvenile chronic polyarthritis",
+                    "Still disease",
+                    "Juvenile spondyloarthritis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002267-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Juvenile idiopathic arthritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002267-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Juvenile idiopathic arthritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002267-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Juvenile idiopathic arthritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002267-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Juvenile idiopathic arthritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002267-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Juvenile idiopathic arthritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002267-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Juvenile idiopathic arthritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002267-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Juvenile idiopathic arthritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002267-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Juvenile idiopathic arthritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002267-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Juvenile idiopathic arthritis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

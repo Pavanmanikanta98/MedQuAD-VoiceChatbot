@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0002392",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000414.htm",
+        "Focus": "Lifting and bending the right way",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Nonspecific back pain - lifting",
+                    "Backache - lifting",
+                    "Sciatica - lifting",
+                    "Lumbar pain - lifting",
+                    "Chronic back pain - lifting",
+                    "Herniated disk - lifting",
+                    "Slipped disk - lifting"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002392-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Lifting and bending the right way"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

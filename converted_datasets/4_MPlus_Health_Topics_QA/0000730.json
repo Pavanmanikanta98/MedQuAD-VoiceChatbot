@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0000730",
+        "@source": "MPlusHealthTopics",
+        "@url": "https://www.nlm.nih.gov/medlineplus/posttraumaticstressdisorder.html",
+        "Focus": "Post-Traumatic Stress Disorder",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0038436"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T048"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "PTSD"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000730-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Post-Traumatic Stress Disorder ?"
+                },
+                "Answer": "Post-traumatic stress disorder (PTSD) is a real illness. You can get PTSD after living through or seeing a traumatic event, such as war, a hurricane, sexual assault, physical abuse, or a bad accident. PTSD makes you feel stressed and afraid after the danger is over. It affects your life and the people around you.    PTSD can cause problems like       - Flashbacks, or feeling like the event is happening again    - Trouble sleeping or nightmares    - Feeling alone    - Angry outbursts    - Feeling worried, guilty, or sad       PTSD starts at different times for different people. Signs of PTSD may start soon after a frightening event and then continue. Other people develop new or more severe signs months or even years later. PTSD can happen to anyone, even children.    Treatment may include talk therapy, medicines, or both. Treatment might take 6 to 12 weeks. For some people, it takes longer.    NIH: National Institute of Mental Health"
+            }
+        }
+    }
+}

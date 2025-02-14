@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0003564",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007206.htm",
+        "Focus": "Shoulder arthroscopy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "SLAP repair",
+                    "SLAP lesion",
+                    "Acromioplasty",
+                    "Bankart repair",
+                    "Bankart lesion",
+                    "Shoulder repair",
+                    "Shoulder surgery",
+                    "Rotator cuff repair"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003564-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Shoulder arthroscopy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

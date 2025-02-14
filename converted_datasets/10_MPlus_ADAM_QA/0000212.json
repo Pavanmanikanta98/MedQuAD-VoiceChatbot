@@ -1,0 +1,87 @@
+{
+    "Document": {
+        "@id": "0000212",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000560.htm",
+        "Focus": "Anemia",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0002871"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000212-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Anemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000212-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Anemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000212-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Anemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000212-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Anemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000212-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Anemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000212-6",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Anemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000212-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Anemia ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

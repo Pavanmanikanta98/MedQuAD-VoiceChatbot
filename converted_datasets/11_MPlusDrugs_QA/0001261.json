@@ -1,0 +1,78 @@
+{
+    "Document": {
+        "@id": "0001261",
+        "@source": "MPlusDrugs",
+        "@url": "https://www.nlm.nih.gov/medlineplus/druginfo/meds/a607028.html",
+        "Focus": "Typhoid Vaccine",
+        "FocusAnnotations": {
+            "Category": "Drug"
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001261-1",
+                        "@qtype": "information",
+                        "#text": "What is Typhoid Vaccine ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001261-3",
+                        "@qtype": "indication",
+                        "#text": "Who should get Typhoid Vaccine and why is it prescribed ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001261-4",
+                        "@qtype": "contraindication",
+                        "#text": "Who should not get Typhoid Vaccine and what are its contraindications ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001261-5",
+                        "@qtype": "side effects",
+                        "#text": "What are the side effects or risks of Typhoid Vaccine ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001261-6",
+                        "@qtype": "severe reaction",
+                        "#text": "What to do in case of a severe reaction to Typhoid Vaccine ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001261-7",
+                        "@qtype": "how can i learn more",
+                        "#text": "How can I learn more about Typhoid Vaccine ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001261-8",
+                        "@qtype": "brand names",
+                        "#text": "What are the brand names of Typhoid Vaccine ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

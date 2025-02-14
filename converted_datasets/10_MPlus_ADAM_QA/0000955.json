@@ -1,0 +1,108 @@
+{
+    "Document": {
+        "@id": "0000955",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001658.htm",
+        "Focus": "Congenital rubella",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0035921"
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T019",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000955-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Congenital rubella ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000955-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Congenital rubella ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000955-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Congenital rubella ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000955-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Congenital rubella ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000955-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Congenital rubella ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000955-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Congenital rubella ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000955-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Congenital rubella ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000955-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Congenital rubella ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000955-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Congenital rubella ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0002121",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003404.htm",
+        "Focus": "Hysterosalpingography",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "HSG",
+                    "Uterosalpingography",
+                    "Hysterogram",
+                    "Uterotubography"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002121-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Hysterosalpingography"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

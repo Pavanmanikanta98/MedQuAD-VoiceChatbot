@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0002484",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001377.htm",
+        "Focus": "Lymphofollicular hyperplasia",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0020507"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T046"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Lymphadenopathy",
+                    "Lymphofollicular hypertrophy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002484-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Lymphofollicular hyperplasia ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

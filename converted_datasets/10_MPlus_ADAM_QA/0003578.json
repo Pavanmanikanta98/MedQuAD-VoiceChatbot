@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0003578",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003885.htm",
+        "Focus": "Sigmoidoscopy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Flexible sigmoidoscopy",
+                    "Sigmoidoscopy - flexible",
+                    "Proctoscopy",
+                    "Proctosigmoidoscopy",
+                    "Rigid sigmoidoscopy",
+                    "Colon cancer sigmoidoscopy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003578-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Sigmoidoscopy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0002183",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002205.htm",
+        "Focus": "Infertility - resources",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0021359"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T046"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Resources - infertility"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002183-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Infertility - resources ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

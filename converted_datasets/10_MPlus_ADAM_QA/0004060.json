@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0004060",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000426.htm",
+        "Focus": "Turning patients over in bed",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Roll patients in bed"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004060-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Turning patients over in bed"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "Document": {
+        "@id": "0002268",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000661.htm",
+        "Focus": "Kaposi sarcoma",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0036220"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Kaposi's sarcoma"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002268-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Kaposi sarcoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002268-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Kaposi sarcoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002268-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Kaposi sarcoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002268-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Kaposi sarcoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002268-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Kaposi sarcoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002268-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Kaposi sarcoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002268-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Kaposi sarcoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002268-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Kaposi sarcoma ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

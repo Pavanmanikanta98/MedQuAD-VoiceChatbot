@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0000269",
+        "@source": "GARD",
+        "@url": "https://rarediseases.info.nih.gov/gard/10254/alzheimer-disease",
+        "Focus": "Alzheimer disease",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0002395"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Early-onset, autosomal dominant Alzheimer disease",
+                    "Familial Alzheimer disease",
+                    "Late-Onset Familial Alzheimer Disease"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000269-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Alzheimer disease ?"
+                },
+                "Answer": "Alzheimer disease (AD) is a degenerative disease of the brain that causes gradual loss of memory, judgment, and the ability to function socially. Alzheimer disease currently affects about 5 million people. About 75 percent of Alzheimer disease cases are classified as sporadic, which means they occur in people with no history of the disorder in their family. Although the cause of these cases is unknown, genetic changes are likely to play a role. Virtually all sporadic cases of Alzheimer disease begin after age 65, and the risk of developing this condition increases as a person gets older. AD can be subdivided into two groups based on the age of onset: (1) Early-onset (1%-6% of the cases) which start in people younger than 60- 65 years of age (2) Late-onset, which starts in people older than 65 years old. In about 25% of cases, AD is familial (2 or more people in a family have AD). For more information, please visit GARD's familial Alzheimer disease Web page."
+            }
+        }
+    }
+}

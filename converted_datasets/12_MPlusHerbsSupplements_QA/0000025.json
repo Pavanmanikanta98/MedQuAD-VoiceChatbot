@@ -1,0 +1,87 @@
+{
+    "Document": {
+        "@id": "0000025",
+        "@source": "MPlusHerbsSupplements",
+        "@url": "https://www.nlm.nih.gov/medlineplus/druginfo/natural/773.html",
+        "Focus": "Cascara",
+        "FocusAnnotations": {
+            "Category": "Drug"
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000025-1",
+                        "@qtype": "information",
+                        "#text": "What is Cascara ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000025-2",
+                        "@qtype": "how effective is it",
+                        "#text": "How effective is Cascara ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000025-3",
+                        "@qtype": "how does it work",
+                        "#text": "What is the action of Cascara and how does it work ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000025-4",
+                        "@qtype": "precautions",
+                        "#text": "Are there safety concerns or special precautions about Cascara ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000025-5",
+                        "@qtype": "interactions with medications",
+                        "#text": "Are there interactions between Cascara and other medications ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000025-6",
+                        "@qtype": "interactions with herbs and supplements",
+                        "#text": "Are there interactions between Cascara and herbs and supplements ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000025-7",
+                        "@qtype": "interactions with foods",
+                        "#text": "Are there interactions between Cascara and foods ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000025-8",
+                        "@qtype": "dose",
+                        "#text": "What is the dosage of Cascara ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

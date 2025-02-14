@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003334",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007461.htm",
+        "Focus": "Rape prevention",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Date rape - prevention",
+                    "Sexual assault - prevention"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003334-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Rape prevention"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

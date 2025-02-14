@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001067",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001278.htm",
+        "Focus": "Curvature of the penis",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Peyronie's disease"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001067-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Curvature of the penis"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

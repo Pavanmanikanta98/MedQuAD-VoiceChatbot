@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0000196",
+        "@source": "MPlusHealthTopics",
+        "@url": "https://www.nlm.nih.gov/medlineplus/choosingadoctororhealthcareservice.html",
+        "Focus": "Choosing a Doctor or Health Care Service",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0580931"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000196-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Choosing a Doctor or Health Care Service ?"
+                },
+                "Answer": "We all want high-quality health care, but it's hard to know how to choose. There are many things to consider, including       - What your insurance covers    - Whether a health care provider or service is accredited    - The location of a service    - Hours that the service is available    - Whether you like a health care provider's personality        On this page you'll find information to help you choose a health care provider or service."
+            }
+        }
+    }
+}

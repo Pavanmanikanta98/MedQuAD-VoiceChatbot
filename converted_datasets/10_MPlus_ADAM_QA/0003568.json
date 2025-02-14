@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0003568",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007387.htm",
+        "Focus": "Shoulder replacement",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Total shoulder arthroplasty",
+                    "Endoprosthetic shoulder replacement",
+                    "Partial shoulder replacement",
+                    "Partial shoulder arthroplasty",
+                    "Replacement - shoulder",
+                    "Arthroplasty - shoulder"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003568-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Shoulder replacement"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

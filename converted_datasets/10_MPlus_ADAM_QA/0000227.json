@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000227",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000238.htm",
+        "Focus": "Angiodysplasia of the colon",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Vascular ectasia of the colon",
+                    "Colonic arteriovenous malformation"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000227-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Angiodysplasia of the colon"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

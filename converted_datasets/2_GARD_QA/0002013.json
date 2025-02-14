@@ -1,0 +1,60 @@
+{
+    "Document": {
+        "@id": "0002013",
+        "@source": "GARD",
+        "@url": "https://rarediseases.info.nih.gov/gard/12798/early-onset-autosomal-dominant-alzheimer-disease",
+        "Focus": "Early-onset, autosomal dominant Alzheimer disease",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0002395",
+                        "C1833334"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T047",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "EOFAD",
+                    "Early-onset familial autosomal dominant Alzheimer disease",
+                    "Early-onset autosomal dominant Alzheimer disease",
+                    "Familial Alzheimer disease",
+                    "Alzheimer disease",
+                    "Alzheimer disease type 1",
+                    "Alzheimer disease type 3",
+                    "Alzheimer disease type 4",
+                    "Familial Alzheimer disease"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002013-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Early-onset, autosomal dominant Alzheimer disease ?"
+                    },
+                    "Answer": "Early-onset, autosomal dominant Alzheimer disease is a form of Alzheimer disease (AD) that develops before the age of 65. In general, AD is a degenerative disease of the brain that causes gradual loss of memory, judgement, and the ability to function socially. The early-onset, autosomal dominant form of AD is caused by changes (mutations) one of three different genes: APP, PSEN1, and PSEN2. The condition is inherited in an autosomal dominant manner. There is no cure for AD. Treatment is supportive and based on the signs and symptoms present in each person."
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002013-2",
+                        "@qtype": "inheritance",
+                        "#text": "Is Early-onset, autosomal dominant Alzheimer disease inherited ?"
+                    },
+                    "Answer": "How is early-onset, autosomal dominant Alzheimer disease inherited? Early-onset, autosomal dominant Alzheimer disease is inherited in an autosomal dominant manner. This means that to be affected, a person only needs a change (mutation) in one copy of the responsible gene in each cell. In some cases, an affected person inherits the mutation from an affected parent. Other cases may result from new (de novo) mutations in the gene. These cases occur in people with no history of the disorder in their family. A person with this condition has a 50% chance with each pregnancy of passing along the altered gene to his or her child."
+                }
+            ]
+        }
+    }
+}

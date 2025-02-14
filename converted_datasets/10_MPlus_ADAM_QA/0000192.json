@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000192",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003506.htm",
+        "Focus": "Ammonia blood test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Serum ammonia"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000192-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Ammonia blood test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

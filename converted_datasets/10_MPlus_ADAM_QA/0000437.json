@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0000437",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000787.htm",
+        "Focus": "Bile acid sequestrants for cholesterol",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Antilipemic agent",
+                    "Bile acid resins",
+                    "Colestipol (Colestid)",
+                    "Cholestyramine (LoCholest, Prevalite, and Questran)",
+                    "Colesevelam (Welchol)"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000437-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Bile acid sequestrants for cholesterol"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

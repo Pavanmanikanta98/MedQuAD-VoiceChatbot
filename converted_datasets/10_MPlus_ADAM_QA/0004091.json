@@ -1,0 +1,112 @@
+{
+    "Document": {
+        "@id": "0004091",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000973.htm",
+        "Focus": "Undescended testicle",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0010417",
+                        "C2051971"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T019",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Cryptorchidism",
+                    "Empty scrotum - undescended testes",
+                    "Scrotum - empty (undescended testes)",
+                    "Monorchism",
+                    "Vanished testes - undescended",
+                    "Retractile testes"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004091-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Undescended testicle ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004091-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Undescended testicle ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0004091-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Undescended testicle ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0004091-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Undescended testicle ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0004091-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Undescended testicle ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0004091-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Undescended testicle ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0004091-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Undescended testicle ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0004091-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Undescended testicle ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

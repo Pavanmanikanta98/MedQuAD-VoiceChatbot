@@ -1,0 +1,93 @@
+{
+    "Document": {
+        "@id": "0002841",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000110.htm",
+        "Focus": "Occupational asthma",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0264423"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Asthma - occupational exposure",
+                    "Irritant-induced reactive airways disease"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002841-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Occupational asthma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002841-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Occupational asthma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002841-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Occupational asthma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002841-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Occupational asthma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002841-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Occupational asthma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002841-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Occupational asthma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002841-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Occupational asthma ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

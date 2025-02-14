@@ -1,0 +1,108 @@
+{
+    "Document": {
+        "@id": "0000811",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000291.htm",
+        "Focus": "Cholangiocarcinoma",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0206698"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Bile duct cancer"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000811-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Cholangiocarcinoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000811-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Cholangiocarcinoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000811-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Cholangiocarcinoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000811-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Cholangiocarcinoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000811-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Cholangiocarcinoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000811-6",
+                        "@qtype": "support groups",
+                        "#text": "Where to find support for people with Cholangiocarcinoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000811-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Cholangiocarcinoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000811-8",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Cholangiocarcinoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000811-9",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Cholangiocarcinoma ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

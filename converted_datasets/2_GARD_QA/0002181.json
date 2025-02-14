@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0002181",
+        "@source": "GARD",
+        "@url": "https://rarediseases.info.nih.gov/gard/9323/ewings-family-of-tumors",
+        "Focus": "Ewing's family of tumors",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0027651",
+                        "C0553580"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Ewing family of tumors",
+                    "Askins tumor (PNET of the chest wall) (type)",
+                    "Primitive neuroectodermal tumor (PNET) (type)",
+                    "Ewings tumor of bone (type)",
+                    "Extraosseous Ewings (tumor growing outside of the bone) (type)"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002181-1",
+                    "@qtype": "causes",
+                    "#text": "What causes Ewing's family of tumors ?"
+                },
+                "Answer": "What causes Askins tumor? In 80% to 90% of Askins tumors, a part of chromosome 11 and chromosome 22 are translocated. 'Translocation' means that the chromosomes have exchanged material. This exchange of material interrupts the cell's ability to grow and divide normally. In general, cancers are caused when the genes that regulate the cell's growth and division are changed. The cause of the changes is unknown, but may be due to a combination of genetic factors, environmental factors, and the process of aging. The development of cancer is not a quick or simple process. It is a progression involving a build-up of changes in a number of different genes in the cells of the body tissues over time."
+            }
+        }
+    }
+}

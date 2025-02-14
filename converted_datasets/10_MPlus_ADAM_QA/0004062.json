@@ -1,0 +1,84 @@
+{
+    "Document": {
+        "@id": "0004062",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001595.htm",
+        "Focus": "Twin-to-twin transfusion syndrome",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C2909036"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T046"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "TTTS",
+                    "Fetal transfusion syndrome"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004062-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Twin-to-twin transfusion syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004062-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Twin-to-twin transfusion syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0004062-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Twin-to-twin transfusion syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0004062-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Twin-to-twin transfusion syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0004062-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Twin-to-twin transfusion syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0004062-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Twin-to-twin transfusion syndrome ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0003932",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003829.htm",
+        "Focus": "Thyroid scan",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Scan - thyroid",
+                    "Radioactive iodine uptake and scan test - thyroid",
+                    "Nuclear scan - thyroid"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003932-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Thyroid scan"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

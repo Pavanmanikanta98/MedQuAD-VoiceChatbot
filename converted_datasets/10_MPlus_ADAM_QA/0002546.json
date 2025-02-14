@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0002546",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002929.htm",
+        "Focus": "Meckels diverticulectomy",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002546-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Meckels diverticulectomy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

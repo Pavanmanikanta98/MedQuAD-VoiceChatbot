@@ -1,0 +1,103 @@
+{
+    "Document": {
+        "@id": "0002610",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001205.htm",
+        "Focus": "Metachromatic leukodystrophy",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0023522"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "MLD",
+                    "Arylsulfatase A deficiency",
+                    "Leukodystrophy - metachromatic"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002610-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Metachromatic leukodystrophy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002610-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Metachromatic leukodystrophy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002610-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Metachromatic leukodystrophy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002610-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Metachromatic leukodystrophy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002610-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Metachromatic leukodystrophy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002610-6",
+                        "@qtype": "support groups",
+                        "#text": "Where to find support for people with Metachromatic leukodystrophy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002610-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Metachromatic leukodystrophy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002610-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Metachromatic leukodystrophy ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

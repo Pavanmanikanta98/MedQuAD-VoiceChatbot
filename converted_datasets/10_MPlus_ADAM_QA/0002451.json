@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002451",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003787.htm",
+        "Focus": "Lumbosacral spine CT",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Spinal CT",
+                    "CT - lumbosacral spine"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002451-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Lumbosacral spine CT"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

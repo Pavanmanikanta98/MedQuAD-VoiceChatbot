@@ -1,0 +1,75 @@
+{
+    "Document": {
+        "@id": "0003238",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002537.htm",
+        "Focus": "Propoxyphene overdose",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0572050"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Propoxyphene hydrochloride",
+                    "Dextropropoxyphene"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003238-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Propoxyphene overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003238-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Propoxyphene overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003238-5",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Propoxyphene overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003238-8",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Propoxyphene overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0003238-9",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Propoxyphene overdose ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002518",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003380.htm",
+        "Focus": "Mammography",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Mammogram",
+                    "Breast tomosynthesis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002518-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Mammography"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001622",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003311.htm",
+        "Focus": "Fontanelles - enlarged",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Soft spot - large"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001622-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Fontanelles - enlarged"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0003489",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007383.htm",
+        "Focus": "Scoliosis surgery - child",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Spinal curvature surgery - child",
+                    "Kyphoscoliosis surgery - child",
+                    "Video-assisted thoracoscopic surgery - child",
+                    "VATS - child"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003489-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Scoliosis surgery - child"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0001308",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000033.htm",
+        "Focus": "Dysarthria - care",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0580931",
+                        "C0013362"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T048",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001308-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Dysarthria - care ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

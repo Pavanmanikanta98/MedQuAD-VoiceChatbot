@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0004277",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003289.htm",
+        "Focus": "Webbing of the fingers or toes",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Syndactyly",
+                    "Polysyndactyly"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004277-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Webbing of the fingers or toes"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "Document": {
+        "@id": "0000416",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000094.htm",
+        "Focus": "Being active when you have heart disease",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0018799"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Heart disease - activity"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000416-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Being active when you have heart disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000416-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Being active when you have heart disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000416-4",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Being active when you have heart disease ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

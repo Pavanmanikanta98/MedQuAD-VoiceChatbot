@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0000697",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002951.htm",
+        "Focus": "Carotid artery surgery",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Carotid endarterectomy",
+                    "CAS surgery",
+                    "Carotid artery stenosis - surgery",
+                    "Endarterectomy - carotid artery"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000697-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Carotid artery surgery"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

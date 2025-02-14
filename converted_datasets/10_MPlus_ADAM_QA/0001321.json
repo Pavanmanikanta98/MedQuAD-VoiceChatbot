@@ -1,0 +1,75 @@
+{
+    "Document": {
+        "@id": "0001321",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003304.htm",
+        "Focus": "Ear tag",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1835147"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Preauricular tag",
+                    "Preauricular pit"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001321-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Ear tag ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001321-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Ear tag ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001321-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Ear tag ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001321-4",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Ear tag ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001321-5",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Ear tag ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

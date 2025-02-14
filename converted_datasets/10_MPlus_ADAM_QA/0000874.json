@@ -1,0 +1,75 @@
+{
+    "Document": {
+        "@id": "0000874",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003317.htm",
+        "Focus": "Cloudy cornea",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1856661"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Corneal opacification",
+                    "Corneal edema"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000874-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Cloudy cornea ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000874-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Cloudy cornea ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000874-3",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Cloudy cornea ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000874-4",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Cloudy cornea ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000874-5",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Cloudy cornea ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

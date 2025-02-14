@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0002985",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000059.htm",
+        "Focus": "Pelvic (between the hips) radiation - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Radiation - pelvis - discharge"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002985-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Pelvic (between the hips) radiation - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

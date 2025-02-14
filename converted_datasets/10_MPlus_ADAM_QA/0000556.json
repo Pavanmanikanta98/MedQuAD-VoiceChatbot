@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0000556",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000633.htm",
+        "Focus": "Breast milk - pumping and storing",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Milk - human",
+                    "Human milk",
+                    "Milk - breast",
+                    "Breast pump information"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000556-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Breast milk - pumping and storing"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

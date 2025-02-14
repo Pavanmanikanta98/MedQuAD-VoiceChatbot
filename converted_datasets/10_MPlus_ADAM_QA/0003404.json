@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0003404",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000518.htm",
+        "Focus": "Returning to sports after a back injury",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0004601"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003404-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Returning to sports after a back injury ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

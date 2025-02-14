@@ -1,0 +1,87 @@
+{
+    "Document": {
+        "@id": "0000575",
+        "@source": "MPlusDrugs",
+        "@url": "https://www.nlm.nih.gov/medlineplus/druginfo/meds/a695003.html",
+        "Focus": "Hepatitis A Vaccine",
+        "FocusAnnotations": {
+            "Category": "Drug"
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000575-1",
+                        "@qtype": "information",
+                        "#text": "What is Hepatitis A Vaccine ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000575-2",
+                        "@qtype": "indication",
+                        "#text": "Who should get Hepatitis A Vaccine and why is it prescribed ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000575-3",
+                        "@qtype": "contraindication",
+                        "#text": "Who should not get Hepatitis A Vaccine and what are its contraindications ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000575-4",
+                        "@qtype": "side effects",
+                        "#text": "What are the side effects or risks of Hepatitis A Vaccine ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000575-5",
+                        "@qtype": "severe reaction",
+                        "#text": "What to do in case of a severe reaction to Hepatitis A Vaccine ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000575-7",
+                        "@qtype": "how can i learn more",
+                        "#text": "How can I learn more about Hepatitis A Vaccine ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000575-8",
+                        "@qtype": "brand names",
+                        "#text": "What are the brand names of Hepatitis A Vaccine ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000575-9",
+                        "@qtype": "brand names of combination products",
+                        "#text": "What are the brand names of combination products of Hepatitis A Vaccine ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

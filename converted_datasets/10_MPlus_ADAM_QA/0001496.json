@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0001496",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003461.htm",
+        "Focus": "Extremity x-ray",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001496-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Extremity x-ray"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

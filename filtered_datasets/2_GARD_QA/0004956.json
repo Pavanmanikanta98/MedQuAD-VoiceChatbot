@@ -1,0 +1,16 @@
+[
+    {
+        "question": "What is (are) Polymicrogyria ?",
+        "answer": "Polymicrogyria is a condition characterized by abnormal development of the brain before birth. Specifically, the surface of the brain develops too many folds which are unusually small. The signs and symptoms associated with the condition vary based on how much of the brain and which areas of the brain are affected; however, affected people may experience recurrent seizures (epilepsy); delayed development; crossed eyes; problems with speech and swallowing; and muscle weakness or paralysis. Bilateral forms (affecting both sides of the brain) tend to cause more severe neurological problems. Polymicrogyria can result from both genetic and environmental causes. It may occur as an isolated finding or as part of a syndrome. Treatment is based on the signs and symptoms present in each person.",
+        "qtype": "information",
+        "focus": "Polymicrogyria",
+        "synonyms": [
+            "Bilateral frontal polymicrogyria",
+            "Bilateral frontoparietal polymicrogyria",
+            "Bilateral generalized polymicrogyria",
+            "Bilateral parasagittal parieto-occipital polymicrogyria",
+            "Bilateral perisylvian polymicrogyria"
+        ],
+        "semantic_group": "Disorders"
+    }
+]

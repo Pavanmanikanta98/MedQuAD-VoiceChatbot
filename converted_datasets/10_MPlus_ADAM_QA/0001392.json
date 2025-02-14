@@ -1,0 +1,51 @@
+{
+    "Document": {
+        "@id": "0001392",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001626.htm",
+        "Focus": "Endophthalmitis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0014236"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001392-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Endophthalmitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001392-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Endophthalmitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001392-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Endophthalmitis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

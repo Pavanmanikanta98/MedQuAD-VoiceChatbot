@@ -1,0 +1,60 @@
+{
+    "Document": {
+        "@id": "0000927",
+        "@source": "MPlusDrugs",
+        "@url": "https://www.nlm.nih.gov/medlineplus/druginfo/meds/a682685.html",
+        "Focus": "Oxytocin Injection",
+        "FocusAnnotations": {
+            "Category": "Drug"
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000927-1",
+                        "@qtype": "other information",
+                        "#text": "What other information should I know about Oxytocin Injection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000927-2",
+                        "@qtype": "precautions",
+                        "#text": "Are there safety concerns or special precautions about Oxytocin Injection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000927-4",
+                        "@qtype": "side effects",
+                        "#text": "What are the side effects or risks of Oxytocin Injection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000927-5",
+                        "@qtype": "storage and disposal",
+                        "#text": "What should I know about storage and disposal of Oxytocin Injection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000927-7",
+                        "@qtype": "brand names",
+                        "#text": "What are the brand names of Oxytocin Injection ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

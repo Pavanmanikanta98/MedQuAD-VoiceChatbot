@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0003326",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000735.htm",
+        "Focus": "Radiation therapy - skin care",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003326-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Radiation therapy - skin care"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

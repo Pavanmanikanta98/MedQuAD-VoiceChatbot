@@ -1,0 +1,104 @@
+{
+    "Document": {
+        "@id": "0002320",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000276.htm",
+        "Focus": "Lactose intolerance",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0022951"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Lactase deficiency",
+                    "Milk intolerance",
+                    "Disaccharidase deficiency",
+                    "Dairy product intolerance"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002320-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Lactose intolerance ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002320-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Lactose intolerance ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002320-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Lactose intolerance ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002320-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Lactose intolerance ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002320-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Lactose intolerance ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002320-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Lactose intolerance ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002320-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Lactose intolerance ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002320-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Lactose intolerance ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

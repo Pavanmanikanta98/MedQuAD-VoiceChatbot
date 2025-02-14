@@ -1,0 +1,40 @@
+{
+    "Document": {
+        "@id": "0002330",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000151.htm",
+        "Focus": "Large bowel resection - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Ascending colectomy - discharge",
+                    "Descending colectomy - discharge",
+                    "Transverse colectomy - discharge",
+                    "Right hemicolectomy - discharge",
+                    "Left hemicolectomy - discharge",
+                    "Hand assisted bowel surgery - discharge",
+                    "Low anterior resection - discharge",
+                    "Sigmoid colectomy - discharge",
+                    "Subtotal colectomy - discharge",
+                    "Proctocolectomy - discharge",
+                    "Colon resection - discharge",
+                    "Laparoscopic colectomy - discharge",
+                    "Colectomy - partial - discharge",
+                    "Abdominal perineal resection - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002330-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Large bowel resection - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

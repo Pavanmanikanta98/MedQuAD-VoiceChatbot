@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0000199",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003464.htm",
+        "Focus": "Amylase - blood",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000199-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Amylase - blood"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

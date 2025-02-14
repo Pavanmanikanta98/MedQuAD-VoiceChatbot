@@ -1,0 +1,38 @@
+{
+    "Document": {
+        "@id": "0003317",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000666.htm",
+        "Focus": "Questions to ask your doctor after knee replacement",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C2186386"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "What to ask your doctor after knee replacement",
+                    "Knee replacement - after - what to ask your doctor",
+                    "Knee arthroplasty - after - what to ask your doctor"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003317-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Questions to ask your doctor after knee replacement ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

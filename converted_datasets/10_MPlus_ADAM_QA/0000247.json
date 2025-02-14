@@ -1,0 +1,118 @@
+{
+    "Document": {
+        "@id": "0000247",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001519.htm",
+        "Focus": "Anorectal abscess",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0000833",
+                        "C0267567"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Anal abscess",
+                    "Rectal abscess",
+                    "Perirectal abscess",
+                    "Perianal abscess",
+                    "anal gland abscess",
+                    "Abscess - anorectal"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000247-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Anorectal abscess ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000247-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Anorectal abscess ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000247-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Anorectal abscess ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000247-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Anorectal abscess ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000247-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Anorectal abscess ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000247-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Anorectal abscess ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000247-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Anorectal abscess ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000247-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Anorectal abscess ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000247-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Anorectal abscess ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

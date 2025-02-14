@@ -1,0 +1,72 @@
+{
+    "Document": {
+        "@id": "0003790",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007649.htm",
+        "Focus": "Surgery for pancreatic cancer",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0346647",
+                        "C0235974"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Pancreaticoduodenectomy",
+                    "Whipple procedure",
+                    "Open distal pancreatectomy and splenectomy",
+                    "Laparoscopic distal pancreatectomy",
+                    "Lancreaticogastrostomy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003790-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Surgery for pancreatic cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003790-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Surgery for pancreatic cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003790-4",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Surgery for pancreatic cancer? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003790-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Surgery for pancreatic cancer ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

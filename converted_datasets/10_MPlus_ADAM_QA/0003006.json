@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0003006",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003820.htm",
+        "Focus": "Percutaneous transhepatic cholangiogram",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "PTCA",
+                    "Cholangiogram - PTCA",
+                    "PTC",
+                    "PBD-Precutaneous Biliary drainage"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003006-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Percutaneous transhepatic cholangiogram"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "Document": {
+        "@id": "0000592",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000007.htm",
+        "Focus": "Bronchiolitis - discharge",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0006271"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000592-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Bronchiolitis - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000592-2",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Bronchiolitis - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000592-3",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Bronchiolitis - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000592-6",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Bronchiolitis - discharge ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

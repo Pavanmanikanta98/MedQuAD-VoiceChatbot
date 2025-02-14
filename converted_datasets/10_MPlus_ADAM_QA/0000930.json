@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000930",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003354.htm",
+        "Focus": "Complement component 4",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "C4"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000930-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Complement component 4"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

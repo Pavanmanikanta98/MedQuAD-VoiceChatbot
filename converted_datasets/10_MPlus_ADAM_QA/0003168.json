@@ -1,0 +1,51 @@
+{
+    "Document": {
+        "@id": "0003168",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000555.htm",
+        "Focus": "Postherpetic neuralgia - aftercare",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0032768"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003168-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Postherpetic neuralgia - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003168-2",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Postherpetic neuralgia - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003168-6",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Postherpetic neuralgia - aftercare ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

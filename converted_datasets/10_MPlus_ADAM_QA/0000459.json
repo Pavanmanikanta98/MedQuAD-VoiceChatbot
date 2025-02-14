@@ -1,0 +1,124 @@
+{
+    "Document": {
+        "@id": "0000459",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000828.htm",
+        "Focus": "Birthmarks - pigmented",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0265974"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T019"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Nevus sebaceous",
+                    "Hairy nevus",
+                    "Nevi",
+                    "Mole",
+                    "Cafe-au-lait spots",
+                    "Congenital nevus"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000459-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Birthmarks - pigmented ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000459-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Birthmarks - pigmented ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000459-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Birthmarks - pigmented ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000459-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Birthmarks - pigmented ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000459-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Birthmarks - pigmented ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000459-6",
+                        "@qtype": "support groups",
+                        "#text": "Where to find support for people with Birthmarks - pigmented ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000459-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Birthmarks - pigmented ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000459-8",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Birthmarks - pigmented ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000459-9",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Birthmarks - pigmented ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "10",
+                    "Question": {
+                        "@qid": "0000459-10",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Birthmarks - pigmented ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

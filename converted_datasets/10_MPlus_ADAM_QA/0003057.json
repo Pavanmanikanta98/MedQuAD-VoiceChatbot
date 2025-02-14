@@ -1,0 +1,99 @@
+{
+    "Document": {
+        "@id": "0003057",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000655.htm",
+        "Focus": "Pharyngitis - sore throat",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0031350",
+                        "C0242429"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T047",
+                        "T184"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Pharyngitis - bacterial",
+                    "Sore throat"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003057-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Pharyngitis - sore throat ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003057-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Pharyngitis - sore throat ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003057-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Pharyngitis - sore throat ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003057-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Pharyngitis - sore throat ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003057-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Pharyngitis - sore throat ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003057-6",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Pharyngitis - sore throat ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003057-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Pharyngitis - sore throat ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

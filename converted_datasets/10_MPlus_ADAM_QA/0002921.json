@@ -1,0 +1,54 @@
+{
+    "Document": {
+        "@id": "0002921",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001637.htm",
+        "Focus": "Palatal myoclonus",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0030214"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Palatal tremor"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002921-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Palatal myoclonus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002921-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Palatal myoclonus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002921-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Palatal myoclonus ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

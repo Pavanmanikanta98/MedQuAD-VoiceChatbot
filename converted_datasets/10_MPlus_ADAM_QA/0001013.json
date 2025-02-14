@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001013",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000011.htm",
+        "Focus": "CPR - infant",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Rescue breathing and chest compressions - infant",
+                    "Resuscitation - cardiopulmonary - infant",
+                    "Cardiopulmonary resuscitation - infant"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001013-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about CPR - infant"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

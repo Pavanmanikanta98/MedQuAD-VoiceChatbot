@@ -1,0 +1,51 @@
+{
+    "Document": {
+        "@id": "0001786",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007421.htm",
+        "Focus": "H1N1 influenza (Swine flu)",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0021400",
+                        "C2076600"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Swine flu",
+                    "H1N1 type A influenza"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001786-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) H1N1 influenza (Swine flu) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001786-2",
+                        "@qtype": "causes",
+                        "#text": "What causes H1N1 influenza (Swine flu) ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

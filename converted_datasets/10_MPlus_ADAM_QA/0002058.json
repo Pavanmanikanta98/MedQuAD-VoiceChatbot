@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0002058",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002999.htm",
+        "Focus": "Hydrocele repair",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Hydrocelectomy"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002058-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Hydrocele repair"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

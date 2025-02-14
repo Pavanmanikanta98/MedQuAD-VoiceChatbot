@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0002043",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007599.htm",
+        "Focus": "HPV (Human Papillomavirus) Gardasil Vaccine - What You Need to Know",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0021344"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T005"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002043-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) HPV (Human Papillomavirus) Gardasil Vaccine - What You Need to Know ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002043-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) HPV (Human Papillomavirus) Gardasil Vaccine - What You Need to Know ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

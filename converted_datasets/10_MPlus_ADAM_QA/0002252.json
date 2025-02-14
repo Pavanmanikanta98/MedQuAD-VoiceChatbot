@@ -1,0 +1,54 @@
+{
+    "Document": {
+        "@id": "0002252",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007491.htm",
+        "Focus": "Jaundice causes",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C2203646",
+                        "C0022346"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T046",
+                        "T184"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Causes of jaundice",
+                    "Cholestasis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002252-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Jaundice causes ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002252-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Jaundice causes ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "Document": {
+        "@id": "0000662",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000912.htm",
+        "Focus": "Cancer treatment - early menopause",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0025322"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Premature menopause",
+                    "Primary ovarian insufficiency",
+                    "POI"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000662-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Cancer treatment - early menopause ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000662-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Cancer treatment - early menopause ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000662-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Cancer treatment - early menopause ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

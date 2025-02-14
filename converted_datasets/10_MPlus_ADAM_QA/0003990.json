@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0003990",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002331.htm",
+        "Focus": "Toxins",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003990-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Toxins"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

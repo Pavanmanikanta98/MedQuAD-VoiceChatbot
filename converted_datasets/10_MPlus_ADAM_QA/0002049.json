@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0002049",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002104.htm",
+        "Focus": "Humidifiers and health",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Health and humidifiers",
+                    "Using a humidifier for colds",
+                    "Humidifiers and colds"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002049-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Humidifiers and health"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

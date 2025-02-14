@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0001220",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000206.htm",
+        "Focus": "Diet - full liquid",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1304698"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Full liquid diet"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001220-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Diet - full liquid ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

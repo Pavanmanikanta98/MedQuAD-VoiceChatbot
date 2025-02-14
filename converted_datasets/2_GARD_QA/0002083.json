@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0002083",
+        "@source": "GARD",
+        "@url": "https://rarediseases.info.nih.gov/gard/6332/encephalitis-lethargica",
+        "Focus": "Encephalitis lethargica",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0014040"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Von Economos disease"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002083-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Encephalitis lethargica ?"
+                },
+                "Answer": "Encephalitis lethargica is a disease characterized by high fever, headache, double vision, delayed physical and mental response, extreme tiredness (lethargy), and sometimes coma. Patients may also experience abnormal eye movements, upper body weakness, muscule pain, tremors, neck rigidity, and behavioral changes including psychosis. A world-wide epidemic of encephalitis lethargica occurred from 1917 to 1928. The cause of this condition is unknown, and treatment depends on a person's symptoms. Levodopa and other antiparkinson drugs often produce dramatic responses."
+            }
+        }
+    }
+}

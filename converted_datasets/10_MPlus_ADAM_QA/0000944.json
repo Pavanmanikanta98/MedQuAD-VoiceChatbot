@@ -1,0 +1,93 @@
+{
+    "Document": {
+        "@id": "0000944",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003205.htm",
+        "Focus": "Confusion",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C1963086",
+                        "C0009676",
+                        "C0683369"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T048",
+                        "T033",
+                        "T184"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Disorientation",
+                    "Thinking - unclear",
+                    "Thoughts - cloudy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000944-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Confusion ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000944-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Confusion ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000944-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Confusion ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000944-4",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Confusion ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000944-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Confusion ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000944-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Confusion ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

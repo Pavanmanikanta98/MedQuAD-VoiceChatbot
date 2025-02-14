@@ -1,0 +1,73 @@
+{
+    "Document": {
+        "@id": "0002978",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002949.htm",
+        "Focus": "Pectus excavatum repair",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0016842"
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T019",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Funnel chest repair",
+                    "Chest deformity repair",
+                    "Sunken chest repair",
+                    "Cobbler's chest repair",
+                    "Nuss repair",
+                    "Ravitch repair"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002978-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Pectus excavatum repair ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002978-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Pectus excavatum repair ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002978-4",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Pectus excavatum repair? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002978-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Pectus excavatum repair ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

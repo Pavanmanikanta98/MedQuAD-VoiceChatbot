@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0000023",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003777.htm",
+        "Focus": "Abdominal ultrasound",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Ultrasound - abdomen",
+                    "Abdominal sonogram",
+                    "Right upper quadrant sonogram"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000023-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Abdominal ultrasound"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

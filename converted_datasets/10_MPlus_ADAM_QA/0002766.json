@@ -1,0 +1,49 @@
+{
+    "Document": {
+        "@id": "0002766",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003409.htm",
+        "Focus": "Neonatal cystic fibrosis screening test",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0016059"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T046"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Cystic fibrosis screening - neonatal",
+                    "Immunoreactive trypsinogen",
+                    "IRT test"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002766-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Neonatal cystic fibrosis screening test ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002766-7",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Neonatal cystic fibrosis screening test? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

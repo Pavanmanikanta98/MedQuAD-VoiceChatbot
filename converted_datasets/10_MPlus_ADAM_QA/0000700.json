@@ -1,0 +1,45 @@
+{
+    "Document": {
+        "@id": "0000700",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003925.htm",
+        "Focus": "Carpal tunnel biopsy",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0007286"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Biopsy - carpal tunnel"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000700-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Carpal tunnel biopsy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000700-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Carpal tunnel biopsy? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

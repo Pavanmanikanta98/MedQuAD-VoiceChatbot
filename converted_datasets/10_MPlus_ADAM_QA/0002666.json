@@ -1,0 +1,51 @@
+{
+    "Document": {
+        "@id": "0002666",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003454.htm",
+        "Focus": "Mononucleosis spot test",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0021345"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Monospot test",
+                    "Heterophile antibody test",
+                    "Heterophile agglutination test",
+                    "Paul-Bunnell test",
+                    "Forssman antibody test"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002666-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Mononucleosis spot test ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002666-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Mononucleosis spot test? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

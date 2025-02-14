@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0000405",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000020.htm",
+        "Focus": "Bathing an infant",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Bathing safety tips",
+                    "Infant bathing",
+                    "Newborn bathing",
+                    "Bathing your newborn baby"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000405-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Bathing an infant"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0000382",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000541.htm",
+        "Focus": "Baby supplies you need",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000382-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Baby supplies you need"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

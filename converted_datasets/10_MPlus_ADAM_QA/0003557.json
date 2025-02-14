@@ -1,0 +1,60 @@
+{
+    "Document": {
+        "@id": "0003557",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000560.htm",
+        "Focus": "Shingles - aftercare",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0019360"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003557-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Shingles - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003557-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Shingles - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003557-3",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Shingles - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003557-6",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Shingles - aftercare ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

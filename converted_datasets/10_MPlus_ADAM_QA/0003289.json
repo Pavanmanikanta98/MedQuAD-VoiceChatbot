@@ -1,0 +1,108 @@
+{
+    "Document": {
+        "@id": "0003289",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001090.htm",
+        "Focus": "Pulmonary arteriovenous fistula",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0155675"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T190"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Arteriovenous malformation - pulmonary"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003289-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Pulmonary arteriovenous fistula ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003289-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Pulmonary arteriovenous fistula ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003289-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Pulmonary arteriovenous fistula ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003289-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Pulmonary arteriovenous fistula ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003289-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Pulmonary arteriovenous fistula ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003289-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Pulmonary arteriovenous fistula ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003289-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Pulmonary arteriovenous fistula ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003289-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Pulmonary arteriovenous fistula ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0003289-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Pulmonary arteriovenous fistula ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

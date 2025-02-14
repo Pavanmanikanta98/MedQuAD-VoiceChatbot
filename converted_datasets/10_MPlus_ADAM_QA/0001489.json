@@ -1,0 +1,57 @@
+{
+    "Document": {
+        "@id": "0001489",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001610.htm",
+        "Focus": "Exfoliative dermatitis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0011606"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Erythroderma",
+                    "Dermatitis exfoliativa"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001489-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Exfoliative dermatitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001489-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Exfoliative dermatitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001489-3",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Exfoliative dermatitis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

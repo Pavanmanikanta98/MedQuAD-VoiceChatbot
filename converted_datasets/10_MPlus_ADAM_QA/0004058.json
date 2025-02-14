@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0004058",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007563.htm",
+        "Focus": "Turbinate surgery",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Turbinectomy",
+                    "Turbinoplasty",
+                    "Turbinate reduction",
+                    "Nasal airway surgery"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004058-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Turbinate surgery"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

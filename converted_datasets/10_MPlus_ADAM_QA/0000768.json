@@ -1,0 +1,96 @@
+{
+    "Document": {
+        "@id": "0000768",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000059.htm",
+        "Focus": "Chemical burn or reaction",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C2136657",
+                        "C0006435"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T037",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Burn from chemicals"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000768-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Chemical burn or reaction ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000768-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Chemical burn or reaction ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000768-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Chemical burn or reaction ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000768-4",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Chemical burn or reaction ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000768-5",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Chemical burn or reaction ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000768-6",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Chemical burn or reaction ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000768-7",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Chemical burn or reaction ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

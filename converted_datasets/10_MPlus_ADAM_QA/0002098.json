@@ -1,0 +1,108 @@
+{
+    "Document": {
+        "@id": "0002098",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001195.htm",
+        "Focus": "Hypogonadism",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0020619"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Gonadal deficiency"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002098-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hypogonadism ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002098-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Hypogonadism ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002098-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Hypogonadism ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002098-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Hypogonadism ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002098-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Hypogonadism ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002098-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Hypogonadism ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002098-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Hypogonadism ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002098-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Hypogonadism ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002098-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Hypogonadism ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

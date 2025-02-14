@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0000639",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002910.htm",
+        "Focus": "Calcium hydroxide poisoning",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Hydrate - calcium",
+                    "Lime milk",
+                    "Slaked lime"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000639-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Calcium hydroxide poisoning"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "Document": {
+        "@id": "0004332",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000568.htm",
+        "Focus": "Wrist sprain - aftercare",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0160063"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Scapho-lunate ligament sprain - aftercare"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004332-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Wrist sprain - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004332-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Wrist sprain - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0004332-3",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Wrist sprain - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0004332-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Wrist sprain - aftercare ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

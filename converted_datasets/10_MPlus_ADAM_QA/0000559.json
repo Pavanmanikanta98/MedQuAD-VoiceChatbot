@@ -1,0 +1,89 @@
+{
+    "Document": {
+        "@id": "0000559",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003152.htm",
+        "Focus": "Breast pain",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0024902",
+                        "C0553713"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Pain - breast",
+                    "Mastalgia",
+                    "Mastodynia",
+                    "Breast tenderness"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000559-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Breast pain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000559-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Breast pain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000559-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Breast pain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000559-4",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Breast pain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000559-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Breast pain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000559-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Breast pain ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

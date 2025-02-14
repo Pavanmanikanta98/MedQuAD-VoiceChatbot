@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000965",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001947.htm",
+        "Focus": "Consumer rights and responsibilities",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Health care consumer's rights",
+                    "Rights of the health care consumer"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000965-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Consumer rights and responsibilities"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

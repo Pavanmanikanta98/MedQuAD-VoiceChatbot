@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0000772",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002324.htm",
+        "Focus": "Chemotherapy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Cancer chemotherapy",
+                    "Cancer drug therapy",
+                    "Cytotoxic chemotherapy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000772-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Chemotherapy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

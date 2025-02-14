@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0003462",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002687.htm",
+        "Focus": "Sassafras oil overdose",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003462-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Sassafras oil overdose"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

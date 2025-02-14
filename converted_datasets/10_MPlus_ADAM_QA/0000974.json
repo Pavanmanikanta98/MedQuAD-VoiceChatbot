@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000974",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003344.htm",
+        "Focus": "Coombs test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Direct antiglobulin test",
+                    "Indirect antiglobulin test"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000974-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Coombs test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

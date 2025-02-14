@@ -1,0 +1,108 @@
+{
+    "Document": {
+        "@id": "0002071",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000330.htm",
+        "Focus": "Hyperaldosteronism - primary and secondary",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0020428",
+                        "C0027627"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T191",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Conn syndrome",
+                    "Mineralocorticoid excess"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002071-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hyperaldosteronism - primary and secondary ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002071-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Hyperaldosteronism - primary and secondary ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002071-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Hyperaldosteronism - primary and secondary ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002071-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Hyperaldosteronism - primary and secondary ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002071-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Hyperaldosteronism - primary and secondary ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002071-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Hyperaldosteronism - primary and secondary ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002071-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Hyperaldosteronism - primary and secondary ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002071-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Hyperaldosteronism - primary and secondary ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0004018",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000588.htm",
+        "Focus": "Traumatic events and children",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004018-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Traumatic events and children"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

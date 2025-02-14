@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0001912",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002372.htm",
+        "Focus": "Hemolysis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0019054"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T046"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001912-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hemolysis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001912-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hemolysis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

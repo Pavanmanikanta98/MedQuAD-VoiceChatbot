@@ -1,0 +1,72 @@
+{
+    "Document": {
+        "@id": "0002063",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002499.htm",
+        "Focus": "Hydrofluoric acid poisoning",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0161695"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Fluorhydric acid"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002063-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hydrofluoric acid poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002063-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Hydrofluoric acid poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002063-5",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Hydrofluoric acid poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002063-8",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Hydrofluoric acid poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002063-9",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Hydrofluoric acid poisoning ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

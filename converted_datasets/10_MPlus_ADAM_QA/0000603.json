@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000603",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003414.htm",
+        "Focus": "Buccal smear",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Sex chromatin test",
+                    "Buccal swab"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000603-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Buccal smear"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

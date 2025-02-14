@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002333",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007398.htm",
+        "Focus": "Laryngectomy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Complete laryngectomy",
+                    "Partial laryngectomy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002333-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Laryngectomy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

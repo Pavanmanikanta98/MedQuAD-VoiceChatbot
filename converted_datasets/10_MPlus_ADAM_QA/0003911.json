@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0003911",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007442.htm",
+        "Focus": "Thoracic spine CT scan",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "CAT scan - thoracic spine",
+                    "Computed axial tomography scan - thoracic spine",
+                    "Computed tomography scan - thoracic spine",
+                    "CT scan - upper back"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003911-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Thoracic spine CT scan"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

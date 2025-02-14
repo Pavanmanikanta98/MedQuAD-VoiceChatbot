@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0000713",
+        "@source": "MPlusHealthTopics",
+        "@url": "https://www.nlm.nih.gov/medlineplus/pinkeye.html",
+        "Focus": "Pinkeye",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C1261274",
+                        "C1313983"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Conjunctivitis"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000713-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Pinkeye ?"
+                },
+                "Answer": "Conjunctivitis is the medical name for pink eye. It involves inflammation of the outer layer of the eye and inside of the eyelid. It can cause swelling, itching, burning, discharge, and redness. Causes include        - Bacterial or viral infection    - Allergies     - Substances that cause irritation    - Contact lens products, eye drops, or eye ointments       Pinkeye usually does not affect vision. Infectious pink eye can easily spread from one person to another. The infection will clear in most cases without medical care, but bacterial pinkeye needs treatment with antibiotic eye drops or ointment.    NIH: National Eye Institute"
+            }
+        }
+    }
+}

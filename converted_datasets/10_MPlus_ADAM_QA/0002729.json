@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0002729",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003247.htm",
+        "Focus": "Nail abnormalities",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Beau's lines",
+                    "Fingernail abnormalities",
+                    "Spoon nails",
+                    "Onycholysis",
+                    "Leukonychia",
+                    "Koilonychia",
+                    "Brittle nails"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002729-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Nail abnormalities"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "Document": {
+        "@id": "0000797",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000660.htm",
+        "Focus": "Chlamydia infections in women",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0008149"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000797-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Chlamydia infections in women ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000797-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Chlamydia infections in women ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000797-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Chlamydia infections in women ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000797-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Chlamydia infections in women ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000797-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Chlamydia infections in women ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000797-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Chlamydia infections in women ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000797-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Chlamydia infections in women ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

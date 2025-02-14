@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0002407",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007113.htm",
+        "Focus": "Lithotripsy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Extracorporeal shock wave lithotripsy",
+                    "Shock wave lithotripsy",
+                    "Laser lithotripsy",
+                    "Percutaneous lithotripsy",
+                    "Endoscopic lithotripsy",
+                    "ESWL",
+                    "Renal calculi-lithotripsy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002407-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Lithotripsy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

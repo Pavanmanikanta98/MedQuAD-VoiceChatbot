@@ -1,0 +1,54 @@
+{
+    "Document": {
+        "@id": "0001763",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003749.htm",
+        "Focus": "Gram stain of urethral discharge",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0152447"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Urethral discharge Gram stain"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001763-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Gram stain of urethral discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001763-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Gram stain of urethral discharge? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0001763-9",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Gram stain of urethral discharge ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

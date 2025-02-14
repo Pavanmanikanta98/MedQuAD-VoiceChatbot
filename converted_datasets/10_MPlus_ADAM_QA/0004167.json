@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0004167",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007663.htm",
+        "Focus": "Uvulopalatopharyngoplasty (UPPP)",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Palate surgery",
+                    "Uvulopalatal flap procedure",
+                    "UPPP",
+                    "Laser-assisted uvulopalaplasty",
+                    "Radiofrequency palatoplasty",
+                    "Velopharyngeal insufficiency - UPPP",
+                    "Obstructive sleep apnea - uvulopalaplasty",
+                    "OSA - uvulopalaplasty"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004167-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Uvulopalatopharyngoplasty (UPPP)"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0004149",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000450.htm",
+        "Focus": "Use of restraints",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Restraint devices"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004149-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Use of restraints"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0002867",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003785.htm",
+        "Focus": "Orbit CT scan",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "CT scan - orbital",
+                    "Eye CT scan",
+                    "Computed tomography scan - orbit"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002867-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Orbit CT scan"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

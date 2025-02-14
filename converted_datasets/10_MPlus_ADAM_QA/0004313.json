@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0004313",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003237.htm",
+        "Focus": "Whiteheads",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0302302"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T046"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004313-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Whiteheads ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

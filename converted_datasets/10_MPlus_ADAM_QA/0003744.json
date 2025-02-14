@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0003744",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000768.htm",
+        "Focus": "Stress and your heart",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0038435"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Coronary heart disease - stress",
+                    "Coronary artery disease - stress"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003744-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Stress and your heart ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003744-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Stress and your heart ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

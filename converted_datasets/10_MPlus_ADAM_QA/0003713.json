@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0003713",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000513.htm",
+        "Focus": "Steps to take before you get pregnant",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0549206"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003713-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Steps to take before you get pregnant ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "Document": {
+        "@id": "0003128",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000011.htm",
+        "Focus": "Pneumonia - children - discharge",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0032285"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003128-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Pneumonia - children - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003128-2",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Pneumonia - children - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003128-3",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Pneumonia - children - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003128-6",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Pneumonia - children - discharge ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

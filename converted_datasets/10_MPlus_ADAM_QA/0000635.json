@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0000635",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003477.htm",
+        "Focus": "Calcium blood test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Ca+2",
+                    "Serum calcium",
+                    "Ca++",
+                    "Hyperparathyroidism - calcium level",
+                    "Osteoporosis - calcium level",
+                    "Hypercalcemia - calcium level",
+                    "Hypocalcemia - calcium level"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000635-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Calcium blood test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

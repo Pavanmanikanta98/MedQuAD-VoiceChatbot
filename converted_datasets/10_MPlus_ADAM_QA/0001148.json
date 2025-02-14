@@ -1,0 +1,78 @@
+{
+    "Document": {
+        "@id": "0001148",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003213.htm",
+        "Focus": "Depression - overview",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0349217",
+                        "C0011570",
+                        "C0011581",
+                        "C0344315",
+                        "C1579931"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T048",
+                        "T033",
+                        "T184"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Blues",
+                    "Gloom",
+                    "Sadness",
+                    "Melancholy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001148-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Depression - overview ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001148-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Depression - overview ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001148-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Depression - overview ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001148-4",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Depression - overview ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002408",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003895.htm",
+        "Focus": "Liver biopsy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Biopsy - liver",
+                    "Percutaneous biopsy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002408-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Liver biopsy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

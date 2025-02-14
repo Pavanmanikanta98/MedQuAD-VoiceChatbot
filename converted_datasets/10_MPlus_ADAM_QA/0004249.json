@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0004249",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002407.htm",
+        "Focus": "Vitamin K",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Phylloquinone",
+                    "K1",
+                    "Menaquinone",
+                    "K2",
+                    "Menadione",
+                    "K3"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004249-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Vitamin K"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

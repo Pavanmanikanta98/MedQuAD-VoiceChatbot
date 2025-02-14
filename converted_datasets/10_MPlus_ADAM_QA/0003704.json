@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0003704",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003434.htm",
+        "Focus": "Standard ophthalmic exam",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Routine eye examination",
+                    "Eye exam - standard",
+                    "Annual eye exam"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003704-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Standard ophthalmic exam"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

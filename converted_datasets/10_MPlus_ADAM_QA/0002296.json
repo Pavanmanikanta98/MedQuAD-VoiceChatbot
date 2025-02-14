@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0002296",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000372.htm",
+        "Focus": "Knee braces - unloading",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Unloading brace"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002296-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Knee braces - unloading"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

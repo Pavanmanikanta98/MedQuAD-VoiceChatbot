@@ -1,0 +1,39 @@
+{
+    "Document": {
+        "@id": "0001223",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002096.htm",
+        "Focus": "Diet and cancer",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0599009"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Fiber and cancer",
+                    "Cancer and fiber",
+                    "Nitrates and cancer",
+                    "Cancer and nitrates"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001223-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Diet and cancer ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

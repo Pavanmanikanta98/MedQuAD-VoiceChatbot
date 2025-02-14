@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001430",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000483.htm",
+        "Focus": "Episiotomy - aftercare",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Perineal laceration - aftercare",
+                    "Vaginal birth perineal tear - aftercare",
+                    "Postpartum care - episiotomy - aftercare"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001430-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Episiotomy - aftercare"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

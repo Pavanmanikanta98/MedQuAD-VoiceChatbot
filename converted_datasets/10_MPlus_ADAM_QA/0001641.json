@@ -1,0 +1,102 @@
+{
+    "Document": {
+        "@id": "0001641",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000036.htm",
+        "Focus": "Foreign object - inhaled or swallowed",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0016542"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Obstructed airway",
+                    "Blocked airway"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001641-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Foreign object - inhaled or swallowed ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001641-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Foreign object - inhaled or swallowed ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001641-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Foreign object - inhaled or swallowed ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001641-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Foreign object - inhaled or swallowed ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001641-5",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Foreign object - inhaled or swallowed ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001641-6",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Foreign object - inhaled or swallowed ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001641-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Foreign object - inhaled or swallowed ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001641-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Foreign object - inhaled or swallowed ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

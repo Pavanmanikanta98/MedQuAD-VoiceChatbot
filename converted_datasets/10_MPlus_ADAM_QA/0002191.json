@@ -1,0 +1,117 @@
+{
+    "Document": {
+        "@id": "0002191",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001065.htm",
+        "Focus": "Injury - kidney and ureter",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C3263723"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Kidney damage",
+                    "Toxic injury of the kidney",
+                    "Kidney injury",
+                    "Traumatic injury of the kidney",
+                    "Fractured kidney",
+                    "Inflammatory injury of the kidney",
+                    "Bruised kidney",
+                    "Ureteral injury"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002191-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Injury - kidney and ureter ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002191-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Injury - kidney and ureter ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002191-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Injury - kidney and ureter ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002191-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Injury - kidney and ureter ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002191-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Injury - kidney and ureter ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002191-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Injury - kidney and ureter ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002191-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Injury - kidney and ureter ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002191-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Injury - kidney and ureter ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002191-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Injury - kidney and ureter ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

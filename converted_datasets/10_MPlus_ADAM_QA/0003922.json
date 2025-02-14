@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0003922",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000626.htm",
+        "Focus": "Thrush - children and adults",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Candidiasis - oral",
+                    "Oral thrush",
+                    "Fungal infection - mouth",
+                    "Candida - oral"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003922-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Thrush - children and adults"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

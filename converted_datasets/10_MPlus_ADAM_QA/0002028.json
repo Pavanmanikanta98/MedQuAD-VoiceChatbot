@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0002028",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000017.htm",
+        "Focus": "How to make a sling",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Sling - instructions"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002028-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about How to make a sling"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

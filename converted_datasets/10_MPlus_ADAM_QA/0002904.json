@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0002904",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002123.htm",
+        "Focus": "Over-the-counter pain relievers",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Medications for painnon-narcotic",
+                    "Drugs for pain non-narcotic",
+                    "Analgesics",
+                    "Acetaminophen",
+                    "NSAID",
+                    "Nonsteroidal anti-inflammatory drug",
+                    "Pain medicine - over-the-counter",
+                    "Pain medicine - OTC"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002904-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Over-the-counter pain relievers"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

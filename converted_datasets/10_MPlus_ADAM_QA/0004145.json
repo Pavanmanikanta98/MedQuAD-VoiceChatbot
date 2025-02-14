@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0004145",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003325.htm",
+        "Focus": "Uroflowmetry",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Uroflow"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004145-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Uroflowmetry"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

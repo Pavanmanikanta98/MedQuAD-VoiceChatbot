@@ -1,0 +1,57 @@
+{
+    "Document": {
+        "@id": "0002312",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000716.htm",
+        "Focus": "Labyrinthitis - aftercare",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0022893",
+                        "C0022890"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Bacterial labyrinthitis - aftercare",
+                    "Serous labyrinthitis - aftercare",
+                    "Neuronitis - vestibular - aftercare",
+                    "Vestibular neuronitis - aftercare",
+                    "Viral neurolabyrinthitis - aftercare",
+                    "Vestibular neuritis vertigo - aftercare",
+                    "Labyrinthitis - dizziness - aftercare",
+                    "Labyrinthitis - vertigo - aftercare"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002312-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Labyrinthitis - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002312-4",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Labyrinthitis - aftercare ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

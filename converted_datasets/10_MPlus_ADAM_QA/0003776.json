@@ -1,0 +1,68 @@
+{
+    "Document": {
+        "@id": "0003776",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000798.htm",
+        "Focus": "Substance use - prescription drugs",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0237123"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T048"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Substance use disorder - prescription drugs",
+                    "Substance abuse - prescription drugs",
+                    "Drug abuse - prescription drugs",
+                    "Drug use - prescription drugs"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003776-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Substance use - prescription drugs ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003776-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Substance use - prescription drugs ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003776-4",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Substance use - prescription drugs ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003776-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Substance use - prescription drugs ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

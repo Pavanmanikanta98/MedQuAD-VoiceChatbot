@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003539",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003352.htm",
+        "Focus": "Serum herpes simplex antibodies",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Herpes serology",
+                    "HSV blood test"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003539-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Serum herpes simplex antibodies"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

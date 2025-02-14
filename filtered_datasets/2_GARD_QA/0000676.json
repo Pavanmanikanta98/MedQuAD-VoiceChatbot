@@ -1,0 +1,58 @@
+[
+    {
+        "question": "What is (are) Bell's palsy ?",
+        "answer": "Bell's palsy is a form of temporary facial paralysis which results from damage or trauma to one of the facial nerves. This disorder is characterized by the sudden onset of facial paralysis that often affects just one side and can cause significant facial distortion. Symptoms vary, but may include twitching, weakness, drooping eyelid or corner of the mouth, drooling, dry eye or mouth, impairment of taste, and excessive tearing in the eye. While the exact cause is unknown, many researchers believe that a virus may lead to swelling of the 7th cranial nerve. Steroids, such as prednisone, may reduce the inflammation and swelling. Other medications used to treat Bell's palsy include acyclovir (to fight viral infections) and aspirin, acetaminophen, or ibuprofen (to relieve pain). Physical therapy, facial massage and acupuncture have also been used.",
+        "qtype": "information",
+        "focus": "Bell's palsy",
+        "synonyms": [
+            "Facial palsy",
+            "Facial cranial nerve paralysis",
+            "Bell palsy",
+            "Antoni's palsy",
+            "Facial nerve palsy"
+        ],
+        "semantic_group": "Disorders"
+    },
+    {
+        "question": "What are the symptoms of Bell's palsy ?",
+        "answer": "What are the symptoms of Bell's palsy?",
+        "qtype": "symptoms",
+        "focus": "Bell's palsy",
+        "synonyms": [
+            "Facial palsy",
+            "Facial cranial nerve paralysis",
+            "Bell palsy",
+            "Antoni's palsy",
+            "Facial nerve palsy"
+        ],
+        "semantic_group": "Disorders"
+    },
+    {
+        "question": "What causes Bell's palsy ?",
+        "answer": "What causes Bell's palsy?",
+        "qtype": "causes",
+        "focus": "Bell's palsy",
+        "synonyms": [
+            "Facial palsy",
+            "Facial cranial nerve paralysis",
+            "Bell palsy",
+            "Antoni's palsy",
+            "Facial nerve palsy"
+        ],
+        "semantic_group": "Disorders"
+    },
+    {
+        "question": "What are the treatments for Bell's palsy ?",
+        "answer": "How might Bell's palsy be treated?",
+        "qtype": "treatment",
+        "focus": "Bell's palsy",
+        "synonyms": [
+            "Facial palsy",
+            "Facial cranial nerve paralysis",
+            "Bell palsy",
+            "Antoni's palsy",
+            "Facial nerve palsy"
+        ],
+        "semantic_group": "Disorders"
+    }
+]

@@ -1,0 +1,6 @@
+xmltodict
+pandas
+peft
+transformers
+torch
+sklearn

@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0004138",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000142.htm",
+        "Focus": "Urine drainage bags",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Leg bag"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004138-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Urine drainage bags"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

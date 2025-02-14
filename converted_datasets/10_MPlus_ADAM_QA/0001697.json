@@ -1,0 +1,51 @@
+{
+    "Document": {
+        "@id": "0001697",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000333.htm",
+        "Focus": "Gastrostomy feeding tube - pump - child",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0743845"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Feeding - gastrostomy tube - pump",
+                    "G-tube - pump",
+                    "Gastrostomy button - pump",
+                    "Bard Button - pump",
+                    "MIC-KEY - pump"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001697-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Gastrostomy feeding tube - pump - child ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001697-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Gastrostomy feeding tube - pump - child ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

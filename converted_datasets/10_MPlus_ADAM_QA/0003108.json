@@ -1,0 +1,47 @@
+{
+    "Document": {
+        "@id": "0003108",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002044.htm",
+        "Focus": "Plaque and tartar on teeth",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0011330",
+                        "C0241148",
+                        "C0333463",
+                        "C0332461",
+                        "C0011389"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T047",
+                        "T033",
+                        "T020"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Tartar and plaque on teeth",
+                    "Calculus"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003108-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Plaque and tartar on teeth ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

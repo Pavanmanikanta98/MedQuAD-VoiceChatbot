@@ -1,0 +1,58 @@
+{
+    "Document": {
+        "@id": "0002288",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000135.htm",
+        "Focus": "Kidney stones - self-care",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0022650"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Renal calculi - self-care",
+                    "Nephrolithiasis - self-care",
+                    "Stones - kidney - self-care"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002288-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Kidney stones - self-care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002288-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Kidney stones - self-care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002288-6",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Kidney stones - self-care ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

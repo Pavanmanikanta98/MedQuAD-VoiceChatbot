@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0001869",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007188.htm",
+        "Focus": "Heart disease and women",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0018799"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "CAD - women",
+                    "Coronary artery disease - women"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001869-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Heart disease and women ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

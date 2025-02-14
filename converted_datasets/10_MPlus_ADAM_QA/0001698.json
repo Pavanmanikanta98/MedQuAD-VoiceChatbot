@@ -1,0 +1,111 @@
+{
+    "Document": {
+        "@id": "0001698",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000564.htm",
+        "Focus": "Gaucher disease",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0017205"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Glucocerebrosidase deficiency",
+                    "Glucosylceramidase deficiency"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001698-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Gaucher disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001698-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Gaucher disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001698-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Gaucher disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001698-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Gaucher disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001698-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Gaucher disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001698-6",
+                        "@qtype": "support groups",
+                        "#text": "Where to find support for people with Gaucher disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001698-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Gaucher disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001698-8",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Gaucher disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0001698-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Gaucher disease ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

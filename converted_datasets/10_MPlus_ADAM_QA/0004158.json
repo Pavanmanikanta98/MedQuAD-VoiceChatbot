@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0004158",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000175.htm",
+        "Focus": "Using your shoulder after surgery",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Shoulder surgery - using your shoulder",
+                    "Shoulder surgery - after"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004158-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Using your shoulder after surgery"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

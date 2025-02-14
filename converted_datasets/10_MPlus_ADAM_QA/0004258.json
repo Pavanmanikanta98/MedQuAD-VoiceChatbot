@@ -1,0 +1,96 @@
+{
+    "Document": {
+        "@id": "0004258",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000544.htm",
+        "Focus": "Von Willebrand disease",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0042974"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004258-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Von Willebrand disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004258-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Von Willebrand disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0004258-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Von Willebrand disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0004258-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Von Willebrand disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0004258-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Von Willebrand disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0004258-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Von Willebrand disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0004258-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Von Willebrand disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0004258-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Von Willebrand disease ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

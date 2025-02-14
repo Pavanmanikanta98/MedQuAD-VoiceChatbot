@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0000461",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002887.htm",
+        "Focus": "Black nightshade poisoning",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Nightshade poisoning",
+                    "Morelle noire poisoning",
+                    "Wonderberry poisoning"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000461-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Black nightshade poisoning"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

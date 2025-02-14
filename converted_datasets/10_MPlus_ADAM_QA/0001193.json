@@ -1,0 +1,45 @@
+{
+    "Document": {
+        "@id": "0001193",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000323.htm",
+        "Focus": "Diabetes eye exams",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0011860",
+                        "C0011849"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001193-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Diabetes eye exams ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001193-3",
+                        "@qtype": "information",
+                        "#text": "What is (are) Diabetes eye exams ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

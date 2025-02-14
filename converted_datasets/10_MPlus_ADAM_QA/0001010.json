@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001010",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000010.htm",
+        "Focus": "CPR",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Cardiopulmonary resuscitation"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001010-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about CPR"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

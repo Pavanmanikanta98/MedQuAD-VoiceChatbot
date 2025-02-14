@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0001458",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007396.htm",
+        "Focus": "Esophagectomy - minimally invasive",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Minimally invasive esophagectomy",
+                    "Robotic esophagectomy",
+                    "Removal of the esophagus - minimally invasive",
+                    "Achalasia - esophagectomy",
+                    "Barrett esophagus - esophagectomy",
+                    "Esophageal cancer - esophagectomy - laparoscopic",
+                    "Cancer of the esophagus -esophagectomy - laparoscopic"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001458-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Esophagectomy - minimally invasive"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

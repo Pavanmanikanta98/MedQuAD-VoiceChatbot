@@ -1,0 +1,60 @@
+{
+    "Document": {
+        "@id": "0002487",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001216.htm",
+        "Focus": "Macroamylasemia",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0853030"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002487-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Macroamylasemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002487-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Macroamylasemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002487-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Macroamylasemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002487-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Macroamylasemia ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

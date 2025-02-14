@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001053",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003526.htm",
+        "Focus": "CSF coccidioides complement fixation test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Coccidioides antibody test - spinal fluid"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001053-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about CSF coccidioides complement fixation test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

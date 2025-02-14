@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0001863",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007344.htm",
+        "Focus": "Heart CT scan",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "CAT scan - heart",
+                    "Computed axial tomography scan - heart",
+                    "Computed tomography scan - heart",
+                    "Calcium scoring",
+                    "Multi-detector CT scan - heart",
+                    "Electron beam computed tomography - heart",
+                    "Agaston score",
+                    "Coronary calcium scan"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001863-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Heart CT scan"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

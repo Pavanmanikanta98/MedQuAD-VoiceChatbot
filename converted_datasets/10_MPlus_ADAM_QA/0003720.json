@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0003720",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007626.htm",
+        "Focus": "Sternal exploration or closure",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "VAC- vacuum-assisted closure - sternal wound",
+                    "Sternal dehiscence",
+                    "Sternal infection"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003720-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Sternal exploration or closure"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

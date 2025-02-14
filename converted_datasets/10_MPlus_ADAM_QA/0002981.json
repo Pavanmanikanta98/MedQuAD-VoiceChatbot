@@ -1,0 +1,103 @@
+{
+    "Document": {
+        "@id": "0002981",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007660.htm",
+        "Focus": "Pediatric sleep apnea",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C2118104"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Sleep apnea - pediatric",
+                    "Apnea - pediatric sleep apnea syndrome",
+                    "Sleep-disordered breathing - pediatric"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002981-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Pediatric sleep apnea ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002981-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Pediatric sleep apnea ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002981-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Pediatric sleep apnea ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002981-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Pediatric sleep apnea ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002981-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Pediatric sleep apnea ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002981-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Pediatric sleep apnea ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002981-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Pediatric sleep apnea ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002981-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Pediatric sleep apnea ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

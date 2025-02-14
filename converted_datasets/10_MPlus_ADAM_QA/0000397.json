@@ -1,0 +1,103 @@
+{
+    "Document": {
+        "@id": "0000397",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001143.htm",
+        "Focus": "Barrett esophagus",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0004763"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Barrett's esophagus",
+                    "GERD - Barrett",
+                    "Reflux - Barrett"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000397-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Barrett esophagus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000397-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Barrett esophagus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000397-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Barrett esophagus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000397-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Barrett esophagus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000397-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Barrett esophagus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000397-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Barrett esophagus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000397-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Barrett esophagus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000397-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Barrett esophagus ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

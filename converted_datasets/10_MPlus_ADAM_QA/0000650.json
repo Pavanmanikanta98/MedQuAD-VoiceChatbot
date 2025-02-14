@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000650",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002566.htm",
+        "Focus": "Camphor overdose",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Vicks VapoRub overdose"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000650-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Camphor overdose"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

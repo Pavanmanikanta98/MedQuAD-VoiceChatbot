@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0000219",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000184.htm",
+        "Focus": "Anesthesia - what to ask your doctor - child",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C2219802"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "What to ask your doctor about anesthesia - child"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000219-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Anesthesia - what to ask your doctor - child ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

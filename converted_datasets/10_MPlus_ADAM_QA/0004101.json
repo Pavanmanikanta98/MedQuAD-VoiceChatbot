@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0004101",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007593.htm",
+        "Focus": "Ureteroscopy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Ureteral stone surgery",
+                    "Kidney stone- ureteroscopy",
+                    "Ureteral stone removal - ureteroscopy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004101-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Ureteroscopy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

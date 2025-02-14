@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0002427",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000327.htm",
+        "Focus": "Long term complications of diabetes",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0342257"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T046"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002427-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Long term complications of diabetes ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

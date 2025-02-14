@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0003716",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007577.htm",
+        "Focus": "Stereotactic radiosurgery - Gamma Knife",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Stereotactic radiotherapy",
+                    "Stereotactic radiosurgery",
+                    "SRT",
+                    "Fractionated stereotactic radiotherapy",
+                    "SRS",
+                    "Gamma Knife",
+                    "Gamma Knife radiosurgery",
+                    "Non-invasive neurosugery"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003716-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Stereotactic radiosurgery - Gamma Knife"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

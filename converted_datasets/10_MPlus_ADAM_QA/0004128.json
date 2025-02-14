@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0004128",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003146.htm",
+        "Focus": "Urination - excessive amount",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Polyuria"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004128-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Urination - excessive amount"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "Document": {
+        "@id": "0003579",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000062.htm",
+        "Focus": "Signs of an asthma attack",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0311392",
+                        "C0347950"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T047",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003579-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Signs of an asthma attack ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003579-2",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Signs of an asthma attack ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003579-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Signs of an asthma attack ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

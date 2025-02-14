@@ -1,0 +1,87 @@
+{
+    "Document": {
+        "@id": "0002092",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003071.htm",
+        "Focus": "Hyperventilation",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0020578"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Rapid deep breathing",
+                    "Breathing - rapid and deep",
+                    "Overbreathing",
+                    "Fast deep breathing",
+                    "Respiratory rate - rapid and deep"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002092-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hyperventilation ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002092-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Hyperventilation ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002092-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Hyperventilation ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002092-4",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Hyperventilation ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002092-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Hyperventilation ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002092-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Hyperventilation ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

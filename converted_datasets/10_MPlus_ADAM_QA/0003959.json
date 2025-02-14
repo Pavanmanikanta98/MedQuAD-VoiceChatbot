@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0003959",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003447.htm",
+        "Focus": "Tonometry",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Intraocular pressure (IOP) measurement",
+                    "Glaucoma test",
+                    "Goldmann applanation tonometry (GAT)"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003959-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Tonometry"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

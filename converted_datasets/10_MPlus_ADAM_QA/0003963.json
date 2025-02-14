@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0003963",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003013.htm",
+        "Focus": "Tonsillectomy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Tonsils removal",
+                    "Tonsillitis - tonsillectomy",
+                    "Pharyngitis - tonsillectomy",
+                    "Sore throat - tonsillectomy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003963-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Tonsillectomy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

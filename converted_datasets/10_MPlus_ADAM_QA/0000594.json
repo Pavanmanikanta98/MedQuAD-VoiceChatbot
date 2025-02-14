@@ -1,0 +1,112 @@
+{
+    "Document": {
+        "@id": "0000594",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001088.htm",
+        "Focus": "Bronchopulmonary dysplasia",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0006287"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "BPD",
+                    "Chronic lung disease - children",
+                    "CLD - children"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000594-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Bronchopulmonary dysplasia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000594-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Bronchopulmonary dysplasia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000594-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Bronchopulmonary dysplasia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000594-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Bronchopulmonary dysplasia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000594-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Bronchopulmonary dysplasia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000594-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Bronchopulmonary dysplasia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000594-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Bronchopulmonary dysplasia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000594-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Bronchopulmonary dysplasia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000594-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Bronchopulmonary dysplasia ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001800",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003672.htm",
+        "Focus": "Ham test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Acid hemolysin test"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001800-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Ham test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

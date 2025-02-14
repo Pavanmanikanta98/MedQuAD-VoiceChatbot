@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0001123",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000621.htm",
+        "Focus": "Delivery presentations",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C2053584"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001123-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Delivery presentations ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

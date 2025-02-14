@@ -1,0 +1,72 @@
+{
+    "Document": {
+        "@id": "0001915",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003270.htm",
+        "Focus": "Hemolytic crisis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0302110"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T049"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Hemolysis - acute"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001915-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hemolytic crisis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001915-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Hemolytic crisis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001915-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Hemolytic crisis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001915-4",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Hemolytic crisis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001915-5",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Hemolytic crisis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0000576",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003069.htm",
+        "Focus": "Breathing - slowed or stopped",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Respiration slowed or stopped",
+                    "Not breathing",
+                    "Respiratory arrest",
+                    "Apnea"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000576-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Breathing - slowed or stopped"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

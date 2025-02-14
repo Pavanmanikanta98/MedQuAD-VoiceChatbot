@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0000026",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003815.htm",
+        "Focus": "Abdominal x-ray",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Abdominal film",
+                    "X-ray - abdomen",
+                    "Flat plate",
+                    "KUB x-ray"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000026-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Abdominal x-ray"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

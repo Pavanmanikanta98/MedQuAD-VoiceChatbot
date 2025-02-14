@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0000108",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000629.htm",
+        "Focus": "After vaginal delivery - in the hospital",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0566690",
+                        "C2114516"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "After vaginal birth"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000108-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) After vaginal delivery - in the hospital ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000108-2",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for After vaginal delivery - in the hospital ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

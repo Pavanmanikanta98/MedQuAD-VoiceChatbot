@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000517",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003808.htm",
+        "Focus": "Bone x-ray",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "X-ray - bone"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000517-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Bone x-ray"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

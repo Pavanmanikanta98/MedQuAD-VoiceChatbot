@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0002368",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000018.htm",
+        "Focus": "Leg or foot amputation - dressing change",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002368-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Leg or foot amputation - dressing change"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

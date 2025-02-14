@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0000935",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000597.htm",
+        "Focus": "Compression stockings",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Compression hose",
+                    "Pressure stockings",
+                    "Support stockings",
+                    "Gradient stockings"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000935-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Compression stockings"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

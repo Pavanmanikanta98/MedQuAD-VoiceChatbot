@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0002830",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001934.htm",
+        "Focus": "Nurse practitioner (NP)",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002830-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Nurse practitioner (NP)"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

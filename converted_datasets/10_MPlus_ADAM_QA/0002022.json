@@ -1,0 +1,58 @@
+{
+    "Document": {
+        "@id": "0002022",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000865.htm",
+        "Focus": "How to avoid overheating during exercise",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0018843"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Heat exhaustion",
+                    "Heat cramps",
+                    "Heatstroke"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002022-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) How to avoid overheating during exercise ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002022-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of How to avoid overheating during exercise ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002022-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for How to avoid overheating during exercise ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0003072",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003478.htm",
+        "Focus": "Phosphorus blood test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Phosphorus - serum",
+                    "HPO4-2",
+                    "PO4-3",
+                    "Inorganic phosphate",
+                    "Serum phosphorus"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003072-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Phosphorus blood test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "Document": {
+        "@id": "0003196",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000512.htm",
+        "Focus": "Premature rupture of membranes",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C2114497",
+                        "C0015944"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T046",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "PROM",
+                    "PPROM"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003196-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Premature rupture of membranes ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0004305",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000626.htm",
+        "Focus": "When your baby is stillborn",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Stillbirth"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004305-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about When your baby is stillborn"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

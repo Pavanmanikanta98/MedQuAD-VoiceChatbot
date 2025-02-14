@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0003513",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001476.htm",
+        "Focus": "Selective deficiency of IgA",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "IgA deficiency"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003513-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Selective deficiency of IgA"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

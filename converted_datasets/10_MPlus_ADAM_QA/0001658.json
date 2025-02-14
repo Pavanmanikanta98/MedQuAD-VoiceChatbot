@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0001658",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002788.htm",
+        "Focus": "Furniture polish poisoning",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001658-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Furniture polish poisoning"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0003318",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000665.htm",
+        "Focus": "Questions to ask your doctor before knee replacement",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C2186386"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003318-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Questions to ask your doctor before knee replacement ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

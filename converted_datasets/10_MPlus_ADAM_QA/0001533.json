@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001533",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003681.htm",
+        "Focus": "Factor XII assay",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Hageman factor assay"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001533-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Factor XII assay"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

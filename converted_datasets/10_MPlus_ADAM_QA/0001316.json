@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001316",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003763.htm",
+        "Focus": "Ear drainage culture",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Culture - ear drainage"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001316-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Ear drainage culture"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "Document": {
+        "@id": "0000755",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002034.htm",
+        "Focus": "Chafing",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1405994"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Skin irritation from rubbing"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000755-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Chafing ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000755-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Chafing ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

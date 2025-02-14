@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0003631",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002943.htm",
+        "Focus": "Small bowel resection",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Small intestine surgery",
+                    "Bowel resection - small intestine",
+                    "Resection of part of the small intestine",
+                    "Enterectomy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003631-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Small bowel resection"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0002796",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000257.htm",
+        "Focus": "Newborn jaundice - what to ask your doctor",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0022353"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Jaundice - what to ask your doctor",
+                    "What to ask your doctor about newborn jaundice"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002796-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Newborn jaundice - what to ask your doctor ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

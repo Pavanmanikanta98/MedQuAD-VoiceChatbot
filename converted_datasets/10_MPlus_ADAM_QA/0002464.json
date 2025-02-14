@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0002464",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007289.htm",
+        "Focus": "Lung plethysmography",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Pulmonary plethysmography",
+                    "Static lung volume determination",
+                    "Whole-body plethysmography"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002464-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Lung plethysmography"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "Document": {
+        "@id": "0000500",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000838.htm",
+        "Focus": "Body lice",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0030758"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Lice - body",
+                    "Pediculosis corporis",
+                    "Vagabond disease"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000500-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Body lice ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000500-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Body lice ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000500-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Body lice ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000500-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Body lice ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000500-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Body lice ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000500-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Body lice ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000500-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Body lice ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000500-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Body lice ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000500-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Body lice ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

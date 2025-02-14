@@ -1,0 +1,99 @@
+{
+    "Document": {
+        "@id": "0002946",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000938.htm",
+        "Focus": "Paranoid personality disorder",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0030477"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T048"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Personality disorder - paranoid"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002946-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Paranoid personality disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002946-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Paranoid personality disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002946-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Paranoid personality disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002946-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Paranoid personality disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002946-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Paranoid personality disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002946-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Paranoid personality disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002946-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Paranoid personality disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002946-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Paranoid personality disorder ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

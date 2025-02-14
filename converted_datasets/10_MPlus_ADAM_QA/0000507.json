@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000507",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000839.htm",
+        "Focus": "Bone marrow (stem cell) donation",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Stem cell transplant",
+                    "Allogeneic-donation"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000507-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Bone marrow (stem cell) donation"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

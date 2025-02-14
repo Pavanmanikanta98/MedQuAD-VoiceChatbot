@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0003789",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000145.htm",
+        "Focus": "Suprapubic catheter care",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "SPT"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003789-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Suprapubic catheter care"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

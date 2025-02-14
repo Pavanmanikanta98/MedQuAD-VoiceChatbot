@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0002620",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007480.htm",
+        "Focus": "Methamphetamine overdose",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Intoxication - amphetamines",
+                    "Intoxication - uppers",
+                    "Amphetamine intoxication",
+                    "Uppers overdose",
+                    "Overdose - methamphetamine",
+                    "Crank overdose",
+                    "Meth overdose",
+                    "Crystal meth overdose",
+                    "Speed overdose",
+                    "Ice overdose",
+                    "MDMA overdose"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002620-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Methamphetamine overdose"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

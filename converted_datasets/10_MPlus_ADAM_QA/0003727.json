@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0003727",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002854.htm",
+        "Focus": "Stonefish sting",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003727-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Stonefish sting"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

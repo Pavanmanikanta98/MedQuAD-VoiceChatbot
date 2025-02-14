@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000562",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007403.htm",
+        "Focus": "Breast reconstruction - implants",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Breast implants surgery"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000562-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Breast reconstruction - implants"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

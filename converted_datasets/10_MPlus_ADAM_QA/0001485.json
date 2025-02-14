@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0001485",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000036.htm",
+        "Focus": "Exercise-induced asthma",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0004099"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001485-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Exercise-induced asthma ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

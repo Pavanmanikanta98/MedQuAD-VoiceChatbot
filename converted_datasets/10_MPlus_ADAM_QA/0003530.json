@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0003530",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007659.htm",
+        "Focus": "Serogroup B Meningococcal vaccine (MenB) - What you need to know",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003530-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Serogroup B Meningococcal vaccine (MenB) - What you need to know"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

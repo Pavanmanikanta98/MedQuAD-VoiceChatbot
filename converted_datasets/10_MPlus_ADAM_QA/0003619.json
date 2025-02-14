@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0003619",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003281.htm",
+        "Focus": "Skin turgor",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Doughy skin",
+                    "Poor skin turgor",
+                    "Good skin turgor",
+                    "Decreased skin turgor"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003619-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Skin turgor"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

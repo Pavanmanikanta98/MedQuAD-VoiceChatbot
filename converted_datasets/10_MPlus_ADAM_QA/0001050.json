@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0001050",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003385.htm",
+        "Focus": "CSD skin test",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001050-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about CSD skin test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

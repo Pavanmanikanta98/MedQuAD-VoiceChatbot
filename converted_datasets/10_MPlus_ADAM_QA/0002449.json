@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002449",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007352.htm",
+        "Focus": "Lumbar MRI scan",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Magnetic resonance imaging - lumbar spine",
+                    "MRI - lower back"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002449-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Lumbar MRI scan"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

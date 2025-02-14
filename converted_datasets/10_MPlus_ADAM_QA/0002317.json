@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0002317",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003471.htm",
+        "Focus": "Lactate dehydrogenase test",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0456984"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "LDH test",
+                    "Lactic acid dehydrogenase test"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002317-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Lactate dehydrogenase test ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002317-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Lactate dehydrogenase test? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

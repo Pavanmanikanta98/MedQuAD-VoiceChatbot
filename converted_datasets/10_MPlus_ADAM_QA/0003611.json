@@ -1,0 +1,45 @@
+{
+    "Document": {
+        "@id": "0003611",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003761.htm",
+        "Focus": "Skin lesion KOH exam",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0037284"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Potassium hydroxide examination of skin lesion"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003611-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Skin lesion KOH exam ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003611-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Skin lesion KOH exam? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0001511",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003033.htm",
+        "Focus": "Eyes - bulging",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Protruding eyes",
+                    "Exophthalmos",
+                    "Proptosis",
+                    "Bulging eyes"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001511-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Eyes - bulging"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

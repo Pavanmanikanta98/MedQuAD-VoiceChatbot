@@ -1,0 +1,80 @@
+{
+    "Document": {
+        "@id": "0002531",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000952.htm",
+        "Focus": "Marijuana intoxication",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0006872"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Cannabis intoxication",
+                    "Intoxication - marijuana (cannabis)",
+                    "Pot",
+                    "Mary Jane",
+                    "Weed",
+                    "Grass",
+                    "Cannabis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002531-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Marijuana intoxication ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002531-2",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Marijuana intoxication ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002531-3",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Marijuana intoxication ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002531-4",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Marijuana intoxication ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002531-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Marijuana intoxication ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

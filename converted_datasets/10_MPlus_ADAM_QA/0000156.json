@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0000156",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000547.htm",
+        "Focus": "Allergic rhinitis - self-care",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C2607914"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Hay fever - self-care",
+                    "Seasonal rhinitis - self-care"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000156-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Allergic rhinitis - self-care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000156-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Allergic rhinitis - self-care ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

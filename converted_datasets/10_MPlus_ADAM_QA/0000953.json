@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0000953",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000582.htm",
+        "Focus": "Congenital platelet function defects",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Platelet storage pool disorder",
+                    "Glanzmann's thrombasthenia",
+                    "Bernard-Soulier syndrome",
+                    "Platelet function defects - congenital"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000953-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Congenital platelet function defects"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

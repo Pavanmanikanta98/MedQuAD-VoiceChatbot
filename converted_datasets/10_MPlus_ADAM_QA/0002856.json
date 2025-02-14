@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0002856",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003881.htm",
+        "Focus": "Ophthalmoscopy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Funduscopy"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002856-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Ophthalmoscopy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

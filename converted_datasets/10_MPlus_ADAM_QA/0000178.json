@@ -1,0 +1,112 @@
+{
+    "Document": {
+        "@id": "0000178",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000760.htm",
+        "Focus": "Alzheimer disease",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0002395"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Senile dementia - Alzheimer type (SDAT)",
+                    "SDAT",
+                    "Dementia - Alzheimer"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000178-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Alzheimer disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000178-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Alzheimer disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000178-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Alzheimer disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000178-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Alzheimer disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000178-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Alzheimer disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000178-6",
+                        "@qtype": "support groups",
+                        "#text": "Where to find support for people with Alzheimer disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000178-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Alzheimer disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000178-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Alzheimer disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000178-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Alzheimer disease ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

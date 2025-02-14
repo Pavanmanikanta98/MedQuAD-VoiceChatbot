@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0000896",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002070.htm",
+        "Focus": "Colds and flus - antibiotics",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0009443",
+                        "C0021400"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Antibiotics - colds and flu"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000896-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Colds and flus - antibiotics ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000896-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Colds and flus - antibiotics ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

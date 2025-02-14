@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0002527",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000603.htm",
+        "Focus": "Managing your weight gain during pregnancy",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C2197034"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002527-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Managing your weight gain during pregnancy ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

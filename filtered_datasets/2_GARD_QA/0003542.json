@@ -1,0 +1,13 @@
+[
+    {
+        "question": "What is (are) Lentigo maligna melanoma ?",
+        "answer": "Lentigo maligna melanoma (LMM) is a type of skin cancer that usually develops in older, fair-skinned adults.  The average age of diagnosis is 65.  LMM is thought to be caused by a history of sun exposure to the affected area.  Treatment includes surgery to remove as much of the LMM as possible.",
+        "qtype": "information",
+        "focus": "Lentigo maligna melanoma",
+        "synonyms": [
+            "LMM",
+            "Hutchison melanotic freckle"
+        ],
+        "semantic_group": "Disorders"
+    }
+]

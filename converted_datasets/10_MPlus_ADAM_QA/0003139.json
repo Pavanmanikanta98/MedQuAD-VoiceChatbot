@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0003139",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002851.htm",
+        "Focus": "Poisoning - fish and shellfish",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Fish poisoning",
+                    "Dinoflagellate poisoning",
+                    "Seafood contamination",
+                    "Paralytic shellfish poisoning",
+                    "Ciguatera poisoning"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003139-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Poisoning - fish and shellfish"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

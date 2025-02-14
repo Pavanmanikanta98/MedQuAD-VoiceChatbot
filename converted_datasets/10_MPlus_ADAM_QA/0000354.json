@@ -1,0 +1,110 @@
+{
+    "Document": {
+        "@id": "0000354",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000184.htm",
+        "Focus": "Atrial fibrillation or flutter",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0016385",
+                        "C1963067",
+                        "C0004238"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T046",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Auricular fibrillation",
+                    "A-fib",
+                    "Afib"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000354-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Atrial fibrillation or flutter ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000354-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Atrial fibrillation or flutter ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000354-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Atrial fibrillation or flutter ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000354-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Atrial fibrillation or flutter ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000354-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Atrial fibrillation or flutter ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000354-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Atrial fibrillation or flutter ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000354-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Atrial fibrillation or flutter ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000354-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Atrial fibrillation or flutter ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

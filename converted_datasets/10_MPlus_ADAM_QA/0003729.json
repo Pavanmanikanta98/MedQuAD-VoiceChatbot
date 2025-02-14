@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003729",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003757.htm",
+        "Focus": "Stool Gram stain",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Gram stain of stool",
+                    "Feces Gram stain"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003729-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Stool Gram stain"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

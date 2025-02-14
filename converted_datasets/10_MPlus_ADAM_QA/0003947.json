@@ -1,0 +1,88 @@
+{
+    "Document": {
+        "@id": "0003947",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003043.htm",
+        "Focus": "Tinnitus",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0040264",
+                        "C1963249"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Ringing in the ears",
+                    "Noises or buzzing in the ears",
+                    "Ear buzzing"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003947-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Tinnitus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003947-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Tinnitus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003947-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Tinnitus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003947-4",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Tinnitus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003947-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Tinnitus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003947-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Tinnitus ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

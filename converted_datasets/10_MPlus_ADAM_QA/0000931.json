@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0000931",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003520.htm",
+        "Focus": "Complement fixation test to C burnetii",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000931-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Complement fixation test to C burnetii"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

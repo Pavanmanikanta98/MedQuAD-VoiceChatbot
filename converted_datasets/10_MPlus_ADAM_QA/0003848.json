@@ -1,0 +1,60 @@
+{
+    "Document": {
+        "@id": "0003848",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000873.htm",
+        "Focus": "Talking to your child about smoking",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1519384"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003848-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Talking to your child about smoking ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003848-3",
+                        "@qtype": "information",
+                        "#text": "What is (are) Talking to your child about smoking ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003848-4",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Talking to your child about smoking ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003848-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Talking to your child about smoking ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

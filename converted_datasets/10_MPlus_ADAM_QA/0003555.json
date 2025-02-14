@@ -1,0 +1,81 @@
+{
+    "Document": {
+        "@id": "0003555",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000654.htm",
+        "Focus": "Shin splints - self-care",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1696469"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Lower leg pain - self-care",
+                    "Pain - shins - self-care",
+                    "Anterior tibial pain - self-care",
+                    "Medial tibial stress syndrome - self-care",
+                    "MTSS - self-care",
+                    "Exercise-induced leg pain - self-care",
+                    "Tibial periostitis - self-care",
+                    "Posterior tibial shin splints - self-care"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003555-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Shin splints - self-care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003555-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Shin splints - self-care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003555-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Shin splints - self-care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003555-6",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Shin splints - self-care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003555-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Shin splints - self-care ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

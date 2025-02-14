@@ -1,0 +1,115 @@
+{
+    "Document": {
+        "@id": "0002769",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007303.htm",
+        "Focus": "Neonatal sepsis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C3665339",
+                        "C0456103"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Sepsis neonatorum",
+                    "Neonatal septicemia",
+                    "Sepsis - infant"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002769-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Neonatal sepsis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002769-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Neonatal sepsis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002769-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Neonatal sepsis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002769-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Neonatal sepsis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002769-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Neonatal sepsis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002769-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Neonatal sepsis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002769-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Neonatal sepsis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002769-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Neonatal sepsis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002769-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Neonatal sepsis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

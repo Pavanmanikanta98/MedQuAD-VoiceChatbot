@@ -1,0 +1,70 @@
+{
+    "Document": {
+        "@id": "0000877",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002964.htm",
+        "Focus": "Clubfoot repair",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0009081"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T019"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Repair of clubfoot",
+                    "Posteromedial release",
+                    "Achilles tendon release",
+                    "Clubfoot release",
+                    "Talipes equinovarus - repair",
+                    "Tibialis anterior tendon transfer"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000877-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Clubfoot repair ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000877-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Clubfoot repair ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000877-4",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Clubfoot repair? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000877-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Clubfoot repair ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "Document": {
+        "@id": "0002239",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002659.htm",
+        "Focus": "Iron overdose",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0745404"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Ferrous sulfate overdose",
+                    "Ferrous gluconate overdose",
+                    "Ferrous fumarate overdose"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002239-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Iron overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002239-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Iron overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002239-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Iron overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002239-8",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Iron overdose ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

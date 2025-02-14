@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001633",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000013.htm",
+        "Focus": "Foot amputation - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Amputation - foot - discharge",
+                    "Trans-metatarsal amputation - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001633-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Foot amputation - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

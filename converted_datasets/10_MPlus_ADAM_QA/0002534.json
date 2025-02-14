@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0002534",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000244.htm",
+        "Focus": "Mastectomy - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Breast removal surgery - discharge",
+                    "Nipple-sparing mastectomy - discharge",
+                    "Total mastectomy - discharge",
+                    "Simple mastectomy - discharge",
+                    "Modified radical mastectomy - discharge",
+                    "Breast cancer - mastectomy -discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002534-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Mastectomy - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

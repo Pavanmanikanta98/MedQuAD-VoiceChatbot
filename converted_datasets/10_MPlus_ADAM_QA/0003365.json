@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0003365",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001265.htm",
+        "Focus": "Renal and urological disorders",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0042075"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Urological disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003365-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Renal and urological disorders ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

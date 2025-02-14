@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0003827",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003687.htm",
+        "Focus": "T3 test",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0456984"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Triiodothyronine",
+                    "T3 radioimmunoassay"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003827-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) T3 test ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003827-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for T3 test? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

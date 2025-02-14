@@ -1,0 +1,40 @@
+{
+    "Document": {
+        "@id": "0002329",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002941.htm",
+        "Focus": "Large bowel resection",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Ascending colectomy",
+                    "Descending colectomy",
+                    "Transverse colectomy",
+                    "Right hemicolectomy",
+                    "Left hemicolectomy",
+                    "Hand assisted bowel surgery",
+                    "Low anterior resection",
+                    "Sigmoid colectomy",
+                    "Subtotal colectomy",
+                    "Proctocolectomy",
+                    "Colon resection",
+                    "Laparoscopic colectomy",
+                    "Colectomy - partial",
+                    "Abdominal perineal resection"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002329-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Large bowel resection"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

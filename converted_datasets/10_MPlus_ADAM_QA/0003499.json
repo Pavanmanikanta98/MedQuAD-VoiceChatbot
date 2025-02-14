@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0003499",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002296.htm",
+        "Focus": "Scrotum",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003499-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Scrotum"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

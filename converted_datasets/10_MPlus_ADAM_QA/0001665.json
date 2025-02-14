@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001665",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000117.htm",
+        "Focus": "Gallbladder removal - laparoscopic - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Cholecystectomy - laparoscopic - discharge"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001665-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Gallbladder removal - laparoscopic - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

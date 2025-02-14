@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0001471",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002646.htm",
+        "Focus": "Eucalyptus oil overdose",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001471-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Eucalyptus oil overdose"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

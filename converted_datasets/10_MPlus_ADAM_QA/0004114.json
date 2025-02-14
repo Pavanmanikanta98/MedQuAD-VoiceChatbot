@@ -1,0 +1,73 @@
+{
+    "Document": {
+        "@id": "0004114",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007373.htm",
+        "Focus": "Urinary incontinence - injectable implant",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0332837",
+                        "C0042024"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T037",
+                        "T046"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Intrinsic sphincter deficiency repair",
+                    "ISD repair",
+                    "Injectable bulking agents for stress urinary incontinence"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004114-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Urinary incontinence - injectable implant ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004114-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Urinary incontinence - injectable implant ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0004114-4",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Urinary incontinence - injectable implant? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0004114-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Urinary incontinence - injectable implant ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

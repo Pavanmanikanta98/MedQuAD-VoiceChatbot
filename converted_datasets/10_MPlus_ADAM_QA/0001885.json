@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001885",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003003.htm",
+        "Focus": "Heart transplant",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Cardiac transplant",
+                    "Transplant - heart",
+                    "Transplantation - heart"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001885-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Heart transplant"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "Document": {
+        "@id": "0002994",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000882.htm",
+        "Focus": "Pemphigus vulgaris",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0030809"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002994-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Pemphigus vulgaris ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002994-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Pemphigus vulgaris ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002994-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Pemphigus vulgaris ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002994-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Pemphigus vulgaris ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002994-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Pemphigus vulgaris ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002994-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Pemphigus vulgaris ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002994-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Pemphigus vulgaris ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002994-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Pemphigus vulgaris ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

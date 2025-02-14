@@ -1,0 +1,85 @@
+{
+    "Document": {
+        "@id": "0000417",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003080.htm",
+        "Focus": "Belching",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0014724"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Burping",
+                    "Eructation",
+                    "Gas - belching"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000417-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Belching ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000417-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Belching ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000417-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Belching ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000417-4",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Belching ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000417-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Belching ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000417-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Belching ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0003528",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003012.htm",
+        "Focus": "Septoplasty",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Nasal septum repair"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003528-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Septoplasty"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

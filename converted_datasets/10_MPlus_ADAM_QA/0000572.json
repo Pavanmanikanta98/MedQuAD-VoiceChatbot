@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000572",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003632.htm",
+        "Focus": "Breath alcohol test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Alcohol test - breath"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000572-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Breath alcohol test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

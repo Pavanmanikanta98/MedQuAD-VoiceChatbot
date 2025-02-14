@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0003406",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002192.htm",
+        "Focus": "Reye syndrome - resources",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0035400"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Resources - Reye syndrome"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003406-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Reye syndrome - resources ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

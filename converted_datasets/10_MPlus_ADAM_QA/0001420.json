@@ -1,0 +1,69 @@
+{
+    "Document": {
+        "@id": "0001420",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007485.htm",
+        "Focus": "Epidural injections for back pain",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0004604"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "ESI",
+                    "Spinal injection for back pain",
+                    "Back pain injection",
+                    "Steroid injection - epidural",
+                    "Steroid injection - back"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001420-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Epidural injections for back pain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001420-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Epidural injections for back pain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001420-4",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Epidural injections for back pain? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001420-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Epidural injections for back pain ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

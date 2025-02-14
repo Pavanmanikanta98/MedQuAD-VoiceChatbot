@@ -1,0 +1,84 @@
+{
+    "Document": {
+        "@id": "0004177",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003264.htm",
+        "Focus": "Vaginal bleeding in pregnancy",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C3163625"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Pregnancy - vaginal bleeding",
+                    "Maternal blood loss"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004177-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Vaginal bleeding in pregnancy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004177-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Vaginal bleeding in pregnancy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0004177-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Vaginal bleeding in pregnancy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0004177-4",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Vaginal bleeding in pregnancy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0004177-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Vaginal bleeding in pregnancy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0004177-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Vaginal bleeding in pregnancy ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "Document": {
+        "@id": "0000090",
+        "@source": "MPlusHerbsSupplements",
+        "@url": "https://www.nlm.nih.gov/medlineplus/druginfo/natural/845.html",
+        "Focus": "Spearmint",
+        "FocusAnnotations": {
+            "Category": "Drug"
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000090-1",
+                        "@qtype": "information",
+                        "#text": "What is Spearmint ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000090-2",
+                        "@qtype": "how effective is it",
+                        "#text": "How effective is Spearmint ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000090-3",
+                        "@qtype": "how does it work",
+                        "#text": "What is the action of Spearmint and how does it work ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000090-4",
+                        "@qtype": "precautions",
+                        "#text": "Are there safety concerns or special precautions about Spearmint ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000090-5",
+                        "@qtype": "interactions with medications",
+                        "#text": "Are there interactions between Spearmint and other medications ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000090-6",
+                        "@qtype": "interactions with herbs and supplements",
+                        "#text": "Are there interactions between Spearmint and herbs and supplements ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000090-7",
+                        "@qtype": "interactions with foods",
+                        "#text": "Are there interactions between Spearmint and foods ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000090-8",
+                        "@qtype": "dose",
+                        "#text": "What is the dosage of Spearmint ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

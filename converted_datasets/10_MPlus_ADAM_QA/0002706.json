@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0002706",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002116.htm",
+        "Focus": "Muscle strain treatment",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0080194"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Treatment - muscle strain"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002706-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Muscle strain treatment ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

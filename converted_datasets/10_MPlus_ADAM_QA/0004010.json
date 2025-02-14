@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0004010",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007210.htm",
+        "Focus": "Transjugular intrahepatic portosystemic shunt (TIPS)",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "TIPS"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004010-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Transjugular intrahepatic portosystemic shunt (TIPS)"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

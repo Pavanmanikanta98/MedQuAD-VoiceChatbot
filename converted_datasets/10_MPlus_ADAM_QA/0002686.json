@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002686",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002263.htm",
+        "Focus": "Mucopolysaccharides",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Glycosaminoglycans",
+                    "GAG"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002686-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Mucopolysaccharides"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "Document": {
+        "@id": "0001564",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002937.htm",
+        "Focus": "Feeding tube insertion - gastrostomy",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0546256"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T020"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Gastrostomy tube insertion",
+                    "G-tube insertion",
+                    "PEG tube insertion",
+                    "Stomach tube insertion",
+                    "Percutaneous endoscopic gastrostomy tube insertion"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001564-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Feeding tube insertion - gastrostomy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001564-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Feeding tube insertion - gastrostomy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001564-4",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Feeding tube insertion - gastrostomy? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001564-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Feeding tube insertion - gastrostomy ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0001338",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003869.htm",
+        "Focus": "Echocardiogram",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Transthoracic echocardiogram (TTE)",
+                    "Echocardiogram - transthoracic",
+                    "Doppler ultrasound of the heart",
+                    "Surface echo"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001338-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Echocardiogram"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "Document": {
+        "@id": "0001494",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003397.htm",
+        "Focus": "Extraocular muscle function testing",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0517929"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "EOM",
+                    "Extraocular movement",
+                    "Ocular motility examination"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001494-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Extraocular muscle function testing ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001494-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Extraocular muscle function testing? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0001494-9",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Extraocular muscle function testing ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

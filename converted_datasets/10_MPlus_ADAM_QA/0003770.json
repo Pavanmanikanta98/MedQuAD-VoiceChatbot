@@ -1,0 +1,67 @@
+{
+    "Document": {
+        "@id": "0003770",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000792.htm",
+        "Focus": "Substance use - amphetamines",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0237123"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T048"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Substance abuse - amphetamines",
+                    "Drug abuse - amphetamines",
+                    "Drug use - amphetamines"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003770-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Substance use - amphetamines ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003770-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Substance use - amphetamines ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003770-6",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Substance use - amphetamines ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0003770-9",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Substance use - amphetamines ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

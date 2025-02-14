@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0001436",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007479.htm",
+        "Focus": "ERCP",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Endoscopic retrograde cholangiopancreatography",
+                    "Papillotomy",
+                    "Endoscopic sphincterotomy",
+                    "ERCP"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001436-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about ERCP"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

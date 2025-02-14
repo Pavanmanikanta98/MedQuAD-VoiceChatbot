@@ -1,0 +1,69 @@
+{
+    "Document": {
+        "@id": "0002406",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002667.htm",
+        "Focus": "Lithium toxicity",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0238242"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Eskalith toxicity",
+                    "Lithane toxicity",
+                    "Lithobid toxicity",
+                    "Lithonate toxicity",
+                    "Lithotabs toxicity"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002406-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Lithium toxicity ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002406-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Lithium toxicity ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002406-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Lithium toxicity ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002406-8",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Lithium toxicity ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

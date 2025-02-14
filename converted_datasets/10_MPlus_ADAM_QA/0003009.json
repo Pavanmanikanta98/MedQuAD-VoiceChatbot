@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0003009",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007243.htm",
+        "Focus": "Percutaneously inserted central catheter - infants",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "PICC - infants",
+                    "PQC - infants",
+                    "Pic line - infants",
+                    "Per-Q cath - infants"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003009-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Percutaneously inserted central catheter - infants"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

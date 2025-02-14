@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000717",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003574.htm",
+        "Focus": "CEA blood test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Carcinoembryonic antigen blood test"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000717-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about CEA blood test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

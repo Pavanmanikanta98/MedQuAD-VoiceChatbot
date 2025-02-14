@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0002993",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003809.htm",
+        "Focus": "Pelvis x-ray",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "X-ray - pelvis"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002993-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Pelvis x-ray"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

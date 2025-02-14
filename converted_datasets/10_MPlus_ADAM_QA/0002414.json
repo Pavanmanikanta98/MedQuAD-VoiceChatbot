@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0002414",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003825.htm",
+        "Focus": "Liver scan",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Technetium scan",
+                    "Liver technetium sulfur colloid scan",
+                    "Liver-spleen radionuclide scan",
+                    "Nuclear scan - technetium",
+                    "Nuclear scan - liver or spleen"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002414-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Liver scan"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "Document": {
+        "@id": "0003954",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002558.htm",
+        "Focus": "Tolmetin overdose",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0572201"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Tolectin overdose"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003954-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Tolmetin overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003954-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Tolmetin overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003954-5",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Tolmetin overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003954-8",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Tolmetin overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0003954-9",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Tolmetin overdose ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

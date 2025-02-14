@@ -1,0 +1,66 @@
+{
+    "Document": {
+        "@id": "0004121",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000134.htm",
+        "Focus": "Urinary incontinence surgery - female - discharge",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0021167"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Open retropubic colposuspension - discharge",
+                    "Laparoscopic retropubic colposuspension - discharge",
+                    "Needle suspension - discharge",
+                    "Burch colposuspension vagino-obturator shelf - discharge",
+                    "VOS - discharge",
+                    "Vaginal sling - discharge",
+                    "Pubo-vaginal sling - discharge",
+                    "Pereyra, Stamey, Raz, and Gittes procedures - discharge",
+                    "Tension free vaginal tape - discharge",
+                    "Transobdurator sling - discharge",
+                    "Marshall-Marchetti retropubic bladder suspension - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004121-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Urinary incontinence surgery - female - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004121-2",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Urinary incontinence surgery - female - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0004121-6",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Urinary incontinence surgery - female - discharge ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

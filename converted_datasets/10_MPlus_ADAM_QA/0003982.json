@@ -1,0 +1,36 @@
+{
+    "Document": {
+        "@id": "0003982",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007380.htm",
+        "Focus": "Total proctocolectomy and ileal - anal pouch",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Restorative proctocolectomy",
+                    "Ileal-anal resection",
+                    "Ileal-anal pouch",
+                    "J-pouch",
+                    "S-pouch",
+                    "Pelvic pouch",
+                    "Ileal-anal pouch",
+                    "Ileal pouch-anal anastomosis",
+                    "IPAA",
+                    "Ileal-anal reservoir surgery"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003982-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Total proctocolectomy and ileal - anal pouch"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

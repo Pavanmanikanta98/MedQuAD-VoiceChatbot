@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0002401",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007262.htm",
+        "Focus": "Lipoprotein-a",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Lp(a)"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002401-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Lipoprotein-a"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

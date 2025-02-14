@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0003115",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003771.htm",
+        "Focus": "Plethysmography",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Respiratory inductance plethysmography",
+                    "Penile pulse volume recording",
+                    "Pulse volume recordings",
+                    "Segmental pulse volume recordings"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003115-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Plethysmography"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

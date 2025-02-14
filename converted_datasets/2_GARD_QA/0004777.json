@@ -1,0 +1,36 @@
+{
+    "Document": {
+        "@id": "0004777",
+        "@source": "GARD",
+        "@url": "https://rarediseases.info.nih.gov/gard/9856/pediatric-crohns-disease",
+        "Focus": "Pediatric Crohn's disease",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C2931133"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Pediatric onset Crohn's disease",
+                    "Crohn's disease, pediatric"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004777-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Pediatric Crohn's disease ?"
+                },
+                "Answer": "Crohn's disease is a type of inflammatory bowel disease (IBD), the general name for conditions that cause inflammation in the gastrointestinal (GI) tract. Common signs and symptoms include abdominal pain and cramping, diarrhea, and weight loss. Other general symptoms include feeling tired, nausea and loss of appetite, fever, and anemia. Complications of Crohn's disease may include intestinal blockage, fistulas, anal fissures, ulcers, malnutrition, and inflammation in other areas of the body. Crohn's disease can occur in people of all age groups but is most often diagnosed in young adults. The exact cause is unknown, but is thought to involve both genetic and environmental factors. It appears to run in some families. Treatment is aimed at relieving symptoms and reducing inflammation, but some people require surgery."
+            }
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0004207",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003423.htm",
+        "Focus": "Venipuncture",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Blood-draw",
+                    "Phlebotomy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004207-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Venipuncture"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

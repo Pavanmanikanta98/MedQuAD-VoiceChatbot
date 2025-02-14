@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0002732",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002722.htm",
+        "Focus": "Nail polish poisoning",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Organic solvent syndrome",
+                    "Psychoorganic syndrome",
+                    "Chronic solvent encephalopathy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002732-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Nail polish poisoning"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

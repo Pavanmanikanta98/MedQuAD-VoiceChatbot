@@ -1,0 +1,44 @@
+{
+    "Document": {
+        "@id": "0000338",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000008.htm",
+        "Focus": "Asthma - quick-relief drugs",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0004096",
+                        "C0564405"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T047",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Short-acting beta-agonists",
+                    "Bronchodilators",
+                    "Oral steroids"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000338-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Asthma - quick-relief drugs ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

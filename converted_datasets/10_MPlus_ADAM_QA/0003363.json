@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0003363",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002046.htm",
+        "Focus": "Remembering tips",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Memory aids"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003363-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Remembering tips"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

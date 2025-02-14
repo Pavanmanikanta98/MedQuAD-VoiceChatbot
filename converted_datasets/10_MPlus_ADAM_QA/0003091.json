@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0003091",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003452.htm",
+        "Focus": "Pinworm test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Oxyuriasis test",
+                    "Enterobiasis test",
+                    "Tape test"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003091-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Pinworm test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

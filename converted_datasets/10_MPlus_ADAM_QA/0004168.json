@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0004168",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001937.htm",
+        "Focus": "Vacation health care",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Travel health tips"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004168-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Vacation health care"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

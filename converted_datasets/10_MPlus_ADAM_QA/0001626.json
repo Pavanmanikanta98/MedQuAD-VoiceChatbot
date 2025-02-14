@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001626",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002093.htm",
+        "Focus": "Food guide plate",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "MyPlate"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001626-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Food guide plate"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

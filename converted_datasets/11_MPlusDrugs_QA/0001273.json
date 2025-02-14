@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0001273",
+        "@source": "MPlusDrugs",
+        "@url": "https://www.nlm.nih.gov/medlineplus/druginfo/meds/a611032.html",
+        "Focus": "Valsartan and Hydrochlorothiazide",
+        "FocusAnnotations": {
+            "Category": "Drug"
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001273-1",
+                        "@qtype": "brand names of combination products",
+                        "#text": "What are the brand names of combination products of Valsartan and Hydrochlorothiazide ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001273-2",
+                        "@qtype": "brand names of combination products",
+                        "#text": "What are the brand names of combination products of Valsartan and Hydrochlorothiazide ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

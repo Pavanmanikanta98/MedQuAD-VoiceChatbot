@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0000897",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000249.htm",
+        "Focus": "Colds and the flu - what to ask your doctor - adult",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0009443",
+                        "C0021400"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000897-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Colds and the flu - what to ask your doctor - adult ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

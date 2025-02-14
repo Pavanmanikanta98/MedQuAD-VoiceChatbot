@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0003898",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000578.htm",
+        "Focus": "The day of your surgery - adult",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Same-day surgery - adult",
+                    "Ambulatory surgery - adult",
+                    "Surgical procedure - adult"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003898-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about The day of your surgery - adult"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

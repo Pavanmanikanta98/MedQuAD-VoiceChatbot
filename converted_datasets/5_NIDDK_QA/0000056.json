@@ -1,0 +1,23 @@
+{
+    "Document": {
+        "@id": "0000056",
+        "@source": "NIDDK",
+        "@url": "http://www.niddk.nih.gov/health-information/health-topics/Diabetes/prevent-diabetes-problems/Pages/keep-feet-healthy.aspx",
+        "Focus": "Prevent diabetes problems: Keep your feet healthy",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0011860",
+                        "C0011849"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": null
+    }
+}

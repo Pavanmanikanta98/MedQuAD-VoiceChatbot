@@ -1,0 +1,67 @@
+{
+    "Document": {
+        "@id": "0003570",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000562.htm",
+        "Focus": "Shoulder separation - aftercare",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0036679"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T046"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Separated shoulder - aftercare",
+                    "Acromioclavicular joint separation - aftercare",
+                    "A/C separation - aftercare"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003570-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Shoulder separation - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003570-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Shoulder separation - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003570-3",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Shoulder separation - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003570-6",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Shoulder separation - aftercare ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

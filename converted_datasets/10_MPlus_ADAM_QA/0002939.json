@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0002939",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002410.htm",
+        "Focus": "Pantothenic acid and biotin",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Pantothenic acid",
+                    "Pantethine",
+                    "Vitamin B5",
+                    "Vitamin B7"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002939-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Pantothenic acid and biotin"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

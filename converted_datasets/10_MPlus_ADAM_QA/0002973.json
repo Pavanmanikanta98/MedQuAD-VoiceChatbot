@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0002973",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000880.htm",
+        "Focus": "Patient portals - An online tool for your health",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Personal health record (PHR)"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002973-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Patient portals - An online tool for your health"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

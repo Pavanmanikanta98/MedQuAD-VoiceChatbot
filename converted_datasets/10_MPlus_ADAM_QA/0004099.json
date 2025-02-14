@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0004099",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003906.htm",
+        "Focus": "Ureteral retrograde brush biopsy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Biopsy - brush - urinary tract",
+                    "Retrograde ureteral brush biopsy cytology",
+                    "Cytology - ureteral retrograde brush biopsy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004099-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Ureteral retrograde brush biopsy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

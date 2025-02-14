@@ -1,0 +1,105 @@
+{
+    "Document": {
+        "@id": "0001674",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007218.htm",
+        "Focus": "Gangrene",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0017086"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001674-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Gangrene ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001674-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Gangrene ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001674-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Gangrene ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001674-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Gangrene ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001674-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Gangrene ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001674-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Gangrene ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001674-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Gangrene ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001674-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Gangrene ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0001674-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Gangrene ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

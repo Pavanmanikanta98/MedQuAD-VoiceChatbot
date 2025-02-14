@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0000463",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003238.htm",
+        "Focus": "Blackheads",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0333128"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000463-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Blackheads ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000463-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Blackheads ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

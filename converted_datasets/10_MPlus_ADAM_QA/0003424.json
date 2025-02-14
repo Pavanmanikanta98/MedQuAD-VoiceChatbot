@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0003424",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001439.htm",
+        "Focus": "Ringworm",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0040247"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Dermatophytid",
+                    "Tinea"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003424-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Ringworm ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003424-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Ringworm ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

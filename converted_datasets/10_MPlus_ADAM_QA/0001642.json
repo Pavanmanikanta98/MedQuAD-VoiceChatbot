@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001642",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002878.htm",
+        "Focus": "Foxglove poisoning",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Willow-leaved foxglove poisoning",
+                    "Revebjelle poisoning"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001642-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Foxglove poisoning"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

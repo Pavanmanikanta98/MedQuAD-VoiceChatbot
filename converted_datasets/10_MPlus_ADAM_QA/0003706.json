@@ -1,0 +1,73 @@
+{
+    "Document": {
+        "@id": "0003706",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000686.htm",
+        "Focus": "Staph infections - self-care at home",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0038160",
+                        "C3714514"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T046",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Staphylococcus infections - self-care at home",
+                    "Methicillin-resistant staphylococcus aureus infections - self-care at home",
+                    "MRSA infections - self-care at home"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003706-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Staph infections - self-care at home ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003706-3",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Staph infections - self-care at home? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003706-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Staph infections - self-care at home ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003706-6",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Staph infections - self-care at home ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,10 @@
+[
+    {
+        "question": "What is (are) Neurofibroma ?",
+        "answer": "A neurofibroma is a non-cancerous (benign) tumor that develops from the cells and tissues that cover nerves. Some people who develop neurofibromas have a genetic condition known as neurofibromatosis (NF). There are different types of NF, but type 1 is the most common.",
+        "qtype": "information",
+        "focus": "Neurofibroma",
+        "synonyms": "Benign peripheral nerve sheath tumor",
+        "semantic_group": "Disorders"
+    }
+]

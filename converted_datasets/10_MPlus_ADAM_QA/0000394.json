@@ -1,0 +1,108 @@
+{
+    "Document": {
+        "@id": "0000394",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000862.htm",
+        "Focus": "Balanitis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0004690"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Balanoposthitis"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000394-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Balanitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000394-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Balanitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000394-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Balanitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000394-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Balanitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000394-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Balanitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000394-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Balanitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000394-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Balanitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000394-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Balanitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000394-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Balanitis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

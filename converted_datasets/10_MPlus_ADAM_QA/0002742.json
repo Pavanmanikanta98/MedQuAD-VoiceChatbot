@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002742",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003848.htm",
+        "Focus": "Nasal mucosal biopsy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Biopsy - nasal mucosa",
+                    "Nose biopsy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002742-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Nasal mucosal biopsy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

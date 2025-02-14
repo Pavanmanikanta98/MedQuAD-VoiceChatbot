@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001787",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000382.htm",
+        "Focus": "H2 blockers",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Peptic ulcer disease - H2 blockers",
+                    "PUD - H2 blockers",
+                    "Gastroesophageal reflux - H2 blockers"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001787-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about H2 blockers"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

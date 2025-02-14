@@ -1,0 +1,70 @@
+{
+    "Document": {
+        "@id": "0000262",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000289.htm",
+        "Focus": "Anti-reflux surgery - children - discharge",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0017168",
+                        "C0232483",
+                        "C0940159"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T046",
+                        "T047",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Fundoplication - children - discharge",
+                    "Nissen fundoplication - children - discharge",
+                    "Belsey (Mark IV) fundoplication - children - discharge",
+                    "Toupet fundoplication - children - discharge",
+                    "Thal fundoplication - children - discharge",
+                    "Hiatal hernia repair - children - discharge",
+                    "Endoluminal fundoplication - children - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000262-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Anti-reflux surgery - children - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000262-2",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Anti-reflux surgery - children - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000262-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Anti-reflux surgery - children - discharge ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "Document": {
+        "@id": "0004344",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002060.htm",
+        "Focus": "Your baby in the birth canal",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Shoulder presentation",
+                    "Malpresentations",
+                    "Breech birth",
+                    "Cephalic presentation",
+                    "Fetal lie",
+                    "Fetal attitude",
+                    "Fetal descent",
+                    "Fetal station",
+                    "Cardinal movements"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004344-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Your baby in the birth canal"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

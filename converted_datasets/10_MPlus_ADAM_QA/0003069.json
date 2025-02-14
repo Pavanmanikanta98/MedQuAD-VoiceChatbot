@@ -1,0 +1,87 @@
+{
+    "Document": {
+        "@id": "0003069",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000200.htm",
+        "Focus": "Phlegmasia cerulea dolens",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0238367"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003069-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Phlegmasia cerulea dolens ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003069-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Phlegmasia cerulea dolens ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003069-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Phlegmasia cerulea dolens ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003069-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Phlegmasia cerulea dolens ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003069-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Phlegmasia cerulea dolens ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003069-6",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Phlegmasia cerulea dolens ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003069-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Phlegmasia cerulea dolens ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

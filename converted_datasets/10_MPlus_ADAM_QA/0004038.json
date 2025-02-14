@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0004038",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003493.htm",
+        "Focus": "Triglyceride level",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Triacylglycerol test"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004038-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Triglyceride level"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

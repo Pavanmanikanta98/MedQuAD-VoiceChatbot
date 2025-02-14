@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001025",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003475.htm",
+        "Focus": "Creatinine blood test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Serum creatinine"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001025-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Creatinine blood test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

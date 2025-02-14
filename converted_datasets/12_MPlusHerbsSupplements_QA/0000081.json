@@ -1,0 +1,87 @@
+{
+    "Document": {
+        "@id": "0000081",
+        "@source": "MPlusHerbsSupplements",
+        "@url": "https://www.nlm.nih.gov/medlineplus/druginfo/natural/905.html",
+        "Focus": "Reishi Mushroom",
+        "FocusAnnotations": {
+            "Category": "Drug"
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000081-1",
+                        "@qtype": "information",
+                        "#text": "What is Reishi Mushroom ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000081-2",
+                        "@qtype": "how effective is it",
+                        "#text": "How effective is Reishi Mushroom ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000081-3",
+                        "@qtype": "how does it work",
+                        "#text": "What is the action of Reishi Mushroom and how does it work ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000081-4",
+                        "@qtype": "precautions",
+                        "#text": "Are there safety concerns or special precautions about Reishi Mushroom ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000081-5",
+                        "@qtype": "interactions with medications",
+                        "#text": "Are there interactions between Reishi Mushroom and other medications ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000081-6",
+                        "@qtype": "interactions with herbs and supplements",
+                        "#text": "Are there interactions between Reishi Mushroom and herbs and supplements ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000081-7",
+                        "@qtype": "interactions with foods",
+                        "#text": "Are there interactions between Reishi Mushroom and foods ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000081-8",
+                        "@qtype": "dose",
+                        "#text": "What is the dosage of Reishi Mushroom ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

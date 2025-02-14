@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0000146",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002199.htm",
+        "Focus": "Alcoholism - resources",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0001973"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T048"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Resources - alcoholism"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000146-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Alcoholism - resources ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

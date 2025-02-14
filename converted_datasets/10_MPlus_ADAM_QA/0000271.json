@@ -1,0 +1,72 @@
+{
+    "Document": {
+        "@id": "0000271",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002751.htm",
+        "Focus": "Antifreeze poisoning",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1960938"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Engine coolant poisoning"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000271-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Antifreeze poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000271-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Antifreeze poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000271-5",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Antifreeze poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000271-8",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Antifreeze poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000271-9",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Antifreeze poisoning ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

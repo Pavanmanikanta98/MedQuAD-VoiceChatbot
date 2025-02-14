@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0002990",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002916.htm",
+        "Focus": "Pelvic laparoscopy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Celioscopy",
+                    "Band-aid surgery",
+                    "Pelviscopy",
+                    "Gynecologic laparoscopy",
+                    "Exploratory laparoscopy - gynecologic"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002990-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Pelvic laparoscopy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

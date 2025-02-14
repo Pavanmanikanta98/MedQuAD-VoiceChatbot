@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000854",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002998.htm",
+        "Focus": "Circumcision",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Foreskin removal",
+                    "Removal of foreskin"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000854-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Circumcision"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

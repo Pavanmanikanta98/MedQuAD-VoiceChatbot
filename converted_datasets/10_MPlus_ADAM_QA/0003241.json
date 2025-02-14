@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0003241",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007385.htm",
+        "Focus": "Prostate brachytherapy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Implant therapy - prostate cancer",
+                    "Radioactive seed placement",
+                    "Internal radiation therapy - prostate",
+                    "High dose radiation (HDR)"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003241-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Prostate brachytherapy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0003190",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000609.htm",
+        "Focus": "Pregnancy and work",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003190-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Pregnancy and work"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

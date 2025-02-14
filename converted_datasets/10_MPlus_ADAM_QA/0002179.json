@@ -1,0 +1,81 @@
+{
+    "Document": {
+        "@id": "0002179",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003292.htm",
+        "Focus": "Infant reflexes",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0596002"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Primitive reflexes",
+                    "Reflexes in infants",
+                    "Tonic neck reflex",
+                    "Galant reflex",
+                    "Truncal incurvation",
+                    "Rooting reflex",
+                    "Parachute reflex",
+                    "Grasp reflex"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002179-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Infant reflexes ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002179-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Infant reflexes ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002179-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Infant reflexes ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002179-4",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Infant reflexes ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002179-5",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Infant reflexes ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

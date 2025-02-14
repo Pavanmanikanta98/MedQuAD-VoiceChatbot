@@ -1,0 +1,45 @@
+{
+    "Document": {
+        "@id": "0004203",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003508.htm",
+        "Focus": "Vasoactive intestinal peptide test",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0456984"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Vasoactive intestinal polypeptide test"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004203-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Vasoactive intestinal peptide test ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0004203-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Vasoactive intestinal peptide test? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

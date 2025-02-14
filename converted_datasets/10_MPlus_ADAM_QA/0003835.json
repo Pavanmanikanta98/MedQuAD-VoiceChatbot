@@ -1,0 +1,39 @@
+{
+    "Document": {
+        "@id": "0003835",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000171.htm",
+        "Focus": "Taking care of your new hip joint",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0580931"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Hip arthroplasty - precautions",
+                    "Hip replacement - precautions",
+                    "Osteoarthritis - hip",
+                    "Osteoarthritis - knee"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003835-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Taking care of your new hip joint ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

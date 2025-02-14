@@ -1,0 +1,35 @@
+{
+    "Document": {
+        "@id": "0002467",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000242.htm",
+        "Focus": "Lung surgery - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Thoracotomy - discharge",
+                    "Lung tissue removal - discharge",
+                    "Pneumonectomy - discharge",
+                    "Lobectomy - discharge",
+                    "Lung biopsy - discharge",
+                    "Thoracoscopy - discharge",
+                    "Video-assisted thoracoscopic surgery - discharge",
+                    "VATS - discharge",
+                    "Thoracoscopy - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002467-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Lung surgery - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

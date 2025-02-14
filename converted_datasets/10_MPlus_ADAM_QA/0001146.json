@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001146",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002697.htm",
+        "Focus": "Depilatory poisoning",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Hair removal agents poisoning"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001146-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Depilatory poisoning"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

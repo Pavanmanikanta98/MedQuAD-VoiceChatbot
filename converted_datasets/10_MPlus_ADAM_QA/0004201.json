@@ -1,0 +1,111 @@
+{
+    "Document": {
+        "@id": "0004201",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007318.htm",
+        "Focus": "Vascular ring",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0221214",
+                        "C0265888"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T019"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Right aortic arch with aberrant subclavian and left ligamentum ateriosus"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004201-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Vascular ring ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004201-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Vascular ring ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0004201-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Vascular ring ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0004201-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Vascular ring ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0004201-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Vascular ring ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0004201-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Vascular ring ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0004201-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Vascular ring ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0004201-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Vascular ring ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0004201-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Vascular ring ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

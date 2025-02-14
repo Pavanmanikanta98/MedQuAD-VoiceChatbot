@@ -1,0 +1,102 @@
+{
+    "Document": {
+        "@id": "0003395",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001618.htm",
+        "Focus": "Retinopathy of prematurity",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0035344"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Retrolental fibroplasia",
+                    "ROP"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003395-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Retinopathy of prematurity ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003395-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Retinopathy of prematurity ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003395-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Retinopathy of prematurity ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003395-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Retinopathy of prematurity ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003395-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Retinopathy of prematurity ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003395-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Retinopathy of prematurity ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003395-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Retinopathy of prematurity ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003395-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Retinopathy of prematurity ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

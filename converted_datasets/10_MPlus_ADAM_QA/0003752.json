@@ -1,0 +1,68 @@
+{
+    "Document": {
+        "@id": "0003752",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000132.htm",
+        "Focus": "Stroke - discharge",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0038454"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Cerebrovascular disease - discharge",
+                    "CVA - discharge",
+                    "Cerebral infarction - discharge",
+                    "Cerebral hemorrhage - discharge",
+                    "Ischemic stroke - discharge",
+                    "Stroke - ischemic - discharge",
+                    "Stroke secondary to atrial fibrillation - discharge",
+                    "Cardioembolic stroke - discharge",
+                    "Brain bleeding - discharge",
+                    "Brain hemorrhage - discharge",
+                    "Stroke - hemorrhagic - discharge",
+                    "Hemorrhagic cerebrovascular disease - discharge",
+                    "Cerebrovascular accident - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003752-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Stroke - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003752-2",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Stroke - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003752-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Stroke - discharge ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

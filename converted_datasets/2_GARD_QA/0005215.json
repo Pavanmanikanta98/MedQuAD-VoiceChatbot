@@ -1,0 +1,36 @@
+{
+    "Document": {
+        "@id": "0005215",
+        "@source": "GARD",
+        "@url": "https://rarediseases.info.nih.gov/gard/10963/pyogenic-granuloma",
+        "Focus": "Pyogenic granuloma",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0085653",
+                        "C0263218"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Lobular capillary hemangioma"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0005215-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Pyogenic granuloma ?"
+                },
+                "Answer": "Pyogenic granuloma are small, reddish bumps on the skin that bleed easily due to an abnormally high number of blood vessels. They typically occur on the hands, arms, or face. While the exact cause of pyogenic granulomas is unknown, they often appear following injury. Pyogenic granuloma is often observed in infancy and childhood, but may also be observed in adults, particularly in pregnant women. Small pyogenic granulomas may go away on their own. Larger lesions are treated with surgery, electrocautery, freezing, or lasers."
+            }
+        }
+    }
+}

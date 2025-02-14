@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0000500",
+        "@source": "MPlusHealthTopics",
+        "@url": "https://www.nlm.nih.gov/medlineplus/immunesystemanddisorders.html",
+        "Focus": "Immune System and Disorders",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0012634"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000500-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Immune System and Disorders ?"
+                },
+                "Answer": "Your immune system is a complex network of cells, tissues, and organs that work together to defend against germs. It helps your body to recognize these \"foreign\" invaders. Then its job is to keep them out, or if it can't, to find and destroy them.    If your immune system cannot do its job, the results can be serious. Disorders of the immune system include       - Allergy and asthma - immune responses to substances that are usually not harmful    - Immune deficiency diseases - disorders in which the immune system is missing one or more of its parts    - Autoimmune diseases - diseases causing your immune system to attack your own body's cells and tissues by mistake       NIH: National Institute of Allergy and Infectious Diseases"
+            }
+        }
+    }
+}

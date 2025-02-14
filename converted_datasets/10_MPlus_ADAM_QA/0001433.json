@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0001433",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007662.htm",
+        "Focus": "Epley maneuver",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Canalith Repositioning Maneuvers (CRP)",
+                    "Canalith-Repositioning Maneuvers",
+                    "CRP",
+                    "Benign positional vertigo-Epley",
+                    "Benign paroxysmal positional vertigo-Epley",
+                    "BPPV-Epley"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001433-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Epley maneuver"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

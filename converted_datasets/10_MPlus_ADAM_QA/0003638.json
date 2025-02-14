@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003638",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000018.htm",
+        "Focus": "Smashed fingers",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Finger(s) - smashed",
+                    "Crushed digits"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003638-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Smashed fingers"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

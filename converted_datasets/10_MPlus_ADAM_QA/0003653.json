@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0003653",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002548.htm",
+        "Focus": "Sodium bisulfate poisoning",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003653-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Sodium bisulfate poisoning"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003687",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000287.htm",
+        "Focus": "Spleen removal - open - adults - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Splenectomy - adult - discharge",
+                    "Spleen removal - adult - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003687-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Spleen removal - open - adults - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

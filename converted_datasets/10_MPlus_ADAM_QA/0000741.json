@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0000741",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003428.htm",
+        "Focus": "Cerebral spinal fluid (CSF) collection",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Spinal tap",
+                    "Ventricular puncture",
+                    "Lumbar puncture",
+                    "Cisternal puncture",
+                    "Cerebrospinal fluid culture"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000741-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Cerebral spinal fluid (CSF) collection"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

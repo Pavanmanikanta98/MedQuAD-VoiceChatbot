@@ -1,0 +1,96 @@
+{
+    "Document": {
+        "@id": "0003276",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000822.htm",
+        "Focus": "Psoriasis - guttate",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0033860"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003276-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Psoriasis - guttate ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003276-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Psoriasis - guttate ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003276-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Psoriasis - guttate ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003276-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Psoriasis - guttate ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003276-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Psoriasis - guttate ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003276-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Psoriasis - guttate ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003276-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Psoriasis - guttate ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003276-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Psoriasis - guttate ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "Document": {
+        "@id": "0000451",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003415.htm",
+        "Focus": "Biopsy - polyps",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0032584"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T190"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Polyp biopsy"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000451-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Biopsy - polyps ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000451-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Biopsy - polyps? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

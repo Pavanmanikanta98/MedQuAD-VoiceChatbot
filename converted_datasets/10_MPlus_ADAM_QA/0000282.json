@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0000282",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007391.htm",
+        "Focus": "Aortic aneurysm repair - endovascular",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "EVAR",
+                    "Endovascular aneurysm repair - aorta",
+                    "AAA repair - endovascular",
+                    "Repair - aortic aneurysm - endovascular"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000282-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Aortic aneurysm repair - endovascular"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000443",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002240.htm",
+        "Focus": "Biliary system",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Biliary tract",
+                    "Bile tract"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000443-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Biliary system"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

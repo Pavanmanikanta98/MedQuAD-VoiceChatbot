@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001164",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002012.htm",
+        "Focus": "Developmental milestones record - 2 years",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Growth milestones for children - 2 years",
+                    "Normal childhood growth milestones - 2 years",
+                    "Childhood growth milestones - 2 years"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001164-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Developmental milestones record - 2 years"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "Document": {
+        "@id": "0000784",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000821.htm",
+        "Focus": "Chikungunya virus",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0008056"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T005"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Chikungunya virus infection",
+                    "Chikungunya"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000784-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Chikungunya virus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000784-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Chikungunya virus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000784-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Chikungunya virus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000784-4",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Chikungunya virus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000784-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Chikungunya virus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000784-6",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Chikungunya virus ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

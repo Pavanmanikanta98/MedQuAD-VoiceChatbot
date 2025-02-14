@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0002954",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003690.htm",
+        "Focus": "Parathyroid hormone (PTH) blood test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Parathormone",
+                    "Parathormone (PTH) intact molecule",
+                    "Intact PTH"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002954-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Parathyroid hormone (PTH) blood test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

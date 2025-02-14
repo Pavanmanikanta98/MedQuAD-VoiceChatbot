@@ -1,0 +1,117 @@
+{
+    "Document": {
+        "@id": "0003812",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000622.htm",
+        "Focus": "Swimmer's ear",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0339759",
+                        "C0021355"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Ear infection - outer ear - acute",
+                    "Otitis externa - acute",
+                    "Chronic swimmer's ear",
+                    "Otitis externa - chronic",
+                    "Ear infection - outer ear - chronic"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003812-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Swimmer's ear ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003812-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Swimmer's ear ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003812-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Swimmer's ear ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003812-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Swimmer's ear ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003812-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Swimmer's ear ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003812-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Swimmer's ear ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003812-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Swimmer's ear ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003812-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Swimmer's ear ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0003812-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Swimmer's ear ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

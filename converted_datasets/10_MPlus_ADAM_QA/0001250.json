@@ -1,0 +1,124 @@
+{
+    "Document": {
+        "@id": "0001250",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000624.htm",
+        "Focus": "Disseminated tuberculosis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0152915",
+                        "C0041296"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Miliary tuberculosis",
+                    "Tuberculosis - disseminated",
+                    "Extrapulmonary tuberculosis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001250-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Disseminated tuberculosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001250-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Disseminated tuberculosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001250-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Disseminated tuberculosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001250-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Disseminated tuberculosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001250-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Disseminated tuberculosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001250-6",
+                        "@qtype": "support groups",
+                        "#text": "Where to find support for people with Disseminated tuberculosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001250-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Disseminated tuberculosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001250-8",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Disseminated tuberculosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0001250-9",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Disseminated tuberculosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "10",
+                    "Question": {
+                        "@qid": "0001250-10",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Disseminated tuberculosis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

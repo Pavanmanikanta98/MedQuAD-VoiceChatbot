@@ -1,0 +1,90 @@
+{
+    "Document": {
+        "@id": "0004227",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000416.htm",
+        "Focus": "Viral arthritis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0003875"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Infectious arthritis - viral"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004227-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Viral arthritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004227-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Viral arthritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0004227-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Viral arthritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0004227-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Viral arthritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0004227-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Viral arthritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0004227-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Viral arthritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0004227-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Viral arthritis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

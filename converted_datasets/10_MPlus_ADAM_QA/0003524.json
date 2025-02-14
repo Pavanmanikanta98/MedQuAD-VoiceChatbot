@@ -1,0 +1,90 @@
+{
+    "Document": {
+        "@id": "0003524",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000666.htm",
+        "Focus": "Sepsis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0243026",
+                        "C0036690"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003524-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Sepsis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003524-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Sepsis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003524-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Sepsis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003524-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Sepsis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003524-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Sepsis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003524-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Sepsis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003524-7",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Sepsis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

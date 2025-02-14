@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0003296",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000345.htm",
+        "Focus": "Pulmonary hypertension - at home",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0020542",
+                        "C1963220"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T047",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003296-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Pulmonary hypertension - at home ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003296-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Pulmonary hypertension - at home ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

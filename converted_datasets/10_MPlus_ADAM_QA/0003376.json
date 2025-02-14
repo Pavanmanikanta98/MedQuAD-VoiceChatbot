@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0003376",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000810.htm",
+        "Focus": "Repeated nightmares",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0028084"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T048"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Nightmares - repeated",
+                    "Dream anxiety disorder"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003376-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Repeated nightmares ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "Document": {
+        "@id": "0002977",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000298.htm",
+        "Focus": "Pectus excavatum - discharge",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0016842"
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T019",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002977-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Pectus excavatum - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002977-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Pectus excavatum - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002977-3",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Pectus excavatum - discharge ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

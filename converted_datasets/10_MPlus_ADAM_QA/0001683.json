@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001683",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003728.htm",
+        "Focus": "Gastric tissue biopsy and culture",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Culture - gastric tissue",
+                    "Biopsy - gastric tissue"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001683-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Gastric tissue biopsy and culture"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

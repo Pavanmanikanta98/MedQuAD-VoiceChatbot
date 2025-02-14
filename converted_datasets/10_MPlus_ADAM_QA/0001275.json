@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0001275",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002779.htm",
+        "Focus": "Drain cleaner poisoning",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001275-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Drain cleaner poisoning"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

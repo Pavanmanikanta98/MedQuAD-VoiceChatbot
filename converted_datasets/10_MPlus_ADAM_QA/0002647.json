@@ -1,0 +1,63 @@
+{
+    "Document": {
+        "@id": "0002647",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000662.htm",
+        "Focus": "Minor burns - aftercare",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0006434"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Partial thickness burns"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002647-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Minor burns - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002647-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Minor burns - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002647-4",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Minor burns - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002647-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Minor burns - aftercare ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

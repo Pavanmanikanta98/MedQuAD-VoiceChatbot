@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000419",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003597.htm",
+        "Focus": "Bence-Jones protein - quantitative",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Immunoglobulin light chains - urine",
+                    "Urine Bence-Jones protein"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000419-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Bence-Jones protein - quantitative"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

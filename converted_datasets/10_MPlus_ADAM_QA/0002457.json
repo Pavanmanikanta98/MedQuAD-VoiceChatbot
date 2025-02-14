@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002457",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003854.htm",
+        "Focus": "Lung diffusion testing",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Diffusing capacity",
+                    "DLCO test"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002457-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Lung diffusion testing"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

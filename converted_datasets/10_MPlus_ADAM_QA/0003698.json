@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003698",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003553.htm",
+        "Focus": "Sputum direct fluorescent antibody (DFA)",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Direct immunofluorescence test",
+                    "Direct fluorescent antibody - sputum"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003698-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Sputum direct fluorescent antibody (DFA)"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

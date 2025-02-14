@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0003050",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001987.htm",
+        "Focus": "Pesticides on fruits and vegetables",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Fruits and vegetables - pesticide risks"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003050-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Pesticides on fruits and vegetables"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

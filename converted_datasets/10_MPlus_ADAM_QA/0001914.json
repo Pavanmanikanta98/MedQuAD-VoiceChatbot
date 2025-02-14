@@ -1,0 +1,45 @@
+{
+    "Document": {
+        "@id": "0001914",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000590.htm",
+        "Focus": "Hemolytic anemia caused by chemicals and toxins",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0002878"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Anemia - hemolytic - caused by chemicals or toxins"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001914-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hemolytic anemia caused by chemicals and toxins ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001914-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Hemolytic anemia caused by chemicals and toxins ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

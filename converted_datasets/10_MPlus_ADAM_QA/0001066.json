@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0001066",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000657.htm",
+        "Focus": "Culture-negative endocarditis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0340358"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Endocarditis (culture-negative)"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001066-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Culture-negative endocarditis ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

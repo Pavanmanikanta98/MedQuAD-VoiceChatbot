@@ -1,0 +1,96 @@
+{
+    "Document": {
+        "@id": "0003153",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000428.htm",
+        "Focus": "Polymyositis - adult",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0085655"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003153-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Polymyositis - adult ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003153-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Polymyositis - adult ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003153-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Polymyositis - adult ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003153-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Polymyositis - adult ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003153-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Polymyositis - adult ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003153-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Polymyositis - adult ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003153-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Polymyositis - adult ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003153-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Polymyositis - adult ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001607",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003846.htm",
+        "Focus": "Fluorescein angiography",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Retinal photography",
+                    "Eye angiography"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001607-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Fluorescein angiography"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

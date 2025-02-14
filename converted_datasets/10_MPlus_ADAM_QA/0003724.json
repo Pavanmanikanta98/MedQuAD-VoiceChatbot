@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003724",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002907.htm",
+        "Focus": "Stoddard solvent poisoning",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Texsolve S poisoning",
+                    "Varsol 1 poisoning"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003724-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Stoddard solvent poisoning"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

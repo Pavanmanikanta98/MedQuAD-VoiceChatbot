@@ -1,0 +1,61 @@
+{
+    "Document": {
+        "@id": "0002873",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003850.htm",
+        "Focus": "Oropharynx lesion biopsy",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C2137009",
+                        "C0221198"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Throat lesion biopsy",
+                    "Biopsy - mouth or throat",
+                    "Mouth lesion biopsy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002873-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Oropharynx lesion biopsy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002873-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Oropharynx lesion biopsy? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002873-9",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Oropharynx lesion biopsy ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

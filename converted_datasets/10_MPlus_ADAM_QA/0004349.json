@@ -1,0 +1,106 @@
+{
+    "Document": {
+        "@id": "0004349",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007666.htm",
+        "Focus": "Zika virus disease",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0276289",
+                        "C0042769"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Zika virus infection",
+                    "Zika virus",
+                    "Zika"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004349-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Zika virus disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004349-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Zika virus disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0004349-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Zika virus disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0004349-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Zika virus disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0004349-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Zika virus disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0004349-6",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Zika virus disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0004349-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Zika virus disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0004349-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Zika virus disease ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

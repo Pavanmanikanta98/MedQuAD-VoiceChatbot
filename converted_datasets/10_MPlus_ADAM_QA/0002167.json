@@ -1,0 +1,75 @@
+{
+    "Document": {
+        "@id": "0002167",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003260.htm",
+        "Focus": "Indigestion",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0013395"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Dyspepsia",
+                    "Uncomfortable fullness after meals"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002167-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Indigestion ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002167-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Indigestion ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002167-3",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Indigestion ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002167-4",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Indigestion ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002167-5",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Indigestion ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

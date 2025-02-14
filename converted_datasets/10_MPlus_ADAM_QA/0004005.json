@@ -1,0 +1,108 @@
+{
+    "Document": {
+        "@id": "0004005",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001196.htm",
+        "Focus": "Transient familial hyperbilirubinemia",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0020433"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Lucey-Driscoll syndrome"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004005-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Transient familial hyperbilirubinemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004005-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Transient familial hyperbilirubinemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0004005-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Transient familial hyperbilirubinemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0004005-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Transient familial hyperbilirubinemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0004005-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Transient familial hyperbilirubinemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0004005-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Transient familial hyperbilirubinemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0004005-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Transient familial hyperbilirubinemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0004005-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Transient familial hyperbilirubinemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0004005-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Transient familial hyperbilirubinemia ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

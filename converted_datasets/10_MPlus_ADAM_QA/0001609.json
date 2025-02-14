@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001609",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002420.htm",
+        "Focus": "Fluoride in diet",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Diet - fluoride"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001609-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Fluoride in diet"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

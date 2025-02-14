@@ -1,0 +1,111 @@
+{
+    "Document": {
+        "@id": "0002870",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001280.htm",
+        "Focus": "Orchitis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0029191"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T046"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Epididymo - orchitis",
+                    "Testis infection"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002870-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Orchitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002870-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Orchitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002870-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Orchitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002870-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Orchitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002870-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Orchitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002870-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Orchitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002870-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Orchitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002870-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Orchitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002870-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Orchitis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

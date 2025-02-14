@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0003906",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003085.htm",
+        "Focus": "Thirst - excessive",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Increased thirst",
+                    "Polydipsia",
+                    "Excessive thirst"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003906-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Thirst - excessive"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

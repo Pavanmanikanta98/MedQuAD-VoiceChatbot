@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0002259",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002793.htm",
+        "Focus": "Jewelry cleaners",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002259-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Jewelry cleaners"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

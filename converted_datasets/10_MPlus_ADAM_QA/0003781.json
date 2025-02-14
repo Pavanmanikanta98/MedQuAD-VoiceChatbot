@@ -1,0 +1,78 @@
+{
+    "Document": {
+        "@id": "0003781",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002492.htm",
+        "Focus": "Sulfuric acid poisoning",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0161695"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Battery acid poisoning",
+                    "Hydrogen sulfate poisoning",
+                    "Oil of vitriol poisoning",
+                    "Matting acid poisoning",
+                    "Vitriol brown oil poisoning"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003781-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Sulfuric acid poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003781-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Sulfuric acid poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003781-5",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Sulfuric acid poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003781-8",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Sulfuric acid poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0003781-9",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Sulfuric acid poisoning ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0003549",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002737.htm",
+        "Focus": "Shampoo - swallowing",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Swallowing shampoo"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003549-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Shampoo - swallowing"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

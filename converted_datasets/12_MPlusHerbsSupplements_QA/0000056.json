@@ -1,0 +1,87 @@
+{
+    "Document": {
+        "@id": "0000056",
+        "@source": "MPlusHerbsSupplements",
+        "@url": "https://www.nlm.nih.gov/medlineplus/druginfo/natural/203.html",
+        "Focus": "Lipase",
+        "FocusAnnotations": {
+            "Category": "Drug"
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000056-1",
+                        "@qtype": "information",
+                        "#text": "What is Lipase ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000056-2",
+                        "@qtype": "how effective is it",
+                        "#text": "How effective is Lipase ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000056-3",
+                        "@qtype": "how does it work",
+                        "#text": "What is the action of Lipase and how does it work ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000056-4",
+                        "@qtype": "precautions",
+                        "#text": "Are there safety concerns or special precautions about Lipase ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000056-5",
+                        "@qtype": "interactions with medications",
+                        "#text": "Are there interactions between Lipase and other medications ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000056-6",
+                        "@qtype": "interactions with herbs and supplements",
+                        "#text": "Are there interactions between Lipase and herbs and supplements ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000056-7",
+                        "@qtype": "interactions with foods",
+                        "#text": "Are there interactions between Lipase and foods ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000056-8",
+                        "@qtype": "dose",
+                        "#text": "What is the dosage of Lipase ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

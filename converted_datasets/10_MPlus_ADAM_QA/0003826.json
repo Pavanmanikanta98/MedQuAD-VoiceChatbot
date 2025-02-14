@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0003826",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003516.htm",
+        "Focus": "T-cell count",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Thymus derived lymphocyte count",
+                    "T-lymphocyte count",
+                    "T cell count"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003826-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about T-cell count"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "Document": {
+        "@id": "0002178",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001597.htm",
+        "Focus": "Infant of diabetic mother",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0241863",
+                        "C0270221",
+                        "C1411323"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T047",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "IDM"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002178-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Infant of diabetic mother ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002178-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Infant of diabetic mother ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002178-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Infant of diabetic mother ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002178-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Infant of diabetic mother ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002178-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Infant of diabetic mother ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002178-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Infant of diabetic mother ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002178-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Infant of diabetic mother ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002178-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Infant of diabetic mother ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002178-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Infant of diabetic mother ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

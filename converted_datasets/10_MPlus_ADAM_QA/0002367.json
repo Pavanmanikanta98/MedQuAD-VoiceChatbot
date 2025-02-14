@@ -1,0 +1,35 @@
+{
+    "Document": {
+        "@id": "0002367",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007365.htm",
+        "Focus": "Leg or foot amputation",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Amputation - foot",
+                    "Amputation - leg",
+                    "Trans-metatarsal amputation",
+                    "Below knee amputation",
+                    "BK amputation",
+                    "Above knee amputation",
+                    "AK amputation",
+                    "Trans-femoral amputation",
+                    "Trans-tibial amputation"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002367-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Leg or foot amputation"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

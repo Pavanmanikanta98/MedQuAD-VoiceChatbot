@@ -1,0 +1,39 @@
+{
+    "Document": {
+        "@id": "0001831",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000494.htm",
+        "Focus": "Health risks of alcohol use",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0552479"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Alcoholism - risks",
+                    "Alcohol abuse - risks",
+                    "Alcohol dependence - risks",
+                    "Risky drinking - risks"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001831-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Health risks of alcohol use ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

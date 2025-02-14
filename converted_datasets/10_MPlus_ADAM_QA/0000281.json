@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0000281",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003556.htm",
+        "Focus": "Antithyroid microsomal antibody",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Thyroid antimicrosomal antibody",
+                    "Antimicrosomal antibody",
+                    "Microsomal antibody",
+                    "Thyroid peroxidase antibody",
+                    "TPOAb"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000281-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Antithyroid microsomal antibody"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

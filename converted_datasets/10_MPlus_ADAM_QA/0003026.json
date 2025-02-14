@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0003026",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007394.htm",
+        "Focus": "Peripheral artery bypass - leg",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Aortobifemoral bypass",
+                    "Femoropopliteal",
+                    "Femoral popliteal",
+                    "Aorta-bifemoral bypass",
+                    "Axillo-bifemoral bypass",
+                    "Ilio-bifemoral bypass",
+                    "Femoral-femoral bypass",
+                    "Distal leg bypass"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003026-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Peripheral artery bypass - leg"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

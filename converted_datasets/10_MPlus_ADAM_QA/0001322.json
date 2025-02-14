@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0001322",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003015.htm",
+        "Focus": "Ear tube insertion",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Myringotomy",
+                    "Tympanostomy",
+                    "Ear tube surgery",
+                    "Pressure equalization tubes",
+                    "Ventilating tubes",
+                    "Ear infection - tubes",
+                    "Otitis - tubes"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001322-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Ear tube insertion"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

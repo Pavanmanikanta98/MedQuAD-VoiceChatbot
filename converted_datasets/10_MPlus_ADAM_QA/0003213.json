@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003213",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000254.htm",
+        "Focus": "Preventing falls - what to ask your doctor",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Fall prevention - what to ask your doctor",
+                    "What to ask your doctor about preventing falls"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003213-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Preventing falls - what to ask your doctor"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

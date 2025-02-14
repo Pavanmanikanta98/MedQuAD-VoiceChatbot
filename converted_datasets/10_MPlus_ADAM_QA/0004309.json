@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0004309",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000852.htm",
+        "Focus": "When your child's treatment stops working",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "End of life care - children",
+                    "Palliative care - children",
+                    "Advance care planning - children"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004309-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about When your child's treatment stops working"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

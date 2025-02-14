@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0000846",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000025.htm",
+        "Focus": "Chronic obstructive pulmonary disease - control drugs",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0024117"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000846-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Chronic obstructive pulmonary disease - control drugs ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

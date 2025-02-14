@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0000091",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002003.htm",
+        "Focus": "Adolescent development",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0870101"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Development - adolescent",
+                    "Growth and development - adolescent"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000091-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Adolescent development ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000091-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Adolescent development ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0002249",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000496.htm",
+        "Focus": "IV treatment at home",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Home intravenous antibiotic therapy",
+                    "Central venous catheter - home",
+                    "Peripheral venous catheter - home",
+                    "Port - home",
+                    "PICC line - home",
+                    "Infusion therapy - home"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002249-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about IV treatment at home"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

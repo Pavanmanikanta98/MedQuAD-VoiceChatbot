@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0000821",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003358.htm",
+        "Focus": "Cholinesterase - blood",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Acetylcholinesterase",
+                    "RBC (or erythrocyte) cholinesterase",
+                    "Pseudocholinesterase",
+                    "Plasma cholinesterase",
+                    "Butyrylcholinesterase",
+                    "Serum cholinesterase"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000821-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Cholinesterase - blood"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

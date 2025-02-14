@@ -1,0 +1,114 @@
+{
+    "Document": {
+        "@id": "0000079",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000133.htm",
+        "Focus": "Acute mountain sickness",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0238284"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "High altitude cerebral edema",
+                    "Altitude anoxia",
+                    "Altitude sickness",
+                    "Mountain sickness",
+                    "High altitude pulmonary edema"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000079-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Acute mountain sickness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000079-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Acute mountain sickness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000079-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Acute mountain sickness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000079-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Acute mountain sickness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000079-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Acute mountain sickness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000079-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Acute mountain sickness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000079-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Acute mountain sickness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000079-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Acute mountain sickness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000079-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Acute mountain sickness ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

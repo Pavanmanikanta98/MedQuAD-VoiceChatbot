@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0002849",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000767.htm",
+        "Focus": "Omega-3 fats: Good for your heart",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Cholesterol - omega-3s",
+                    "Atherosclerosis - omega-3s",
+                    "Hardening of the arteries - omega-3s"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002849-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Omega-3 fats: Good for your heart"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

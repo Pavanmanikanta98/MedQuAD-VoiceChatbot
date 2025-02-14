@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000535",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007341.htm",
+        "Focus": "Brain PET scan",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Brain positron emission tomography",
+                    "PET scan - brain"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000535-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Brain PET scan"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

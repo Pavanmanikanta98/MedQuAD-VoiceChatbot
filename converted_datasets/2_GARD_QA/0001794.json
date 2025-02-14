@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0001794",
+        "@source": "GARD",
+        "@url": "https://rarediseases.info.nih.gov/gard/10345/dermal-eccrine-cylindroma",
+        "Focus": "Dermal eccrine cylindroma",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1305968"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Cylindroma"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001794-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Dermal eccrine cylindroma ?"
+                },
+                "Answer": "Cylindromas are non-cancerous (benign) tumors that develop from the skin. They most commonly occur on the head and neck and rarely become cancerous (malignant).  An individual can develop one or many cylindromas; if a person develops only one, the cylindroma likely occurred by chance and typically is not inherited. They usually begin to form during mid-adulthood as a slow-growing, rubbery nodule that causes no symptoms. The development of multiple cylindromas can be hereditary and is inherited in an autosomal dominant manner; this condition is called familial cylindromatosis.  Individuals with the inherited form begin to develop many, rounded nodules of various size shortly after puberty. The tumors grow very slowly and increase in number over time."
+            }
+        }
+    }
+}

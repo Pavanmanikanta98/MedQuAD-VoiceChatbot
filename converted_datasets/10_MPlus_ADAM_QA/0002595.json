@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0002595",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002897.htm",
+        "Focus": "Merbromin poisoning",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Cinfacrom poisoning",
+                    "Mercurochrome poisoning",
+                    "Stellachrome poisoning"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002595-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Merbromin poisoning"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

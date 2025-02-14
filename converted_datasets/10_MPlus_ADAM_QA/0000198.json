@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000198",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000006.htm",
+        "Focus": "Amputation - traumatic",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Loss of a body part"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000198-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Amputation - traumatic"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

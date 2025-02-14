@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0001881",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007369.htm",
+        "Focus": "Heart pacemaker",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Cardiac pacemaker implantation",
+                    "Artificial pacemaker",
+                    "Permanent pacemaker",
+                    "Internal pacemaker",
+                    "Cardiac resynchronization therapy",
+                    "CRT",
+                    "Biventricular pacemaker"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001881-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Heart pacemaker"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "Document": {
+        "@id": "0002266",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001572.htm",
+        "Focus": "Juvenile angiofibroma",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0206731"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Nasal tumor",
+                    "Angiofibroma - juvenile",
+                    "Benign nasal tumor",
+                    "Juvenile nasal angiofibroma",
+                    "JNA"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002266-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Juvenile angiofibroma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002266-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Juvenile angiofibroma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002266-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Juvenile angiofibroma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002266-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Juvenile angiofibroma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002266-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Juvenile angiofibroma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002266-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Juvenile angiofibroma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002266-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Juvenile angiofibroma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002266-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Juvenile angiofibroma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002266-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Juvenile angiofibroma ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

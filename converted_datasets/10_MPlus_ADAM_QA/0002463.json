@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0002463",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007342.htm",
+        "Focus": "Lung PET scan",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Chest PET scan",
+                    "Lung positron emission tomography",
+                    "PET - chest",
+                    "PET - lung",
+                    "PET - tumor imaging"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002463-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Lung PET scan"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

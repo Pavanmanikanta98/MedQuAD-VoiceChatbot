@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001324",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000979.htm",
+        "Focus": "Ear wax",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Ear impaction",
+                    "Cerumen impaction",
+                    "Ear blockage"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001324-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Ear wax"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

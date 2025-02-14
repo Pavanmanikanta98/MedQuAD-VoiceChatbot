@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001643",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003602.htm",
+        "Focus": "Fractional excretion of sodium",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "FE sodium",
+                    "FENa"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001643-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Fractional excretion of sodium"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

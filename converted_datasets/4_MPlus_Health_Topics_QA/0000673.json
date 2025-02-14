@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0000673",
+        "@source": "MPlusHealthTopics",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ovariandisorders.html",
+        "Focus": "Ovarian Disorders",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0029928"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000673-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Ovarian Disorders ?"
+                },
+                "Answer": "The ovaries are a pair of organs that women have. They are located in the pelvis, one on each side of the uterus. Each ovary is about the size and shape of an almond.    The ovaries produce a woman's eggs. If an egg is fertilized by a sperm, a pregnancy can result. Ovaries also make the female hormones estrogen and progesterone. When a woman goes through menopause, her ovaries stop releasing eggs and make far lower levels of hormones.    Problems with the ovaries include       - Ovarian cancer    - Ovarian cysts and polycystic ovary syndrome    - Premature ovarian failure    - Ovarian torsion, a twisting of the ovary"
+            }
+        }
+    }
+}

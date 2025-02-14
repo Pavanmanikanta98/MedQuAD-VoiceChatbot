@@ -1,0 +1,58 @@
+{
+    "Document": {
+        "@id": "0001870",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000114.htm",
+        "Focus": "Heart failure - discharge",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0018801"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Congestive heart failure - discharge",
+                    "CHF - discharge",
+                    "HF - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001870-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Heart failure - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001870-2",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Heart failure - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001870-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Heart failure - discharge ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

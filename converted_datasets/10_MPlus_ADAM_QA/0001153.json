@@ -1,0 +1,99 @@
+{
+    "Document": {
+        "@id": "0001153",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000839.htm",
+        "Focus": "Dermatomyositis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0221056",
+                        "C0011633"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001153-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Dermatomyositis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001153-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Dermatomyositis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001153-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Dermatomyositis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001153-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Dermatomyositis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001153-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Dermatomyositis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001153-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Dermatomyositis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001153-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Dermatomyositis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001153-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Dermatomyositis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

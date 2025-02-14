@@ -1,0 +1,104 @@
+{
+    "Document": {
+        "@id": "0001728",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000288.htm",
+        "Focus": "Giardia infection",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0851885"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Giardia",
+                    "G. duodenalis",
+                    "G. intestinalis",
+                    "Traveler's diarrhea - giardiasis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001728-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Giardia infection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001728-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Giardia infection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001728-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Giardia infection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001728-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Giardia infection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001728-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Giardia infection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001728-6",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Giardia infection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001728-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Giardia infection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001728-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Giardia infection ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

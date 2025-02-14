@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0003373",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003698.htm",
+        "Focus": "Renin blood test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Plasma renin activity",
+                    "Random plasma renin",
+                    "PRA"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003373-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Renin blood test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

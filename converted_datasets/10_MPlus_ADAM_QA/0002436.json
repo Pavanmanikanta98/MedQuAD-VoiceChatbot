@@ -1,0 +1,94 @@
+{
+    "Document": {
+        "@id": "0002436",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000386.htm",
+        "Focus": "Low blood sugar",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0020615"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Hypoglycemia",
+                    "Insulin shock",
+                    "Insulin reaction"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002436-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Low blood sugar ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002436-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Low blood sugar ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002436-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Low blood sugar ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002436-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Low blood sugar ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002436-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Low blood sugar ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002436-6",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Low blood sugar ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002436-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Low blood sugar ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "Document": {
+        "@id": "0001019",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000345.htm",
+        "Focus": "Craniopharyngioma",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0010276"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001019-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Craniopharyngioma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001019-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Craniopharyngioma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001019-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Craniopharyngioma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001019-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Craniopharyngioma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001019-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Craniopharyngioma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001019-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Craniopharyngioma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001019-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Craniopharyngioma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001019-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Craniopharyngioma ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

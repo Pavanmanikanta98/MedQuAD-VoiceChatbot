@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001229",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001979.htm",
+        "Focus": "Dietary fat and children",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Children and fat-free diets",
+                    "Fat-free diet and children"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001229-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Dietary fat and children"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

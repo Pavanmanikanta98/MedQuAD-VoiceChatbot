@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0001498",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002084.htm",
+        "Focus": "Eye - foreign object in",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0016542"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Foreign body",
+                    "Particle in the eye"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001498-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Eye - foreign object in ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

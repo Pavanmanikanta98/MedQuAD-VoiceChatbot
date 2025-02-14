@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0000933",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003468.htm",
+        "Focus": "Comprehensive metabolic panel",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Metabolic panel - comprehensive",
+                    "Chem-20",
+                    "SMA20",
+                    "Sequential multi-channel analysis with computer-20",
+                    "SMAC20",
+                    "Metabolic panel 20"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000933-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Comprehensive metabolic panel"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

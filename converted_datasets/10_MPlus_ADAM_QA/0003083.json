@@ -1,0 +1,113 @@
+{
+    "Document": {
+        "@id": "0003083",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000744.htm",
+        "Focus": "Pick disease",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0236642"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Semantic dementia",
+                    "Dementia - semantic",
+                    "Frontotemporal dementia",
+                    "Arnold Pick disease"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003083-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Pick disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003083-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Pick disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003083-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Pick disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003083-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Pick disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003083-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Pick disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003083-6",
+                        "@qtype": "support groups",
+                        "#text": "Where to find support for people with Pick disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003083-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Pick disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003083-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Pick disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0003083-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Pick disease ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

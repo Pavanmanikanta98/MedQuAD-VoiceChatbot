@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0000900",
+        "@source": "MPlusHealthTopics",
+        "@url": "https://www.nlm.nih.gov/medlineplus/toilettraining.html",
+        "Focus": "Toilet Training",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0700127"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Potty training"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000900-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Toilet Training ?"
+                },
+                "Answer": "Is your child ready to use a potty? The more important question may be, are you? Children are usually ready around ages 18-24 months. They often signal that they are ready by letting you know when their diapers need changing. You should be prepared to commit to three months of daily encouragement. Successful trips to the potty should be rewarded. Missteps shouldn't get as much attention. Training requires patience. If it is not successful, it may mean your child is not ready."
+            }
+        }
+    }
+}

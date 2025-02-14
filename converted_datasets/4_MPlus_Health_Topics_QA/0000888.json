@@ -1,0 +1,41 @@
+{
+    "Document": {
+        "@id": "0000888",
+        "@source": "MPlusHealthTopics",
+        "@url": "https://www.nlm.nih.gov/medlineplus/throatcancer.html",
+        "Focus": "Throat Cancer",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0740339"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Hypopharyngeal cancer",
+                    "Laryngeal cancer",
+                    "Laryngopharyngeal cancer",
+                    "Nasopharyngeal cancer",
+                    "Oropharyngeal cancer",
+                    "Pharyngeal cancer"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000888-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Throat Cancer ?"
+                },
+                "Answer": "Throat cancer is a type of head and neck cancer. Throat cancer has different names, depending on what part of the throat is affected. The different parts of the throat are called the oropharynx, the hypopharynx, and the nasopharynx. Sometimes the larynx, or voice box, is also included.    The main risk factors for throat cancer are smoking or using smokeless tobacco and use of alcohol.    Symptoms of throat cancer may include       - Trouble breathing or speaking    - Frequent headaches    - Pain or ringing in the ears    - Trouble swallowing    - Ear pain       Treatments include surgery, radiation therapy, and chemotherapy.    NIH: National Cancer Institute"
+            }
+        }
+    }
+}

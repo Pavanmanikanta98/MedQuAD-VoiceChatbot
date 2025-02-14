@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0002959",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000394.htm",
+        "Focus": "Parkinson disease - discharge",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0030567"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002959-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Parkinson disease - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002959-6",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Parkinson disease - discharge ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

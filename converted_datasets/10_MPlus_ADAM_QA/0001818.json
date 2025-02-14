@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0001818",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003509.htm",
+        "Focus": "HCG blood test - qualitative",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Beta-HCG in blood serum - qualitative",
+                    "Human chorionic gonadotrophin - serum - qualitative",
+                    "Pregnancy test - blood - qualitative",
+                    "Serum HCG - qualitative",
+                    "HCG in blood serum - qualitative"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001818-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about HCG blood test - qualitative"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

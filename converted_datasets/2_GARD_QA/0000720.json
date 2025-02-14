@@ -1,0 +1,39 @@
+{
+    "Document": {
+        "@id": "0000720",
+        "@source": "GARD",
+        "@url": "https://rarediseases.info.nih.gov/gard/10786/bilateral-generalized-polymicrogyria",
+        "Focus": "Bilateral generalized polymicrogyria",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0266464"
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T019",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Bilateral generalised polymicrogyria",
+                    "Polymicrogyria"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000720-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Bilateral generalized polymicrogyria ?"
+                },
+                "Answer": "Bilateral generalized polymicrogyria is a rare neurological disorder that affects the cerebral cortex (the outer surface of the brain). This is the most widespread form of polymicrogyria and typically affects the entire surface of the brain. Signs and symptoms include severe intellectual disability, problems with movement, and seizures that are difficult or impossible to treat. While the exact cause of bilateral generalized polymicrogyria is not fully understood, it is thought to be due to improper brain development during embryonic growth. Most cases appear to follow an autosomal recessive pattern of inheritance. Treatment is based on the signs and symptoms present in each person."
+            }
+        }
+    }
+}

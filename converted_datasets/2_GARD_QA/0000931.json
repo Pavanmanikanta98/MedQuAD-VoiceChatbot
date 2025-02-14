@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0000931",
+        "@source": "GARD",
+        "@url": "https://rarediseases.info.nih.gov/gard/1089/carbon-baby-syndrome",
+        "Focus": "Carbon baby syndrome",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0039082"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Universal acquired melanosis"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000931-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Carbon baby syndrome ?"
+                },
+                "Answer": "Carbon baby syndrome, also known as universal acquired melanosis, is a rare form of hyperpigmentation. The skin of affected infants progressively darkens over the first years of life in the absence of other symptoms. The cause of the condition is unknown."
+            }
+        }
+    }
+}

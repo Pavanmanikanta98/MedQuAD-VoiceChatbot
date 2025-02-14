@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001384",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003753.htm",
+        "Focus": "Endocervical gram stain",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Gram stain of cervix"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001384-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Endocervical gram stain"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

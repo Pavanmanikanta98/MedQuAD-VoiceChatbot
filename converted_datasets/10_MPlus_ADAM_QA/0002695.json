@@ -1,0 +1,45 @@
+{
+    "Document": {
+        "@id": "0002695",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000129.htm",
+        "Focus": "Multiple sclerosis - discharge",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0026769"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "MS - discharge"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002695-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Multiple sclerosis - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "10",
+                    "Question": {
+                        "@qid": "0002695-10",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Multiple sclerosis - discharge ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0000486",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003657.htm",
+        "Focus": "Blood differential test",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0456984"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Differential",
+                    "White blood cell differential count"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000486-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Blood differential test ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000486-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Blood differential test? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

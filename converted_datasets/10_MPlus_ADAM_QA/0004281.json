@@ -1,0 +1,50 @@
+{
+    "Document": {
+        "@id": "0004281",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000889.htm",
+        "Focus": "Weight loss and alcohol",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0043096"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Weight loss - alcohol",
+                    "Overweight- alcohol",
+                    "Obesity - alcohol",
+                    "Diet - alcohol"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004281-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Weight loss and alcohol ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0004281-6",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Weight loss and alcohol ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

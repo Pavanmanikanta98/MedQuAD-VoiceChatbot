@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0004241",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003570.htm",
+        "Focus": "Vitamin A blood test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Retinol test"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004241-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Vitamin A blood test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

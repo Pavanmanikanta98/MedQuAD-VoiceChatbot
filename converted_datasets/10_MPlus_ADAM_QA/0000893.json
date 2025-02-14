@@ -1,0 +1,87 @@
+{
+    "Document": {
+        "@id": "0000893",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003095.htm",
+        "Focus": "Cold intolerance",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0009269",
+                        "C2107731"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Sensitivity to the cold",
+                    "Intolerance to cold"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000893-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Cold intolerance ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000893-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Cold intolerance ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000893-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Cold intolerance ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000893-4",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Cold intolerance ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000893-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Cold intolerance ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000893-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Cold intolerance ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0001928",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000038.htm",
+        "Focus": "Hemovac drain",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001928-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Hemovac drain"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

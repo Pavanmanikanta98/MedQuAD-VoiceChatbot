@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0001486",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000493.htm",
+        "Focus": "Exercises to help prevent falls",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0085639"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001486-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Exercises to help prevent falls ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001486-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Exercises to help prevent falls ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

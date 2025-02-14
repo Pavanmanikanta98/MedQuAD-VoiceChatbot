@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003014",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003872.htm",
+        "Focus": "Pericardiocentesis",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Pericardial tap",
+                    "Percutaneous pericardiocentesis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003014-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Pericardiocentesis"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0003007",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007375.htm",
+        "Focus": "Percutaneous urinary procedures",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Percutaneous nephrostomy",
+                    "Percutaneous nephrostolithotomy",
+                    "PCNL",
+                    "Nephrolithotomy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003007-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Percutaneous urinary procedures"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0003639",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003729.htm",
+        "Focus": "Smear of duodenal fluid aspirate",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Duodenal aspirated fluid smear"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003639-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Smear of duodenal fluid aspirate"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0004231",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007253.htm",
+        "Focus": "Virtual colonoscopy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Colonoscopy - virtual",
+                    "CT colonography",
+                    "Computed tomographic colonography",
+                    "Colography - virtual"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004231-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Virtual colonoscopy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

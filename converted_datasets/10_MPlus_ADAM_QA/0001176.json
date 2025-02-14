@@ -1,0 +1,49 @@
+{
+    "Document": {
+        "@id": "0001176",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003717.htm",
+        "Focus": "DHEA-sulfate test",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0456984"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Serum DHEA-sulfate",
+                    "Dehydroepiandrosterone-sulfate test",
+                    "DHEA-sulfate - serum"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001176-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) DHEA-sulfate test ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001176-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for DHEA-sulfate test? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

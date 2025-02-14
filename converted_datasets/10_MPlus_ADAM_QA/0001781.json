@@ -1,0 +1,107 @@
+{
+    "Document": {
+        "@id": "0001781",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000684.htm",
+        "Focus": "Guillain-Barr syndrome",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0039082"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "GBS",
+                    "Landry-Guillain-Barrsyndrome",
+                    "Acute idiopathic polyneuritis",
+                    "Infectious polyneuritis",
+                    "Acute inflammatory polyneuropathy",
+                    "Acute inflammatory demyelinating polyneuropathy",
+                    "Ascending paralysis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001781-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Guillain-Barr syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001781-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Guillain-Barr syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001781-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Guillain-Barr syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001781-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Guillain-Barr syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001781-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Guillain-Barr syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001781-6",
+                        "@qtype": "support groups",
+                        "#text": "Where to find support for people with Guillain-Barr syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001781-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Guillain-Barr syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001781-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Guillain-Barr syndrome ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

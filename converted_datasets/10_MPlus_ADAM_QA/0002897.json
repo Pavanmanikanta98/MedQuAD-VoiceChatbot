@@ -1,0 +1,111 @@
+{
+    "Document": {
+        "@id": "0002897",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000889.htm",
+        "Focus": "Ovarian cancer",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0029925",
+                        "C1140680"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Cancer - ovaries"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002897-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Ovarian cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002897-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Ovarian cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002897-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Ovarian cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002897-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Ovarian cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002897-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Ovarian cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002897-6",
+                        "@qtype": "support groups",
+                        "#text": "Where to find support for people with Ovarian cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002897-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Ovarian cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002897-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Ovarian cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002897-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Ovarian cancer ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

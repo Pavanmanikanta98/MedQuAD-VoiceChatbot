@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0003277",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002197.htm",
+        "Focus": "Psoriasis - resources",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0033860"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Resources - psoriasis"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003277-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Psoriasis - resources ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

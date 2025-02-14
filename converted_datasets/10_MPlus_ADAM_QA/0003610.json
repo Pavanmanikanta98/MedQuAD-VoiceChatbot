@@ -1,0 +1,51 @@
+{
+    "Document": {
+        "@id": "0003610",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003840.htm",
+        "Focus": "Skin lesion biopsy",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0221198"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003610-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Skin lesion biopsy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003610-7",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Skin lesion biopsy? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003610-8",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Skin lesion biopsy ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

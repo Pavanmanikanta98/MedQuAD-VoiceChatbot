@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001578",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003407.htm",
+        "Focus": "Fetal-maternal erythrocyte distribution",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Kleihauer-Betke stain"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001578-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Fetal-maternal erythrocyte distribution"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

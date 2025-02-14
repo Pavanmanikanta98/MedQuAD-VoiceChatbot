@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002556",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000766.htm",
+        "Focus": "Medication safety: Filling your prescription",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Medical errors - medication",
+                    "Preventing medication errors"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002556-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Medication safety: Filling your prescription"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

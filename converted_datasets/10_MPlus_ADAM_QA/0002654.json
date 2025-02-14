@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0002654",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007411.htm",
+        "Focus": "Mitral valve surgery - minimally invasive",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Mitral valve repair - right mini-thoracotomy",
+                    "Mitral valve repair - partial upper or lower sternotomy",
+                    "Robotically-assisted, endoscopic valve repair, Percutaneous mitral valvuloplasty"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002654-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Mitral valve surgery - minimally invasive"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

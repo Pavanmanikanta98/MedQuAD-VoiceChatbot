@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001170",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002009.htm",
+        "Focus": "Developmental milestones record - 9 months",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Growth milestones for children - 9 months",
+                    "Childhood growth milestones - 9 months",
+                    "Normal childhood growth milestones - 9 months"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001170-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Developmental milestones record - 9 months"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0004070",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000073.htm",
+        "Focus": "Types of ileostomy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Ileostomy - types",
+                    "Standard ileostomy",
+                    "Brooke ileostomy",
+                    "Continent ileostomy",
+                    "Abdominal pouch",
+                    "End ileostomy",
+                    "Ostomy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004070-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Types of ileostomy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

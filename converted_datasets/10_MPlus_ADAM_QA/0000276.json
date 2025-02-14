@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000276",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003351.htm",
+        "Focus": "Antiparietal cell antibody test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "APCA",
+                    "Anti-gastric parietal cell antibody"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000276-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Antiparietal cell antibody test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

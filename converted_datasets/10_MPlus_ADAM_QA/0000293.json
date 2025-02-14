@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000293",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003402.htm",
+        "Focus": "Apgar score",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Newborn scoring"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000293-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Apgar score"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

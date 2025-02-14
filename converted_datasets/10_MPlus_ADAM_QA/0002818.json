@@ -1,0 +1,108 @@
+{
+    "Document": {
+        "@id": "0002818",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001656.htm",
+        "Focus": "Noonan syndrome",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0028326"
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T019",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002818-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Noonan syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002818-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Noonan syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002818-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Noonan syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002818-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Noonan syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002818-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Noonan syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002818-6",
+                        "@qtype": "support groups",
+                        "#text": "Where to find support for people with Noonan syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002818-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Noonan syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002818-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Noonan syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002818-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Noonan syndrome ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

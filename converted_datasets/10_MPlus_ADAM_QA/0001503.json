@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0001503",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002961.htm",
+        "Focus": "Eye muscle repair",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Repair of cross-eye",
+                    "Resection and recession",
+                    "Strabismus repair",
+                    "Extraocular muscle surgery"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001503-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Eye muscle repair"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

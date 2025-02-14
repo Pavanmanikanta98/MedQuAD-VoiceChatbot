@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000315",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003422.htm",
+        "Focus": "Arterial stick",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Blood sample - arterial"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000315-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Arterial stick"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

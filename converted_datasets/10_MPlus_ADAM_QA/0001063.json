@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001063",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003733.htm",
+        "Focus": "Culture - colonic tissue",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Colonic tissue culture"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001063-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Culture - colonic tissue"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "Document": {
+        "@id": "0001939",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007671.htm",
+        "Focus": "Hepatitis B - children",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0019163"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Silent infection - HBV children",
+                    "Antivirals - hepatitis B children",
+                    "HBV children",
+                    "Pregnancy - hepatitis B children",
+                    "Maternal transmission - hepatitis B children"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001939-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hepatitis B - children ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001939-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Hepatitis B - children ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001939-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Hepatitis B - children ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001939-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Hepatitis B - children ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001939-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Hepatitis B - children ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001939-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Hepatitis B - children ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001939-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Hepatitis B - children ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001939-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Hepatitis B - children ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0001939-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Hepatitis B - children ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

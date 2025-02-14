@@ -1,0 +1,103 @@
+{
+    "Document": {
+        "@id": "0001002",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000164.htm",
+        "Focus": "Costochondritis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0040213"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Chest wall pain",
+                    "Costosternal syndrome",
+                    "Costosternal chondrodynia"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001002-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Costochondritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001002-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Costochondritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001002-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Costochondritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001002-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Costochondritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001002-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Costochondritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001002-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Costochondritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001002-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Costochondritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001002-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Costochondritis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

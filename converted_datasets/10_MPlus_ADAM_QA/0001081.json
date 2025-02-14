@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0001081",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002176.htm",
+        "Focus": "Cystic fibrosis - resources",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0010674"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Resources - cystic fibrosis"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001081-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Cystic fibrosis - resources ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0002314",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000497.htm",
+        "Focus": "Lacerations - liquid bandage",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0043246"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Skin adhesives",
+                    "Tissue adhesive"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002314-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Lacerations - liquid bandage ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002314-3",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Lacerations - liquid bandage ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

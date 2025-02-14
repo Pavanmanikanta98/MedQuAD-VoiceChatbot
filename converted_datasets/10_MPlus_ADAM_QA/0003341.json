@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003341",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003644.htm",
+        "Focus": "RBC count",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Erythrocyte count",
+                    "Red blood cell count"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003341-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about RBC count"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001959",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002206.htm",
+        "Focus": "Herpes - resources",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Genital herpes - resources",
+                    "Resources - genital herpes"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001959-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Herpes - resources"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

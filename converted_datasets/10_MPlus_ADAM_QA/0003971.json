@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003971",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003061.htm",
+        "Focus": "Tooth formation - delayed or absent",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Delayed or absent tooth formation",
+                    "Teeth - delayed or absent formation"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003971-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Tooth formation - delayed or absent"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

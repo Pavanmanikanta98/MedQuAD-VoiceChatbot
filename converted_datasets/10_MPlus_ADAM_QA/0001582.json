@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0001582",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003655.htm",
+        "Focus": "Fibrin degradation products",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "FDPs",
+                    "FSPs",
+                    "Fibrin split products",
+                    "Fibrin breakdown products"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001582-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Fibrin degradation products"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

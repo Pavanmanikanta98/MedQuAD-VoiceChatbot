@@ -1,0 +1,66 @@
+{
+    "Document": {
+        "@id": "0001343",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000314.htm",
+        "Focus": "Ectopic ADH secretion",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0271594"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T046"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "SIADH",
+                    "Syndrome of inappropriate antidiuretic hormone secretion"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001343-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Ectopic ADH secretion ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001343-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Ectopic ADH secretion ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001343-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Ectopic ADH secretion ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001343-4",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Ectopic ADH secretion ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

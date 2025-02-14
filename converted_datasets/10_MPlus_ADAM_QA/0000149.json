@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0000149",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003202.htm",
+        "Focus": "Alertness - decreased",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Stuporous",
+                    "Mental status - decreased",
+                    "Loss of alertness",
+                    "Decreased consciousness",
+                    "Changes in consciousness",
+                    "Obtundation",
+                    "Coma",
+                    "Unresponsiveness"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000149-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Alertness - decreased"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

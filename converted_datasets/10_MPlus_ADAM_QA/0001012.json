@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001012",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000012.htm",
+        "Focus": "CPR - child (1 to 8 years old)",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Rescue breathing and chest compressions - child",
+                    "Resuscitation - cardiopulmonary - child",
+                    "Cardiopulmonary resuscitation - child"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001012-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about CPR - child (1 to 8 years old)"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0004139",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003364.htm",
+        "Focus": "Urine drug screen",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Drug screen -- urine"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004139-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Urine drug screen"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

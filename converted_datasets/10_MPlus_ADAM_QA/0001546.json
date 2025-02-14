@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0001546",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002170.htm",
+        "Focus": "Family troubles - resources",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Troubled families - resources",
+                    "Child abuse - resources",
+                    "Incest - resources",
+                    "Resources - family troubles",
+                    "Resources - incest",
+                    "Resources - child abuse"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001546-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Family troubles - resources"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

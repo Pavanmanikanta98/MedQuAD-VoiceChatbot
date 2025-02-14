@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000406",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000021.htm",
+        "Focus": "Bathroom safety - adults",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Older adult bathroom safety"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000406-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Bathroom safety - adults"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

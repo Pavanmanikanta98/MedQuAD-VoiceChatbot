@@ -1,0 +1,123 @@
+{
+    "Document": {
+        "@id": "0002784",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001613.htm",
+        "Focus": "Neuronal ceroid lipofuscinoses (NCLS)",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0027877"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Lipofuscinoses",
+                    "Batten disease",
+                    "Jansky-Bielschowsky",
+                    "Kufs' disease",
+                    "Spielmeyer-Vogt"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002784-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Neuronal ceroid lipofuscinoses (NCLS) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002784-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Neuronal ceroid lipofuscinoses (NCLS) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002784-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Neuronal ceroid lipofuscinoses (NCLS) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002784-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Neuronal ceroid lipofuscinoses (NCLS) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002784-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Neuronal ceroid lipofuscinoses (NCLS) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002784-6",
+                        "@qtype": "support groups",
+                        "#text": "Where to find support for people with Neuronal ceroid lipofuscinoses (NCLS) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002784-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Neuronal ceroid lipofuscinoses (NCLS) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002784-8",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Neuronal ceroid lipofuscinoses (NCLS) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002784-9",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Neuronal ceroid lipofuscinoses (NCLS) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "10",
+                    "Question": {
+                        "@qid": "0002784-10",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Neuronal ceroid lipofuscinoses (NCLS) ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0000723",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002033.htm",
+        "Focus": "Cellulite",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0424624"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000723-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Cellulite ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000723-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Cellulite ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

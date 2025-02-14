@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0002424",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000075.htm",
+        "Focus": "Living with your ileostomy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Standard ileostomy - living with",
+                    "Brooke ileostomy - living with",
+                    "Continent ileostomy - living with",
+                    "Abdominal pouch - living with",
+                    "End ileostomy - living with",
+                    "Ostomy - living with"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002424-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Living with your ileostomy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

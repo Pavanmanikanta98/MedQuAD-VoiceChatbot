@@ -1,0 +1,78 @@
+{
+    "Document": {
+        "@id": "0000401",
+        "@source": "MPlusDrugs",
+        "@url": "https://www.nlm.nih.gov/medlineplus/druginfo/meds/a601141.html",
+        "Focus": "Doxycycline Injection",
+        "FocusAnnotations": {
+            "Category": "Drug"
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000401-1",
+                        "@qtype": "important warning",
+                        "#text": "What important warning or information should I know about Doxycycline Injection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000401-2",
+                        "@qtype": "other information",
+                        "#text": "What other information should I know about Doxycycline Injection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000401-3",
+                        "@qtype": "precautions",
+                        "#text": "Are there safety concerns or special precautions about Doxycycline Injection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000401-5",
+                        "@qtype": "side effects",
+                        "#text": "What are the side effects or risks of Doxycycline Injection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000401-6",
+                        "@qtype": "storage and disposal",
+                        "#text": "What should I know about storage and disposal of Doxycycline Injection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000401-7",
+                        "@qtype": "emergency or overdose",
+                        "#text": "What to do in case of emergency or overdose of Doxycycline Injection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000401-9",
+                        "@qtype": "brand names",
+                        "#text": "What are the brand names of Doxycycline Injection ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

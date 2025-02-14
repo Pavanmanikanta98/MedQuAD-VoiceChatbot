@@ -1,0 +1,61 @@
+{
+    "Document": {
+        "@id": "0002776",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000326.htm",
+        "Focus": "Nerve damage from diabetes - self-care",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0161479",
+                        "C0011860",
+                        "C0011849"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T037",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Diabetic neuropathy - self-care"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002776-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Nerve damage from diabetes - self-care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002776-2",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Nerve damage from diabetes - self-care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002776-3",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Nerve damage from diabetes - self-care ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

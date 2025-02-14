@@ -1,0 +1,76 @@
+{
+    "Document": {
+        "@id": "0003657",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002488.htm",
+        "Focus": "Sodium hypochlorite poisoning",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0238430"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Bleach",
+                    "Clorox",
+                    "Carrel-Dakin solution"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003657-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Sodium hypochlorite poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003657-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Sodium hypochlorite poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003657-5",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Sodium hypochlorite poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003657-8",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Sodium hypochlorite poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0003657-9",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Sodium hypochlorite poisoning ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

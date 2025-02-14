@@ -1,0 +1,41 @@
+{
+    "Document": {
+        "@id": "0001852",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002152.htm",
+        "Focus": "Hearing or speech impairment - resources",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0233715",
+                        "C1455844",
+                        "C2015933"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T048",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Resources - hearing or speech impairment"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001852-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Hearing or speech impairment - resources ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

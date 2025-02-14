@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0001906",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003645.htm",
+        "Focus": "Hemoglobin",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1561562"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Hgb",
+                    "Hb"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001906-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hemoglobin ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001906-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Hemoglobin? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

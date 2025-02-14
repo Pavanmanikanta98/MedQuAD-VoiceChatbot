@@ -1,0 +1,50 @@
+{
+    "Document": {
+        "@id": "0000761",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000757.htm",
+        "Focus": "Changing your sleep habits",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C2133558"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Insomnia - sleep habits",
+                    "Sleep disorder - sleep habits",
+                    "Problems falling asleep",
+                    "Sleep hygiene"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000761-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Changing your sleep habits ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000761-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Changing your sleep habits ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

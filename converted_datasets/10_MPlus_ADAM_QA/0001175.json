@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0001175",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002628.htm",
+        "Focus": "Dextromethorphan overdose",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "DXM overdose",
+                    "Robo overdose",
+                    "Orange crush overdose",
+                    "Red devils overdose",
+                    "Triple C's overdose"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001175-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Dextromethorphan overdose"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0000619",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000095.htm",
+        "Focus": "Butter, margarine, and cooking oils",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000619-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Butter, margarine, and cooking oils"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

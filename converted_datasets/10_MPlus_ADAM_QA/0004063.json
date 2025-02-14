@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0004063",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003390.htm",
+        "Focus": "Tympanometry",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Tympanogram"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004063-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Tympanometry"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

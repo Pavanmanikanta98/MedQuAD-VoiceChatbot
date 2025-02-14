@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0001554",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000223.htm",
+        "Focus": "Febrile seizures - what to ask your doctor",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0009952"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "What to ask your doctor about febrile seizures"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001554-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Febrile seizures - what to ask your doctor ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

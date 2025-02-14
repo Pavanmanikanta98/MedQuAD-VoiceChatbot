@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001770",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001530.htm",
+        "Focus": "Grief",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Mourning",
+                    "Grieving",
+                    "Bereavement"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001770-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Grief"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

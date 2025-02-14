@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001799",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000799.htm",
+        "Focus": "Halo brace",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Halo orthosis"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001799-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Halo brace"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

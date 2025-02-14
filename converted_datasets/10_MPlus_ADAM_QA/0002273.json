@@ -1,0 +1,103 @@
+{
+    "Document": {
+        "@id": "0002273",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000849.htm",
+        "Focus": "Keloids",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0022548"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T020"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Hypertrophic scar",
+                    "Keloid scar",
+                    "Scar - hypertrophic"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002273-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Keloids ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002273-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Keloids ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002273-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Keloids ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002273-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Keloids ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002273-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Keloids ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002273-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Keloids ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002273-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Keloids ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002273-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Keloids ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "Document": {
+        "@id": "0000691",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001105.htm",
+        "Focus": "Cardiomyopathy",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0878544"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000691-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Cardiomyopathy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000691-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Cardiomyopathy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000691-3",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Cardiomyopathy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000691-4",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Cardiomyopathy ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

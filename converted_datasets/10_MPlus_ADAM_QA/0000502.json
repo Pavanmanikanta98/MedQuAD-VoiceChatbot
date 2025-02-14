@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000502",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001982.htm",
+        "Focus": "Body temperature norms",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Normal body temperature",
+                    "Temperature - normal"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000502-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Body temperature norms"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

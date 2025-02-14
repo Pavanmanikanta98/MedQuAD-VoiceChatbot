@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0000607",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003239.htm",
+        "Focus": "Bullae",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0241982",
+                        "C0005758"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T046",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000607-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Bullae ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

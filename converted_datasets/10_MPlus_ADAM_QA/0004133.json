@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0004133",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003342.htm",
+        "Focus": "Urine chemistry",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Chemistry - urine"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004133-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Urine chemistry"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

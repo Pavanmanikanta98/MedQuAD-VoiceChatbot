@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0000563",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007404.htm",
+        "Focus": "Breast reconstruction - natural tissue",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Transverse rectus abdominus muscle flap",
+                    "TRAM",
+                    "Latissimus muscle flap with a breast implant",
+                    "DIEP flap",
+                    "DIEAP flap",
+                    "Gluteal free flap",
+                    "Transverse upper gracilis flap",
+                    "TUG"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000563-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Breast reconstruction - natural tissue"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

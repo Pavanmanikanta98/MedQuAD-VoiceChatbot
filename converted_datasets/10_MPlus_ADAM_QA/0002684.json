@@ -1,0 +1,58 @@
+{
+    "Document": {
+        "@id": "0002684",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007493.htm",
+        "Focus": "MRI and low back pain",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0024031"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Backache - MRI",
+                    "Low back pain - MRI",
+                    "Lumbar pain - MRI",
+                    "Back strain - MRI",
+                    "Lumbar radiculopathy - MRI",
+                    "Herniated intervertebral disk - MRI",
+                    "Prolapsed intervertebral disk - MRI",
+                    "Slipped disk - MRI",
+                    "Ruptured disk - MRI",
+                    "Herniated nucleus pulposus - MRI",
+                    "Spinal stenosis - MRI",
+                    "Degenerative spine disease - MRI"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002684-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) MRI and low back pain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002684-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) MRI and low back pain ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

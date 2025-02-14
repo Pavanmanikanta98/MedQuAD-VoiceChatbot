@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0002761",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001251.htm",
+        "Focus": "Necrotizing granuloma",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0021386",
+                        "C0018188"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T046"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Granuloma"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002761-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Necrotizing granuloma ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "Document": {
+        "@id": "0003334",
+        "@source": "GARD",
+        "@url": "https://rarediseases.info.nih.gov/gard/3068/juvenile-temporal-arteritis",
+        "Focus": "Juvenile temporal arteritis",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0751547"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Juvenile giant cell arteritis",
+                    "JGCA",
+                    "Juvenile cranial arteritis",
+                    "Juvenile polymyalgia rheumatica",
+                    "JPMR"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003334-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Juvenile temporal arteritis ?"
+                },
+                "Answer": "Juvenile temporal arteritis is a rare form of vasculitis, a group of conditions that cause inflammation of the blood vessels. Unlike the classic form of temporal arteritis, this condition is generally diagnosed in late childhood or early adulthood and only affects the temporal arteries (located at the lower sides of the skull, directly underneath the temple). Affected people often have no signs or symptoms aside from a painless nodule or lump in the temporal region. The exact underlying cause of the condition is unknown. It generally occurs sporadically in people with no family history of the condition. Juvenile temporal arteritis is often treated with surgical excision and rarely recurs."
+            }
+        }
+    }
+}

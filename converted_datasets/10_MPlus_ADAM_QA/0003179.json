@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0003179",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003839.htm",
+        "Focus": "PPD skin test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Purified protein derivative standard",
+                    "TB skin test",
+                    "Tuberculin skin test",
+                    "Mantoux test"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003179-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about PPD skin test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

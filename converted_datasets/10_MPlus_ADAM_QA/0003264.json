@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0003264",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003652.htm",
+        "Focus": "Prothrombin time (PT)",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "PT",
+                    "Pro-time",
+                    "Anticoagulant-prothrombin time",
+                    "Clotting time: protime",
+                    "INR",
+                    "International normalized ratio"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003264-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Prothrombin time (PT)"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

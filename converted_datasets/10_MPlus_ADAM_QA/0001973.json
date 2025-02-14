@@ -1,0 +1,66 @@
+{
+    "Document": {
+        "@id": "0001973",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000332.htm",
+        "Focus": "High blood sugar",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0020456"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Hyperglycemia - self-care",
+                    "High blood glucose - self-care"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001973-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) High blood sugar ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001973-2",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of High blood sugar ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001973-3",
+                        "@qtype": "information",
+                        "#text": "What is (are) High blood sugar ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001973-4",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent High blood sugar ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

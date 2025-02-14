@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0002901",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001165.htm",
+        "Focus": "Ovarian overproduction of androgens",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002901-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Ovarian overproduction of androgens"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

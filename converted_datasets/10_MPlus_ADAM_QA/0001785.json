@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0001785",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000737.htm",
+        "Focus": "Gunshot wounds - aftercare",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0043252"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001785-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Gunshot wounds - aftercare ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

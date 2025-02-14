@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001830",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000469.htm",
+        "Focus": "Health care agents",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Durable power of attorney for health care",
+                    "Health care proxy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001830-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Health care agents"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

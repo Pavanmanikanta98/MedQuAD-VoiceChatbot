@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0002944",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002731.htm",
+        "Focus": "Paraffin poisoning",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Wax poisoning - paraffin"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002944-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Paraffin poisoning"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

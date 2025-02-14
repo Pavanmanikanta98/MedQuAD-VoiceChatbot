@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003793",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000738.htm",
+        "Focus": "Surgical wound care - closed",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Surgical incision care",
+                    "Closed wound care"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003793-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Surgical wound care - closed"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

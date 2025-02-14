@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0000918",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003913.htm",
+        "Focus": "Colposcopy - directed biopsy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Biopsy - colposcopy - directed",
+                    "Biopsy - cervix - colposcopy",
+                    "Endocervical curettage",
+                    "ECC",
+                    "Cervical punch biopsy",
+                    "Biopsy - cervical punch",
+                    "Cervical biopsy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000918-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Colposcopy - directed biopsy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

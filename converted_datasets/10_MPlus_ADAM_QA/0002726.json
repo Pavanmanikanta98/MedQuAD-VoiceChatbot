@@ -1,0 +1,75 @@
+{
+    "Document": {
+        "@id": "0002726",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002899.htm",
+        "Focus": "Myristica oil poisoning",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0032343"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Nutmeg oil",
+                    "Myristicin"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002726-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Myristica oil poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002726-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Myristica oil poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002726-5",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Myristica oil poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002726-8",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Myristica oil poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002726-9",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Myristica oil poisoning ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

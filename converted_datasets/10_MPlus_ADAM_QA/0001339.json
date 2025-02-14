@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0001339",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007669.htm",
+        "Focus": "Echocardiogram - children",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Transthoracic echocardiogram (TTE) - children",
+                    "Echocardiogram- transthoracic - children",
+                    "Doppler ultrasound of the heart - children",
+                    "Surface echo - children"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001339-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Echocardiogram - children"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

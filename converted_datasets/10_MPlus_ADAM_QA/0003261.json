@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0003261",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003660.htm",
+        "Focus": "Protein S blood test",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003261-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Protein S blood test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

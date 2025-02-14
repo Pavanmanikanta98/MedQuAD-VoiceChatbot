@@ -1,0 +1,63 @@
+{
+    "Document": {
+        "@id": "0000663",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000826.htm",
+        "Focus": "Cancer treatment: dealing with hot flashes and night sweats",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0600142",
+                        "C0028081"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000663-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Cancer treatment: dealing with hot flashes and night sweats ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000663-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Cancer treatment: dealing with hot flashes and night sweats ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000663-4",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Cancer treatment: dealing with hot flashes and night sweats ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000663-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Cancer treatment: dealing with hot flashes and night sweats ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

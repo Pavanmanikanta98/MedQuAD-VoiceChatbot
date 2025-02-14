@@ -1,0 +1,112 @@
+{
+    "Document": {
+        "@id": "0003206",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000508.htm",
+        "Focus": "Prerenal azotemia",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0554309"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Azotemia - prerenal",
+                    "Uremia",
+                    "Renal underperfusion"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003206-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Prerenal azotemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003206-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Prerenal azotemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003206-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Prerenal azotemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003206-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Prerenal azotemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003206-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Prerenal azotemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003206-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Prerenal azotemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003206-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Prerenal azotemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003206-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Prerenal azotemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0003206-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Prerenal azotemia ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

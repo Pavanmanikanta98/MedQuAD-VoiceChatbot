@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002362",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003875.htm",
+        "Focus": "Left heart ventricular angiography",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Angiography - left heart",
+                    "Left ventriculography"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002362-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Left heart ventricular angiography"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

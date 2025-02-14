@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0001847",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000733.htm",
+        "Focus": "Healthy habits for weight loss",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0043096"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001847-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Healthy habits for weight loss ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

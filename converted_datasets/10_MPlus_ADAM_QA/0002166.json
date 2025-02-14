@@ -1,0 +1,105 @@
+{
+    "Document": {
+        "@id": "0002166",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000793.htm",
+        "Focus": "Increased intracranial pressure",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0151740"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "ICP - raised",
+                    "Intracranial pressure - raised",
+                    "Intracranial hypertension",
+                    "Acute increased intracranial pressure",
+                    "Sudden increased intracranial pressure"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002166-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Increased intracranial pressure ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002166-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Increased intracranial pressure ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002166-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Increased intracranial pressure ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002166-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Increased intracranial pressure ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002166-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Increased intracranial pressure ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002166-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Increased intracranial pressure ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002166-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Increased intracranial pressure ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002166-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Increased intracranial pressure ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

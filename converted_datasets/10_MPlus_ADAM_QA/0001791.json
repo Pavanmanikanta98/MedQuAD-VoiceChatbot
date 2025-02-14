@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001791",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002703.htm",
+        "Focus": "Hair dye poisoning",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Hair tint poisoning"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001791-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Hair dye poisoning"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

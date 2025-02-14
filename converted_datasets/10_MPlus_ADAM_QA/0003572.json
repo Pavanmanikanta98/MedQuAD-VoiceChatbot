@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003572",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003812.htm",
+        "Focus": "Sialogram",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Ptyalography",
+                    "Sialography"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003572-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Sialogram"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003605",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003224.htm",
+        "Focus": "Skin color - patchy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Dyschromia",
+                    "Mottling"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003605-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Skin color - patchy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

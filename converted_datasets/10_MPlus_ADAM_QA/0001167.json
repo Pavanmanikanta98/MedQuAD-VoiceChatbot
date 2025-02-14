@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001167",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002015.htm",
+        "Focus": "Developmental milestones record - 4 years",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Normal childhood growth milestones - 4 years",
+                    "Growth milestones for children - 4 years",
+                    "Childhood growth milestones - 4 years"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001167-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Developmental milestones record - 4 years"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

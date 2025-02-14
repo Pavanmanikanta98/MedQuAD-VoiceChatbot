@@ -1,0 +1,38 @@
+{
+    "Document": {
+        "@id": "0003500",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000355.htm",
+        "Focus": "Scurvy",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0036474"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Vitamin C deficiency",
+                    "Deficiency - vitamin C",
+                    "Scorbutus"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003500-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Scurvy ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

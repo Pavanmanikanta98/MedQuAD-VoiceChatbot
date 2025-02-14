@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0002737",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000404.htm",
+        "Focus": "Nasal corticosteroid sprays",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0233601"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T048"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Steroid nasal sprays",
+                    "Allergies - nasal corticosteroid sprays"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002737-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Nasal corticosteroid sprays ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002737-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Nasal corticosteroid sprays ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

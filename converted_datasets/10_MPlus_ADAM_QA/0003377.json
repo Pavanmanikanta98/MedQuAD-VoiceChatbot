@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003377",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002967.htm",
+        "Focus": "Replantation of digits",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Revascularization of amputated digits",
+                    "Reattachment of amputated fingers"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003377-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Replantation of digits"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "Document": {
+        "@id": "0002302",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003187.htm",
+        "Focus": "Knee pain",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0231749"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Pain - knee"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002302-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Knee pain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002302-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Knee pain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002302-3",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Knee pain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002302-4",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Knee pain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002302-5",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Knee pain ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

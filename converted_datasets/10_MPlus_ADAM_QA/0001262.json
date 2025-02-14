@@ -1,0 +1,51 @@
+{
+    "Document": {
+        "@id": "0001262",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000507.htm",
+        "Focus": "Do you have a drinking problem?",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0085762"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T048"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001262-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Do you have a drinking problem? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001262-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Do you have a drinking problem? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001262-6",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Do you have a drinking problem? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

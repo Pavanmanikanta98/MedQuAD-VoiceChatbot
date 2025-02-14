@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003251",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003346.htm",
+        "Focus": "Prostate-specific antigen (PSA) blood test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Prostate-specific antigen",
+                    "Prostatecancer screening test"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003251-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Prostate-specific antigen (PSA) blood test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

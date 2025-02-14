@@ -1,0 +1,78 @@
+{
+    "Document": {
+        "@id": "0001106",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003299.htm",
+        "Focus": "Decerebrate posture",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0231474"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001106-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Decerebrate posture ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001106-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Decerebrate posture ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001106-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Decerebrate posture ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001106-4",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Decerebrate posture ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001106-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Decerebrate posture ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001106-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Decerebrate posture ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

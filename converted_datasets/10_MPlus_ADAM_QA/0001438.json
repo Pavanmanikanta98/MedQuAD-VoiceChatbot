@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001438",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000396.htm",
+        "Focus": "Erection problems - aftercare",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Erectile dysfunction - self-care"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001438-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Erection problems - aftercare"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

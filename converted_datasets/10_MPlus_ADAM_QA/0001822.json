@@ -1,0 +1,45 @@
+{
+    "Document": {
+        "@id": "0001822",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002379.htm",
+        "Focus": "Head circumference",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C2145637"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Occipital-frontal circumference"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001822-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Head circumference ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001822-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Head circumference ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

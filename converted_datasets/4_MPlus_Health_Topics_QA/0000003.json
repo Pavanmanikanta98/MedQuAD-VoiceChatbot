@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0000003",
+        "@source": "MPlusHealthTopics",
+        "@url": "https://www.nlm.nih.gov/medlineplus/abortion.html",
+        "Focus": "Abortion",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0156543"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000003-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Abortion ?"
+                },
+                "Answer": "An abortion is a procedure to end a pregnancy. It uses medicine or surgery to remove the embryo or fetus and placenta from the uterus. The procedure is done by a licensed health care professional.    The decision to end a pregnancy is very personal. If you are thinking of having an abortion, most healthcare providers advise counseling."
+            }
+        }
+    }
+}

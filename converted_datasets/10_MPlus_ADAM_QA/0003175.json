@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0003175",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003600.htm",
+        "Focus": "Potassium urine test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Urine potassium"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003175-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Potassium urine test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

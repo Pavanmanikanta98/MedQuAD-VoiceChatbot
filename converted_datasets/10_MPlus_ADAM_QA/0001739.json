@@ -1,0 +1,49 @@
+{
+    "Document": {
+        "@id": "0001739",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007305.htm",
+        "Focus": "Glomerular filtration rate",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1561549"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "GFR",
+                    "Estimated GFR",
+                    "eGFR"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001739-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Glomerular filtration rate ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001739-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Glomerular filtration rate? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

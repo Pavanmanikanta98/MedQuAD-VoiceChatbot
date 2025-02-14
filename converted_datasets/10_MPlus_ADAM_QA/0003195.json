@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0003195",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001562.htm",
+        "Focus": "Premature infant",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Preterm infant",
+                    "Preemie",
+                    "Premie"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003195-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Premature infant"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

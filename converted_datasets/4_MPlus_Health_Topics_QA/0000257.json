@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0000257",
+        "@source": "MPlusHealthTopics",
+        "@url": "https://www.nlm.nih.gov/medlineplus/degenerativenervediseases.html",
+        "Focus": "Degenerative Nerve Diseases",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1456654"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Neurodegenerative diseases"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000257-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Degenerative Nerve Diseases ?"
+                },
+                "Answer": "Degenerative nerve diseases affect many of your body's activities, such as balance, movement, talking, breathing, and heart function. Many of these diseases are genetic. Sometimes the cause is a medical condition such as alcoholism, a tumor, or a stroke. Other causes may include toxins, chemicals, and viruses. Sometimes the cause is not known.    Degenerative nerve diseases include       -  Alzheimer's disease    -  Amyotrophic lateral sclerosis    - Friedreich's ataxia    -  Huntington's disease    -  Lewy body disease    - Parkinson's disease     -  Spinal muscular atrophy       Degenerative nerve diseases can be serious or life-threatening. It depends on the type. Most of them have no cure. Treatments may help improve symptoms, relieve pain, and increase mobility."
+            }
+        }
+    }
+}

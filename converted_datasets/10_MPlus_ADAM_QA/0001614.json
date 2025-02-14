@@ -1,0 +1,84 @@
+{
+    "Document": {
+        "@id": "0001614",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000354.htm",
+        "Focus": "Folate deficiency",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0016412"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Deficiency - folic acid",
+                    "Folic acid deficiency"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001614-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Folate deficiency ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001614-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Folate deficiency ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001614-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Folate deficiency ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001614-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Folate deficiency ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001614-5",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Folate deficiency ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001614-6",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Folate deficiency ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

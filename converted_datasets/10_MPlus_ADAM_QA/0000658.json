@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0000658",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002166.htm",
+        "Focus": "Cancer - resources",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0006826"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Resources - cancer"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000658-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Cancer - resources ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

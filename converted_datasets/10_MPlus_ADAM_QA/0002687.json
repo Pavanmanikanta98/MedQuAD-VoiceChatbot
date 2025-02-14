@@ -1,0 +1,111 @@
+{
+    "Document": {
+        "@id": "0002687",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000649.htm",
+        "Focus": "Mucormycosis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0043541",
+                        "C0026718"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Zygomycosis"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002687-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Mucormycosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002687-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Mucormycosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002687-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Mucormycosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002687-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Mucormycosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002687-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Mucormycosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002687-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Mucormycosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002687-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Mucormycosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002687-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Mucormycosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002687-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Mucormycosis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

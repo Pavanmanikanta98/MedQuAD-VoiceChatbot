@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001173",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003694.htm",
+        "Focus": "Dexamethasone suppression test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "DST",
+                    "ACTH suppression test",
+                    "Cortisol suppression test"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001173-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Dexamethasone suppression test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

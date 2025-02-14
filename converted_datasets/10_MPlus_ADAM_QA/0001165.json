@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001165",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002014.htm",
+        "Focus": "Developmental milestones record - 3 years",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Normal childhood growth milestones - 3 years",
+                    "Growth milestones for children - 3 years",
+                    "Childhood growth milestones - 3 years"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001165-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Developmental milestones record - 3 years"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

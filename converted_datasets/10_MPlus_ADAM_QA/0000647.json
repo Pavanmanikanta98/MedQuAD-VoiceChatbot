@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0000647",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000887.htm",
+        "Focus": "Calorie count - Fast food",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Weight loss - calorie count - fast food",
+                    "Overweight - calorie count - fast food",
+                    "Obesity - calorie count - fast food"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000647-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Calorie count - Fast food"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

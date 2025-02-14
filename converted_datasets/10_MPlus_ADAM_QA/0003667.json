@@ -1,0 +1,84 @@
+{
+    "Document": {
+        "@id": "0003667",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003297.htm",
+        "Focus": "Spasticity",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0026838"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Muscle stiffness",
+                    "Hypertonia"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003667-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Spasticity ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003667-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Spasticity ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003667-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Spasticity ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003667-4",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Spasticity ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003667-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Spasticity ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003667-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Spasticity ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

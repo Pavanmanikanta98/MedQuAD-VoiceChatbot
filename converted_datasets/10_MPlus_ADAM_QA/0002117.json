@@ -1,0 +1,38 @@
+{
+    "Document": {
+        "@id": "0002117",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002915.htm",
+        "Focus": "Hysterectomy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Vaginal hysterectomy",
+                    "Abdominal hysterectomy",
+                    "Supracervical hysterectomy",
+                    "Radical hysterectomy",
+                    "Removal of the uterus",
+                    "Laparoscopic hysterectomy",
+                    "Laparoscopically assisted vaginal hysterectomy",
+                    "LAVH",
+                    "Total laparoscopic hysterectomy",
+                    "TLH",
+                    "Laparoscopic supracervical hysterectomy",
+                    "Robotically assisted hysterectomy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002117-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Hysterectomy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

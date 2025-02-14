@@ -1,0 +1,51 @@
+{
+    "Document": {
+        "@id": "0000335",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000001.htm",
+        "Focus": "Asthma - child - discharge",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0004096"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000335-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Asthma - child - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000335-2",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Asthma - child - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000335-6",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Asthma - child - discharge ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

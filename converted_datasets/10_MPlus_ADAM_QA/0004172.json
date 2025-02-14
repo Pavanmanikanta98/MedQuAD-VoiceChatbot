@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0004172",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000589.htm",
+        "Focus": "Vaginal birth after C-section",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "VBAC"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004172-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Vaginal birth after C-section"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

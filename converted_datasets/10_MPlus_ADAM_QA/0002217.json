@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002217",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003867.htm",
+        "Focus": "Intracardiac electrophysiology study (EPS)",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Electrophysiology study - intracardiac",
+                    "EPS - intracardiac"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002217-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Intracardiac electrophysiology study (EPS)"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

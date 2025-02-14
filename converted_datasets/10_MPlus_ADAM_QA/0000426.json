@@ -1,0 +1,44 @@
+{
+    "Document": {
+        "@id": "0000426",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003977.htm",
+        "Focus": "Benign prostate hyperplasia (BPH) - resources",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0005001",
+                        "C1704272"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T191",
+                        "T046"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Resources - benign prostatic hyperplasia (BPH)",
+                    "Prostate enlargement resources",
+                    "BPH resources"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000426-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Benign prostate hyperplasia (BPH) - resources ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

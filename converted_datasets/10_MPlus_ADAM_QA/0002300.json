@@ -1,0 +1,63 @@
+{
+    "Document": {
+        "@id": "0002300",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007255.htm",
+        "Focus": "Knee microfracture surgery",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1265651"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Cartilage regeneration - knee"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002300-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Knee microfracture surgery ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002300-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Knee microfracture surgery ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002300-4",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Knee microfracture surgery? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002300-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Knee microfracture surgery ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003025",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007244.htm",
+        "Focus": "Peripheral arterial line - infants",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "PAL - infants",
+                    "Art line - infants"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003025-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Peripheral arterial line - infants"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

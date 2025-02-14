@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0003621",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003802.htm",
+        "Focus": "Skull x-ray",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "X-ray - head",
+                    "X-ray - skull",
+                    "Skull radiography",
+                    "Head x-ray"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003621-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Skull x-ray"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "doc": {
+        "@docid": "0000182",
+        "@corpus": "NINDS",
+        "@url": "http://www.ninds.nih.gov/disorders/lipid_storage_diseases/lipid_storage_diseases.htm",
+        "doctitle-focus": "Lipid Storage Diseases",
+        "umls": {
+            "cui": null,
+            "semanticType": null,
+            "semanticGroup": null
+        },
+        "qaPairs": {
+            "pair": [
+                {
+                    "@pid": "1",
+                    "question": {
+                        "@qid": "0000182-1",
+                        "@qtype": "information",
+                        "#text": "what are lipid storage diseases?"
+                    },
+                    "answer": "Lipid storage diseases are a group of inherited metabolic disorders in which harmful amounts of fatty materials (lipids) accumulate in various tissues and cells in the body.\u00a0 Lipids are important parts of the membranes found within and between each cell and in the myelin sheath that coats and protects the nerves. \u00a0Over time, this excessive storage of fats can cause permanent cellular and tissue damage, particularly in the brain, peripheral nervous system, liver, spleen, and bone marrow.\u00a0 Lipid storage diseases are inherited from one or both parents who carry a defective gene. \u00a0 Symptoms may appear early in life or develop in the teen or even adult years.\u00a0 Neurological complications of the lipid storage diseases may include lack of muscle coordination, brain degeneration, seizures, loss of muscle tone, learning problems, spasticity, feeding and swallowing difficulties, slurred speech, hypersensitivity to touch,\u00a0pain in the arms and legs, and clouding of the cornea."
+                },
+                {
+                    "@pid": "2",
+                    "question": {
+                        "@qid": "0000182-2",
+                        "@qtype": "treatment",
+                        "#text": "is there any treatment for Lipid Storage Diseases ?"
+                    },
+                    "answer": "Currently there is no specific treatment available for most of the lipid storage disorders, although Gaucher and Fabry diseases have effective enzyme replacement therapies.\u00a0 Eligustat tartrate has been approved to reduce excess buildup in Gaucher disease. \u00a0Other treatment is supportive.\u00a0 Doctors often prescribe corticosteroids and anticonvulsants to relieve pain.\u00a0 Anticonvulsant medications are often used to control seizures. Restricting one's diet does not prevent lipid buildup in cells and tissues."
+                },
+                {
+                    "@pid": "3",
+                    "question": {
+                        "@qid": "0000182-3",
+                        "@qtype": "outlook",
+                        "#text": "what is the prognosis for Lipid Storage Diseases ?"
+                    },
+                    "answer": "The prognosis for a lipid storage disorder is determined by the type of disease, the age of onset, and the severity of symptoms.\u00a0 Children treated for some forms of Gaucher disease may live well into adulthood, while children with Niemann-Pick disease often die at a young age from infection or progressive neurological loss.\u00a0 Children with Fabry disease often die prematurely of complications from heart disease, renal failure, or stroke.\u00a0 Most children with Farber\u2019s disease die by age 2, usually from lung disease.\u00a0 Children with Tay-Sachs and Sandhoff diseases often die at an early age from recurring or respiratory infection."
+                },
+                {
+                    "@pid": "4",
+                    "question": {
+                        "@qid": "0000182-4",
+                        "@qtype": "research",
+                        "#text": "what research is being done for Lipid Storage Diseases ?"
+                    },
+                    "answer": "The mission of the National Institute of Neurological Disorders and Stroke (NINDS) is to seek fundamental knowledge about the brain and nervous system and to use that knowledge to reduce the burden of neurological disease. and other institutes of the National Institutes of Health (NIH) conduct research related to lipid storage diseases in laboratories at the NIH and also support additional research through grants to major medical institutions across the country.\u00a0 NINDS researchers were responsible for developing effective enzyme replacement therapies for Gaucher and Fabry diseases.\u00a0 NINDS-funded scientists continue to study how lipids accumulate in cells and why they cause harm to the body, and on the development of new treatments targeting disease mechanisms, including gene therapies, cell-based therapies, and pharmacological approaches. \u00a0The NINDS, along with other Institutes and Centers of the National Institutes of Health, supports the Lysosomal Disease Network, a network of centers that address some of the major challenges in the diagnosis, management, and therapy of rare diseases, including the lipid storage diseases."
+                }
+            ]
+        }
+    }
+}

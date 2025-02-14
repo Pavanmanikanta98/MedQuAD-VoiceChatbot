@@ -1,0 +1,75 @@
+{
+    "Document": {
+        "@id": "0000041",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002598.htm",
+        "Focus": "Acetaminophen overdose",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0572025"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Tylenol overdose",
+                    "Paracetamol overdose"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000041-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Acetaminophen overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000041-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Acetaminophen overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000041-4",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Acetaminophen overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000041-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Acetaminophen overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000041-8",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Acetaminophen overdose ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

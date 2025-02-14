@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0000638",
+        "@source": "MPlusDrugs",
+        "@url": "https://www.nlm.nih.gov/medlineplus/druginfo/meds/a602003.html",
+        "Focus": "Irbesartan and Hydrochlorothiazide",
+        "FocusAnnotations": {
+            "Category": "Drug"
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000638-1",
+                        "@qtype": "brand names of combination products",
+                        "#text": "What are the brand names of combination products of Irbesartan and Hydrochlorothiazide ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000638-2",
+                        "@qtype": "brand names of combination products",
+                        "#text": "What are the brand names of combination products of Irbesartan and Hydrochlorothiazide ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0003248",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000399.htm",
+        "Focus": "Prostate radiation - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Radiation - pelvis - discharge"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003248-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Prostate radiation - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

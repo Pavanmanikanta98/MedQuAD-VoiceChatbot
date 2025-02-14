@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001394",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007291.htm",
+        "Focus": "Endoscopic thoracic sympathectomy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Sympathectomy -- endoscopic thoracic",
+                    "ETC"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001394-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Endoscopic thoracic sympathectomy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

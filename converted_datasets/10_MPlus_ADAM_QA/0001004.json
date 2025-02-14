@@ -1,0 +1,85 @@
+{
+    "Document": {
+        "@id": "0001004",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003073.htm",
+        "Focus": "Coughing up blood",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0019079"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Hemoptysis",
+                    "Spitting up blood",
+                    "Bloody sputum"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001004-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Coughing up blood ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001004-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Coughing up blood ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001004-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Coughing up blood ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001004-4",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Coughing up blood ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001004-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Coughing up blood ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001004-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Coughing up blood ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

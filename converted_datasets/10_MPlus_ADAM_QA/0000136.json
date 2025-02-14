@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0000136",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003473.htm",
+        "Focus": "Alanine transaminase (ALT) blood test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "SGPT",
+                    "Serum glutamate pyruvate transaminase",
+                    "Alanine transaminase",
+                    "Alanine aminotransferase"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000136-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Alanine transaminase (ALT) blood test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

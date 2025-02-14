@@ -1,0 +1,78 @@
+{
+    "Document": {
+        "@id": "0000996",
+        "@source": "MPlusDrugs",
+        "@url": "https://www.nlm.nih.gov/medlineplus/druginfo/meds/a607022.html",
+        "Focus": "Pneumococcal Polysaccharide Vaccine",
+        "FocusAnnotations": {
+            "Category": "Drug"
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000996-1",
+                        "@qtype": "information",
+                        "#text": "What is Pneumococcal Polysaccharide Vaccine ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000996-3",
+                        "@qtype": "indication",
+                        "#text": "Who should get Pneumococcal Polysaccharide Vaccine and why is it prescribed ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000996-4",
+                        "@qtype": "dose",
+                        "#text": "What is the dosage of Pneumococcal Polysaccharide Vaccine ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000996-6",
+                        "@qtype": "side effects",
+                        "#text": "What are the side effects or risks of Pneumococcal Polysaccharide Vaccine ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000996-7",
+                        "@qtype": "severe reaction",
+                        "#text": "What to do in case of a severe reaction to Pneumococcal Polysaccharide Vaccine ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000996-8",
+                        "@qtype": "how can i learn more",
+                        "#text": "How can I learn more about Pneumococcal Polysaccharide Vaccine ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000996-9",
+                        "@qtype": "brand names",
+                        "#text": "What are the brand names of Pneumococcal Polysaccharide Vaccine ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

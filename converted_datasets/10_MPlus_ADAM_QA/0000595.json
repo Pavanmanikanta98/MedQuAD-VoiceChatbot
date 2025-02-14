@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000595",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003748.htm",
+        "Focus": "Bronchoscopic culture",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Culture - bronchoscopic"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000595-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Bronchoscopic culture"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

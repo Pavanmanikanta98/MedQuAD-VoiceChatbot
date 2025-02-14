@@ -1,0 +1,39 @@
+{
+    "Document": {
+        "@id": "0001226",
+        "@source": "GARD",
+        "@url": "https://rarediseases.info.nih.gov/gard/1746/chromosome-15q-deletion",
+        "Focus": "Chromosome 15q deletion",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1442161"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T049"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Deletion 15q",
+                    "Monosomy 15q",
+                    "15q deletion",
+                    "15q monosomy",
+                    "Partial monosomy 15q"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001226-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Chromosome 15q deletion ?"
+                },
+                "Answer": "Chromosome 15q deletion is a chromosome abnormality that occurs when there is a missing copy of the genetic material located on the long arm (q) of chromosome 15. The severity of the condition and the signs and symptoms depend on the size and location of the deletion and which genes are involved. Features that often occur in people with chromosome 15q deletion include developmental delay, intellectual disability, behavioral problems, and distinctive facial features. Most cases are not inherited, but people can pass the deletion on to their children. Treatment is based on the signs and symptoms present in each person."
+            }
+        }
+    }
+}

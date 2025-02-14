@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0001960",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003739.htm",
+        "Focus": "Herpes viral culture of lesion",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0221198"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Culture - herpes simplex virus",
+                    "Herpes simplex virus culture"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001960-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Herpes viral culture of lesion ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001960-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Herpes viral culture of lesion? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

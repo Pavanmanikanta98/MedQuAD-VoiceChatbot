@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001041",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003023.htm",
+        "Focus": "Crying - excessive (0 to 6 months)",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Excessive crying (infants 0 to 6 months)"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001041-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Crying - excessive (0 to 6 months)"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

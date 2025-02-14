@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0001059",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003628.htm",
+        "Focus": "CSF total protein",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001059-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about CSF total protein"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

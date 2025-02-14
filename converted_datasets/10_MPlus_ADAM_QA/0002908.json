@@ -1,0 +1,49 @@
+{
+    "Document": {
+        "@id": "0002908",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003101.htm",
+        "Focus": "Overweight",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0497406"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Overweight - body mass index",
+                    "Obesity - body mass index",
+                    "BMI"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002908-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Overweight ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002908-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Overweight ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

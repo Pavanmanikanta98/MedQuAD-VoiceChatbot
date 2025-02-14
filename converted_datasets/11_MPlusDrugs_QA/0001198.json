@@ -1,0 +1,105 @@
+{
+    "Document": {
+        "@id": "0001198",
+        "@source": "MPlusDrugs",
+        "@url": "https://www.nlm.nih.gov/medlineplus/druginfo/meds/a682586.html",
+        "Focus": "Thiamine",
+        "FocusAnnotations": {
+            "Category": "Drug"
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001198-1",
+                        "@qtype": "indication",
+                        "#text": "Who should get Thiamine and why is it prescribed ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001198-2",
+                        "@qtype": "usage",
+                        "#text": "How should Thiamine be used and what is the dosage ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001198-3",
+                        "@qtype": "precautions",
+                        "#text": "Are there safety concerns or special precautions about Thiamine ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001198-4",
+                        "@qtype": "dietary",
+                        "#text": "What special dietary instructions should I follow with Thiamine ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001198-5",
+                        "@qtype": "forget a dose",
+                        "#text": "What should I do if I forget a dose of Thiamine ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001198-6",
+                        "@qtype": "side effects",
+                        "#text": "What are the side effects or risks of Thiamine ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001198-7",
+                        "@qtype": "storage and disposal",
+                        "#text": "What should I know about storage and disposal of Thiamine ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001198-8",
+                        "@qtype": "emergency or overdose",
+                        "#text": "What to do in case of emergency or overdose of Thiamine ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0001198-9",
+                        "@qtype": "other information",
+                        "#text": "What other information should I know about Thiamine ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "10",
+                    "Question": {
+                        "@qid": "0001198-10",
+                        "@qtype": "brand names",
+                        "#text": "What are the brand names of Thiamine ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

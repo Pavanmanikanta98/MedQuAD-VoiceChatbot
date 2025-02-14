@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0000790",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000841.htm",
+        "Focus": "Children's cancer centers",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Pediatric cancer center",
+                    "Pediatric oncology center",
+                    "Comprehensive cancer center"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000790-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Children's cancer centers"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

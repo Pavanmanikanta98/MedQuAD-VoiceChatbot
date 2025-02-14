@@ -1,0 +1,72 @@
+{
+    "Document": {
+        "@id": "0004195",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007395.htm",
+        "Focus": "Varicose vein - noninvasive treatment",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0042345"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Sclerotherapy",
+                    "Laser therapy - varicose veins",
+                    "Radiofrequency vein ablation",
+                    "Endovenous thermal ablation",
+                    "Ambulatory phlebectomy",
+                    "Transilluminated power phlebotomy",
+                    "Endovenous laser ablation",
+                    "Varicose vein therapy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004195-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Varicose vein - noninvasive treatment ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004195-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Varicose vein - noninvasive treatment ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0004195-4",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Varicose vein - noninvasive treatment? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0004195-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Varicose vein - noninvasive treatment ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

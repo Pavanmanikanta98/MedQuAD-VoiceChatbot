@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000888",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003547.htm",
+        "Focus": "Coccidioides complement fixation",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Coccidioides antibody test"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000888-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Coccidioides complement fixation"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

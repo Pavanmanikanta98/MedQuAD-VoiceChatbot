@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0002679",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003197.htm",
+        "Focus": "Movement - uncontrolled or slow",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Dystonia",
+                    "Involuntary slow and twisting movements",
+                    "Choreoathetosis",
+                    "Leg and arm movements - uncontrollable",
+                    "Arm and leg movements - uncontrollable",
+                    "Slow involuntary movements of large muscle groups",
+                    "Athetoid movements"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002679-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Movement - uncontrolled or slow"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

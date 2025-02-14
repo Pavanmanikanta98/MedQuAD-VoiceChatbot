@@ -1,0 +1,63 @@
+{
+    "Document": {
+        "@id": "0003782",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002551.htm",
+        "Focus": "Sulindac overdose",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0572189"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Clinoril overdose"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003782-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Sulindac overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003782-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Sulindac overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003782-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Sulindac overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003782-8",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Sulindac overdose ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

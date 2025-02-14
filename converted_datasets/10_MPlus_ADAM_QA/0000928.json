@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000928",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003456.htm",
+        "Focus": "Complement",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Complement assay",
+                    "Complement proteins"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000928-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Complement"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

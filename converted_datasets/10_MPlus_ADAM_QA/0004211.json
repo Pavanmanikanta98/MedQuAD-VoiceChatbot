@@ -1,0 +1,81 @@
+{
+    "Document": {
+        "@id": "0004211",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000744.htm",
+        "Focus": "Venous ulcers - self-care",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0042344"
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T047",
+                        "T020"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004211-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Venous ulcers - self-care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004211-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Venous ulcers - self-care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0004211-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Venous ulcers - self-care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0004211-4",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Venous ulcers - self-care? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0004211-6",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Venous ulcers - self-care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0004211-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Venous ulcers - self-care ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

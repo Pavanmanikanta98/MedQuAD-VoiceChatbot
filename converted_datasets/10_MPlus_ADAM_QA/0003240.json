@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0003240",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007665.htm",
+        "Focus": "Prostate biopsy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Prostate gland biopsy",
+                    "Transrectal prostate biopsy",
+                    "Fine needle biopsy of the prostate",
+                    "Core biopsy of the prostate",
+                    "Targeted prostate biopsy",
+                    "Prostate biopsy - transrectal ultrasound (TRUS)",
+                    "Stereotactic transperineal prostate biopsy (STPB)"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003240-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Prostate biopsy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

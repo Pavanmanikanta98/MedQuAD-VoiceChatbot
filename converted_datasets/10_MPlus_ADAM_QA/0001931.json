@@ -1,0 +1,96 @@
+{
+    "Document": {
+        "@id": "0001931",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000243.htm",
+        "Focus": "Hepatic hemangioma",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0238246"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Liver hemangioma",
+                    "Hemangioma of the liver",
+                    "Cavernous hepatic hemangioma",
+                    "Infantile hemangioendothelioma",
+                    "Multinodular hepatic hemangiomatosis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001931-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hepatic hemangioma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001931-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Hepatic hemangioma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001931-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Hepatic hemangioma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001931-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Hepatic hemangioma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001931-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Hepatic hemangioma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001931-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Hepatic hemangioma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001931-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Hepatic hemangioma ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

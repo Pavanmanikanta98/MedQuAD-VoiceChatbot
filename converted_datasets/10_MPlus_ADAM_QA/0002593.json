@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002593",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002676.htm",
+        "Focus": "Meperidine hydrochloride overdose",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Demerol overdose",
+                    "Mepergan Forte overdose"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002593-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Meperidine hydrochloride overdose"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

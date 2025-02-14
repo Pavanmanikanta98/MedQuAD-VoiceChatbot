@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0004160",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000161.htm",
+        "Focus": "Uterine artery embolization - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Uterine fibroid embolization - discharge",
+                    "UFE - discharge",
+                    "UAE - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004160-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Uterine artery embolization - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

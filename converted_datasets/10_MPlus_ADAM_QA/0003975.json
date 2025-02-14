@@ -1,0 +1,113 @@
+{
+    "Document": {
+        "@id": "0003975",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000749.htm",
+        "Focus": "Torticollis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0040485"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Spasmodic torticollis",
+                    "Wry neck",
+                    "Loxia",
+                    "Cervical dystonia"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003975-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Torticollis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003975-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Torticollis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003975-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Torticollis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003975-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Torticollis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003975-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Torticollis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003975-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Torticollis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003975-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Torticollis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003975-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Torticollis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0003975-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Torticollis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

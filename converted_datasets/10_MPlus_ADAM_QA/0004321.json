@@ -1,0 +1,108 @@
+{
+    "Document": {
+        "@id": "0004321",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000151.htm",
+        "Focus": "Wolff-Parkinson-White syndrome",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C1963282",
+                        "C0043202"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T047",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Preexcitation syndrome",
+                    "WPW"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004321-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Wolff-Parkinson-White syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004321-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Wolff-Parkinson-White syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0004321-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Wolff-Parkinson-White syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0004321-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Wolff-Parkinson-White syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0004321-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Wolff-Parkinson-White syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0004321-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Wolff-Parkinson-White syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0004321-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Wolff-Parkinson-White syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0004321-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Wolff-Parkinson-White syndrome ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

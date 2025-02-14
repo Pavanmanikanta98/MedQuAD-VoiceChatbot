@@ -1,0 +1,45 @@
+{
+    "Document": {
+        "@id": "0001887",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000291.htm",
+        "Focus": "Heart valve surgery - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Aortic valve replacement - discharge",
+                    "Aortic valvuloplasty - discharge",
+                    "Aortic valve repair - discharge",
+                    "Replacement - aortic valve - discharge",
+                    "Repair - aortic valve - discharge",
+                    "Ring annuloplasty - discharge",
+                    "Percutaneous aortic valve replacement or repair - discharge",
+                    "Balloon valvuloplasty - discharge",
+                    "Mini-thoracotomy aortic valve - discharge",
+                    "Mini-aortic replacement or repair - discharge",
+                    "Cardiac valvular surgery - discharge",
+                    "Mini-sternotomy - discharge",
+                    "Robotically-assisted endoscopic aortic valve repair - discharge",
+                    "Mitral valve replacement - open - discharge",
+                    "Mitral valve repair - open - discharge",
+                    "Mitral valve repair - right mini-thoracotomy - discharge",
+                    "Mitral valve repair - partial upper sternotomy - discharge",
+                    "Robotically-assisted endoscopic mitral valve repair - discharge",
+                    "Percutaneous mitral valvuloplasty - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001887-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Heart valve surgery - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

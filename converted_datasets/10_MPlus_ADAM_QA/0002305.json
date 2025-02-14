@@ -1,0 +1,99 @@
+{
+    "Document": {
+        "@id": "0002305",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001263.htm",
+        "Focus": "Knock knees",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0576093"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T190"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Genu valgum"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002305-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Knock knees ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002305-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Knock knees ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002305-3",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Knock knees ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002305-4",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Knock knees ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002305-5",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Knock knees ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002305-6",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Knock knees ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002305-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Knock knees ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002305-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Knock knees ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "Document": {
+        "@id": "0000031",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001353.htm",
+        "Focus": "Abscess",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0000833"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000031-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Abscess ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000031-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Abscess ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000031-3",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Abscess ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000031-4",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Abscess ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000031-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Abscess ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000031-6",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Abscess ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

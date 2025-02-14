@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0001721",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001956.htm",
+        "Focus": "Getting a prescription filled",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Prescriptions - how to fill",
+                    "Medications - how to get prescription filled",
+                    "Drugs - how to get prescription filled",
+                    "Pharmacy - mail order",
+                    "Pharmacy - internet",
+                    "Types of pharmacies"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001721-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Getting a prescription filled"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

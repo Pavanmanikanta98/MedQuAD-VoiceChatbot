@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000449",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003416.htm",
+        "Focus": "Biopsy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Tissue sampling"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000449-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Biopsy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

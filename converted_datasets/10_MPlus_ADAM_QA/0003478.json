@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0003478",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002058.htm",
+        "Focus": "School age test or procedure preparation",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0456984"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Preparing school age children for test/procedure",
+                    "Test/procedure preparation - school age"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003478-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) School age test or procedure preparation ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003478-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) School age test or procedure preparation ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "Document": {
+        "@id": "0003323",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000026.htm",
+        "Focus": "Radiation sickness",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0392615",
+                        "C1510432",
+                        "C0034535"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T037",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Radiation poisoning",
+                    "radiation injury",
+                    "rad poisoning"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003323-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Radiation sickness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003323-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Radiation sickness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003323-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Radiation sickness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003323-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Radiation sickness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003323-5",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Radiation sickness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003323-6",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Radiation sickness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003323-7",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Radiation sickness ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

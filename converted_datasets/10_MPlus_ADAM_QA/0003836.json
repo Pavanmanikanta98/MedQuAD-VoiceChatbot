@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0003836",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000369.htm",
+        "Focus": "Taking care of your new knee joint",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0580931"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Knee arthroplasty - precautions",
+                    "Knee replacement - precautions"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003836-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Taking care of your new knee joint ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

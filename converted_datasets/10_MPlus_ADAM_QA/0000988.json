@@ -1,0 +1,87 @@
+{
+    "Document": {
+        "@id": "0000988",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001017.htm",
+        "Focus": "Corneal injury",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0339289"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000988-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Corneal injury ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000988-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Corneal injury ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000988-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Corneal injury ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000988-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Corneal injury ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000988-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Corneal injury ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000988-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Corneal injury ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000988-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Corneal injury ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000567",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003379.htm",
+        "Focus": "Breast ultrasound",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Ultrasonography of the breast",
+                    "Sonogram of the breast"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000567-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Breast ultrasound"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

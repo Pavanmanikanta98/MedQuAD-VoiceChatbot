@@ -1,0 +1,13 @@
+[
+    {
+        "question": "Do you have information about Native American Health",
+        "answer": "Summary : Every racial or ethnic group has specific health concerns. Differences in the health of groups can result from:       - Genetics    - Environmental factors    - Access to care    - Cultural factors        On this page, you'll find links to health issues that affect Native Americans.",
+        "qtype": "information",
+        "focus": "Native American Health",
+        "synonyms": [
+            "Alaska Native health",
+            "American Indian health"
+        ],
+        "semantic_group": "Unknown"
+    }
+]

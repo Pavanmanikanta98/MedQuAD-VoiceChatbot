@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000716",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003642.htm",
+        "Focus": "CBC blood test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Complete blood count"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000716-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about CBC blood test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

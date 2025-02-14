@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002416",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003006.htm",
+        "Focus": "Liver transplant",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Hepatic transplant",
+                    "Transplant - liver"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002416-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Liver transplant"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

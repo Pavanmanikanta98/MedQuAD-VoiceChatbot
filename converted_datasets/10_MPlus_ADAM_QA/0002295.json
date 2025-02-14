@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0002295",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000199.htm",
+        "Focus": "Knee arthroscopy - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Knee scope - arthroscopic lateral retinacular release - discharge",
+                    "Synovectomy - discharge",
+                    "Patellar debridement - discharge",
+                    "Meniscus repair - discharge",
+                    "Lateral release - discharge",
+                    "Collateral ligament repair - discharge",
+                    "Knee surgery - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002295-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Knee arthroscopy - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

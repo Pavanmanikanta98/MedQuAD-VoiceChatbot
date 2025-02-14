@@ -1,0 +1,61 @@
+{
+    "Document": {
+        "@id": "0001875",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000365.htm",
+        "Focus": "Heart failure - palliative care",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0018801"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "CHF - palliative",
+                    "Congestive heart failure - palliative",
+                    "Cardiomyopathy - palliative",
+                    "HF - palliative",
+                    "Cardiac cachexia",
+                    "End-of-life-heart failure"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001875-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Heart failure - palliative care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001875-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Heart failure - palliative care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001875-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Heart failure - palliative care ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

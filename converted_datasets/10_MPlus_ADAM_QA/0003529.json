@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0003529",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000246.htm",
+        "Focus": "Septoplasty - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Nasal septum repair - discharge"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003529-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Septoplasty - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

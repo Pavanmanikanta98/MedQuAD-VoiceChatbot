@@ -1,0 +1,112 @@
+{
+    "Document": {
+        "@id": "0001750",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000528.htm",
+        "Focus": "Glucose-6-phosphate dehydrogenase deficiency",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C2939465"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "G-6-PD deficiency",
+                    "Hemolytic anemia due to G6PD deficiency",
+                    "Anemia - hemolytic due to G6PD deficiency"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001750-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Glucose-6-phosphate dehydrogenase deficiency ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001750-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Glucose-6-phosphate dehydrogenase deficiency ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001750-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Glucose-6-phosphate dehydrogenase deficiency ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001750-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Glucose-6-phosphate dehydrogenase deficiency ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001750-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Glucose-6-phosphate dehydrogenase deficiency ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001750-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Glucose-6-phosphate dehydrogenase deficiency ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001750-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Glucose-6-phosphate dehydrogenase deficiency ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001750-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Glucose-6-phosphate dehydrogenase deficiency ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0001750-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Glucose-6-phosphate dehydrogenase deficiency ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

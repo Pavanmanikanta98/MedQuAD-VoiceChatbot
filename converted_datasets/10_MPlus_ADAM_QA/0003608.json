@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0003608",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002982.htm",
+        "Focus": "Skin graft",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Skin transplant",
+                    "Skin autografting",
+                    "FTSG",
+                    "STSG",
+                    "Split thickness skin graft",
+                    "Full thickness skin graft"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003608-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Skin graft"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

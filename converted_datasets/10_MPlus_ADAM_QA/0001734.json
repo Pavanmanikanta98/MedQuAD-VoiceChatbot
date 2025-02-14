@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001734",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000763.htm",
+        "Focus": "Give your heart a workout",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Exercise - heart workout"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001734-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Give your heart a workout"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

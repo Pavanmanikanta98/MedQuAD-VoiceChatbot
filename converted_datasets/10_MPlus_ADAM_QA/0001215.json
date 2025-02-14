@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001215",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002630.htm",
+        "Focus": "Diclofenac sodium overdose",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Voltaren overdose"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001215-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Diclofenac sodium overdose"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

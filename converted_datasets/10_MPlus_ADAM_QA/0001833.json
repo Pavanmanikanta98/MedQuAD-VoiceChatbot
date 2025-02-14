@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0001833",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007464.htm",
+        "Focus": "Health screening - men - ages 18 to 39",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Health maintenance visit - men - ages 18 to 39",
+                    "Physical exam - men - ages 18 to 39",
+                    "Yearly exam - men - ages 18 to 39",
+                    "Checkup - men - ages 18 to 39",
+                    "Men's health - ages 18 to 39",
+                    "Preventive care exam - men - ages 18 to 39"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001833-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Health screening - men - ages 18 to 39"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

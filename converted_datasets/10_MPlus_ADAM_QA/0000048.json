@@ -1,0 +1,66 @@
+{
+    "Document": {
+        "@id": "0000048",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000546.htm",
+        "Focus": "Achilles tendon rupture - aftercare",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0263970"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Heel cord tear",
+                    "Calcaneal tendon rupture"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000048-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Achilles tendon rupture - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000048-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Achilles tendon rupture - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000048-3",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Achilles tendon rupture - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000048-6",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Achilles tendon rupture - aftercare ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

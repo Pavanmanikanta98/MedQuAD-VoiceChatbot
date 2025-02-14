@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001621",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003310.htm",
+        "Focus": "Fontanelles - bulging",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Soft spot - bulging",
+                    "Bulging fontanelles"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001621-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Fontanelles - bulging"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

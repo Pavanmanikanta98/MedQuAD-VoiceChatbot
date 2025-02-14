@@ -1,0 +1,103 @@
+{
+    "Document": {
+        "@id": "0003446",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001038.htm",
+        "Focus": "Ruptured eardrum",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C3203359"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Tympanic membrane perforation",
+                    "Eardrum - ruptured or perforated",
+                    "Perforated eardrum"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003446-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Ruptured eardrum ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003446-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Ruptured eardrum ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003446-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Ruptured eardrum ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003446-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Ruptured eardrum ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003446-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Ruptured eardrum ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003446-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Ruptured eardrum ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003446-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Ruptured eardrum ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003446-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Ruptured eardrum ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

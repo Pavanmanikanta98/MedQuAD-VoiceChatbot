@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0000648",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000888.htm",
+        "Focus": "Calorie count - sodas and energy drinks",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Weight loss - calorie count - sodas and energy drinks",
+                    "Overweight - calorie count - sodas and energy drinks",
+                    "Obesity - calorie count - sodas and energy drinks"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000648-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Calorie count - sodas and energy drinks"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

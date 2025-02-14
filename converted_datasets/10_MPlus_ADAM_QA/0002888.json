@@ -1,0 +1,86 @@
+{
+    "Document": {
+        "@id": "0002888",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007231.htm",
+        "Focus": "Osteopenia - premature infants",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0029453"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T046"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Neonatal rickets",
+                    "Brittle bones - premature infants",
+                    "Weak bones - premature infants",
+                    "Osteopenia of prematurity"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002888-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Osteopenia - premature infants ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002888-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Osteopenia - premature infants ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002888-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Osteopenia - premature infants ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002888-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Osteopenia - premature infants ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002888-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Osteopenia - premature infants ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002888-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Osteopenia - premature infants ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

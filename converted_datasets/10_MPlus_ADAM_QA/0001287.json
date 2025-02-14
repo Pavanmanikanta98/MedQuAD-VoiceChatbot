@@ -1,0 +1,45 @@
+{
+    "Document": {
+        "@id": "0001287",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000155.htm",
+        "Focus": "Drug-induced hypertension",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0020538"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Hypertension - medication related"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001287-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Drug-induced hypertension ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001287-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Drug-induced hypertension ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

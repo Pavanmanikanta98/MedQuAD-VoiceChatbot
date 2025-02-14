@@ -1,0 +1,50 @@
+{
+    "Document": {
+        "@id": "0002937",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000201.htm",
+        "Focus": "Pancreatitis - discharge",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0030305"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Chronic pancreatitis - discharge",
+                    "Pancreatitis - chronic - discharge",
+                    "Pancreatic insufficiency - discharge",
+                    "Acute pancreatitis - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002937-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Pancreatitis - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002937-4",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Pancreatitis - discharge ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

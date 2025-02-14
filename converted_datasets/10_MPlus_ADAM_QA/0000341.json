@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0000341",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002190.htm",
+        "Focus": "Asthma and allergy - resources",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0020517",
+                        "C0004096",
+                        "C0489531"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T046",
+                        "T047",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Resources - asthma and allergy"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000341-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Asthma and allergy - resources ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

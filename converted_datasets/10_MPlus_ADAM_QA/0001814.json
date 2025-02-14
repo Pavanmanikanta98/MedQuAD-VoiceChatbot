@@ -1,0 +1,94 @@
+{
+    "Document": {
+        "@id": "0001814",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000171.htm",
+        "Focus": "Hardening of the arteries",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0425680"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Atherosclerosis",
+                    "Arteriosclerosis",
+                    "Plaque buildup - arteries"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001814-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hardening of the arteries ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001814-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Hardening of the arteries ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001814-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Hardening of the arteries ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001814-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Hardening of the arteries ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001814-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Hardening of the arteries ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001814-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Hardening of the arteries ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001814-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Hardening of the arteries ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

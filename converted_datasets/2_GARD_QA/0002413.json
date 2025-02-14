@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0002413",
+        "@source": "GARD",
+        "@url": "https://rarediseases.info.nih.gov/gard/10912/fournier-gangrene",
+        "Focus": "Fournier gangrene",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0238419"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Fournier's gangrene"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002413-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Fournier gangrene ?"
+                },
+                "Answer": "Fournier gangrene refers to the death of body tissue of the genitals and/or perineum. Signs and symptoms of the condition include genital pain, tenderness, redness, and swelling with a rapid progression to gangrene. Although the condition can affect men and women of all ages, it is most commonly diagnosed in adult males. Most cases of Fournier gangrene are caused by an infection in the genital area or urinary tract. People with impaired immunity (i.e. due to diabetes or HIV) have an increased susceptibility to the condition. Treatment generally includes surgery and medications such as antibiotics and/or antifungal therapy."
+            }
+        }
+    }
+}

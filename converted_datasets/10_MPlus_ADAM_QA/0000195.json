@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0000195",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003921.htm",
+        "Focus": "Amniocentesis",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Culture - amniotic fluid",
+                    "Culture - amniotic cells",
+                    "Alpha-fetoprotein - amniocentesis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000195-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Amniocentesis"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "Document": {
+        "@id": "0001952",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000566.htm",
+        "Focus": "Hereditary ovalocytosis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0427480",
+                        "C0013902"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T047",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Ovalocytosis - hereditary"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001952-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hereditary ovalocytosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001952-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Hereditary ovalocytosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001952-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Hereditary ovalocytosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001952-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Hereditary ovalocytosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001952-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Hereditary ovalocytosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001952-6",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Hereditary ovalocytosis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

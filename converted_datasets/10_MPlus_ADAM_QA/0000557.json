@@ -1,0 +1,112 @@
+{
+    "Document": {
+        "@id": "0000557",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000995.htm",
+        "Focus": "Breast milk jaundice",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0270215"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T046"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Hyperbilirubinemia - breastfeeding",
+                    "Breast-non-feeding jaundice",
+                    "Breastfeeding failure jaundice"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000557-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Breast milk jaundice ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000557-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Breast milk jaundice ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000557-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Breast milk jaundice ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000557-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Breast milk jaundice ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000557-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Breast milk jaundice ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000557-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Breast milk jaundice ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000557-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Breast milk jaundice ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000557-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Breast milk jaundice ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000557-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Breast milk jaundice ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0003186",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007015.htm",
+        "Focus": "Pregnancy - identifying fertile days",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Basal body temperature"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003186-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Pregnancy - identifying fertile days"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

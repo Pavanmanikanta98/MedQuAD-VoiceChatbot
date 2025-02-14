@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0002336",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007507.htm",
+        "Focus": "Laryngoscopy and nasolarynoscopy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Laryngopharyngoscopy",
+                    "Indirect laryngoscopy",
+                    "Flexible laryngoscopy",
+                    "Mirror laryngoscopy",
+                    "Direct laryngoscopy",
+                    "Fiberoptic laryngoscopy",
+                    "Laryngoscopy using strobe (laryngeal stroboscopy)"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002336-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Laryngoscopy and nasolarynoscopy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

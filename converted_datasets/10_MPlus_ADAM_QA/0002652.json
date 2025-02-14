@@ -1,0 +1,97 @@
+{
+    "Document": {
+        "@id": "0002652",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000180.htm",
+        "Focus": "Mitral valve prolapse",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0026267"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Barlow syndrome",
+                    "Floppy mitral valve",
+                    "Myxomatous mitral valve",
+                    "Billowing mitral valve",
+                    "Systolic click-murmur syndrome",
+                    "Prolapsing mitral leaflet syndrome"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002652-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Mitral valve prolapse ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002652-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Mitral valve prolapse ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002652-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Mitral valve prolapse ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002652-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Mitral valve prolapse ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002652-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Mitral valve prolapse ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002652-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Mitral valve prolapse ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002652-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Mitral valve prolapse ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

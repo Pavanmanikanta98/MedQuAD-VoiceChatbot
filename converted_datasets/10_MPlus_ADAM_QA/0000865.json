@@ -1,0 +1,61 @@
+{
+    "Document": {
+        "@id": "0000865",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000004.htm",
+        "Focus": "Cleft lip and palate repair - discharge",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0008924"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T019"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Orofacial cleft - discharge",
+                    "Craniofacial birth defect repair - discharge",
+                    "Cheiloplasty - discharge",
+                    "Cleft rhinoplasty - discharge",
+                    "Palatoplasty - discharge",
+                    "Tip rhinoplasty - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000865-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Cleft lip and palate repair - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000865-2",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Cleft lip and palate repair - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000865-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Cleft lip and palate repair - discharge ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

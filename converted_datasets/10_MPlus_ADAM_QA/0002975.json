@@ -1,0 +1,90 @@
+{
+    "Document": {
+        "@id": "0002975",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003321.htm",
+        "Focus": "Pectus carinatum",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0158731",
+                        "C2939416"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T019",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Pigeon breast",
+                    "Pigeon chest"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002975-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Pectus carinatum ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002975-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Pectus carinatum ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002975-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Pectus carinatum ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002975-4",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Pectus carinatum ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002975-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Pectus carinatum ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002975-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Pectus carinatum ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

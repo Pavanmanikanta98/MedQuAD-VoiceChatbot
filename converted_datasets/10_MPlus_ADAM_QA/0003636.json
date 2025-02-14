@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0003636",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003731.htm",
+        "Focus": "Small intestine aspirate and culture",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003636-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Small intestine aspirate and culture"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

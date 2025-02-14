@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0000024",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003841.htm",
+        "Focus": "Abdominal wall fat pad biopsy",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0154270"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Abdominal wall biopsy",
+                    "Biopsy - abdominal wall fat pad"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000024-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Abdominal wall fat pad biopsy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000024-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Abdominal wall fat pad biopsy? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

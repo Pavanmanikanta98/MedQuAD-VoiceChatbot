@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0000245",
+        "@source": "MPlusHealthTopics",
+        "@url": "https://www.nlm.nih.gov/medlineplus/creatinine.html",
+        "Focus": "Creatinine",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1561535"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Serum Creatinine",
+                    "Urine Creatinine"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000245-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Creatinine ?"
+                },
+                "Answer": "Creatinine is a waste product in your blood. It comes from protein in your diet and the normal breakdown of muscles of your body. Creatinine is removed from blood by the kidneys and then passes out of the body in your urine. If you have kidney disease, the level of creatinine in your blood increases.    Blood (serum) and urine tests can check your creatinine levels. The tests are done to check how well your kidneys are working.    NIH: National Institute of Diabetes and Digestive and Kidney Diseases"
+            }
+        }
+    }
+}

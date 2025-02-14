@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003803",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002718.htm",
+        "Focus": "Swallowing sunscreen",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Sunscreen - swallowing",
+                    "Sunscreen poisoning"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003803-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Swallowing sunscreen"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0001584",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000577.htm",
+        "Focus": "Fibrinolysis - primary or secondary",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0027627"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Primary fibrinolysis",
+                    "Secondary fibrinolysis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001584-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Fibrinolysis - primary or secondary ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001584-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Fibrinolysis - primary or secondary ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

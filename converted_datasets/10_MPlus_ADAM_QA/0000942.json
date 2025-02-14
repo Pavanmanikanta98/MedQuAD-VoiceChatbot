@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0000942",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/004001.htm",
+        "Focus": "Condoms - male",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Prophylactics",
+                    "Rubbers",
+                    "Male condoms",
+                    "Contraceptive-condom",
+                    "Contraception-condom",
+                    "Barrier method-condom"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000942-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Condoms - male"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

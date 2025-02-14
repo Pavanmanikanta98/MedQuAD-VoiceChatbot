@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0003983",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007381.htm",
+        "Focus": "Total proctocolectomy with ileostomy",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003983-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Total proctocolectomy with ileostomy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

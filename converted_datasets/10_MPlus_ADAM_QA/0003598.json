@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003598",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003242.htm",
+        "Focus": "Skin - abnormally dark or light",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Hyperpigmentation",
+                    "Hypopigmentation"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003598-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Skin - abnormally dark or light"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

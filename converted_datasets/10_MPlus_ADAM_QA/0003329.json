@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003329",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003689.htm",
+        "Focus": "Radioactive iodine uptake",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Iodine uptake test",
+                    "RAIU"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003329-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Radioactive iodine uptake"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

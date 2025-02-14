@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0004327",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000875.htm",
+        "Focus": "Working with a personal trainer",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004327-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Working with a personal trainer"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

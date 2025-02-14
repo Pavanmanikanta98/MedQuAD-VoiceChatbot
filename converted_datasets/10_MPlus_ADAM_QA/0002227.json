@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0002227",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007629.htm",
+        "Focus": "Intravitreal injection",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Retinal vein occlusion-intravitreal injection",
+                    "Triamcinolone-intravitreal injection",
+                    "Dexamethasone-intravitreal injection",
+                    "Lucentis-intravitreal injection",
+                    "Avastin-intravitreal injection",
+                    "Bevacizumab-intravitreal injection",
+                    "Ranibizumab-intravitreal injection",
+                    "Anti-VEGF medications-intravitreal injection"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002227-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Intravitreal injection"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

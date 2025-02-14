@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001313",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002077.htm",
+        "Focus": "Ear - blocked at high altitudes",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "High altitudes and blocked ears",
+                    "Flying and blocked ears",
+                    "Eustachian tube dysfunction - high altitude"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001313-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Ear - blocked at high altitudes"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

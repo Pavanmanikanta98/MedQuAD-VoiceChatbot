@@ -1,0 +1,51 @@
+{
+    "Document": {
+        "@id": "0000003",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003640.htm",
+        "Focus": "A1C test",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0456984"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "HbA1C test",
+                    "Glycated hemoglobin test",
+                    "Glycosylated hemoglobin test",
+                    "Hemoglobin glycosylated test",
+                    "Glycohemoglobin test"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000003-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) A1C test ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000003-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for A1C test? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

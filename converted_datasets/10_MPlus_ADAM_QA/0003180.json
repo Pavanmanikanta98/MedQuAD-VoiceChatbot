@@ -1,0 +1,105 @@
+{
+    "Document": {
+        "@id": "0003180",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001605.htm",
+        "Focus": "Prader-Willi syndrome",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0032897"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T019"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003180-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Prader-Willi syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003180-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Prader-Willi syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003180-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Prader-Willi syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003180-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Prader-Willi syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003180-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Prader-Willi syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003180-6",
+                        "@qtype": "support groups",
+                        "#text": "Where to find support for people with Prader-Willi syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003180-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Prader-Willi syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003180-8",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Prader-Willi syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0003180-9",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Prader-Willi syndrome ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

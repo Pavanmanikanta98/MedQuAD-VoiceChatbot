@@ -1,0 +1,105 @@
+{
+    "Document": {
+        "@id": "0003764",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001616.htm",
+        "Focus": "Subconjunctival hemorrhage",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0038534"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T046"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003764-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Subconjunctival hemorrhage ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003764-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Subconjunctival hemorrhage ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003764-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Subconjunctival hemorrhage ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003764-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Subconjunctival hemorrhage ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003764-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Subconjunctival hemorrhage ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003764-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Subconjunctival hemorrhage ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003764-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Subconjunctival hemorrhage ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003764-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Subconjunctival hemorrhage ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0003764-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Subconjunctival hemorrhage ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

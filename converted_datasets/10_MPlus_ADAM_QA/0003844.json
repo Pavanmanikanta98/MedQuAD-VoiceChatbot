@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003844",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000292.htm",
+        "Focus": "Taking warfarin (Coumadin)",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Anticoagulant care",
+                    "Blood-thinner care"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003844-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Taking warfarin (Coumadin)"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

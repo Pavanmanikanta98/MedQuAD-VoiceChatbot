@@ -1,0 +1,71 @@
+{
+    "Document": {
+        "@id": "0000676",
+        "@source": "GARD",
+        "@url": "https://rarediseases.info.nih.gov/gard/5906/bells-palsy",
+        "Focus": "Bell's palsy",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0376175",
+                        "C0015469"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Facial palsy",
+                    "Facial cranial nerve paralysis",
+                    "Bell palsy",
+                    "Antoni's palsy",
+                    "Facial nerve palsy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000676-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Bell's palsy ?"
+                    },
+                    "Answer": "Bell's palsy is a form of temporary facial paralysis which results from damage or trauma to one of the facial nerves. This disorder is characterized by the sudden onset of facial paralysis that often affects just one side and can cause significant facial distortion. Symptoms vary, but may include twitching, weakness, drooping eyelid or corner of the mouth, drooling, dry eye or mouth, impairment of taste, and excessive tearing in the eye. While the exact cause is unknown, many researchers believe that a virus may lead to swelling of the 7th cranial nerve. Steroids, such as prednisone, may reduce the inflammation and swelling. Other medications used to treat Bell's palsy include acyclovir (to fight viral infections) and aspirin, acetaminophen, or ibuprofen (to relieve pain). Physical therapy, facial massage and acupuncture have also been used."
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000676-2",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Bell's palsy ?"
+                    },
+                    "Answer": "What are the symptoms of Bell's palsy?"
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000676-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Bell's palsy ?"
+                    },
+                    "Answer": "What causes Bell's palsy?"
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000676-4",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Bell's palsy ?"
+                    },
+                    "Answer": "How might Bell's palsy be treated?"
+                }
+            ]
+        }
+    }
+}

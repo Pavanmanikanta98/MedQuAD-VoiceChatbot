@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0000919",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003236.htm",
+        "Focus": "Comedones",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0221228"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Skin bumps - acne-like",
+                    "Acne-like skin bumps"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000919-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Comedones ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

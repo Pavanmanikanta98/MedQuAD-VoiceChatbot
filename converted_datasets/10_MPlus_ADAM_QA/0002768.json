@@ -1,0 +1,113 @@
+{
+    "Document": {
+        "@id": "0002768",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001563.htm",
+        "Focus": "Neonatal respiratory distress syndrome",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0035220"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Hyaline membrane disease (HMD)",
+                    "Infant respiratory distress syndrome",
+                    "Respiratory distress syndrome in infants",
+                    "RDS - infants"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002768-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Neonatal respiratory distress syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002768-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Neonatal respiratory distress syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002768-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Neonatal respiratory distress syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002768-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Neonatal respiratory distress syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002768-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Neonatal respiratory distress syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002768-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Neonatal respiratory distress syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002768-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Neonatal respiratory distress syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002768-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Neonatal respiratory distress syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002768-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Neonatal respiratory distress syndrome ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

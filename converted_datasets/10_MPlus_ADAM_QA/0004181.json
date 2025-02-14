@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0004181",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002142.htm",
+        "Focus": "Vaginal dryness alternative treatments",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0241633",
+                        "C1963268"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Alternative treatments for vaginal dryness"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004181-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Vaginal dryness alternative treatments ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

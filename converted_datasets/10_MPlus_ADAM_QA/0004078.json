@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0004078",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007247.htm",
+        "Focus": "Umbilical catheters",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "UAC",
+                    "UVC"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004078-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Umbilical catheters"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "Document": {
+        "@id": "0004094",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000201.htm",
+        "Focus": "Unstable angina",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0002965"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Accelerating angina",
+                    "New-onset angina",
+                    "Angina - unstable",
+                    "Progressive angina",
+                    "CAD - unstable angina",
+                    "Coronary artery disease -unstable angina",
+                    "Heart disease - unstable angina"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004094-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Unstable angina ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004094-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Unstable angina ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0004094-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Unstable angina ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0004094-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Unstable angina ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0004094-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Unstable angina ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0004094-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Unstable angina ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0004094-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Unstable angina ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0004094-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Unstable angina ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0004094-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Unstable angina ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

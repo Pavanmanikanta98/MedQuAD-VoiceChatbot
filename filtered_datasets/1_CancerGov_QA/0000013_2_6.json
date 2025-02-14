@@ -1,0 +1,18 @@
+[
+    {
+        "question": "What is (are) Chronic Myelogenous Leukemia ?",
+        "answer": "Chronic myelogenous leukemia is a disease in which too many white blood cells are made in the bone marrow. See the PDQ summary on Chronic Myelogenous Leukemia Treatment for information on diagnosis, staging, and treatment.",
+        "qtype": "information",
+        "focus": "Chronic Myelogenous Leukemia",
+        "synonyms": [],
+        "semantic_group": "Disorders"
+    },
+    {
+        "question": "What are the treatments for Chronic Myelogenous Leukemia ?",
+        "answer": "See the PDQ summary about Chronic Myelogenous Leukemia Treatment for information.",
+        "qtype": "treatment",
+        "focus": "Chronic Myelogenous Leukemia",
+        "synonyms": [],
+        "semantic_group": "Disorders"
+    }
+]

@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0000733",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000491.htm",
+        "Focus": "Central venous catheters - ports",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Central venous catheter - subcutaneous",
+                    "Port-a-Cath",
+                    "InfusaPort",
+                    "PasPort",
+                    "Subclavian port",
+                    "Medi - port",
+                    "Central venous line - port"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000733-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Central venous catheters - ports"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

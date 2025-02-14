@@ -1,0 +1,39 @@
+{
+    "Document": {
+        "@id": "0003834",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002119.htm",
+        "Focus": "Taking care of your back at home",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0580931"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Back strain treatment",
+                    "Back pain - home care",
+                    "Low back pain - home care",
+                    "Lumbar pain - home care"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003834-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Taking care of your back at home ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

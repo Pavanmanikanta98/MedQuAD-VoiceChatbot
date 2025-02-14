@@ -1,0 +1,60 @@
+{
+    "Document": {
+        "@id": "0001865",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000106.htm",
+        "Focus": "Heart disease - risk factors",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0018799",
+                        "C0455624"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T047",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Heart disease - prevention"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001865-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Heart disease - risk factors ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001865-2",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Heart disease - risk factors? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001865-3",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Heart disease - risk factors? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

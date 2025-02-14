@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0004290",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000506.htm",
+        "Focus": "What causes bone loss?",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0029453"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T046"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004290-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) What causes bone loss? ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "Document": {
+        "@id": "0002244",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000742.htm",
+        "Focus": "Ischemic ulcers - self-care",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0265000"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Arterial ulcers - self-care",
+                    "Arterial insufficiency ulcer self-care",
+                    "Ischemic wounds - self-care"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002244-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Ischemic ulcers - self-care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002244-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Ischemic ulcers - self-care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002244-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Ischemic ulcers - self-care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002244-4",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Ischemic ulcers - self-care? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002244-6",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Ischemic ulcers - self-care ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

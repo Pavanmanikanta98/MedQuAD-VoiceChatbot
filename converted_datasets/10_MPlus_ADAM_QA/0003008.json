@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0003008",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000137.htm",
+        "Focus": "Percutaneous urinary procedures - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Percutaneous nephrostomy - discharge",
+                    "Percutaneous nephrostolithotomy - discharge",
+                    "PCNL - discharge",
+                    "Nephrolithotomy - discharge",
+                    "Percutaneous lithotripsy - discharge",
+                    "Endoscopic lithotripsy - discharge",
+                    "Kidney stent - discharge",
+                    "Uteric stent - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003008-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Percutaneous urinary procedures - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

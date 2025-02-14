@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000802",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003485.htm",
+        "Focus": "Chloride test - blood",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Serum chloride test"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000802-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Chloride test - blood"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001999",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003551.htm",
+        "Focus": "HLA-B27 antigen",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Human leukocyte antigen B27"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001999-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about HLA-B27 antigen"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

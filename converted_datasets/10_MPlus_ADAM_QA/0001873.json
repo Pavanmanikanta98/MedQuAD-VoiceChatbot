@@ -1,0 +1,39 @@
+{
+    "Document": {
+        "@id": "0001873",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000364.htm",
+        "Focus": "Heart failure - medicines",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0018801"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "CHF - medicines",
+                    "Congestive heart failure - medicines",
+                    "Cardiomyopathy - medicines",
+                    "HF - medicines"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001873-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Heart failure - medicines ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

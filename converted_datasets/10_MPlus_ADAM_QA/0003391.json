@@ -1,0 +1,68 @@
+{
+    "Document": {
+        "@id": "0003391",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002960.htm",
+        "Focus": "Retinal detachment repair",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0595950"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T046"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Scleral buckling",
+                    "Vitrectomy",
+                    "Pneumatic retinopexy",
+                    "Laser retinopexy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003391-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Retinal detachment repair ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003391-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Retinal detachment repair ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003391-4",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Retinal detachment repair? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003391-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Retinal detachment repair ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

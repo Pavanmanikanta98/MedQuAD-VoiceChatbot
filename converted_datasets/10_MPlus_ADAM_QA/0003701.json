@@ -1,0 +1,59 @@
+{
+    "Document": {
+        "@id": "0003701",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003724.htm",
+        "Focus": "Sputum stain for mycobacteria",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0026912"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T007"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Acid fast bacilli stain",
+                    "AFB stain",
+                    "Tuberculosis smear",
+                    "TB smear"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003701-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Sputum stain for mycobacteria ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003701-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Sputum stain for mycobacteria? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0003701-9",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Sputum stain for mycobacteria ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

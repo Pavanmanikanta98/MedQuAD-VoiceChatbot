@@ -1,0 +1,79 @@
+{
+    "Document": {
+        "@id": "0000261",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007401.htm",
+        "Focus": "Anti-reflux surgery - children",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0017168",
+                        "C0232483",
+                        "C0940159"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T046",
+                        "T047",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Fundoplication - children",
+                    "Nissen fundoplication - children",
+                    "Belsey (Mark IV) fundoplication - children",
+                    "Toupet fundoplication - children",
+                    "Thal fundoplication - children",
+                    "Hiatal hernia repair - children",
+                    "Endoluminal fundoplication - children"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000261-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Anti-reflux surgery - children ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000261-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Anti-reflux surgery - children ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000261-4",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Anti-reflux surgery - children? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000261-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Anti-reflux surgery - children ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

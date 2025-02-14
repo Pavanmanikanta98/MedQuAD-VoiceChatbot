@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0002137",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000069.htm",
+        "Focus": "Ileostomy and your child",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Standard ileostomy and your child",
+                    "Brooke ileostomy and your child",
+                    "Continent ileostomy and your child",
+                    "Abdominal pouch and your child",
+                    "End ileostomy and your child",
+                    "Ostomy and your child"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002137-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Ileostomy and your child"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

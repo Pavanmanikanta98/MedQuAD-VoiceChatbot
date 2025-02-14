@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0004299",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000616.htm",
+        "Focus": "When you feel like changing your medicine",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Medication - non-compliance",
+                    "Medication - nonadherence"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004299-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about When you feel like changing your medicine"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,16 @@
+[
+    {
+        "question": "What is (are) Chromosome 6q deletion ?",
+        "answer": "Chromosome 6q deletion is a chromosome abnormality that occurs when there is a missing copy of the genetic material located on the long arm (q) of chromosome 6. The severity of the condition and the signs and symptoms depend on the size and location of the deletion and which genes are involved. Features that often occur in people with chromosome 6q deletion include developmental delay, intellectual disability, and distinctive facial features. Most cases are not inherited, but people can pass the deletion on to their children. Treatment is based on the signs and symptoms present in each person.",
+        "qtype": "information",
+        "focus": "Chromosome 6q deletion",
+        "synonyms": [
+            "Deletion 6q",
+            "Monosomy 6q",
+            "6q deletion",
+            "6q monosomy",
+            "Partial monosomy 6q"
+        ],
+        "semantic_group": "Disorders"
+    }
+]

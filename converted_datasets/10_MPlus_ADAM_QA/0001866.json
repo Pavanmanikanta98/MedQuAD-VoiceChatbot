@@ -1,0 +1,54 @@
+{
+    "Document": {
+        "@id": "0001866",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000790.htm",
+        "Focus": "Heart disease and depression",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0018799",
+                        "C0349217",
+                        "C0011570",
+                        "C0011581",
+                        "C0344315",
+                        "C1579931"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T048",
+                        "T047",
+                        "T033",
+                        "T184"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001866-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Heart disease and depression ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001866-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Heart disease and depression ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "question": "What is (are) Parasites - Paragonimiasis (also known as Paragonimus Infection) ?",
+        "answer": "Frequently Asked Queestions (FAQs)",
+        "qtype": "information",
+        "focus": "Parasites - Paragonimiasis (also known as Paragonimus Infection)",
+        "synonyms": [],
+        "semantic_group": "Unknown"
+    },
+    {
+        "question": "Who is at risk for Parasites - Paragonimiasis (also known as Paragonimus Infection)? ?",
+        "answer": "Several species of Paragonimus cause most infections; the most important is P. westermani, which occurs primarily in Asia including China, the Philippines, Japan, Vietnam, South Korea, Taiwan, and Thailand. P. africanus causes infection in Africa, and P. mexicanus in Central and South America. Specialty dishes in which shellfish are consumed raw or prepared only in vinegar, brine, or wine without cooking play a key role in the transmission of paragonimiasis. Raw crabs or crayfish are also used in traditional medicine practices in Korea, Japan, and some parts of Africa.\n    \nAlthough rare, human paragonimiasis from P. kellicotti has been acquired in the United States, with multiple cases from the Midwest. Several cases have been associated with ingestion of uncooked crawfish during river raft float trips in Missouri.",
+        "qtype": "susceptibility",
+        "focus": "Parasites - Paragonimiasis (also known as Paragonimus Infection)",
+        "synonyms": [],
+        "semantic_group": "Unknown"
+    },
+    {
+        "question": "How to diagnose Parasites - Paragonimiasis (also known as Paragonimus Infection) ?",
+        "answer": "The infection is usually diagnosed by identification of Paragonimus eggs in sputum. The eggs are sometimes found in stool samples (coughed-up eggs are swallowed). A tissue biopsy is sometimes performed to look for eggs in a tissue specimen.\n    \nSpecific and sensitive antibody tests based on P. westermani antigens are available through CDC, and serologic tests using a variety of techniques are available through commercial laboratories.\n    \nMore on: Resources for Health Professionals: Diagnosis\n    \nMore on: DPDx: Paragonimus",
+        "qtype": "exams and tests",
+        "focus": "Parasites - Paragonimiasis (also known as Paragonimus Infection)",
+        "synonyms": [],
+        "semantic_group": "Unknown"
+    },
+    {
+        "question": "What are the treatments for Parasites - Paragonimiasis (also known as Paragonimus Infection) ?",
+        "answer": "Paragonimus infections are treatable by your health care provider. Prescription medications are available.\n    \nMore on: Resources for Health Professionals: Treatment",
+        "qtype": "treatment",
+        "focus": "Parasites - Paragonimiasis (also known as Paragonimus Infection)",
+        "synonyms": [],
+        "semantic_group": "Unknown"
+    },
+    {
+        "question": "How to prevent Parasites - Paragonimiasis (also known as Paragonimus Infection) ?",
+        "answer": "Never eat raw freshwater crabs or crayfish. Cook crabs and crayfish for to at least 145\u00b0F (~63\u00b0C). Travelers should be advised to avoid traditional meals containing undercooked freshwater crustaceans.\n    \nMore on: Fight BAC: Safe Food Handling",
+        "qtype": "prevention",
+        "focus": "Parasites - Paragonimiasis (also known as Paragonimus Infection)",
+        "synonyms": [],
+        "semantic_group": "Unknown"
+    }
+]

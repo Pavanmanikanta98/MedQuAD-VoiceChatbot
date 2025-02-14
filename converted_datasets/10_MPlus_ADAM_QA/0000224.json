@@ -1,0 +1,68 @@
+{
+    "Document": {
+        "@id": "0000224",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000089.htm",
+        "Focus": "Angina - discharge",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0002962"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Chest pain - discharge",
+                    "Stable angina - discharge",
+                    "Chronic angina - discharge",
+                    "Variant angina - discharge",
+                    "Angina pectoris - discharge",
+                    "Accelerating angina - discharge",
+                    "New-onset angina - discharge",
+                    "Angina - unstable - discharge",
+                    "Progressive angina - discharge",
+                    "Angina - stable - discharge",
+                    "Angina - chronic - discharge",
+                    "Angina - variant - discharge",
+                    "Prinzmetals angina - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000224-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Angina - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000224-2",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Angina - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000224-6",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Angina - discharge ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

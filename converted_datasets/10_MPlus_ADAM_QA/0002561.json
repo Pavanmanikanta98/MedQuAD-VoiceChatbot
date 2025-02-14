@@ -1,0 +1,44 @@
+{
+    "Document": {
+        "@id": "0002561",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000502.htm",
+        "Focus": "Medicines for osteoporosis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0029456"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Alendronate (Fosamax)",
+                    "Ibandronate (Boniva)",
+                    "Risedronate (Actonel)",
+                    "Zoledronic acid (Reclast)",
+                    "Raloxifene (Evista)",
+                    "Teriparatide (Forteo)",
+                    "Denosumab (Prolia)",
+                    "Low bone density - medicines",
+                    "Osteoporosis - medicines"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002561-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Medicines for osteoporosis ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

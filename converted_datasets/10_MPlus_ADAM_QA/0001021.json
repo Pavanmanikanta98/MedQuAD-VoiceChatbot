@@ -1,0 +1,74 @@
+{
+    "Document": {
+        "@id": "0001021",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007364.htm",
+        "Focus": "Craniosynostosis repair",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0010278"
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T019",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Craniectomy - child",
+                    "Synostectomy",
+                    "Strip craniectomy",
+                    "Endoscopy-assisted craniectomy",
+                    "Sagittal craniectomy",
+                    "Frontal-orbital advancement",
+                    "FOA"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001021-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Craniosynostosis repair ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001021-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Craniosynostosis repair ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001021-4",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Craniosynostosis repair? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001021-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Craniosynostosis repair ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

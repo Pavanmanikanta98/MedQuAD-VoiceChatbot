@@ -1,0 +1,69 @@
+{
+    "Document": {
+        "@id": "0002214",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002927.htm",
+        "Focus": "Intestinal obstruction repair",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0021843"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Repair of volvulus",
+                    "Paralytic ileus - repair",
+                    "Intestinal volvulus - repair",
+                    "Bowel obstruction - repair",
+                    "Ileus - repair"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002214-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Intestinal obstruction repair ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002214-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Intestinal obstruction repair ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002214-4",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Intestinal obstruction repair? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002214-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Intestinal obstruction repair ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "Document": {
+        "@id": "0004298",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000503.htm",
+        "Focus": "When you are drinking too much - tips for cutting back",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C3843660"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Alcohol - drinking too much",
+                    "Alcohol use disorder - drinking too much",
+                    "Alcohol abuse - drinking too much"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004298-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) When you are drinking too much - tips for cutting back ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

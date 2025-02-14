@@ -1,0 +1,62 @@
+{
+    "Document": {
+        "@id": "0000071",
+        "@source": "NINDS",
+        "@url": "http://www.ninds.nih.gov/disorders/sotos/sotos.htm",
+        "Focus": "Sotos Syndrome",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0175695"
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T019",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000071-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Sotos Syndrome ?"
+                    },
+                    "Answer": "Sotos syndrome (cerebral gigantism) is a rare genetic disorder caused by mutation in the NSD1 gene on chromosome 5. It is characterized by excessive physical growth during the first few years of life. Children with Sotos syndrome tend to be large at birth and are often taller, heavier, and have larger heads (macrocrania) than is normal for their age. Symptoms of the disorder, which vary among individuals, include a disproportionately large and long head with a slightly protrusive forehead and pointed chin, large hands and feet, hypertelorism (an abnormally increased distance between the eyes), and down-slanting eyes. The disorder is often accompanied by mild cognitive impairment; delayed motor, cognitive, and social development; hypotonia (low muscle tone), and speech impairments. Clumsiness, an awkward gait, and unusual aggressiveness or irritability may also occur. Although most cases of Sotos syndrome occur sporadically (meaning they are not known to be inherited), familial cases have also been reported."
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000071-2",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Sotos Syndrome ?"
+                    },
+                    "Answer": "There is no standard course of treatment for Sotos syndrome. Treatment is symptomatic."
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000071-3",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Sotos Syndrome ?"
+                    },
+                    "Answer": "Sotos syndrome is not a life-threatening disorder and patients may have a normal life expectancy. The initial abnormalities of Sotos syndrome usually resolve as the growth rate becomes normal after the first few years of life. Developmental delays may improve in the school-age years, and adults with Sotos syndrome are likely to be within the normal range for intellect and height. However, coordination problems may persist into adulthood."
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000071-4",
+                        "@qtype": "research",
+                        "#text": "what research (or clinical trials) is being done for Sotos Syndrome ?"
+                    },
+                    "Answer": "The NINDS supports and conducts a wide range of studies which focus on identifying and learning more about the genes involved in normal brain development. The knowledge gained from these fundamental studies provides the foundation for understanding how this process can go awry and, thus, may eventually give clues to understanding disorders such as Sotos syndrome."
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0000112",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003998.htm",
+        "Focus": "Aging changes in body shape",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000112-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Aging changes in body shape"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

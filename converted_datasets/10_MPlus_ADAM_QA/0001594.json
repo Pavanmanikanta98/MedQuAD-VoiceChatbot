@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0001594",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003249.htm",
+        "Focus": "Fingers that change color",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Blanching of the fingers",
+                    "Fingers - pale",
+                    "Toes that change color",
+                    "Toes - pale"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001594-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Fingers that change color"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

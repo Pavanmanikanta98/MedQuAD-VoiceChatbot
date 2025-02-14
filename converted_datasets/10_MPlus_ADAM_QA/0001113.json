@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0001113",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007453.htm",
+        "Focus": "Deep brain stimulation",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Globus pallidus deep brain stimulation",
+                    "Subthalamic deep brain stimulation",
+                    "Thalamic deep brain stimulation",
+                    "DBS",
+                    "Brain neurostimulation"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001113-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Deep brain stimulation"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

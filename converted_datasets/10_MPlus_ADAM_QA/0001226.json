@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001226",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000895.htm",
+        "Focus": "Diet myths and facts",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Weight loss - diet myths and facts",
+                    "Overweight - diet myths and facts",
+                    "Obesity- diet myths and facts"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001226-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Diet myths and facts"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

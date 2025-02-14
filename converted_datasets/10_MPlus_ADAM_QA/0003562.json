@@ -1,0 +1,78 @@
+{
+    "Document": {
+        "@id": "0003562",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003302.htm",
+        "Focus": "Short philtrum",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1861324"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003562-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Short philtrum ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003562-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Short philtrum ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003562-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Short philtrum ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003562-4",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Short philtrum ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003562-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Short philtrum ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003562-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Short philtrum ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

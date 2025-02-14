@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0001439",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003225.htm",
+        "Focus": "Erosion",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0333307",
+                        "C1959609"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T046",
+                        "T020"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001439-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Erosion ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

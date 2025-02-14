@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0002914",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001627.htm",
+        "Focus": "Ozena",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0030105"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002914-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Ozena ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002914-2",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Ozena ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

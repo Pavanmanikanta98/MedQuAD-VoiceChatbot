@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0000512",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000010.htm",
+        "Focus": "Bone marrow transplant - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Transplant - bone marrow - discharge",
+                    "Stem cell transplant - discharge",
+                    "Hematopoietic stem cell transplant - discharge",
+                    "Reduced intensity, non-myeloablative transplant - discharge",
+                    "Mini transplant - discharge",
+                    "Allogenic bone marrow transplant - discharge",
+                    "Autologous bone marrow transplant - discharge",
+                    "Umbilical cord blood transplant - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000512-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Bone marrow transplant - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

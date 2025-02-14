@@ -1,0 +1,64 @@
+{
+    "Document": {
+        "@id": "0004088",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000832.htm",
+        "Focus": "Understanding your colon cancer risk",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0346629",
+                        "C0699790",
+                        "C0007102"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004088-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Understanding your colon cancer risk ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004088-2",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Understanding your colon cancer risk? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0004088-3",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Understanding your colon cancer risk? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0004088-4",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Understanding your colon cancer risk ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001651",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000550.htm",
+        "Focus": "Frozen shoulder - aftercare",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Adhesive capsulitis - aftercare",
+                    "Frozen shoulder syndrome - aftercare"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001651-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Frozen shoulder - aftercare"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

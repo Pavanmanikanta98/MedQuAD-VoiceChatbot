@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0004156",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000251.htm",
+        "Focus": "Using oxygen at home - what to ask your doctor",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Oxygen - what to ask your doctor",
+                    "What to ask your doctor about home oxygen"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004156-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Using oxygen at home - what to ask your doctor"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

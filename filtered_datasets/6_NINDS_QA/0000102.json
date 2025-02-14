@@ -1,0 +1,34 @@
+[
+    {
+        "question": "What is (are) Dyssynergia Cerebellaris Myoclonica ?",
+        "answer": "Dyssynergia Cerebellaris Myoclonica refers to a collection of rare, degenerative, neurological disorders characterized by epilepsy, cognitive impairment, myoclonus, and progressive ataxia. Symptoms include seizures, tremor, and reduced muscle coordination. Onset of the disorder generally occurs in early adulthood. Tremor may begin in one extremity and later spread to involve the entire voluntary muscular system. Arms are usually more affected than legs. Some of the cases are due to mitochondrial abnormalities.",
+        "qtype": "information",
+        "focus": "Dyssynergia Cerebellaris Myoclonica",
+        "synonyms": [],
+        "semantic_group": "Disorders"
+    },
+    {
+        "question": "What are the treatments for Dyssynergia Cerebellaris Myoclonica ?",
+        "answer": "Treatment of Dyssynergia Cerebellaris Myoclonica is symptomatic. Myoclonus and seizures may be treated with drugs like valproate.",
+        "qtype": "treatment",
+        "focus": "Dyssynergia Cerebellaris Myoclonica",
+        "synonyms": [],
+        "semantic_group": "Disorders"
+    },
+    {
+        "question": "What is the outlook for Dyssynergia Cerebellaris Myoclonica ?",
+        "answer": "The progression of the disorder is usually 10 years or longer.",
+        "qtype": "outlook",
+        "focus": "Dyssynergia Cerebellaris Myoclonica",
+        "synonyms": [],
+        "semantic_group": "Disorders"
+    },
+    {
+        "question": "what research (or clinical trials) is being done for Dyssynergia Cerebellaris Myoclonica ?",
+        "answer": "The NINDS supports a broad range of research on neurodegenerative disorders such as Dyssynergia Cerebellaris Myoclonica. The goals of this research are to find ways to prevent, treat, and cure these kinds of disorders.",
+        "qtype": "research",
+        "focus": "Dyssynergia Cerebellaris Myoclonica",
+        "synonyms": [],
+        "semantic_group": "Disorders"
+    }
+]

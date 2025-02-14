@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001522",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003674.htm",
+        "Focus": "Factor II assay",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Prothrombin assay"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001522-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Factor II assay"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

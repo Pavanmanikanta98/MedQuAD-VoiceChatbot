@@ -1,0 +1,34 @@
+[
+    {
+        "question": "What is (are) Brown-Sequard Syndrome ?",
+        "answer": "Brown-Sequard syndrome (BSS) is a rare neurological condition characterized by a lesion in the spinal cord which results in weakness or paralysis (hemiparaplegia) on one side of the body and a loss of sensation (hemianesthesia) on the opposite side. BSS may be caused by a spinal cord tumor, trauma (such as a puncture wound to the neck or back), ischemia (obstruction of a blood vessel), or infectious or inflammatory diseases such as tuberculosis, or multiple sclerosis.",
+        "qtype": "information",
+        "focus": "Brown-Sequard Syndrome",
+        "synonyms": [],
+        "semantic_group": "Disorders"
+    },
+    {
+        "question": "What are the treatments for Brown-Sequard Syndrome ?",
+        "answer": "Generally treatment for individuals with BSS focuses on the underlying cause of the disorder. Early treatment with high-dose steroids may be beneficial in many cases. Other treatment is symptomatic and supportive.",
+        "qtype": "treatment",
+        "focus": "Brown-Sequard Syndrome",
+        "synonyms": [],
+        "semantic_group": "Disorders"
+    },
+    {
+        "question": "What is the outlook for Brown-Sequard Syndrome ?",
+        "answer": "The prognosis for individuals with BSS varies depending on the cause of the disorder.",
+        "qtype": "outlook",
+        "focus": "Brown-Sequard Syndrome",
+        "synonyms": [],
+        "semantic_group": "Disorders"
+    },
+    {
+        "question": "what research (or clinical trials) is being done for Brown-Sequard Syndrome ?",
+        "answer": "The NINDS supports and conducts a wide range of research on spinal cord disorders such as BSS. The goal of this research is to find ways to prevent, treat, and, ultimately, cure these disorders.",
+        "qtype": "research",
+        "focus": "Brown-Sequard Syndrome",
+        "synonyms": [],
+        "semantic_group": "Disorders"
+    }
+]

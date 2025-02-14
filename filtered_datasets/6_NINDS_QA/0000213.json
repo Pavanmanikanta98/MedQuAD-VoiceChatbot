@@ -1,0 +1,34 @@
+[
+    {
+        "question": "What is (are) Neuroleptic Malignant Syndrome ?",
+        "answer": "Neuroleptic malignant syndrome is a life-threatening, neurological disorder most often caused by an adverse reaction to neuroleptic or antipsychotic drugs. Symptoms include high fever, sweating, unstable blood pressure, stupor, muscular rigidity, and autonomic dysfunction. In most cases, the disorder develops within the first 2 weeks of treatment with the drug; however, the disorder may develop any time during the therapy period. The syndrome can also occur in people taking anti-Parkinsonism drugs known as dopaminergics if those drugs are discontinued abruptly.",
+        "qtype": "information",
+        "focus": "Neuroleptic Malignant Syndrome",
+        "synonyms": [],
+        "semantic_group": "Disorders"
+    },
+    {
+        "question": "What are the treatments for Neuroleptic Malignant Syndrome ?",
+        "answer": "Generally, intensive care is needed. The neuroleptic or antipsychotic drug is discontinued, and the fever is treated aggressively. A muscle relaxant may be prescribed. Dopaminergic drugs, such as a dopamine agonist, have been reported to be useful.",
+        "qtype": "treatment",
+        "focus": "Neuroleptic Malignant Syndrome",
+        "synonyms": [],
+        "semantic_group": "Disorders"
+    },
+    {
+        "question": "What is the outlook for Neuroleptic Malignant Syndrome ?",
+        "answer": "Early identification of and treatment for individuals with neuroleptic malignant syndrome improves outcome. If clinically indicated, a low potency neuroleptic can be reintroduced very slowly when the individual recovers, although there is a risk that the syndrome might recur. Another alternative is to substitute another class of drugs for the neuroleptic. Anesthesia may be a risk to individuals who have experienced neuroleptic malignant syndrome.",
+        "qtype": "outlook",
+        "focus": "Neuroleptic Malignant Syndrome",
+        "synonyms": [],
+        "semantic_group": "Disorders"
+    },
+    {
+        "question": "what research (or clinical trials) is being done for Neuroleptic Malignant Syndrome ?",
+        "answer": "The NINDS supports research on neurological disorders such as neuroleptic malignant syndrome. Much of this research focuses on finding ways to prevent and treat the disorder.",
+        "qtype": "research",
+        "focus": "Neuroleptic Malignant Syndrome",
+        "synonyms": [],
+        "semantic_group": "Disorders"
+    }
+]

@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0001231",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007447.htm",
+        "Focus": "Digestive diseases",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0012242"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001231-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Digestive diseases ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001231-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Digestive diseases ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

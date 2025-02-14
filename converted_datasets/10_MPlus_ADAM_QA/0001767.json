@@ -1,0 +1,69 @@
+{
+    "Document": {
+        "@id": "0001767",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002869.htm",
+        "Focus": "Grass allergy",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1387134"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001767-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Grass allergy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001767-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Grass allergy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001767-4",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Grass allergy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001767-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Grass allergy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001767-8",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Grass allergy ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

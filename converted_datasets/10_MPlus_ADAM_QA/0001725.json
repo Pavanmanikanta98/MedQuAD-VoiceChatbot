@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001725",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000167.htm",
+        "Focus": "Getting your home ready - knee or hip surgery",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Hip or knee surgery - getting your home ready",
+                    "Osteoarthritis - knee"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001725-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Getting your home ready - knee or hip surgery"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

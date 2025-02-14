@@ -1,0 +1,103 @@
+{
+    "Document": {
+        "@id": "0000071",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000357.htm",
+        "Focus": "Acute adrenal crisis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0151467"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Adrenal crisis",
+                    "Addisonian crisis",
+                    "Acute adrenal insufficiency"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000071-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Acute adrenal crisis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000071-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Acute adrenal crisis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000071-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Acute adrenal crisis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000071-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Acute adrenal crisis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000071-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Acute adrenal crisis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000071-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Acute adrenal crisis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000071-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Acute adrenal crisis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000071-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Acute adrenal crisis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

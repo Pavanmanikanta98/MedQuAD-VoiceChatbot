@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001896",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000618.htm",
+        "Focus": "Help prevent hospital errors",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Medical errors - prevention"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001896-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Help prevent hospital errors"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "Document": {
+        "@id": "0001983",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000233.htm",
+        "Focus": "Hip or knee replacement - before - what to ask your doctor",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C2186386"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "What to ask your doctor before hip or knee replacement",
+                    "Hip replacement - before - what to ask your doctor",
+                    "Knee replacement - before - what to ask your doctor",
+                    "Hip arthroplasty - before - what to ask your doctor",
+                    "Knee arthroplasty - before - what to ask your doctor"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001983-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Hip or knee replacement - before - what to ask your doctor ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0001108",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000694.htm",
+        "Focus": "Deciding about hormone therapy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "HRT - deciding",
+                    "Estrogen replacement therapy - deciding",
+                    "ERT",
+                    "Hormone replacement therapy - deciding"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001108-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Deciding about hormone therapy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

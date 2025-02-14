@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001472",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002647.htm",
+        "Focus": "Eugenol oil overdose",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Clove oil overdose"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001472-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Eugenol oil overdose"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

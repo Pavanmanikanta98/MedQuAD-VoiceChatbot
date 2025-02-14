@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0003102",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000605.htm",
+        "Focus": "Placenta abruptio",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Premature placental separation",
+                    "Placental separation",
+                    "Placental abruption"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003102-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Placenta abruptio"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

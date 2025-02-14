@@ -1,0 +1,111 @@
+{
+    "Document": {
+        "@id": "0002105",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001106.htm",
+        "Focus": "Hypoplastic left heart syndrome",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0152101"
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T019",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "HLHS"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002105-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hypoplastic left heart syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002105-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Hypoplastic left heart syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002105-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Hypoplastic left heart syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002105-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Hypoplastic left heart syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002105-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Hypoplastic left heart syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002105-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Hypoplastic left heart syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002105-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Hypoplastic left heart syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002105-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Hypoplastic left heart syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002105-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Hypoplastic left heart syndrome ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

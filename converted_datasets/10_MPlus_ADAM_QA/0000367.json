@@ -1,0 +1,45 @@
+{
+    "Document": {
+        "@id": "0000367",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003328.htm",
+        "Focus": "Autoimmune liver disease panel",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0400936"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Liver disease test panel - autoimmune"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000367-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Autoimmune liver disease panel ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000367-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Autoimmune liver disease panel? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

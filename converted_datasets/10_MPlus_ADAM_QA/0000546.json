@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0000546",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007432.htm",
+        "Focus": "Breast biopsy - ultrasound",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Biopsy - breast - ultrasound",
+                    "Ultrasound-guided breast biopsy",
+                    "Core needle breast biopsy - ultrasound",
+                    "Breast cancer-breast biopsy - ultrasound",
+                    "Abnormal mammogram - breast biopsy - ultrasound"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000546-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Breast biopsy - ultrasound"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

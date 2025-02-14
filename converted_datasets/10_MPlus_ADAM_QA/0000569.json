@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000569",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000631.htm",
+        "Focus": "Breastfeeding - self-care",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Nursing mothers - self-care"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000569-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Breastfeeding - self-care"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

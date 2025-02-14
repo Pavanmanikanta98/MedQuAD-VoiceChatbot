@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0002218",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003411.htm",
+        "Focus": "Intracranial pressure monitoring",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0460139"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "ICP monitoring",
+                    "CSF pressure monitoring"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002218-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Intracranial pressure monitoring ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002218-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Intracranial pressure monitoring? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

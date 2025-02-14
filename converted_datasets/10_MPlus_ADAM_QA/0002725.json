@@ -1,0 +1,114 @@
+{
+    "Document": {
+        "@id": "0002725",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001424.htm",
+        "Focus": "Myotonia congenita",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C2936781",
+                        "C0027127"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Thomsen's disease",
+                    "Becker's disease"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002725-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Myotonia congenita ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002725-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Myotonia congenita ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002725-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Myotonia congenita ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002725-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Myotonia congenita ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002725-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Myotonia congenita ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002725-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Myotonia congenita ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002725-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Myotonia congenita ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002725-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Myotonia congenita ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002725-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Myotonia congenita ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

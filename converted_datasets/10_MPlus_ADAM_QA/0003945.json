@@ -1,0 +1,105 @@
+{
+    "Document": {
+        "@id": "0003945",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000877.htm",
+        "Focus": "Tinea corporis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0040252"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Fungal infection - body",
+                    "Infection - fungal - body",
+                    "Tinea of the body",
+                    "Tinea circinata",
+                    "Ringworm - body"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003945-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Tinea corporis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003945-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Tinea corporis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003945-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Tinea corporis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003945-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Tinea corporis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003945-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Tinea corporis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003945-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Tinea corporis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003945-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Tinea corporis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003945-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Tinea corporis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

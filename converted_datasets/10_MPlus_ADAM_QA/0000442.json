@@ -1,0 +1,102 @@
+{
+    "Document": {
+        "@id": "0000442",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000220.htm",
+        "Focus": "Biliary stricture",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0597984"
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T190",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Bile duct stricture"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000442-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Biliary stricture ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000442-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Biliary stricture ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000442-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Biliary stricture ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000442-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Biliary stricture ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000442-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Biliary stricture ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000442-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Biliary stricture ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000442-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Biliary stricture ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000442-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Biliary stricture ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

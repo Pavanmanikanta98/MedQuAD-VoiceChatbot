@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000194",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002491.htm",
+        "Focus": "Ammonium hydroxide poisoning",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Aqueous - ammonia"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000194-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Ammonium hydroxide poisoning"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

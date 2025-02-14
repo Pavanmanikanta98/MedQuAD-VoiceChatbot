@@ -1,0 +1,66 @@
+{
+    "Document": {
+        "@id": "0002067",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002654.htm",
+        "Focus": "Hydroxyzine overdose",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0573305"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Atarax overdose",
+                    "Vistaril overdose"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002067-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hydroxyzine overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002067-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Hydroxyzine overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002067-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Hydroxyzine overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002067-8",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Hydroxyzine overdose ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

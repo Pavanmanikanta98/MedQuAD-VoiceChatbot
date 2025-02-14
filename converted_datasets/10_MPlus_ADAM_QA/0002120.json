@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0002120",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000285.htm",
+        "Focus": "Hysterectomy - vaginal - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Vaginal hysterectomy - discharge",
+                    "Laparoscopically assisted vaginal hysterectomy - discharge",
+                    "LAVH - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002120-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Hysterectomy - vaginal - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

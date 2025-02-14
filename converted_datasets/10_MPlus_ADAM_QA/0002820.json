@@ -1,0 +1,109 @@
+{
+    "Document": {
+        "@id": "0002820",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000752.htm",
+        "Focus": "Normal pressure hydrocephalus",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0460139",
+                        "C0020258"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T047",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Hydrocephalus - idiopathic",
+                    "Hydrocephalus - adult",
+                    "Hydrocephalus - communicating"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002820-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Normal pressure hydrocephalus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002820-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Normal pressure hydrocephalus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002820-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Normal pressure hydrocephalus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002820-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Normal pressure hydrocephalus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002820-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Normal pressure hydrocephalus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002820-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Normal pressure hydrocephalus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002820-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Normal pressure hydrocephalus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002820-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Normal pressure hydrocephalus ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "Document": {
+        "@id": "0000183",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000298.htm",
+        "Focus": "Amebiasis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0002438",
+                        "C0013370"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Amebic dysentery",
+                    "Intestinal amebiasis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000183-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Amebiasis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000183-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Amebiasis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000183-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Amebiasis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000183-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Amebiasis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000183-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Amebiasis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000183-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Amebiasis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000183-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Amebiasis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000183-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Amebiasis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000183-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Amebiasis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

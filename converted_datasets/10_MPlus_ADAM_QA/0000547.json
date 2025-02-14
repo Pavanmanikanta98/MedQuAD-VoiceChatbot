@@ -1,0 +1,130 @@
+{
+    "Document": {
+        "@id": "0000547",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000913.htm",
+        "Focus": "Breast cancer",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0006142",
+                        "C0678222"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Cancer - breast",
+                    "Carcinoma - ductal",
+                    "Carcinoma - lobular",
+                    "DCIS",
+                    "LCIS",
+                    "HER2-positive breast cancer",
+                    "ER-positive breast cancer",
+                    "Ductal carcinoma in situ",
+                    "Lobular carcinoma in situ"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000547-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Breast cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000547-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Breast cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000547-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Breast cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000547-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Breast cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000547-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Breast cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000547-6",
+                        "@qtype": "support groups",
+                        "#text": "Where to find support for people with Breast cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000547-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Breast cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000547-8",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Breast cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000547-9",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Breast cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "10",
+                    "Question": {
+                        "@qid": "0000547-10",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Breast cancer ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0002230",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002384.htm",
+        "Focus": "Invasive",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1334278"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002230-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Invasive ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

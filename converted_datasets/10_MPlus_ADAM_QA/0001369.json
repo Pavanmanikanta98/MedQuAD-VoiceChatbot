@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0001369",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002361.htm",
+        "Focus": "Elimination patterns",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0231360"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001369-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Elimination patterns ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

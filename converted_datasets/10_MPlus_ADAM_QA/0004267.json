@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0004267",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002471.htm",
+        "Focus": "Water in diet",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Diet - water",
+                    "H2O"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004267-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Water in diet"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

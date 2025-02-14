@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002462",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003860.htm",
+        "Focus": "Lung needle biopsy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Transthoracic needle aspiration",
+                    "Percutaneous needle aspiration"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002462-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Lung needle biopsy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

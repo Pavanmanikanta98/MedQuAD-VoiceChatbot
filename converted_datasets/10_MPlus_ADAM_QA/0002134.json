@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0002134",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000072.htm",
+        "Focus": "Ileostomy - changing your pouch",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Standard ileostomy - pouch change",
+                    "Brooke ileostomy - pouch change",
+                    "Continent ileostomy - changing",
+                    "Abdominal pouch changing",
+                    "End ileostomy - pouch change",
+                    "Ostomy - pouch change"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002134-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Ileostomy - changing your pouch"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

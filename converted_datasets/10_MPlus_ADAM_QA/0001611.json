@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0001611",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007007.htm",
+        "Focus": "Flushable reagent stool blood test",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1321898"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Stool occult blood test - flushable home test",
+                    "Fecal occult blood test - flushable home test"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001611-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Flushable reagent stool blood test ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001611-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Flushable reagent stool blood test? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

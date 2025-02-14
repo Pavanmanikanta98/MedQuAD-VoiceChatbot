@@ -1,0 +1,81 @@
+{
+    "Document": {
+        "@id": "0000886",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000946.htm",
+        "Focus": "Cocaine intoxication",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0009176"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T048"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Intoxication - cocaine"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000886-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Cocaine intoxication ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000886-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Cocaine intoxication ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000886-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Cocaine intoxication ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000886-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Cocaine intoxication ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000886-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Cocaine intoxication ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000886-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Cocaine intoxication ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

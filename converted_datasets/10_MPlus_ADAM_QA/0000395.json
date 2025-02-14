@@ -1,0 +1,99 @@
+{
+    "Document": {
+        "@id": "0000395",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000951.htm",
+        "Focus": "Barbiturate intoxication and overdose",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0161558"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Intoxication - barbiturates"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000395-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Barbiturate intoxication and overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000395-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Barbiturate intoxication and overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000395-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Barbiturate intoxication and overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000395-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Barbiturate intoxication and overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000395-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Barbiturate intoxication and overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000395-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Barbiturate intoxication and overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000395-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Barbiturate intoxication and overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000395-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Barbiturate intoxication and overdose ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

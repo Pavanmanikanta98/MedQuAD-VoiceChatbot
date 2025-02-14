@@ -1,0 +1,67 @@
+{
+    "Document": {
+        "@id": "0000190",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002645.htm",
+        "Focus": "Amitriptyline and perphenazine overdose",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0573117"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Etrafon overdose",
+                    "Triavil overdose",
+                    "Triptazine overdose"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000190-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Amitriptyline and perphenazine overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000190-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Amitriptyline and perphenazine overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000190-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Amitriptyline and perphenazine overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000190-8",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Amitriptyline and perphenazine overdose ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

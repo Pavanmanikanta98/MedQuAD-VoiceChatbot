@@ -1,0 +1,63 @@
+{
+    "Document": {
+        "@id": "0003665",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000753.htm",
+        "Focus": "Spasmodic dysphonia",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0264588"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Dysphonia - spasmodic"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003665-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Spasmodic dysphonia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003665-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Spasmodic dysphonia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003665-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Spasmodic dysphonia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003665-4",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Spasmodic dysphonia ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

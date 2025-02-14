@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001482",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000817.htm",
+        "Focus": "Exercise clothing and shoes",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Fitness - exercise clothing"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001482-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Exercise clothing and shoes"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

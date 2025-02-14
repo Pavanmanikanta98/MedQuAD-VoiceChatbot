@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0000703",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002316.htm",
+        "Focus": "Carrying angle of the elbow - excessive",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Elbow carrying angle - excessive",
+                    "Excessive carrying angle of the elbow",
+                    "Cubitus valgus"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000703-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Carrying angle of the elbow - excessive"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

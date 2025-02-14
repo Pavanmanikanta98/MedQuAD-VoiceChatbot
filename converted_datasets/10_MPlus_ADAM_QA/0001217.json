@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001217",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002753.htm",
+        "Focus": "Diesel oil",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Oil"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001217-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Diesel oil"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

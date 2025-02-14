@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0004345",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000822.htm",
+        "Focus": "Your cancer survivorship care plan",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0006826"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004345-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Your cancer survivorship care plan ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004345-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Your cancer survivorship care plan ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

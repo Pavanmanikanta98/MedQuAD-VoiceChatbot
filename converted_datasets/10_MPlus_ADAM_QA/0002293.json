@@ -1,0 +1,94 @@
+{
+    "Document": {
+        "@id": "0002293",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000150.htm",
+        "Focus": "Klippel-Trenaunay syndrome",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0022739",
+                        "C0039082"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T019",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Klippel-Trenaunay-Weber syndrome",
+                    "KTS",
+                    "Angio-osteohypertrophy",
+                    "Nevus varicosus osteohypertrophicus syndrome",
+                    "Hemangiectasia hypertrophicans",
+                    "Nevus verucosus hypertrophicans"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002293-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Klippel-Trenaunay syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002293-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Klippel-Trenaunay syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002293-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Klippel-Trenaunay syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002293-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Klippel-Trenaunay syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002293-5",
+                        "@qtype": "support groups",
+                        "#text": "Where to find support for people with Klippel-Trenaunay syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002293-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Klippel-Trenaunay syndrome ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

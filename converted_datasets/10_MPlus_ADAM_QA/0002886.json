@@ -1,0 +1,54 @@
+{
+    "Document": {
+        "@id": "0002886",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000297.htm",
+        "Focus": "Osteomyelitis - discharge",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0029443"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Bone infection - discharge"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002886-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Osteomyelitis - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002886-2",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Osteomyelitis - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002886-4",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Osteomyelitis - discharge ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

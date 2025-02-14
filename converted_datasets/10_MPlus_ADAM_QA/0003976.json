@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003976",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007379.htm",
+        "Focus": "Total abdominal colectomy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Ileorectal anastomosis",
+                    "Subtotal colectomy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003976-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Total abdominal colectomy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0003156",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003372.htm",
+        "Focus": "Porphyrins - blood test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Protoporphyrin levels",
+                    "Porphyrins -- total",
+                    "Coproporphyrin levels",
+                    "PROTO test"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003156-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Porphyrins - blood test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

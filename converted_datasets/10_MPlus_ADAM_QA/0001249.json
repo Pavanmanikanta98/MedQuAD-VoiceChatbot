@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001249",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000573.htm",
+        "Focus": "Disseminated intravascular coagulation (DIC)",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Consumption coagulopathy",
+                    "DIC"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001249-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Disseminated intravascular coagulation (DIC)"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

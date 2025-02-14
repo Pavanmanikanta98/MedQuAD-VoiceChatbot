@@ -1,0 +1,14 @@
+[
+    {
+        "question": "What is (are) Homocystinuria ?",
+        "answer": "Homocystinuria is an inherited disorder in which the body is unable to process certain building blocks of proteins (amino acids) properly. The most common form, called cystathionine beta-synthase deficiency, is characterized by dislocation of the lens in the eye, an increased risk of abnormal blood clots, skeletal abnormalities, and sometimes problems with development and learning. Less common forms are caused by a lack of other enzymes. These disorders can cause intellectual disability, seizures, problems with movement, and a blood disorder called megaloblastic anemia. Mutations in the CBS, MTHFR, MTR, and MTRR genes cause homocystinuria, and it is inherited in an autosomal recessive manner. Treatment varies depending upon the cause of the disorder.",
+        "qtype": "information",
+        "focus": "Homocystinuria",
+        "synonyms": [
+            "Homocystinuria due to CBS deficiency",
+            "Homocystinuria due to defect in methylation cbl e",
+            "Homocystinuria due to defect in methylation cbl g"
+        ],
+        "semantic_group": "Disorders"
+    }
+]

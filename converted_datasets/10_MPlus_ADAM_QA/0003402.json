@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0003402",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001506.htm",
+        "Focus": "Retroversion of the uterus",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Uterus retroversion",
+                    "Malposition of the uterus",
+                    "Tipped uterus",
+                    "Tilted uterus"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003402-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Retroversion of the uterus"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

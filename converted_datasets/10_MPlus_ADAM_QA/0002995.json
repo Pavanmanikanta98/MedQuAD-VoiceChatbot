@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0002995",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002816.htm",
+        "Focus": "Pencil erasers",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002995-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Pencil erasers"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

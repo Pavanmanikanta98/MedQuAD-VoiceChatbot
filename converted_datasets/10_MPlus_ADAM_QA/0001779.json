@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0001779",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003376.htm",
+        "Focus": "Growth hormone suppression test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "GH suppression test",
+                    "Glucose loading test",
+                    "Acromegaly - blood test",
+                    "Gigantism - blood test"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001779-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Growth hormone suppression test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

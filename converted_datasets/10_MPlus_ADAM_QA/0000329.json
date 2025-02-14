@@ -1,0 +1,38 @@
+{
+    "Document": {
+        "@id": "0000329",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002216.htm",
+        "Focus": "Aspiration",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C2712334",
+                        "C0700198",
+                        "C2827071"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T046",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000329-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Aspiration ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

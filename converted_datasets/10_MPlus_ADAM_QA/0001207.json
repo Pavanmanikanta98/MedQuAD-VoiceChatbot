@@ -1,0 +1,91 @@
+{
+    "Document": {
+        "@id": "0001207",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003126.htm",
+        "Focus": "Diarrhea - overview",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0011991",
+                        "C1963091"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T033",
+                        "T184"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Stools - watery",
+                    "Frequent bowel movements",
+                    "Loose bowel movements"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001207-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Diarrhea - overview ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001207-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Diarrhea - overview ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001207-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Diarrhea - overview ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001207-4",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Diarrhea - overview ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001207-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Diarrhea - overview ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001207-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Diarrhea - overview ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

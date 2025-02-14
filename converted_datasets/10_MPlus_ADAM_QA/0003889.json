@@ -1,0 +1,60 @@
+{
+    "Document": {
+        "@id": "0003889",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002994.htm",
+        "Focus": "Testicular torsion repair",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0037856"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003889-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Testicular torsion repair ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003889-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Testicular torsion repair ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003889-4",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Testicular torsion repair? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003889-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Testicular torsion repair ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

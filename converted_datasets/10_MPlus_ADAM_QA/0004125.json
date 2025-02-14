@@ -1,0 +1,49 @@
+{
+    "Document": {
+        "@id": "0004125",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000391.htm",
+        "Focus": "Urinary tract infection in women - self-care",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0042029"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "UTI - self-care",
+                    "Cystitis - self-care",
+                    "Bladder infection - self-care"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004125-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Urinary tract infection in women - self-care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0004125-3",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Urinary tract infection in women - self-care ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

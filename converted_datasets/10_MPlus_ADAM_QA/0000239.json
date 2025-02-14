@@ -1,0 +1,63 @@
+{
+    "Document": {
+        "@id": "0000239",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003167.htm",
+        "Focus": "Ankle pain",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0238656"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Pain - ankle"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000239-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Ankle pain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000239-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Ankle pain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000239-3",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Ankle pain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000239-4",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Ankle pain ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

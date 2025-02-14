@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0002074",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000044.htm",
+        "Focus": "Hypercalcemia - discharge",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0020437"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002074-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hypercalcemia - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002074-3",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Hypercalcemia - discharge ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

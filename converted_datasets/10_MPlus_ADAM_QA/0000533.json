@@ -1,0 +1,59 @@
+{
+    "Document": {
+        "@id": "0000533",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000163.htm",
+        "Focus": "Brain injury - discharge",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0270611"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Head injury - discharge",
+                    "Head trauma - discharge",
+                    "Contusion - discharge",
+                    "Shaken baby syndrome - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000533-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Brain injury - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000533-2",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Brain injury - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000533-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Brain injury - discharge ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

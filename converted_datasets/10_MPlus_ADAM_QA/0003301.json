@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0003301",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003828.htm",
+        "Focus": "Pulmonary ventilation/perfusion scan",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "V/Q scan",
+                    "Ventilation/perfusion scan",
+                    "Lung ventilation/perfusion scan"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003301-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Pulmonary ventilation/perfusion scan"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

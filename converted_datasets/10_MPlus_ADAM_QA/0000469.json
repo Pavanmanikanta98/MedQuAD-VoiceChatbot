@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0000469",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000068.htm",
+        "Focus": "Bland diet",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0301572"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000469-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Bland diet ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0003951",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002010.htm",
+        "Focus": "Toddler development",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003951-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Toddler development"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

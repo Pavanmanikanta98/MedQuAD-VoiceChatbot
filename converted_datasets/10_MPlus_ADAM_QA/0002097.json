@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0002097",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003455.htm",
+        "Focus": "Hypochromia",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0333912"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T049"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002097-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Hypochromia ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

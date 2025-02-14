@@ -1,0 +1,105 @@
+{
+    "Document": {
+        "@id": "0002018",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001460.htm",
+        "Focus": "Hot tub folliculitis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0016436"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002018-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hot tub folliculitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002018-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Hot tub folliculitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002018-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Hot tub folliculitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002018-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Hot tub folliculitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002018-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Hot tub folliculitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002018-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Hot tub folliculitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002018-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Hot tub folliculitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002018-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Hot tub folliculitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002018-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Hot tub folliculitis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

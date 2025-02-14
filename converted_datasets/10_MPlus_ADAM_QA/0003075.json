@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0003075",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002732.htm",
+        "Focus": "Photographic fixative poisoning",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Photographic developer poisoning",
+                    "Hydroquinone poisoning",
+                    "Quinone poisoning",
+                    "Sulfite poisoning"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003075-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Photographic fixative poisoning"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

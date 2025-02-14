@@ -1,0 +1,81 @@
+{
+    "Document": {
+        "@id": "0003475",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000920.htm",
+        "Focus": "Schizoid personality disorder",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0036339"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T048"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Personality disorder - schizoid"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003475-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Schizoid personality disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003475-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Schizoid personality disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003475-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Schizoid personality disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003475-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Schizoid personality disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003475-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Schizoid personality disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003475-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Schizoid personality disorder ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

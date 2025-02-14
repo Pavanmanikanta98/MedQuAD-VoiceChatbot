@@ -1,0 +1,81 @@
+{
+    "Document": {
+        "@id": "0002504",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003089.htm",
+        "Focus": "Malaise",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0231218"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "General ill feeling"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002504-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Malaise ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002504-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Malaise ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002504-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Malaise ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002504-4",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Malaise ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002504-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Malaise ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002504-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Malaise ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001006",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000321.htm",
+        "Focus": "Counting carbohydrates",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Carb counting",
+                    "Carbohydrate-controlled diet",
+                    "Diabetic diet"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001006-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Counting carbohydrates"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

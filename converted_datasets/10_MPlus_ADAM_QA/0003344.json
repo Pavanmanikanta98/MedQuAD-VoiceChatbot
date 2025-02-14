@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0003344",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003582.htm",
+        "Focus": "RBC urine test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Red blood cells in urine",
+                    "Hematuria test",
+                    "Urine - red blood cells"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003344-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about RBC urine test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

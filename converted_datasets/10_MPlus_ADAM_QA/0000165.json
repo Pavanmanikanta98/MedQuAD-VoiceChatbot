@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000165",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002709.htm",
+        "Focus": "Aloe",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Skin and sunburn treatments"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000165-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Aloe"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

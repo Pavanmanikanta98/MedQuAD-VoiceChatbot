@@ -1,0 +1,75 @@
+{
+    "Document": {
+        "@id": "0003305",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003232.htm",
+        "Focus": "Purpura",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0034150"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Blood spots",
+                    "Skin hemorrhages"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003305-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Purpura ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003305-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Purpura ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003305-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Purpura ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003305-4",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Purpura ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003305-5",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Purpura ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

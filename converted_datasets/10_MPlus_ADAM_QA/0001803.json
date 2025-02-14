@@ -1,0 +1,51 @@
+{
+    "Document": {
+        "@id": "0001803",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000575.htm",
+        "Focus": "Hammer toe repair - discharge",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C2239184",
+                        "C1136179"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T190",
+                        "T020"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Osteotomy - hammer toe"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001803-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hammer toe repair - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001803-3",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Hammer toe repair - discharge ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

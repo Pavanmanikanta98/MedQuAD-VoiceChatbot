@@ -1,0 +1,45 @@
+{
+    "Document": {
+        "@id": "0003613",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007673.htm",
+        "Focus": "Skin lesion removal",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Shave excision - skin",
+                    "Excision of skin lesions - benign",
+                    "Skin lesion removal - benign",
+                    "Cryosurgery- skin, benign",
+                    "BCC - removal",
+                    "Basal cell cancer - removal",
+                    "Actinic keratosis - removal",
+                    "Wart - removal",
+                    "Squamous cell - removal",
+                    "Mole - removal",
+                    "Nevus - removal",
+                    "Nevi - removal",
+                    "Scissor excision",
+                    "Skin tag removal",
+                    "Mole removal",
+                    "Skin cancer removal",
+                    "Birthmark removal",
+                    "Molluscum contagiosum - removal",
+                    "Electrodesiccation - skin lesion removal"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003613-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Skin lesion removal"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

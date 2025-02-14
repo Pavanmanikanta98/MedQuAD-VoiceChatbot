@@ -1,0 +1,54 @@
+{
+    "Document": {
+        "@id": "0003742",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003745.htm",
+        "Focus": "Streptococcal screen",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0038402"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T007"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Rapid strep test"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003742-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Streptococcal screen ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003742-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Streptococcal screen? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0003742-9",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Streptococcal screen ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

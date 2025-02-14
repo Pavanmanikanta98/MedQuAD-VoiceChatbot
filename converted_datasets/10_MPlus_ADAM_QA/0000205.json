@@ -1,0 +1,87 @@
+{
+    "Document": {
+        "@id": "0000205",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001130.htm",
+        "Focus": "Anal fissure",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0016167",
+                        "C2227930"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T033",
+                        "T020"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Fissure in ano"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000205-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Anal fissure ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000205-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Anal fissure ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000205-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Anal fissure ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000205-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Anal fissure ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000205-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Anal fissure ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000205-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Anal fissure ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

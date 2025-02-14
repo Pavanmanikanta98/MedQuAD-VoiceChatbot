@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0000231",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000235.htm",
+        "Focus": "Angioplasty and stent placement - carotid artery - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Carotid angioplasty and stenting - discharge",
+                    "CAS - discharge",
+                    "Endarterectomy - carotid artery - discharge",
+                    "Angioplasty - carotid artery - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000231-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Angioplasty and stent placement - carotid artery - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

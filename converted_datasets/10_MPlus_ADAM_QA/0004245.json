@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0004245",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002404.htm",
+        "Focus": "Vitamin C",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Ascorbic acid",
+                    "Dehydroascorbic acid"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004245-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Vitamin C"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

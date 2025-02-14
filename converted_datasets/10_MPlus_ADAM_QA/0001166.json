@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001166",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002007.htm",
+        "Focus": "Developmental milestones record - 4 months",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Normal childhood growth milestones - 4 months",
+                    "Childhood growth milestones - 4 months",
+                    "Growth milestones for children - 4 months"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001166-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Developmental milestones record - 4 months"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

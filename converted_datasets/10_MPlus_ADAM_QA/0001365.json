@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001365",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003929.htm",
+        "Focus": "Electromyography",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "EMG",
+                    "Myogram",
+                    "Electromyogram"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001365-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Electromyography"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

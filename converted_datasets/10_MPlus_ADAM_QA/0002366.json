@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0002366",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007357.htm",
+        "Focus": "Leg MRI scan",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "MRI - lower extremity",
+                    "Magnetic resonance imaging - leg",
+                    "Magnetic resonance imaging - lower extremity",
+                    "MRI - ankle",
+                    "Magnetic resonance imaging - ankle",
+                    "MRI - femur",
+                    "MRI - leg"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002366-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Leg MRI scan"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

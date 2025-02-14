@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0002355",
+        "@source": "GARD",
+        "@url": "https://rarediseases.info.nih.gov/gard/517/fetal-retinoid-syndrome",
+        "Focus": "Fetal retinoid syndrome",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0432364"
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T019",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Isotretinoin embryopathy",
+                    "Accutane-exposed pregnancies",
+                    "Isotretinoin (RoAccutane) embryopathy",
+                    "Accutane fetal effects of",
+                    "Acutane embryopathy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002355-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Fetal retinoid syndrome ?"
+                },
+                "Answer": "Fetal retinoid syndrome is a characteristic pattern of physical and mental birth defects that results from maternal use of retinoids during pregnancy. The most well known retinoid is isotretinoin (Accutane), a drug used to treat severe cystic acne. Birth defects associated with fetal retinoid syndrome include: hydrocephalus, microcephaly, intellectual disabilities, ear and eye abnormalities, cleft palate and other facial differences, and heart defects. Isotretinoin can cause these birth defects in the early weeks of pregnancy, even before a woman knows that she is pregnant."
+            }
+        }
+    }
+}

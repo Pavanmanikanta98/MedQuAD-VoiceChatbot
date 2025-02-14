@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0002476",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003933.htm",
+        "Focus": "Lymph node biopsy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Biopsy - lymph nodes",
+                    "Open lymph node biopsy",
+                    "Fine needle aspiration biopsy",
+                    "Sentinel lymph node biopsy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002476-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Lymph node biopsy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

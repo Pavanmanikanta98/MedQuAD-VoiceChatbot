@@ -1,0 +1,78 @@
+{
+    "Document": {
+        "@id": "0003755",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003049.htm",
+        "Focus": "Stuffy or runny nose - adult",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1260880"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Nose - congested",
+                    "Congested nose",
+                    "Runny nose",
+                    "Postnasal drip",
+                    "Rhinorrhea: nasal congestion"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003755-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Stuffy or runny nose - adult ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003755-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Stuffy or runny nose - adult ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003755-3",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Stuffy or runny nose - adult ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003755-4",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Stuffy or runny nose - adult ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003755-5",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Stuffy or runny nose - adult ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001493",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007234.htm",
+        "Focus": "Extracorporeal membrane oxygenation",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "ECMO",
+                    "Heart-lung bypass - infants",
+                    "Bypass - infants"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001493-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Extracorporeal membrane oxygenation"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

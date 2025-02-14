@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002996",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002817.htm",
+        "Focus": "Pencil swallowing",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Graphite poisoning",
+                    "Swallowing pencils"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002996-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Pencil swallowing"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

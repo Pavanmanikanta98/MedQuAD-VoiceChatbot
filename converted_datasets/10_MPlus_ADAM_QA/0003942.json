@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0003942",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000756.htm",
+        "Focus": "Time outs",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003942-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Time outs"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

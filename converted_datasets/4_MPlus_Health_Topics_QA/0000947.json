@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0000947",
+        "@source": "MPlusHealthTopics",
+        "@url": "https://www.nlm.nih.gov/medlineplus/veteransandmilitaryfamilyhealth.html",
+        "Focus": "Veterans and Military Family Health",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0600220"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000947-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Veterans and Military Family Health ?"
+                },
+                "Answer": "Service members and veterans face some different health issues from civilians. Their families also face some unique challenges. Families may have to cope with       - Separation from their loved ones    - Anxiety over loved ones' safety in combat zones    - Illnesses and injuries from combat, including disabilities    - Mental health effects of military service, including post-traumatic stress disorder    - Family issues such as disruptions in parenting    - Caregiver stress"
+            }
+        }
+    }
+}

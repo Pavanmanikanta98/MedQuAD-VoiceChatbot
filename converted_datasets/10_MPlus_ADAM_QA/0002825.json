@@ -1,0 +1,51 @@
+{
+    "Document": {
+        "@id": "0002825",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007561.htm",
+        "Focus": "Nuchal translucency test",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0456984"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Nuchal translucency screening",
+                    "NT",
+                    "Nuchal fold test",
+                    "Nuchal fold scan",
+                    "Prenatal genetic screening"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002825-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Nuchal translucency test ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002825-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Nuchal translucency test? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

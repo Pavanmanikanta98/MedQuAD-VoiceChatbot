@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0002491",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002252.htm",
+        "Focus": "Macula lutea",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Macula, fovea, (macula lutea is Latin for yellow spot)"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002491-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Macula lutea"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

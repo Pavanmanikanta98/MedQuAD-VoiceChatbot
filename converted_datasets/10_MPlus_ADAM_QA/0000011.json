@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0000011",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003789.htm",
+        "Focus": "Abdominal CT scan",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Computed tomography scan - abdomen",
+                    "CT scan - abdomen",
+                    "CAT scan - abdomen",
+                    "CT abdomen and pelvis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000011-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Abdominal CT scan"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

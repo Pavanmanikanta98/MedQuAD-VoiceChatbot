@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001580",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002470.htm",
+        "Focus": "Fiber",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Diet - fiber",
+                    "Roughage",
+                    "Bulk"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001580-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Fiber"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

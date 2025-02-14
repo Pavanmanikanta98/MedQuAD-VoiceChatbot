@@ -1,0 +1,60 @@
+{
+    "Document": {
+        "@id": "0000238",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000548.htm",
+        "Focus": "Ankle fracture - aftercare",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0159877"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000238-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Ankle fracture - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000238-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Ankle fracture - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000238-3",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Ankle fracture - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000238-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Ankle fracture - aftercare ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

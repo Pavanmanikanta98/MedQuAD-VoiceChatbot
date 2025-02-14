@@ -1,0 +1,112 @@
+{
+    "Document": {
+        "@id": "0001490",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000389.htm",
+        "Focus": "Exogenous Cushing syndrome",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0010481"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Cushing syndrome - corticosteroid induced",
+                    "Corticosteroid-induced Cushing syndrome",
+                    "Iatrogenic Cushing syndrome"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001490-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Exogenous Cushing syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001490-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Exogenous Cushing syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001490-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Exogenous Cushing syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001490-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Exogenous Cushing syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001490-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Exogenous Cushing syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001490-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Exogenous Cushing syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001490-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Exogenous Cushing syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001490-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Exogenous Cushing syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0001490-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Exogenous Cushing syndrome ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

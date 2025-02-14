@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0000698",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000238.htm",
+        "Focus": "Carotid artery surgery - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Carotid endarterectomy - discharge",
+                    "CEA - discharge",
+                    "Percutaneous transluminal angioplasty - carotid artery - discharge",
+                    "PTA - carotid artery - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000698-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Carotid artery surgery - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

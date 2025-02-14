@@ -1,0 +1,51 @@
+{
+    "Document": {
+        "@id": "0001129",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007428.htm",
+        "Focus": "Dementia - home care",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0497327",
+                        "C0011265"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T048"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Caring for someone with dementia",
+                    "Home care - dementia"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001129-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Dementia - home care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001129-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Dementia - home care ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

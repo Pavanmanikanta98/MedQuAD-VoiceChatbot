@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002480",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003798.htm",
+        "Focus": "Lymphangiogram",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Lymphography",
+                    "Lymphangiography"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002480-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Lymphangiogram"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0003244",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003979.htm",
+        "Focus": "Prostate cancer - resources",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0376358",
+                        "C0600139"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Resources - prostate cancer"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003244-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Prostate cancer - resources ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

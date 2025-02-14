@@ -1,0 +1,69 @@
+{
+    "Document": {
+        "@id": "0000535",
+        "@source": "MPlusDrugs",
+        "@url": "https://www.nlm.nih.gov/medlineplus/druginfo/meds/a601144.html",
+        "Focus": "Foscarnet Sodium Injection",
+        "FocusAnnotations": {
+            "Category": "Drug"
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000535-1",
+                        "@qtype": "other information",
+                        "#text": "What other information should I know about Foscarnet Sodium Injection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000535-2",
+                        "@qtype": "precautions",
+                        "#text": "Are there safety concerns or special precautions about Foscarnet Sodium Injection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000535-4",
+                        "@qtype": "side effects",
+                        "#text": "What are the side effects or risks of Foscarnet Sodium Injection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000535-5",
+                        "@qtype": "storage and disposal",
+                        "#text": "What should I know about storage and disposal of Foscarnet Sodium Injection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000535-6",
+                        "@qtype": "emergency or overdose",
+                        "#text": "What to do in case of emergency or overdose of Foscarnet Sodium Injection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000535-8",
+                        "@qtype": "brand names",
+                        "#text": "What are the brand names of Foscarnet Sodium Injection ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

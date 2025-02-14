@@ -1,0 +1,119 @@
+{
+    "Document": {
+        "@id": "0000084",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000103.htm",
+        "Focus": "Acute respiratory distress syndrome",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0035222",
+                        "C0700361"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T048",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Noncardiogenic pulmonary edema",
+                    "Increased-permeability pulmonary edema",
+                    "ARDS",
+                    "Acute lung injury"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000084-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Acute respiratory distress syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000084-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Acute respiratory distress syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000084-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Acute respiratory distress syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000084-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Acute respiratory distress syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000084-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Acute respiratory distress syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000084-6",
+                        "@qtype": "support groups",
+                        "#text": "Where to find support for people with Acute respiratory distress syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000084-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Acute respiratory distress syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000084-8",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Acute respiratory distress syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000084-9",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Acute respiratory distress syndrome ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

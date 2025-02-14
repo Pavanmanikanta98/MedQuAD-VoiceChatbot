@@ -1,0 +1,112 @@
+{
+    "Document": {
+        "@id": "0000035",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007314.htm",
+        "Focus": "Absent pulmonary valve",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0265831"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T019"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Absent pulmonary valve syndrome",
+                    "Congenital absence of the pulmonary valve",
+                    "Pulmonary valve agenesis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000035-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Absent pulmonary valve ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000035-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Absent pulmonary valve ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000035-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Absent pulmonary valve ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000035-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Absent pulmonary valve ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000035-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Absent pulmonary valve ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000035-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Absent pulmonary valve ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000035-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Absent pulmonary valve ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000035-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Absent pulmonary valve ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000035-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Absent pulmonary valve ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

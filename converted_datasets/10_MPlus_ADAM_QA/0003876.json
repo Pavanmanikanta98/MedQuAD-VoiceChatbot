@@ -1,0 +1,67 @@
+{
+    "Document": {
+        "@id": "0003876",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007590.htm",
+        "Focus": "Tennis elbow surgery",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0039516"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Lateral epicondylitis - surgery",
+                    "Lateral tendinosis - surgery",
+                    "Lateral tennis elbow - surgery"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003876-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Tennis elbow surgery ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003876-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Tennis elbow surgery ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003876-4",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Tennis elbow surgery? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003876-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Tennis elbow surgery ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

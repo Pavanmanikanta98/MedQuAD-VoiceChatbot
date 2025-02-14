@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0000233",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000234.htm",
+        "Focus": "Angioplasty and stent placement - peripheral arteries - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Percutaneous transluminal angioplasty - peripheral artery - discharge",
+                    "PTA - peripheral artery - discharge",
+                    "Angioplasty - peripheral artery - discharge",
+                    "Balloon angioplasty - peripheral artiery - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000233-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Angioplasty and stent placement - peripheral arteries - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

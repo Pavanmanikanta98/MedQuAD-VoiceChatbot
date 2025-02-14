@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0002575",
+        "@source": "GARD",
+        "@url": "https://rarediseases.info.nih.gov/gard/6514/gliomatosis-cerebri",
+        "Focus": "Gliomatosis cerebri",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0334576"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002575-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Gliomatosis cerebri ?"
+                },
+                "Answer": "Gliomatosis cerebri is a type of brain cancer.  It is a variant form of glioblastoma multiforme. It is characterized by scattered and widespread tumor cells that can cause the cerebrum, cerebellum, or brain stem to enlarge. Signs and symptoms may include personality changes, memory disturbance, headache, hemiparesis, and seizures.  Because this tumor is so diffuse it can be challenging to treat and the prognosis for people with gliomatosis cerebri is generally poor."
+            }
+        }
+    }
+}

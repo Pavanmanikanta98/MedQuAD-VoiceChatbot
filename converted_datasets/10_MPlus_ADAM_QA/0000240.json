@@ -1,0 +1,68 @@
+{
+    "Document": {
+        "@id": "0000240",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007254.htm",
+        "Focus": "Ankle replacement",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C2186375"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Ankle arthroplasty - total",
+                    "Total ankle arthroplasty",
+                    "Endoprosthetic ankle replacement",
+                    "Ankle surgery"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000240-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Ankle replacement ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000240-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Ankle replacement ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000240-4",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Ankle replacement? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000240-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Ankle replacement ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

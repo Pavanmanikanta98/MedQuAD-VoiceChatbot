@@ -1,0 +1,40 @@
+{
+    "Document": {
+        "@id": "0001218",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002442.htm",
+        "Focus": "Diet - chronic kidney disease",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C1561643",
+                        "C0403447"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Renal disease - diet",
+                    "Kidney disease - diet"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001218-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Diet - chronic kidney disease ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

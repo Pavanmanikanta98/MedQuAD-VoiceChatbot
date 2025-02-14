@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0002575",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000709.htm",
+        "Focus": "Mnires disease",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0012634"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Hydrops",
+                    "Endolymphatic hydrops"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002575-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Mnires disease ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

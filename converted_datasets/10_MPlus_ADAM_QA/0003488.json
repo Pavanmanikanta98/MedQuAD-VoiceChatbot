@@ -1,0 +1,40 @@
+{
+    "Document": {
+        "@id": "0003488",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002201.htm",
+        "Focus": "Scoliosis - resources",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0036439",
+                        "C0700208"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T190",
+                        "T020"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Resources - scoliosis"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003488-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Scoliosis - resources ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0002846",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002043.htm",
+        "Focus": "Oily skin",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0234925"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Skin - oily"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002846-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Oily skin ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

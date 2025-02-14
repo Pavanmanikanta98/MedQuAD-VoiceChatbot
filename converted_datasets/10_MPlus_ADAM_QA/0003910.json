@@ -1,0 +1,87 @@
+{
+    "Document": {
+        "@id": "0003910",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001434.htm",
+        "Focus": "Thoracic outlet syndrome",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0039984"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003910-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Thoracic outlet syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003910-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Thoracic outlet syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003910-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Thoracic outlet syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003910-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Thoracic outlet syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003910-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Thoracic outlet syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003910-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Thoracic outlet syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003910-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Thoracic outlet syndrome ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

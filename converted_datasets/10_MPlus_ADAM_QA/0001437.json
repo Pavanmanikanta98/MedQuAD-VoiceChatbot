@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001437",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007617.htm",
+        "Focus": "Erection problems",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Erectile dysfunction",
+                    "Impotence",
+                    "Sexual dysfunction - male"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001437-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Erection problems"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

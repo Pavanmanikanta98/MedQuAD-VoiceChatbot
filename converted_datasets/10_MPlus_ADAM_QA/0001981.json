@@ -1,0 +1,58 @@
+{
+    "Document": {
+        "@id": "0001981",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002975.htm",
+        "Focus": "Hip joint replacement",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0850128"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Hip arthroplasty",
+                    "Total hip replacement",
+                    "Hip hemiarthroplasty"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001981-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hip joint replacement ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001981-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hip joint replacement ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001981-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Hip joint replacement ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

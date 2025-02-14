@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0004118",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000188.htm",
+        "Focus": "Urinary incontinence - what to ask your doctor",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0042024"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T046"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "What to ask your doctor about urinary incontinence"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004118-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Urinary incontinence - what to ask your doctor ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

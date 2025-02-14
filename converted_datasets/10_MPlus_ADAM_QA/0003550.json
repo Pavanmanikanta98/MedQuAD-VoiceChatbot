@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0003550",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000877.htm",
+        "Focus": "Shared decision making",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Patient-centered care"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003550-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Shared decision making"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

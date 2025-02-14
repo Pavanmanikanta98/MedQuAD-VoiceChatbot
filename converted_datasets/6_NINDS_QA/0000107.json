@@ -1,0 +1,59 @@
+{
+    "Document": {
+        "@id": "0000107",
+        "@source": "NINDS",
+        "@url": "http://www.ninds.nih.gov/disorders/schilders/schilders.htm",
+        "Focus": "Schilder's Disease",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0007795"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000107-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Schilder's Disease ?"
+                    },
+                    "Answer": "Schilder's disease is a rare progressive demyelinating disorder which usually begins in childhood. Schilder's disease is not the same as Addison-Schilder disease (adrenoleukodystrophy). Symptoms may include dementia, aphasia, seizures, personality changes, poor attention, tremors, balance instability, incontinence, muscle weakness, headache, vomiting, and vision and speech impairment. The disorder is a variant of multiple sclerosis."
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000107-2",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Schilder's Disease ?"
+                    },
+                    "Answer": "Treatment for the disorder follows the established standards in multiple sclerosis and includes corticosteroids, beta-interferon or immunosuppressive therapy, and symptomatic treatment."
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000107-3",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Schilder's Disease ?"
+                    },
+                    "Answer": "As with multiple sclerosis, the course and prognosis of Schilder's disease are unpredictable. For some individuals the disorder is progressive with a steady, unremitting course. Others may experience significant improvement and even remission. In some cases, Schilder's disease is fatal."
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000107-4",
+                        "@qtype": "research",
+                        "#text": "what research (or clinical trials) is being done for Schilder's Disease ?"
+                    },
+                    "Answer": "The NINDS supports and conducts an extensive research program on demyelinating disorders such as Schilder's disease. Much of this research focuses on learning more about these disorders and finding ways to prevent, treat, and cure them."
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0004020",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001925.htm",
+        "Focus": "Traveler's guide to avoiding infectious diseases",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0009450"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Travelers' health",
+                    "Infectious diseases and travelers"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004020-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Traveler's guide to avoiding infectious diseases ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

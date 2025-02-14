@@ -1,0 +1,102 @@
+{
+    "Document": {
+        "@id": "0002767",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001193.htm",
+        "Focus": "Neonatal hypothyroidism",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1400313"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Cretinism",
+                    "Congenital hypothyroidism"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002767-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Neonatal hypothyroidism ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002767-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Neonatal hypothyroidism ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002767-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Neonatal hypothyroidism ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002767-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Neonatal hypothyroidism ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002767-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Neonatal hypothyroidism ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002767-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Neonatal hypothyroidism ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002767-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Neonatal hypothyroidism ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002767-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Neonatal hypothyroidism ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

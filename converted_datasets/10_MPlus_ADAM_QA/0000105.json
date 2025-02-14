@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0000105",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000441.htm",
+        "Focus": "After a fall in the hospital",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0085639"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000105-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) After a fall in the hospital ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

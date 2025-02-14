@@ -1,0 +1,105 @@
+{
+    "Document": {
+        "@id": "0003445",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001539.htm",
+        "Focus": "Rumination disorder",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0154575"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T048"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003445-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Rumination disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003445-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Rumination disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003445-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Rumination disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003445-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Rumination disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003445-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Rumination disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003445-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Rumination disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003445-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Rumination disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003445-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Rumination disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0003445-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Rumination disorder ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

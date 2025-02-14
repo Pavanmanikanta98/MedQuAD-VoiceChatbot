@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0003193",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003778.htm",
+        "Focus": "Pregnancy ultrasound",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Pregnancy sonogram",
+                    "Obstetric ultrasonography",
+                    "Obstetric sonogram",
+                    "Ultrasound - pregnancy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003193-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Pregnancy ultrasound"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

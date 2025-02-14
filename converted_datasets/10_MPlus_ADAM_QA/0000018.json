@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000018",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000054.htm",
+        "Focus": "Abdominal radiation - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Radiation - abdomen - discharge"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000018-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Abdominal radiation - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

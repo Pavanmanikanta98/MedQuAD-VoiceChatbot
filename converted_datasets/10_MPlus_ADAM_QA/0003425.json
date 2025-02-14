@@ -1,0 +1,51 @@
+{
+    "Document": {
+        "@id": "0003425",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000375.htm",
+        "Focus": "Risks of hip and knee replacement",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C2186386"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003425-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Risks of hip and knee replacement ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003425-2",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Risks of hip and knee replacement? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003425-6",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Risks of hip and knee replacement? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

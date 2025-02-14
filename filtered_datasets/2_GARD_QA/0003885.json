@@ -1,0 +1,35 @@
+[
+    {
+        "question": "What is (are) Megalocytic interstitial nephritis ?",
+        "answer": "Megalocytic interstitial nephritis is a rare chronic kidney disease that is characterized by inflammation of the kidney. It is similar to malakoplakia of the kidney. In this condition the inflammation is caused by various infiltrate, particularly histiocytes. A histiocyte is a type of immune cell that eats foreign substances in an effort to protect the body from infection.",
+        "qtype": "information",
+        "focus": "Megalocytic interstitial nephritis",
+        "synonyms": [
+            "Interstitial megalocytic nephritis",
+            "Transplant megalocytic interstitial nephritis (type)"
+        ],
+        "semantic_group": "Disorders"
+    },
+    {
+        "question": "What are the symptoms of Megalocytic interstitial nephritis ?",
+        "answer": "What are the symptoms of interstitial nephritis? Symptoms of interstitial nephritis may include blood in the urine, fever, increased or decreased urine output, mental status changes (drowsiness, confusion, coma), nausea, vomiting, rash, swelling of the body, and weight gain (from retaining fluid).",
+        "qtype": "symptoms",
+        "focus": "Megalocytic interstitial nephritis",
+        "synonyms": [
+            "Interstitial megalocytic nephritis",
+            "Transplant megalocytic interstitial nephritis (type)"
+        ],
+        "semantic_group": "Disorders"
+    },
+    {
+        "question": "What causes Megalocytic interstitial nephritis ?",
+        "answer": "What causes malakoplakia? The cause of malakoplakia is unknown, but is thought to be associated with immunodeficiency or autoimmune disorders, such as hypogammaglobinlinemia, therapies that suppress the immune system, cancer, a chronic debilitating disorder, rheumatoid arthritis, and AIDS.",
+        "qtype": "causes",
+        "focus": "Megalocytic interstitial nephritis",
+        "synonyms": [
+            "Interstitial megalocytic nephritis",
+            "Transplant megalocytic interstitial nephritis (type)"
+        ],
+        "semantic_group": "Disorders"
+    }
+]

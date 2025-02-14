@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0002458",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000066.htm",
+        "Focus": "Lung disease",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0024115"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002458-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Lung disease ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

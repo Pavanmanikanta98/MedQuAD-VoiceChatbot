@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0000275",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003535.htm",
+        "Focus": "Antinuclear antibody panel",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "ANA",
+                    "ANA panel",
+                    "ANA reflexive panel"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000275-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Antinuclear antibody panel"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

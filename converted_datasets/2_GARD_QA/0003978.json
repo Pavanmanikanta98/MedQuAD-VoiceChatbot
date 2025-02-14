@@ -1,0 +1,38 @@
+{
+    "Document": {
+        "@id": "0003978",
+        "@source": "GARD",
+        "@url": "https://rarediseases.info.nih.gov/gard/10804/metaplastic-carcinoma-of-the-breast",
+        "Focus": "Metaplastic carcinoma of the breast",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1334708"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Metaplastic breast cancer",
+                    "Carcinoma with metaplasia",
+                    "Adenosquamous carcinoma",
+                    "Rare malignant breast tumor"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003978-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Metaplastic carcinoma of the breast ?"
+                },
+                "Answer": "Metaplastic carcinoma of the breast is a rare form of breast cancer. The tumor cells differ in type from that of the typical ductal or lobular breast cancers. The cells look like skin cells or cells that make bone. Some women experience no early signs or symptoms, while others experience general symptoms of breast cancers, such as new breast lumps. Treatment of metaplastic carcinoma of the breast is similar to that of invasive ductal cancer."
+            }
+        }
+    }
+}

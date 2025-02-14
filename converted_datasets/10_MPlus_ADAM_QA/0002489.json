@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0002489",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002250.htm",
+        "Focus": "Macroglossia",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0024421",
+                        "C0009677"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T190",
+                        "T019"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002489-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Macroglossia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002489-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Macroglossia ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

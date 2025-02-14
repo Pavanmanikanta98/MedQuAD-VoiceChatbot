@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0004154",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000882.htm",
+        "Focus": "Using over-the-counter medicines safely",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004154-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Using over-the-counter medicines safely"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

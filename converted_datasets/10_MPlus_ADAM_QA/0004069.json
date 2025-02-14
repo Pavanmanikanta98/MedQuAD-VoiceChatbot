@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0004069",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000695.htm",
+        "Focus": "Types of hormone therapy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "HRT",
+                    "Estrogen replacement therapy",
+                    "ERT",
+                    "Hormone replacement therapy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004069-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Types of hormone therapy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

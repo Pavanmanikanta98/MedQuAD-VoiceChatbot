@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0003285",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000429.htm",
+        "Focus": "Pulling a patient up in bed",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Moving a patient in bed"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003285-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Pulling a patient up in bed"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "Document": {
+        "@id": "0003843",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000413.htm",
+        "Focus": "Taking narcotics for back pain",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0004604"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Nonspecific back pain - narcotics",
+                    "Backache - chronic - narcotics",
+                    "Lumbar pain - chronic - narcotics",
+                    "Pain - back - chronic - narcotics",
+                    "Chronic back pain - low - narcotics"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003843-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Taking narcotics for back pain ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

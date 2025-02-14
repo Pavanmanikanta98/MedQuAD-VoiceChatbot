@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0000346",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000682.htm",
+        "Focus": "Asymptomatic HIV infection",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0343751"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000346-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Asymptomatic HIV infection ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

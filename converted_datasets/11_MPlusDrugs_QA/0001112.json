@@ -1,0 +1,96 @@
+{
+    "Document": {
+        "@id": "0001112",
+        "@source": "MPlusDrugs",
+        "@url": "https://www.nlm.nih.gov/medlineplus/druginfo/meds/a614028.html",
+        "Focus": "Siltuximab Injection",
+        "FocusAnnotations": {
+            "Category": "Drug"
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001112-1",
+                        "@qtype": "indication",
+                        "#text": "Who should get Siltuximab Injection and why is it prescribed ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001112-2",
+                        "@qtype": "usage",
+                        "#text": "How should Siltuximab Injection be used and what is the dosage ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001112-4",
+                        "@qtype": "precautions",
+                        "#text": "Are there safety concerns or special precautions about Siltuximab Injection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001112-5",
+                        "@qtype": "dietary",
+                        "#text": "What special dietary instructions should I follow with Siltuximab Injection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001112-6",
+                        "@qtype": "forget a dose",
+                        "#text": "What should I do if I forget a dose of Siltuximab Injection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001112-7",
+                        "@qtype": "side effects",
+                        "#text": "What are the side effects or risks of Siltuximab Injection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001112-8",
+                        "@qtype": "emergency or overdose",
+                        "#text": "What to do in case of emergency or overdose of Siltuximab Injection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0001112-9",
+                        "@qtype": "other information",
+                        "#text": "What other information should I know about Siltuximab Injection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "10",
+                    "Question": {
+                        "@qid": "0001112-10",
+                        "@qtype": "brand names",
+                        "#text": "What are the brand names of Siltuximab Injection ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

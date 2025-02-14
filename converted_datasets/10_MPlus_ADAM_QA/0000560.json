@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0000560",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007469.htm",
+        "Focus": "Breast PET scan",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Breast positron emission tomography",
+                    "PET - breast",
+                    "PET - tumor imaging - breast"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000560-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Breast PET scan"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

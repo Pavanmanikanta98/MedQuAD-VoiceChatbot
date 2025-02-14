@@ -1,0 +1,51 @@
+{
+    "Document": {
+        "@id": "0002021",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000859.htm",
+        "Focus": "How to avoid exercise injuries",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C3263723"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002021-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) How to avoid exercise injuries ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002021-2",
+                        "@qtype": "causes",
+                        "#text": "What causes How to avoid exercise injuries ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "10",
+                    "Question": {
+                        "@qid": "0002021-10",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for How to avoid exercise injuries ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

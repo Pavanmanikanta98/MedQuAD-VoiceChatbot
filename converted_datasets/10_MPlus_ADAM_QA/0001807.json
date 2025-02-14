@@ -1,0 +1,86 @@
+{
+    "Document": {
+        "@id": "0001807",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003194.htm",
+        "Focus": "Hand or foot spasms",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0037763"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Foot spasms",
+                    "Carpopedal spasm",
+                    "Spasms of the hands or feet",
+                    "Hand spasm"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001807-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hand or foot spasms ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001807-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Hand or foot spasms ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001807-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Hand or foot spasms ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001807-4",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Hand or foot spasms ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001807-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Hand or foot spasms ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001807-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Hand or foot spasms ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

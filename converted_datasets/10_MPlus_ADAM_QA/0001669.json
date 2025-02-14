@@ -1,0 +1,119 @@
+{
+    "Document": {
+        "@id": "0001669",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000273.htm",
+        "Focus": "Gallstones",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0008350",
+                        "C0947622"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Cholelithiasis",
+                    "Gallbladder attack",
+                    "Biliary colic",
+                    "Gallstone attack",
+                    "Biliary calculus: chenodeoxycholic acids (CDCA)",
+                    "Ursodeoxycholic acid (UDCA, ursodiol)",
+                    "Endoscopic retrograde cholangiopancreatography (ERCP)-gallstones"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001669-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Gallstones ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001669-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Gallstones ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001669-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Gallstones ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001669-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Gallstones ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001669-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Gallstones ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001669-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Gallstones ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001669-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Gallstones ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001669-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Gallstones ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0001669-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Gallstones ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

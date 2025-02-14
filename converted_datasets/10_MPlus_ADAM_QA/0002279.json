@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0002279",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003585.htm",
+        "Focus": "Ketones urine test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Ketone bodies - urine",
+                    "Urine ketones",
+                    "Ketoacidosis - urine ketones test",
+                    "Diabetic ketoacidosis - urine ketones test"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002279-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Ketones urine test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

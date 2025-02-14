@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0001635",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002094.htm",
+        "Focus": "Foot pain causes",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0016512",
+                        "C2016948"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Causes of foot pain"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001635-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Foot pain causes ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

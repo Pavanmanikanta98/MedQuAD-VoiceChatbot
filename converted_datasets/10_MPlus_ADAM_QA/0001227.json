@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001227",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000810.htm",
+        "Focus": "Diet-boosting Foods",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Obesity - diet-boosting foods",
+                    "Overweight - diet-boosting foods"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001227-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Diet-boosting Foods"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0000380",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001967.htm",
+        "Focus": "Babies and shots",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Babies and vaccines",
+                    "Babies and immunizations",
+                    "Babies and vaccinations"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000380-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Babies and shots"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

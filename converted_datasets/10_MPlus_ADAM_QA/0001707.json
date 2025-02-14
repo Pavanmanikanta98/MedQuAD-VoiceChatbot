@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001707",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000842.htm",
+        "Focus": "Genetic testing and your cancer risk",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Genetic mutations",
+                    "Inherited mutations",
+                    "Genetic testing-cancer"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001707-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Genetic testing and your cancer risk"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

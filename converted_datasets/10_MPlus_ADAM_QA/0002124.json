@@ -1,0 +1,69 @@
+{
+    "Document": {
+        "@id": "0002124",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002655.htm",
+        "Focus": "Ibuprofen overdose",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0572145"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Advil overdose",
+                    "Nuprin overdose",
+                    "PediaProfen overdose",
+                    "Rufen overdose",
+                    "Motrin overdose"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002124-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Ibuprofen overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002124-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Ibuprofen overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002124-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Ibuprofen overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002124-8",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Ibuprofen overdose ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

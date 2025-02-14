@@ -1,0 +1,49 @@
+{
+    "Document": {
+        "@id": "0002517",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002113.htm",
+        "Focus": "Mammogram - calcifications",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0260913"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Microcalcifications or macrocalcifications",
+                    "Breast cancer - calcifications",
+                    "Mammography - calcifications"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002517-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Mammogram - calcifications ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002517-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Mammogram - calcifications ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

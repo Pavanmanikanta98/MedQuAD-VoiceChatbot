@@ -1,0 +1,38 @@
+{
+    "Document": {
+        "@id": "0004197",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000256.htm",
+        "Focus": "Varicose veins - what to ask your doctor",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0042345"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "What to ask your doctor about varicose veins",
+                    "Venous insufficiency - what to ask your doctor",
+                    "Vein stripping - what to ask your doctor"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004197-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Varicose veins - what to ask your doctor ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0001583",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003650.htm",
+        "Focus": "Fibrinogen blood test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Serum fibrinogen",
+                    "Plasma fibrinogen",
+                    "Factor I",
+                    "Hypofibrinogenemia test"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001583-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Fibrinogen blood test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0000788",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001535.htm",
+        "Focus": "Childhood disintegrative disorder",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0236791"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T048"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000788-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Childhood disintegrative disorder ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

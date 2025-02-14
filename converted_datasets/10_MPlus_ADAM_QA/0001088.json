@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001088",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003903.htm",
+        "Focus": "Cystoscopy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Cystourethroscopy",
+                    "Endoscopy of the bladder"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001088-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Cystoscopy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

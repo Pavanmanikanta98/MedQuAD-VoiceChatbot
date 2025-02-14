@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0003258",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003540.htm",
+        "Focus": "Protein electrophoresis - serum",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Lipoprotein electrophoresis"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003258-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Protein electrophoresis - serum"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

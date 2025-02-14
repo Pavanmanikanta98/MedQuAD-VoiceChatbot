@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0002254",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000181.htm",
+        "Focus": "Jejunostomy feeding tube",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Feeding - jejunostomy tube",
+                    "G-J tube",
+                    "J-tube",
+                    "Jejunum tube"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002254-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Jejunostomy feeding tube"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

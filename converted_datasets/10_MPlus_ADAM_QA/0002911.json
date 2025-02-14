@@ -1,0 +1,70 @@
+{
+    "Document": {
+        "@id": "0002911",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002516.htm",
+        "Focus": "Oxazepam overdose",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0572983"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Serax overdose",
+                    "Adumbran overdose",
+                    "Serenid Forte overdose",
+                    "Zapex overdose",
+                    "Novoxapam overdose",
+                    "Oxpam overdose"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002911-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Oxazepam overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002911-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Oxazepam overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002911-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Oxazepam overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002911-8",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Oxazepam overdose ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

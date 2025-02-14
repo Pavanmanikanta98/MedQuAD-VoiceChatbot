@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000021",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003896.htm",
+        "Focus": "Abdominal tap",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Peritoneal tap",
+                    "Paracentesis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000021-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Abdominal tap"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

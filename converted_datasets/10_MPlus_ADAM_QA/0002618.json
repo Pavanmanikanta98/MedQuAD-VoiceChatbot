@@ -1,0 +1,102 @@
+{
+    "Document": {
+        "@id": "0002618",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001601.htm",
+        "Focus": "Metatarsus adductus",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0265648"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T019"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Metatarsus varus",
+                    "Forefoot varus"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002618-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Metatarsus adductus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002618-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Metatarsus adductus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002618-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Metatarsus adductus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002618-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Metatarsus adductus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002618-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Metatarsus adductus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002618-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Metatarsus adductus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002618-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Metatarsus adductus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002618-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Metatarsus adductus ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

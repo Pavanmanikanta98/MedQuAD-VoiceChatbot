@@ -1,0 +1,63 @@
+{
+    "Document": {
+        "@id": "0003066",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002533.htm",
+        "Focus": "Phenytoin overdose",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0572883"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Diphenylhydantoin"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003066-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Phenytoin overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003066-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Phenytoin overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003066-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Phenytoin overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003066-8",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Phenytoin overdose ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

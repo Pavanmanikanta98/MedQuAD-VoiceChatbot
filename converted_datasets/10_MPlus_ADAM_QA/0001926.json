@@ -1,0 +1,109 @@
+{
+    "Document": {
+        "@id": "0001926",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000292.htm",
+        "Focus": "Hemorrhoids",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0019112",
+                        "C1963134"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T033",
+                        "T020"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Rectal lump",
+                    "Piles",
+                    "Lump in the rectum"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001926-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hemorrhoids ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001926-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Hemorrhoids ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001926-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Hemorrhoids ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001926-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Hemorrhoids ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001926-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Hemorrhoids ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001926-6",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Hemorrhoids ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001926-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Hemorrhoids ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001926-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Hemorrhoids ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

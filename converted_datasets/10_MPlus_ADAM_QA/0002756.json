@@ -1,0 +1,92 @@
+{
+    "Document": {
+        "@id": "0002756",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003025.htm",
+        "Focus": "Neck pain",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0007859",
+                        "C1963180"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T033",
+                        "T184"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Pain - neck",
+                    "Neck stiffness",
+                    "Cervicalgia",
+                    "Whiplash"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002756-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Neck pain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002756-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Neck pain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002756-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Neck pain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002756-4",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Neck pain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002756-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Neck pain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002756-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Neck pain ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

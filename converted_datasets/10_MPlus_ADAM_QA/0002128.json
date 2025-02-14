@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0002128",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001478.htm",
+        "Focus": "Idiopathic livedo reticularis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0406507"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Livedo reticularis",
+                    "Primary livedo reticularis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002128-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Idiopathic livedo reticularis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002128-2",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Idiopathic livedo reticularis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

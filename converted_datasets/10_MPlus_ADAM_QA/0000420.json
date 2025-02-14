@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0000420",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000639.htm",
+        "Focus": "Benefits of breastfeeding",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Nursing your baby",
+                    "Lactation",
+                    "Deciding to breastfeed"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000420-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Benefits of breastfeeding"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

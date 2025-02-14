@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0003787",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000354.htm",
+        "Focus": "Supporting your child with weight loss",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0043096"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003787-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Supporting your child with weight loss ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

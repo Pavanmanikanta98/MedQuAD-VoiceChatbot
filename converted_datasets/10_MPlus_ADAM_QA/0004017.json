@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0004017",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003779.htm",
+        "Focus": "Transvaginal ultrasound",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Endovaginal ultrasound",
+                    "Ultrasound - transvaginal"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004017-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Transvaginal ultrasound"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

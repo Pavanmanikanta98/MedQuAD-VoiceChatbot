@@ -1,0 +1,40 @@
+{
+    "Document": {
+        "@id": "0002749",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002117.htm",
+        "Focus": "Nausea and acupressure",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0027497",
+                        "C1963179"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T046",
+                        "T184"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Acupressure and nausea"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002749-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Nausea and acupressure ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

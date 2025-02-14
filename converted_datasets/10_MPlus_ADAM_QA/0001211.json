@@ -1,0 +1,75 @@
+{
+    "Document": {
+        "@id": "0001211",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000691.htm",
+        "Focus": "Diarrhea in infants",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0011991"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Diarrhea - babies",
+                    "BRAT diet - infants"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001211-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Diarrhea in infants ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001211-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Diarrhea in infants ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001211-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Diarrhea in infants ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001211-6",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Diarrhea in infants ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001211-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Diarrhea in infants ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003807",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003219.htm",
+        "Focus": "Sweating - absent",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Decreased sweating",
+                    "Anhidrosis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003807-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Sweating - absent"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0001100",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000809.htm",
+        "Focus": "Dance Your Way to Fitness",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001100-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Dance Your Way to Fitness"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

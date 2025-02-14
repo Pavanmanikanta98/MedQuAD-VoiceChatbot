@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002430",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002193.htm",
+        "Focus": "Loss of a child - resources",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Child death - resources",
+                    "Resources - loss of a child"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002430-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Loss of a child - resources"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

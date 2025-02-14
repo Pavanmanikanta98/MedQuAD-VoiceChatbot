@@ -1,0 +1,50 @@
+{
+    "Document": {
+        "@id": "0001282",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001945.htm",
+        "Focus": "Drug abuse",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0013146"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T048"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Substance abuse",
+                    "Illicit drug abuse",
+                    "Narcotic abuse",
+                    "Hallucinogen abuse"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001282-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Drug abuse ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001282-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Drug abuse ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

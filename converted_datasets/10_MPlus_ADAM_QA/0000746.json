@@ -1,0 +1,49 @@
+{
+    "Document": {
+        "@id": "0000746",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000419.htm",
+        "Focus": "Cervical cancer - screening and prevention",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0007847",
+                        "C1409616",
+                        "C0302592"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T191",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000746-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Cervical cancer - screening and prevention ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000746-3",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Cervical cancer - screening and prevention ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

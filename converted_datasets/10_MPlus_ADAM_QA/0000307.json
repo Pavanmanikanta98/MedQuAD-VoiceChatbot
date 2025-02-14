@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0000307",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000807.htm",
+        "Focus": "Are You Getting Too Much Exercise?",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C3843660"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000307-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Are You Getting Too Much Exercise? ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

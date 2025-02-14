@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000167",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003470.htm",
+        "Focus": "ALP - blood test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Alkaline phosphatase"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000167-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about ALP - blood test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

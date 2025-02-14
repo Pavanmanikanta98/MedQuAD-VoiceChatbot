@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001713",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003222.htm",
+        "Focus": "Genital sores - female",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Sores on the female genitals"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001713-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Genital sores - female"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

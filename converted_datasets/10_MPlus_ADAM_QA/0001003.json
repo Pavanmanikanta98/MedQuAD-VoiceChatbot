@@ -1,0 +1,75 @@
+{
+    "Document": {
+        "@id": "0001003",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003072.htm",
+        "Focus": "Cough",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0010200",
+                        "C1961131"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T033",
+                        "T184"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001003-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Cough ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001003-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Cough ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001003-3",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Cough ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001003-4",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Cough ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001003-5",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Cough ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

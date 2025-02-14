@@ -1,0 +1,61 @@
+{
+    "Document": {
+        "@id": "0003348",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000648.htm",
+        "Focus": "Recognizing teen depression",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0349217",
+                        "C0011570",
+                        "C0011581",
+                        "C0344315",
+                        "C1579931"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T048",
+                        "T033",
+                        "T184"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003348-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Recognizing teen depression ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003348-2",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Recognizing teen depression? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003348-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Recognizing teen depression ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

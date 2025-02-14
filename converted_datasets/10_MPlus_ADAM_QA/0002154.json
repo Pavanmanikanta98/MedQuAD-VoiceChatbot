@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0002154",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002926.htm",
+        "Focus": "Imperforate anus repair",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Anorectal malformation repair",
+                    "Perineal anoplasty",
+                    "Anorectal anomaly",
+                    "Anorectal plasty"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002154-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Imperforate anus repair"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

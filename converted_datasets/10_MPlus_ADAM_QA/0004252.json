@@ -1,0 +1,45 @@
+{
+    "Document": {
+        "@id": "0004252",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003494.htm",
+        "Focus": "VLDL test",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0456984"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Very low density lipoprotein test"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004252-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) VLDL test ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0004252-7",
+                        "@qtype": "considerations",
+                        "#text": "What to do for VLDL test ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

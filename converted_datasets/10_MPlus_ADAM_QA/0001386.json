@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0001386",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007632.htm",
+        "Focus": "Endometrial ablation",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Hysteroscopy-endometrial ablation",
+                    "Laser thermal ablation",
+                    "Endometrial ablation-radiofrequency",
+                    "Endometrial ablation-thermal balloon ablation",
+                    "Rollerball ablation",
+                    "Hydrothermal ablation",
+                    "Novasure ablation"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001386-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Endometrial ablation"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

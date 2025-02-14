@@ -1,0 +1,85 @@
+{
+    "Document": {
+        "@id": "0003965",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003065.htm",
+        "Focus": "Tooth - abnormal colors",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0332572"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Discolored teeth",
+                    "Tooth discoloration",
+                    "Tooth pigmentation"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003965-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Tooth - abnormal colors ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003965-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Tooth - abnormal colors ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003965-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Tooth - abnormal colors ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003965-4",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Tooth - abnormal colors ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003965-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Tooth - abnormal colors ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003965-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Tooth - abnormal colors ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

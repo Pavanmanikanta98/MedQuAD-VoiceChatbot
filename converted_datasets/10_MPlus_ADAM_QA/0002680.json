@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0002680",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003198.htm",
+        "Focus": "Movement - uncoordinated",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Lack of coordination",
+                    "Loss of coordination",
+                    "Coordination impairment",
+                    "Ataxia",
+                    "Clumsiness",
+                    "Uncoordinated movement"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002680-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Movement - uncoordinated"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

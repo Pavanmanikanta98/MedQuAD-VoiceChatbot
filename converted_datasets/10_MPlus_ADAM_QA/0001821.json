@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001821",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002980.htm",
+        "Focus": "Head and face reconstruction",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Craniofacial reconstruction",
+                    "Orbital-craniofacial surgery",
+                    "Facial reconstruction"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001821-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Head and face reconstruction"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

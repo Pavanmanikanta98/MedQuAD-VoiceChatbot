@@ -1,0 +1,111 @@
+{
+    "Document": {
+        "@id": "0002143",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000576.htm",
+        "Focus": "Immune hemolytic anemia",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0852336"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Anemia - immune hemolytic",
+                    "Autoimmune hemolytic anemia (AIHA)"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002143-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Immune hemolytic anemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002143-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Immune hemolytic anemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002143-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Immune hemolytic anemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002143-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Immune hemolytic anemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002143-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Immune hemolytic anemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002143-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Immune hemolytic anemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002143-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Immune hemolytic anemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002143-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Immune hemolytic anemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002143-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Immune hemolytic anemia ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

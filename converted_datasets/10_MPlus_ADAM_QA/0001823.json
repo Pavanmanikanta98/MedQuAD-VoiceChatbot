@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0001823",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003786.htm",
+        "Focus": "Head CT scan",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Brain CT",
+                    "Cranial CT",
+                    "CT scan - skull",
+                    "CT scan - head",
+                    "CT scan - orbits",
+                    "CT scan - sinuses",
+                    "Computed tomography - cranial"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001823-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Head CT scan"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

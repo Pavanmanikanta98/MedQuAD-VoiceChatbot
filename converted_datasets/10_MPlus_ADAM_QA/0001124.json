@@ -1,0 +1,114 @@
+{
+    "Document": {
+        "@id": "0001124",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000216.htm",
+        "Focus": "Delta agent (Hepatitis D)",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0011220",
+                        "C0011226"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T005",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Hepatitis D virus"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001124-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Delta agent (Hepatitis D) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001124-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Delta agent (Hepatitis D) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001124-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Delta agent (Hepatitis D) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001124-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Delta agent (Hepatitis D) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001124-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Delta agent (Hepatitis D) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001124-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Delta agent (Hepatitis D) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001124-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Delta agent (Hepatitis D) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001124-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Delta agent (Hepatitis D) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0001124-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Delta agent (Hepatitis D) ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "Document": {
+        "@id": "0003527",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001355.htm",
+        "Focus": "Septicemia",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0243026",
+                        "C0036690"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Blood poisoning",
+                    "Bacteremia with sepsis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003527-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Septicemia ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

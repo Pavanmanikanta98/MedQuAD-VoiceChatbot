@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0004356",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003459.htm",
+        "Focus": "17-hydroxycorticosteroid urine test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "17-OH corticosteroids",
+                    "17-OHCS"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004356-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about 17-hydroxycorticosteroid urine test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Document": {
+        "@id": "0001804",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000551.htm",
+        "Focus": "Hamstring strain - aftercare",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C1510453",
+                        "C0080194"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T037",
+                        "T184"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001804-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hamstring strain - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001804-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hamstring strain - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001804-3",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Hamstring strain - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001804-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Hamstring strain - aftercare ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

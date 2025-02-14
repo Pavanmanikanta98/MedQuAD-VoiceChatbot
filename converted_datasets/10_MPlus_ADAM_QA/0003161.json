@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003161",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000634.htm",
+        "Focus": "Positioning your baby for breastfeeding",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Breastfeeding positions",
+                    "Bonding with your baby"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003161-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Positioning your baby for breastfeeding"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

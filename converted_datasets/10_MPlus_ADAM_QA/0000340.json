@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0000340",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000209.htm",
+        "Focus": "Asthma - what to ask your doctor - child",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0004096"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "What to ask your doctor about asthma - child"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000340-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Asthma - what to ask your doctor - child ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

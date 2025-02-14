@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0004153",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000344.htm",
+        "Focus": "Using crutches",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004153-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Using crutches"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

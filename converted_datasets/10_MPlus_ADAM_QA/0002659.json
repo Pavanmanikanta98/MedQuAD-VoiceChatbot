@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0002659",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007634.htm",
+        "Focus": "Mohs micrographic surgery",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002659-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Mohs micrographic surgery"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

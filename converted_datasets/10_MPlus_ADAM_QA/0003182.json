@@ -1,0 +1,69 @@
+{
+    "Document": {
+        "@id": "0003182",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000778.htm",
+        "Focus": "Prediabetes",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0362046",
+                        "C0271650"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Impaired fasting glucose - prediabetes",
+                    "Impaired glucose tolerance - prediabetes"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003182-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Prediabetes ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003182-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Prediabetes ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003182-3",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Prediabetes ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003182-4",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Prediabetes? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

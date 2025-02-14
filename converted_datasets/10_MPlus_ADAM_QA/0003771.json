@@ -1,0 +1,58 @@
+{
+    "Document": {
+        "@id": "0003771",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000793.htm",
+        "Focus": "Substance use - cocaine",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0237123"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T048"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Substance abuse - cocaine",
+                    "Drug abuse - cocaine",
+                    "Drug use - cocaine"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003771-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Substance use - cocaine ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003771-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Substance use - cocaine ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003771-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Substance use - cocaine ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

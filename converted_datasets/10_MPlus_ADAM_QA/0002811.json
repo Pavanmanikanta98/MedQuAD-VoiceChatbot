@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0002811",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003355.htm",
+        "Focus": "Nitroblue tetrazolium blood test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "NBT test"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002811-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Nitroblue tetrazolium blood test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

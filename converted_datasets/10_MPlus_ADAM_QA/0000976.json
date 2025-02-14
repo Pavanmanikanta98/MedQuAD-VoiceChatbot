@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0000976",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000700.htm",
+        "Focus": "COPD - managing stress and your mood",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0038435"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000976-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) COPD - managing stress and your mood ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000976-4",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for COPD - managing stress and your mood ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

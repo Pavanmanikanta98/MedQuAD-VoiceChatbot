@@ -1,0 +1,39 @@
+{
+    "Document": {
+        "@id": "0003207",
+        "@source": "GARD",
+        "@url": "https://rarediseases.info.nih.gov/gard/5484/inflammatory-linear-verrucous-epidermal-nevus",
+        "Focus": "Inflammatory linear verrucous epidermal nevus",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0473574"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "ILVEN",
+                    "Linear verrucose epidermal nevus",
+                    "Verrucous epidermal nevus",
+                    "Verrucous nevus",
+                    "Inflammatory linear verrucous epidermal naevus"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003207-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Inflammatory linear verrucous epidermal nevus ?"
+                },
+                "Answer": "Inflammatory linear verrucous epidermal nevus (ILVEN) is a type of skin overgrowth. The skin nevi appear as skin colored, brown, or reddish, wort-like papules. The nevi join to form well-demarcated plaques. The plaques may be itchy and often affects only one side of the body. ILVEN tends to be present from birth to early childhood. It affects females more often than males. It usually occurs alone. Rarely ILVEN occurs in association with epidermal nevus syndrome. While rare ILVEN may become cancerous (i.e., transform to basal cell or squamous cell carcinoma). The cause of ILVEN is currently unknown. Click here to visit the DermNetNZ Web site and view an image of ILVEN."
+            }
+        }
+    }
+}

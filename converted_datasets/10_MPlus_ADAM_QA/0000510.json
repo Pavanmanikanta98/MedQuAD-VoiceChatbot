@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000510",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003682.htm",
+        "Focus": "Bone marrow culture",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Culture - bone marrow"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000510-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Bone marrow culture"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

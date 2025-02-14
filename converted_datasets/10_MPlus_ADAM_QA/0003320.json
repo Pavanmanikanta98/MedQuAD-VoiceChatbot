@@ -1,0 +1,54 @@
+{
+    "Document": {
+        "@id": "0003320",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000561.htm",
+        "Focus": "Radial head fracture - aftercare",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0435577"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Elbow fracture - radial head - aftercare"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003320-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Radial head fracture - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003320-2",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Radial head fracture - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003320-6",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Radial head fracture - aftercare ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

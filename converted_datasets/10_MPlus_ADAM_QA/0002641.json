@@ -1,0 +1,113 @@
+{
+    "Document": {
+        "@id": "0002641",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000332.htm",
+        "Focus": "Milk-alkali syndrome",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0026141"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Calcium-alkali syndrome",
+                    "Cope syndrome",
+                    "Burnett syndrome",
+                    "Hypercalcemia"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002641-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Milk-alkali syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002641-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Milk-alkali syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002641-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Milk-alkali syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002641-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Milk-alkali syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002641-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Milk-alkali syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002641-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Milk-alkali syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002641-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Milk-alkali syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002641-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Milk-alkali syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002641-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Milk-alkali syndrome ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

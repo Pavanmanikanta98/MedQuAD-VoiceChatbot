@@ -1,0 +1,81 @@
+{
+    "Document": {
+        "@id": "0001399",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001649.htm",
+        "Focus": "Enlarged adenoids",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C3807608"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Adenoids - enlarged"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001399-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Enlarged adenoids ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001399-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Enlarged adenoids ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001399-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Enlarged adenoids ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001399-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Enlarged adenoids ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001399-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Enlarged adenoids ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001399-6",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Enlarged adenoids ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

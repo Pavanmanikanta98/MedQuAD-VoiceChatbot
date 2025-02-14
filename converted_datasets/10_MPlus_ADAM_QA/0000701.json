@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0000701",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002976.htm",
+        "Focus": "Carpal tunnel release",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Median nerve decompression",
+                    "Carpal tunnel decompression",
+                    "Surgery - carpal tunnel"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000701-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Carpal tunnel release"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

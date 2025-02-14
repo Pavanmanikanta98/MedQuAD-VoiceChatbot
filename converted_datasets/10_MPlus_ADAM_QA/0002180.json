@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0002180",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002055.htm",
+        "Focus": "Infant test/procedure preparation",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0456984"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Test/procedure preparation - infant",
+                    "Preparing infant for test/procedure"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002180-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Infant test/procedure preparation ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002180-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Infant test/procedure preparation ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

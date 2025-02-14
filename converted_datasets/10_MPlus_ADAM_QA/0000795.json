@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000795",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002001.htm",
+        "Focus": "Chiropractor profession",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Doctor of Chiropractic (DC)"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000795-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Chiropractor profession"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

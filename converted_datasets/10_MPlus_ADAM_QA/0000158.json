@@ -1,0 +1,38 @@
+{
+    "Document": {
+        "@id": "0000158",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000248.htm",
+        "Focus": "Allergic rhinitis - what to ask your doctor - child",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C2607914"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "What to ask your doctor about allergic rhinitis - child",
+                    "Hay fever - what to ask your doctor - child",
+                    "Allergies - what to ask your doctor - child"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000158-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Allergic rhinitis - what to ask your doctor - child ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

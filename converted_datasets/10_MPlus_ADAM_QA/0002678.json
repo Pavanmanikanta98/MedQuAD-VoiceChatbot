@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0002678",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003201.htm",
+        "Focus": "Movement - uncontrollable",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Uncontrolled movements",
+                    "Involuntary body movements",
+                    "Body movements - uncontrollable",
+                    "Dyskinesia",
+                    "Athetosis",
+                    "Myoclonus",
+                    "Ballismus"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002678-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Movement - uncontrollable"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

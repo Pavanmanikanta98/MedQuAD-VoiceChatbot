@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0003266",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007281.htm",
+        "Focus": "Proton therapy",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003266-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Proton therapy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

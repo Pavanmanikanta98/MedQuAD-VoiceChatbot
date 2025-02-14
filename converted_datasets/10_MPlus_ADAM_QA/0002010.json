@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002010",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001911.htm",
+        "Focus": "Hormonal effects in newborns",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Newborn breast swelling",
+                    "Physiologic leukorrhea"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002010-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Hormonal effects in newborns"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

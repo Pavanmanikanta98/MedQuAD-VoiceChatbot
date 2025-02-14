@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002925",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000532.htm",
+        "Focus": "Palliative care - managing pain",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "End of life - pain management",
+                    "Hospice - pain management"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002925-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Palliative care - managing pain"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

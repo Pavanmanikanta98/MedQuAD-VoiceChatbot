@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0002324",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007389.htm",
+        "Focus": "Laminectomy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Lumbar decompression",
+                    "Decompressive laminectomy",
+                    "Spine surgery - laminectomy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002324-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Laminectomy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

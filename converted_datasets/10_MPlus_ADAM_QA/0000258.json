@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0000258",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003524.htm",
+        "Focus": "Anti-glomerular basement membrane blood test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "GBM antibody test",
+                    "Antibody to human glomerular basement membrane",
+                    "Anti-GBM antibodies"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000258-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Anti-glomerular basement membrane blood test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

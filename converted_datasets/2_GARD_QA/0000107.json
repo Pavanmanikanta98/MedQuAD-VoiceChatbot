@@ -1,0 +1,39 @@
+{
+    "Document": {
+        "@id": "0000107",
+        "@source": "GARD",
+        "@url": "https://rarediseases.info.nih.gov/gard/5728/actinomycosis",
+        "Focus": "Actinomycosis",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0001261"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Anaerobic actinomyces infection",
+                    "Canaliculitis",
+                    "Keratoactinomycosis",
+                    "Actinomyces israeli",
+                    "Actinomycetes"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000107-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Actinomycosis ?"
+                },
+                "Answer": "Actinomycosis is a chronic bacterial infection that commonly affects the face and neck. It is usually caused by an anaerobic bacteria called Actinomyces israelii. Actinomyces are normal inhabitants of the mouth, gastrointestinal tract, and female genital tract, and do not cause an infection unless there is a break in the skin or mucosa. The infection usually occurs in the face and neck, but can sometimes occur in the chest, abdomen, pelvis, or other areas of the body. The infection is not contagious."
+            }
+        }
+    }
+}

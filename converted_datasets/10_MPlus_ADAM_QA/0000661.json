@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000661",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000825.htm",
+        "Focus": "Cancer prevention: take charge of your lifestyle",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Lifestyle modification"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000661-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Cancer prevention: take charge of your lifestyle"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

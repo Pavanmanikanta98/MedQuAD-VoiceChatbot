@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0002844",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002730.htm",
+        "Focus": "Oil-based paint poisoning",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Paint - oil based - poisoning"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002844-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Oil-based paint poisoning"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

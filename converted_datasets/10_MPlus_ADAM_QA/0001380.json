@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001380",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000835.htm",
+        "Focus": "Ending pregnancy with medications",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Abortion pill"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001380-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Ending pregnancy with medications"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

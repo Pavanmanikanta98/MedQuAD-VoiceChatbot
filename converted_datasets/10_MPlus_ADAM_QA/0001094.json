@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0001094",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002914.htm",
+        "Focus": "D and C",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Dilatation and curettage",
+                    "Uterus scraping",
+                    "Vaginal bleeding - dilation",
+                    "Uterine bleeding - dilation",
+                    "Menopause - dilation"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001094-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about D and C"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

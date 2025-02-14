@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000383",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002563.htm",
+        "Focus": "Bacitracin overdose",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Polysporin ointment overdose",
+                    "Baciquent ointment overdose"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000383-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Bacitracin overdose"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "Document": {
+        "@id": "0002075",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003280.htm",
+        "Focus": "Hyperelastic skin",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0241074"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "India rubber skin"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002075-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hyperelastic skin ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002075-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Hyperelastic skin ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002075-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Hyperelastic skin ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002075-4",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Hyperelastic skin ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002075-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Hyperelastic skin ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002075-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Hyperelastic skin ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

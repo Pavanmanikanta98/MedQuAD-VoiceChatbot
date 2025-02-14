@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0002912",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000049.htm",
+        "Focus": "Oxygen safety",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002912-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Oxygen safety"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

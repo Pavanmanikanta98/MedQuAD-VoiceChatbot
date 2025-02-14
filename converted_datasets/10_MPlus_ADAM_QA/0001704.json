@@ -1,0 +1,77 @@
+{
+    "Document": {
+        "@id": "0001704",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000695.htm",
+        "Focus": "Generalized tonic-clonic seizure",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0494475"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Seizure - tonic-clonic",
+                    "Seizure - grand mal",
+                    "Grand mal seizure",
+                    "Seizure - generalized"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001704-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Generalized tonic-clonic seizure ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001704-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Generalized tonic-clonic seizure ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001704-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Generalized tonic-clonic seizure ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001704-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Generalized tonic-clonic seizure ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001704-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Generalized tonic-clonic seizure ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

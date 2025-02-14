@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002802",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007438.htm",
+        "Focus": "Nicotine replacement therapy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Smoking cessation - nicotine replacement",
+                    "Tobacco - nicotine replacement therapy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002802-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Nicotine replacement therapy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

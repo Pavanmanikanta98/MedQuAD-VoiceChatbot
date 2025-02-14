@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0002172",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000140.htm",
+        "Focus": "Indwelling catheter care",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Foley catheter"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002172-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Indwelling catheter care"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

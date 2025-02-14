@@ -1,0 +1,57 @@
+{
+    "Document": {
+        "@id": "0001948",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000368.htm",
+        "Focus": "Hereditary amyloidosis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0206246"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Amyloidosis - hereditary",
+                    "Familial amyloidosis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001948-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hereditary amyloidosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001948-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Hereditary amyloidosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001948-3",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Hereditary amyloidosis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

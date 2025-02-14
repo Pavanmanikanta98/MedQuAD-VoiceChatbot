@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0003715",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000131.htm",
+        "Focus": "Stereotactic radiosurgery - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Gamma knife - discharge",
+                    "Cyberknife - discharge",
+                    "Stereotactic radiotherapy - discharge",
+                    "Fractionated stereotactic radiotherapy- discharge",
+                    "Cyclotrons- discharge",
+                    "Linear accelerator- discharge",
+                    "Lineacs - discharge",
+                    "Proton beam radiosurgery - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003715-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Stereotactic radiosurgery - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

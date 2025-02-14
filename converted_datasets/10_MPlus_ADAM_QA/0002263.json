@@ -1,0 +1,82 @@
+{
+    "Document": {
+        "@id": "0002263",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003261.htm",
+        "Focus": "Joint pain",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0003862",
+                        "C1963066"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T033",
+                        "T184"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Stiffness in a joint",
+                    "Pain - joints",
+                    "Arthralgia"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002263-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Joint pain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002263-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Joint pain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002263-3",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Joint pain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002263-4",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Joint pain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002263-5",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Joint pain ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

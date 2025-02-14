@@ -1,0 +1,70 @@
+{
+    "Document": {
+        "@id": "0000864",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002979.htm",
+        "Focus": "Cleft lip and palate repair",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0008924"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T019"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Orofacial cleft",
+                    "Craniofacial birth defect repair",
+                    "Cheiloplasty",
+                    "Cleft rhinoplasty",
+                    "Palatoplasty",
+                    "Tip rhinoplasty"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000864-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Cleft lip and palate repair ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000864-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Cleft lip and palate repair ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000864-4",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Cleft lip and palate repair? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000864-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Cleft lip and palate repair ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

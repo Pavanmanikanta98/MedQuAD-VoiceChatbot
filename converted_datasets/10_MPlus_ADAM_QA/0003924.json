@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0003924",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000676.htm",
+        "Focus": "Thumb sucking",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0040068"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003924-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Thumb sucking ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

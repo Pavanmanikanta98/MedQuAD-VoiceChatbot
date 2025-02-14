@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0004012",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000815.htm",
+        "Focus": "Transplant rejection",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Graft rejection",
+                    "Tissue/organ rejection"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004012-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Transplant rejection"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

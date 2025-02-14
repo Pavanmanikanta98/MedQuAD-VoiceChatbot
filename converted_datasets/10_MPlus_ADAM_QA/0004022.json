@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0004022",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000066.htm",
+        "Focus": "Traveling with breathing problems",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1260922"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004022-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Traveling with breathing problems ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0004022-4",
+                        "@qtype": "information",
+                        "#text": "What is (are) Traveling with breathing problems ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

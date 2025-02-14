@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0004176",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000627.htm",
+        "Focus": "Vaginal bleeding in late pregnancy",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C2979982",
+                        "C0878751"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T046",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004176-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Vaginal bleeding in late pregnancy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004176-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Vaginal bleeding in late pregnancy ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

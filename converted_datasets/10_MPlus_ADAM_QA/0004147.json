@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0004147",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000480.htm",
+        "Focus": "Urostomy pouches and supplies",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Cystectomy - urostomy",
+                    "Urostomy bag",
+                    "Ostomy appliance",
+                    "Urinary ostomy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004147-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Urostomy pouches and supplies"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

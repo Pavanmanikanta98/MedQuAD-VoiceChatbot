@@ -1,0 +1,45 @@
+{
+    "Document": {
+        "@id": "0003867",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002045.htm",
+        "Focus": "Teething",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0039437",
+                        "C0040437"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003867-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Teething ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003867-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Teething ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

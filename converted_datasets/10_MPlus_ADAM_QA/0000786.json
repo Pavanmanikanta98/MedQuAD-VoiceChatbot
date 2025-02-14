@@ -1,0 +1,40 @@
+{
+    "Document": {
+        "@id": "0000786",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007225.htm",
+        "Focus": "Child neglect and emotional abuse",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C1628509",
+                        "C0553726",
+                        "C0730557",
+                        "C1533650"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T037",
+                        "T048",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000786-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Child neglect and emotional abuse ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

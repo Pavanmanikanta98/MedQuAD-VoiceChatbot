@@ -1,0 +1,65 @@
+{
+    "Document": {
+        "@id": "0001266",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000816.htm",
+        "Focus": "Domestic violence",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0206073",
+                        "C2046929"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T048",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Intimate partner violence",
+                    "Spousal abuse",
+                    "Elder abuse",
+                    "Child abuse"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001266-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Domestic violence ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001266-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Domestic violence ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001266-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Domestic violence ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

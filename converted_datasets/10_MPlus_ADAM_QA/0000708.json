@@ -1,0 +1,43 @@
+{
+    "Document": {
+        "@id": "0000708",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000210.htm",
+        "Focus": "Cataracts - what to ask your doctor",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0086543",
+                        "C0521707"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T190",
+                        "T020"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "What to ask your doctor about cataracts",
+                    "Lens implants - what to ask your doctor"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000708-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Cataracts - what to ask your doctor ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

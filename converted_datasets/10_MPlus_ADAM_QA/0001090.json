@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001090",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002323.htm",
+        "Focus": "Cytologic evaluation",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Cell evaluation",
+                    "Cytology"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001090-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Cytologic evaluation"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

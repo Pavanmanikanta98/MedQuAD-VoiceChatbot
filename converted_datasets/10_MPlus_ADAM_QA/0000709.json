@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0000709",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003561.htm",
+        "Focus": "Catecholamine blood test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Norepinephrine -- blood",
+                    "Epinephrine -- blood",
+                    "Adrenalin -- blood",
+                    "Dopamine -- blood"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000709-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Catecholamine blood test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

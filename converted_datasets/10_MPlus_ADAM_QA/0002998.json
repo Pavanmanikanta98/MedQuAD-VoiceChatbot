@@ -1,0 +1,40 @@
+{
+    "Document": {
+        "@id": "0002998",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001917.htm",
+        "Focus": "Penis care (uncircumcised)",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0580931",
+                        "C0282021"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Uncircumcised penis - bathing",
+                    "Cleaning an uncircumcised penis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002998-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Penis care (uncircumcised) ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

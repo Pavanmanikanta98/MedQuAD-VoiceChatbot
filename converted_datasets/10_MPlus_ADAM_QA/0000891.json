@@ -1,0 +1,63 @@
+{
+    "Document": {
+        "@id": "0000891",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002613.htm",
+        "Focus": "Codeine overdose",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0572066"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Methylmorphine overdose"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000891-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Codeine overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000891-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Codeine overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000891-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Codeine overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000891-8",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Codeine overdose ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

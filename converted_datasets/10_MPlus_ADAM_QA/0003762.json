@@ -1,0 +1,108 @@
+{
+    "Document": {
+        "@id": "0003762",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000701.htm",
+        "Focus": "Subarachnoid hemorrhage",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0038525"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Hemorrhage - subarachnoid"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003762-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Subarachnoid hemorrhage ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003762-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Subarachnoid hemorrhage ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003762-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Subarachnoid hemorrhage ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003762-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Subarachnoid hemorrhage ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003762-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Subarachnoid hemorrhage ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003762-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Subarachnoid hemorrhage ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003762-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Subarachnoid hemorrhage ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003762-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Subarachnoid hemorrhage ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0003762-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Subarachnoid hemorrhage ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

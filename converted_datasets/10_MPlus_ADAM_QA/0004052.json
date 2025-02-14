@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0004052",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000288.htm",
+        "Focus": "Tubal ligation - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Sterilization surgery - female - discharge",
+                    "Tubal sterilization - discharge",
+                    "Tube tying - discharge",
+                    "Tying the tubes - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004052-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Tubal ligation - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "Document": {
+        "@id": "0002418",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000602.htm",
+        "Focus": "Living with a chronic illness - reaching out to others",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C2186378",
+                        "C0008679",
+                        "C1955473"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T047",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002418-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Living with a chronic illness - reaching out to others ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002418-3",
+                        "@qtype": "information",
+                        "#text": "What is (are) Living with a chronic illness - reaching out to others ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

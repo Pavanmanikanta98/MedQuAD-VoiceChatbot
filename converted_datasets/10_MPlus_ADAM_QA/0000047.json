@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000047",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007643.htm",
+        "Focus": "Achilles tendon repair",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Achilles tendon rupture-surgery",
+                    "Percutaneous Achilles tendon rupture repair"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000047-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Achilles tendon repair"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

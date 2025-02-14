@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0003485",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001256.htm",
+        "Focus": "Scleroma",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0035468"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Induration",
+                    "Rhinoscleroma"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003485-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Scleroma ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

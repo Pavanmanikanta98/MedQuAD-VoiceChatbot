@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0003735",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007440.htm",
+        "Focus": "Stop smoking support programs",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Smokeless tobacco - stop smoking programs",
+                    "Stop smoking techniques",
+                    "Smoking cessation programs",
+                    "Smoking cessation techniques"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003735-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Stop smoking support programs"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

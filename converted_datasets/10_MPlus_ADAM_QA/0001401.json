@@ -1,0 +1,49 @@
+{
+    "Document": {
+        "@id": "0001401",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000398.htm",
+        "Focus": "Enlarged prostate - after care",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0580931"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "BPH - self-care",
+                    "Benign prostatic hypertrophy - self-care",
+                    "Benign prostatic hyperplasia - self-care"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001401-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Enlarged prostate - after care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001401-4",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Enlarged prostate - after care ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

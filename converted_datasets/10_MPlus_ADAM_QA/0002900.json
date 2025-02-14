@@ -1,0 +1,87 @@
+{
+    "Document": {
+        "@id": "0002900",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001163.htm",
+        "Focus": "Ovarian hypofunction",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0542031",
+                        "C0747102"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Premature ovarian failure",
+                    "Ovarian insufficiency"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002900-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Ovarian hypofunction ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002900-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Ovarian hypofunction ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002900-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Ovarian hypofunction ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002900-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Ovarian hypofunction ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002900-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Ovarian hypofunction ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002900-6",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Ovarian hypofunction ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

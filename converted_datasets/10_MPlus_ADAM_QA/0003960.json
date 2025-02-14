@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003960",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000155.htm",
+        "Focus": "Tonsil and adenoid removal - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Adenoidectomy - discharge",
+                    "Removal of adenoid glands - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003960-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Tonsil and adenoid removal - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

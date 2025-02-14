@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001064",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003730.htm",
+        "Focus": "Culture - duodenal tissue",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Duodenal tissue culture"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001064-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Culture - duodenal tissue"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

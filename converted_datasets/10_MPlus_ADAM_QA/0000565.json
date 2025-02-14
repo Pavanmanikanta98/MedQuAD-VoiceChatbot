@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0000565",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001993.htm",
+        "Focus": "Breast self-exam",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Self-examination of the breast",
+                    "BSE",
+                    "Breast cancer - BSE"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000565-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Breast self-exam"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

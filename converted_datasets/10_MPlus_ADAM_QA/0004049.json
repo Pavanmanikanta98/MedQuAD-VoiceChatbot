@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0004049",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003684.htm",
+        "Focus": "TSH test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Thyrotropin",
+                    "Thyroid stimulating hormone"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004049-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about TSH test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0003046",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000447.htm",
+        "Focus": "Personal protective equipment",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "PPE"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003046-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Personal protective equipment"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

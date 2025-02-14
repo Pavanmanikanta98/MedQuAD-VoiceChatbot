@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000488",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003855.htm",
+        "Focus": "Blood gases",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Arterial blood gas analysis",
+                    "ABG"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000488-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Blood gases"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

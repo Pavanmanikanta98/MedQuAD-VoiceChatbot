@@ -1,0 +1,49 @@
+{
+    "Document": {
+        "@id": "0000092",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002054.htm",
+        "Focus": "Adolescent test or procedure preparation",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0456984"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Test/procedure preparation - adolescent",
+                    "Preparing adolescent for test/procedure",
+                    "Preparing for a medical test or procedure - adolescent"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000092-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Adolescent test or procedure preparation ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000092-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Adolescent test or procedure preparation ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

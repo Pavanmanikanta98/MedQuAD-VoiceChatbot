@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0002598",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002476.htm",
+        "Focus": "Mercury",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002598-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Mercury"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

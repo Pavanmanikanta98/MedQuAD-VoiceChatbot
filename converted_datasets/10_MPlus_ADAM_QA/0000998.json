@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000998",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003693.htm",
+        "Focus": "Cortisol blood test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Serum cortisol"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000998-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Cortisol blood test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

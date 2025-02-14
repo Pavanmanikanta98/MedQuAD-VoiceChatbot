@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002349",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003499.htm",
+        "Focus": "LDH isoenzyme blood test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "LD",
+                    "Lactic (lactate) dehydrogenase isoenzymes"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002349-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about LDH isoenzyme blood test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

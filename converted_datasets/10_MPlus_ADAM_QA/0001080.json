@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0001080",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002437.htm",
+        "Focus": "Cystic fibrosis - nutritional considerations",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0518609",
+                        "C0010674"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T047",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001080-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Cystic fibrosis - nutritional considerations ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

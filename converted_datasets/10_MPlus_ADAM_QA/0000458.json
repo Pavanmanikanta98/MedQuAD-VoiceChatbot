@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0000458",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000656.htm",
+        "Focus": "Birth control pills - progestin only",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Mini-pill",
+                    "the pill - progestin",
+                    "Oral contraceptives - progestin",
+                    "OCP - progestin",
+                    "Contraception - progestin"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000458-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Birth control pills - progestin only"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

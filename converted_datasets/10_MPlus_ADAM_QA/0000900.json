@@ -1,0 +1,102 @@
+{
+    "Document": {
+        "@id": "0000900",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001125.htm",
+        "Focus": "Colitis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C1963084",
+                        "C0009319"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T047",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000900-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Colitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000900-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Colitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000900-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Colitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000900-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Colitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000900-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Colitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000900-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Colitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000900-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Colitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000900-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Colitis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

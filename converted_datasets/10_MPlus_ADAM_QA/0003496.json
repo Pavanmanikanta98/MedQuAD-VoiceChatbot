@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003496",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001283.htm",
+        "Focus": "Scrotal masses",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Testicular mass",
+                    "Scrotal growth"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003496-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Scrotal masses"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

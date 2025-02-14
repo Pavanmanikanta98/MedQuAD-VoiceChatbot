@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0004021",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002433.htm",
+        "Focus": "Travelers diarrhea diet",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0011991"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Diet - traveler's diarrhea",
+                    "Diarrhea - traveler's - diet"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004021-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Travelers diarrhea diet ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

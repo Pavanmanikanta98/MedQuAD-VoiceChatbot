@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0000230",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002953.htm",
+        "Focus": "Angioplasty and stent placement - carotid artery",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Carotid angioplasty and stenting",
+                    "CAS",
+                    "Angioplasty - carotid artery",
+                    "Carotid artery stenosis - angioplasty"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000230-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Angioplasty and stent placement - carotid artery"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

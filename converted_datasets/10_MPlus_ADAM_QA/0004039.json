@@ -1,0 +1,78 @@
+{
+    "Document": {
+        "@id": "0004039",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002489.htm",
+        "Focus": "Trisodium phosphate poisoning",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0700359",
+                        "C0274968"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Sodium orthophosphate poisoning",
+                    "Trisodium orthophosphate poisoning"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004039-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Trisodium phosphate poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0004039-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Trisodium phosphate poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0004039-5",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Trisodium phosphate poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0004039-8",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Trisodium phosphate poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0004039-9",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Trisodium phosphate poisoning ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

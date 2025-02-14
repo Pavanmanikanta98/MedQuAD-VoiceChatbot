@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0000012",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002928.htm",
+        "Focus": "Abdominal exploration",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Exploratory surgery",
+                    "Laparotomy",
+                    "Exploratory laparotomy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000012-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Abdominal exploration"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

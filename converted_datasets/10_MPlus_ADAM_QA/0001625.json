@@ -1,0 +1,117 @@
+{
+    "Document": {
+        "@id": "0001625",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000817.htm",
+        "Focus": "Food allergy",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0016470"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T046"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Allergy to food"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001625-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Food allergy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001625-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Food allergy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001625-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Food allergy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001625-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Food allergy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001625-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Food allergy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001625-6",
+                        "@qtype": "support groups",
+                        "#text": "Where to find support for people with Food allergy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001625-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Food allergy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001625-8",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Food allergy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0001625-9",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Food allergy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "10",
+                    "Question": {
+                        "@qid": "0001625-10",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Food allergy ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

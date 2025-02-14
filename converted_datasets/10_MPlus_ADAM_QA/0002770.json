@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0002770",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007302.htm",
+        "Focus": "Neonatal weight gain and nutrition",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0043094"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Newborn nutrition",
+                    "Nutritional needs - premature infants"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002770-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Neonatal weight gain and nutrition ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002770-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Neonatal weight gain and nutrition ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

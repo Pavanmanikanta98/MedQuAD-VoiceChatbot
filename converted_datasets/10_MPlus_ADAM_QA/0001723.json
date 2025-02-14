@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0001723",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000843.htm",
+        "Focus": "Getting support when your child has cancer",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0006826"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001723-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Getting support when your child has cancer ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

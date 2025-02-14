@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0001838",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007463.htm",
+        "Focus": "Health screening - women - over age 65",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Health maintenance visit - women - over age 65",
+                    "Physical exam - women - over age 65",
+                    "Yearly exam - women - over age 65",
+                    "Checkup - women - over age 65",
+                    "Women's health - over age 65",
+                    "Preventive care exam - women - over age 65"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001838-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Health screening - women - over age 65"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

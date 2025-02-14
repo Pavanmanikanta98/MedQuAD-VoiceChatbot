@@ -1,0 +1,96 @@
+{
+    "Document": {
+        "@id": "0003680",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000441.htm",
+        "Focus": "Spinal stenosis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0037944"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T020"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Pseudo-claudication",
+                    "Central spinal stenosis",
+                    "Foraminal spinal stenosis",
+                    "Degenerative spine disease",
+                    "Back pain - spinal stenosis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003680-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Spinal stenosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003680-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Spinal stenosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003680-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Spinal stenosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003680-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Spinal stenosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003680-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Spinal stenosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003680-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Spinal stenosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003680-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Spinal stenosis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

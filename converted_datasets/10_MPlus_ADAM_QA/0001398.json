@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0001398",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007277.htm",
+        "Focus": "Endovascular embolization",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Treatment - endovascular embolism",
+                    "Coil embolization",
+                    "Cerebral aneurysm - endovascular",
+                    "Coiling - endovascular",
+                    "Saccular aneurysm - endovascular",
+                    "Berry aneurysm - endovascular repair",
+                    "Fusiform aneurysm repair - endovascular",
+                    "Aneurysm repair - endovascular"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001398-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Endovascular embolization"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

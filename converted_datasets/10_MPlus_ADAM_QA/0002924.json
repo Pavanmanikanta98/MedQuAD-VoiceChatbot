@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0002924",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000531.htm",
+        "Focus": "Palliative care - fluid, food, and digestion",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Constipation - palliative care",
+                    "End of life - digestion",
+                    "Hospice - digestion"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002924-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Palliative care - fluid, food, and digestion"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

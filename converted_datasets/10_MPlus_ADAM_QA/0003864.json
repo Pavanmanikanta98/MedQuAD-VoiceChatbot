@@ -1,0 +1,45 @@
+{
+    "Document": {
+        "@id": "0003864",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000607.htm",
+        "Focus": "Teenage pregnancy",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C2028285",
+                        "C0032968"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003864-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Teenage pregnancy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003864-6",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Teenage pregnancy? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

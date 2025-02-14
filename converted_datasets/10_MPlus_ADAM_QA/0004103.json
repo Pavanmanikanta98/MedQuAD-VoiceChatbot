@@ -1,0 +1,108 @@
+{
+    "Document": {
+        "@id": "0004103",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001271.htm",
+        "Focus": "Urethral stricture",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0041974"
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T190",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004103-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Urethral stricture ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004103-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Urethral stricture ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0004103-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Urethral stricture ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0004103-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Urethral stricture ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0004103-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Urethral stricture ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0004103-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Urethral stricture ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0004103-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Urethral stricture ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0004103-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Urethral stricture ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0004103-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Urethral stricture ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

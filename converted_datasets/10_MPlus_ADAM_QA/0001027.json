@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001027",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003610.htm",
+        "Focus": "Creatinine urine test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Urine creatinine test"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001027-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Creatinine urine test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

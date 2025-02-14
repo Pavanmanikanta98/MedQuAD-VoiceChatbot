@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001412",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003649.htm",
+        "Focus": "Eosinophil count - absolute",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Eosinophils",
+                    "Absolute eosinophil count"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001412-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Eosinophil count - absolute"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "Document": {
+        "@id": "0003905",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003086.htm",
+        "Focus": "Thirst - absent",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C2699517"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Adipsia",
+                    "Lack of thirst",
+                    "Absence of thirst"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003905-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Thirst - absent ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003905-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Thirst - absent ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003905-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Thirst - absent ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003905-4",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Thirst - absent ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003905-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Thirst - absent ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003905-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Thirst - absent ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

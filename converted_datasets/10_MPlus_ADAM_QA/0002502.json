@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0002502",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000373.htm",
+        "Focus": "Making everyday tasks easier - arthritis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0003864"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002502-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Making everyday tasks easier - arthritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002502-3",
+                        "@qtype": "information",
+                        "#text": "What is (are) Making everyday tasks easier - arthritis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

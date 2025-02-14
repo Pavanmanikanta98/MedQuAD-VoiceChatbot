@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001953",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000372.htm",
+        "Focus": "Hereditary urea cycle abnormality",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Abnormality of the urea cycle - hereditary",
+                    "Urea cycle - hereditary abnormality"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001953-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Hereditary urea cycle abnormality"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

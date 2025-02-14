@@ -1,0 +1,66 @@
+{
+    "Document": {
+        "@id": "0002865",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002588.htm",
+        "Focus": "Oral hypoglycemics overdose",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0029944"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Diabetes pill overdose",
+                    "Sulfonylurea overdose"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002865-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Oral hypoglycemics overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002865-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Oral hypoglycemics overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002865-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Oral hypoglycemics overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002865-8",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Oral hypoglycemics overdose ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

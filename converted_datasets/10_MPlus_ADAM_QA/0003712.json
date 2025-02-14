@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0003712",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002303.htm",
+        "Focus": "Stent",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Drug-eluting stents",
+                    "Urinary or ureteral stents",
+                    "Coronary stents"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003712-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Stent"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

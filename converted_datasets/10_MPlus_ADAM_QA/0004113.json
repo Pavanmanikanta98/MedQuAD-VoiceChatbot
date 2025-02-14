@@ -1,0 +1,68 @@
+{
+    "Document": {
+        "@id": "0004113",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003142.htm",
+        "Focus": "Urinary incontinence",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0042024"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T046"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Loss of bladder control",
+                    "Uncontrollable urination",
+                    "Urination - uncontrollable",
+                    "Incontinence - urinary"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004113-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Urinary incontinence ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004113-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Urinary incontinence ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0004113-3",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Urinary incontinence ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0004113-4",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Urinary incontinence ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

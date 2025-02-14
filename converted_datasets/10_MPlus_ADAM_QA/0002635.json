@@ -1,0 +1,84 @@
+{
+    "Document": {
+        "@id": "0002635",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003306.htm",
+        "Focus": "Micrognathia",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0025990",
+                        "C2228733"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T019",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002635-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Micrognathia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002635-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Micrognathia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002635-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Micrognathia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002635-4",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Micrognathia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002635-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Micrognathia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002635-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Micrognathia ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

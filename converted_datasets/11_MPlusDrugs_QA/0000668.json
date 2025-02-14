@@ -1,0 +1,114 @@
+{
+    "Document": {
+        "@id": "0000668",
+        "@source": "MPlusDrugs",
+        "@url": "https://www.nlm.nih.gov/medlineplus/druginfo/meds/a685034.html",
+        "Focus": "Labetalol Oral",
+        "FocusAnnotations": {
+            "Category": "Drug"
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000668-1",
+                        "@qtype": "indication",
+                        "#text": "Who should get Labetalol Oral and why is it prescribed ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000668-2",
+                        "@qtype": "usage",
+                        "#text": "How should Labetalol Oral be used and what is the dosage ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000668-4",
+                        "@qtype": "precautions",
+                        "#text": "Are there safety concerns or special precautions about Labetalol Oral ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000668-5",
+                        "@qtype": "dietary",
+                        "#text": "What special dietary instructions should I follow with Labetalol Oral ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000668-6",
+                        "@qtype": "forget a dose",
+                        "#text": "What should I do if I forget a dose of Labetalol Oral ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000668-7",
+                        "@qtype": "side effects",
+                        "#text": "What are the side effects or risks of Labetalol Oral ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000668-8",
+                        "@qtype": "storage and disposal",
+                        "#text": "What should I know about storage and disposal of Labetalol Oral ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000668-9",
+                        "@qtype": "emergency or overdose",
+                        "#text": "What to do in case of emergency or overdose of Labetalol Oral ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "10",
+                    "Question": {
+                        "@qid": "0000668-10",
+                        "@qtype": "other information",
+                        "#text": "What other information should I know about Labetalol Oral ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "11",
+                    "Question": {
+                        "@qid": "0000668-11",
+                        "@qtype": "brand names",
+                        "#text": "What are the brand names of Labetalol Oral ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "12",
+                    "Question": {
+                        "@qid": "0000668-12",
+                        "@qtype": "brand names of combination products",
+                        "#text": "What are the brand names of combination products of Labetalol Oral ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

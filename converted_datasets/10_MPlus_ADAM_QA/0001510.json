@@ -1,0 +1,96 @@
+{
+    "Document": {
+        "@id": "0001510",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000756.htm",
+        "Focus": "Eyelid twitch",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0005747"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Eyelid spasm",
+                    "Eye twitch",
+                    "Twitch - eyelid",
+                    "Blepharospasm",
+                    "Myokymia"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001510-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Eyelid twitch ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001510-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Eyelid twitch ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001510-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Eyelid twitch ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001510-4",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Eyelid twitch ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001510-5",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Eyelid twitch ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001510-6",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Eyelid twitch ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001510-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Eyelid twitch ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0004276",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000452.htm",
+        "Focus": "Wearing gloves in the hospital",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004276-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Wearing gloves in the hospital"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

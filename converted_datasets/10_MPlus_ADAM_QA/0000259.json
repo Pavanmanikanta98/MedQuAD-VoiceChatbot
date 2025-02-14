@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000259",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003375.htm",
+        "Focus": "Anti-insulin antibody test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Insulin antibodies - serum",
+                    "Insulin Ab test"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000259-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Anti-insulin antibody test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

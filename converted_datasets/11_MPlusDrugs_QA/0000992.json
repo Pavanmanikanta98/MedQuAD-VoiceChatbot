@@ -1,0 +1,123 @@
+{
+    "Document": {
+        "@id": "0000992",
+        "@source": "MPlusDrugs",
+        "@url": "https://www.nlm.nih.gov/medlineplus/druginfo/meds/a684045.html",
+        "Focus": "Piroxicam",
+        "FocusAnnotations": {
+            "Category": "Drug"
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000992-1",
+                        "@qtype": "precautions",
+                        "#text": "Are there safety concerns or special precautions about Piroxicam ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000992-2",
+                        "@qtype": "important warning",
+                        "#text": "What important warning or information should I know about Piroxicam ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000992-3",
+                        "@qtype": "indication",
+                        "#text": "Who should get Piroxicam and why is it prescribed ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000992-4",
+                        "@qtype": "usage",
+                        "#text": "How should Piroxicam be used and what is the dosage ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000992-6",
+                        "@qtype": "precautions",
+                        "#text": "Are there safety concerns or special precautions about Piroxicam ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000992-7",
+                        "@qtype": "dietary",
+                        "#text": "What special dietary instructions should I follow with Piroxicam ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000992-8",
+                        "@qtype": "forget a dose",
+                        "#text": "What should I do if I forget a dose of Piroxicam ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000992-9",
+                        "@qtype": "side effects",
+                        "#text": "What are the side effects or risks of Piroxicam ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "10",
+                    "Question": {
+                        "@qid": "0000992-10",
+                        "@qtype": "storage and disposal",
+                        "#text": "What should I know about storage and disposal of Piroxicam ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "11",
+                    "Question": {
+                        "@qid": "0000992-11",
+                        "@qtype": "emergency or overdose",
+                        "#text": "What to do in case of emergency or overdose of Piroxicam ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "12",
+                    "Question": {
+                        "@qid": "0000992-12",
+                        "@qtype": "other information",
+                        "#text": "What other information should I know about Piroxicam ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "13",
+                    "Question": {
+                        "@qid": "0000992-13",
+                        "@qtype": "brand names",
+                        "#text": "What are the brand names of Piroxicam ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0000333",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000509.htm",
+        "Focus": "Assisted delivery with forceps",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C2053584"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000333-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Assisted delivery with forceps ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000333-4",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Assisted delivery with forceps? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

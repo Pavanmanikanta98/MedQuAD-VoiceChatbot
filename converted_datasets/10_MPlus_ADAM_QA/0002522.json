@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0002522",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000587.htm",
+        "Focus": "Managing pain during labor",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0030193"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002522-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Managing pain during labor ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

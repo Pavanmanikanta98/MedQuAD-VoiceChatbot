@@ -1,0 +1,51 @@
+{
+    "Document": {
+        "@id": "0000314",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000725.htm",
+        "Focus": "Arterial insufficiency",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0003834"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000314-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Arterial insufficiency ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000314-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Arterial insufficiency ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000314-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Arterial insufficiency ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

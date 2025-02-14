@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002402",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002985.htm",
+        "Focus": "Liposuction",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Fat removal - suctioning",
+                    "Body contouring"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002402-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Liposuction"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "Document": {
+        "@id": "0002501",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000765.htm",
+        "Focus": "Make time to move",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0578671"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Exercise - time to move",
+                    "Weight loss - time to move",
+                    "Obesity - time to move"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002501-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Make time to move ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

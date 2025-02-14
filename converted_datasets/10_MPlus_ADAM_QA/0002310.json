@@ -1,0 +1,112 @@
+{
+    "Document": {
+        "@id": "0002310",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001240.htm",
+        "Focus": "Kyphosis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0265673",
+                        "C0022821",
+                        "C0022822"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T019",
+                        "T190",
+                        "T020"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Scheuermann disease",
+                    "Roundback",
+                    "Hunchback",
+                    "Postural kyphosis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002310-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Kyphosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002310-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Kyphosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002310-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Kyphosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002310-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Kyphosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002310-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Kyphosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002310-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Kyphosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002310-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Kyphosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002310-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Kyphosis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

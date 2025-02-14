@@ -1,0 +1,45 @@
+{
+    "Document": {
+        "@id": "0003869",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001922.htm",
+        "Focus": "Temper tantrums",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0233558"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T048"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Acting-out behaviors"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003869-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Temper tantrums ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003869-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Temper tantrums ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "Document": {
+        "@id": "0000140",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001944.htm",
+        "Focus": "Alcohol use and safe drinking",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0552479"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Beer consumption",
+                    "Wine consumption",
+                    "Hard liquor consumption",
+                    "Safe drinking"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000140-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Alcohol use and safe drinking ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000140-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Alcohol use and safe drinking ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001820",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003619.htm",
+        "Focus": "HCG in urine",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Beta-HCG - urine",
+                    "Human chorionic gonadotropin - urine"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001820-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about HCG in urine"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

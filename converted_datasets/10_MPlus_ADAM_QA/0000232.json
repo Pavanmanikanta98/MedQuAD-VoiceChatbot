@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0000232",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007473.htm",
+        "Focus": "Angioplasty and stent placement - heart",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "PCI",
+                    "Percutaneous coronary intervention",
+                    "Balloon angioplasty",
+                    "Coronary angioplasty",
+                    "Coronary artery angioplasty",
+                    "Percutaneous transluminal coronary angioplasty",
+                    "Heart artery dilatation"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000232-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Angioplasty and stent placement - heart"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

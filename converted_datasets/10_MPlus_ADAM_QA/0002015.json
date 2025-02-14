@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002015",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000467.htm",
+        "Focus": "Hospice care",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Palliative care",
+                    "End-of-life care"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002015-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Hospice care"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

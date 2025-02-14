@@ -1,0 +1,104 @@
+{
+    "Document": {
+        "@id": "0003295",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000112.htm",
+        "Focus": "Pulmonary hypertension",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0020542",
+                        "C1963220"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T047",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Pulmonary arterial hypertension",
+                    "Sporadic primary pulmonary hypertension",
+                    "Familial primary pulmonary hypertension",
+                    "Idiopathic pulmonary arterial hypertension",
+                    "Primary pulmonary hypertension",
+                    "PPH",
+                    "Secondary pulmonary hypertension"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003295-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Pulmonary hypertension ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003295-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Pulmonary hypertension ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003295-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Pulmonary hypertension ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003295-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Pulmonary hypertension ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003295-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Pulmonary hypertension ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003295-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Pulmonary hypertension ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003295-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Pulmonary hypertension ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

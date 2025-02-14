@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0003540",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003488.htm",
+        "Focus": "Serum iron test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Fe+2",
+                    "Ferric ion",
+                    "Fe++",
+                    "Ferrous ion",
+                    "Iron - serum"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003540-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Serum iron test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

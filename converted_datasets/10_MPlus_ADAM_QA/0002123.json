@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002123",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000772.htm",
+        "Focus": "Ibuprofen dosing for children",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Motrin",
+                    "Advil"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002123-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Ibuprofen dosing for children"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

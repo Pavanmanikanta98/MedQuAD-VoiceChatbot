@@ -1,0 +1,45 @@
+{
+    "Document": {
+        "@id": "0000732",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000157.htm",
+        "Focus": "Central venous catheter - flushing",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0016382"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "CVAD - flushing"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000732-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Central venous catheter - flushing ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000732-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Central venous catheter - flushing ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

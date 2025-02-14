@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0001537",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000786.htm",
+        "Focus": "Facts about trans fats",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Trans fatty acids",
+                    "Partially hydrogenated oils (PHOs)",
+                    "Cholesterol-trans fats",
+                    "Hyperlipidemia-trans fats"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001537-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Facts about trans fats"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

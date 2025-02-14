@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0001859",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002946.htm",
+        "Focus": "Heart bypass surgery",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Off-pump coronary artery bypass",
+                    "OPCAB",
+                    "Beating heart surgery",
+                    "Bypass surgery - heart",
+                    "CABG",
+                    "Coronary artery bypass graft",
+                    "Coronary artery bypass surgery",
+                    "Coronary bypass surgery"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001859-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Heart bypass surgery"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

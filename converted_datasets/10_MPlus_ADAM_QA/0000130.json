@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0000130",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002086.htm",
+        "Focus": "Aging spots -- should you be concerned?",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0848332",
+                        "C0015230"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Age spot concerns"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000130-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Aging spots -- should you be concerned? ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

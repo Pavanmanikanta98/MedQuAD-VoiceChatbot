@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001577",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003408.htm",
+        "Focus": "Fetal scalp pH testing",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Fetal scalp blood",
+                    "Scalp pH testing",
+                    "Fetal blood testing - scalp"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001577-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Fetal scalp pH testing"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

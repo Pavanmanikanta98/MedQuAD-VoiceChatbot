@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0000067",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003695.htm",
+        "Focus": "ACTH blood test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Serum adrenocorticotropic hormone",
+                    "Adrenocorticotropic hormone",
+                    "Highly-sensitive ACTH"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000067-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about ACTH blood test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

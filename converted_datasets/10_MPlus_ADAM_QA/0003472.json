@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0003472",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003501.htm",
+        "Focus": "Schirmer test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Tear test",
+                    "Tearing test",
+                    "Dry eye test",
+                    "Basal secretion test",
+                    "Sjgren - Schirmer",
+                    "Schirmer's test"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003472-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Schirmer test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

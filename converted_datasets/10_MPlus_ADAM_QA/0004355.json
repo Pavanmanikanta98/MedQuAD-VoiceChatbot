@@ -1,0 +1,38 @@
+{
+    "Document": {
+        "@id": "0004355",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000894.htm",
+        "Focus": "14 ways to burn more calories every day",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0006434"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Weight loss - burning calories",
+                    "Overweight - burning calories",
+                    "Obesity - burning calories"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004355-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) 14 ways to burn more calories every day ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0001183",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002179.htm",
+        "Focus": "Diabetes - resources",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0011860",
+                        "C0011849"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Resources - diabetes"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001183-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Diabetes - resources ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

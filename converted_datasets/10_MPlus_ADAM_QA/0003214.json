@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0003214",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007441.htm",
+        "Focus": "Preventing food poisoning",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0016479"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003214-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Preventing food poisoning ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

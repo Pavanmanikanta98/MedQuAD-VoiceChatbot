@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0000411",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002392.htm",
+        "Focus": "Bedtime habits",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C2242848"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000411-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Bedtime habits ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

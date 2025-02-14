@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0000102",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003437.htm",
+        "Focus": "Aerobic bacteria",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0004612"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T007"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000102-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Aerobic bacteria ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

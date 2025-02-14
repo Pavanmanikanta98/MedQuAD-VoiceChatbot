@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001252",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000691.htm",
+        "Focus": "Distal median nerve dysfunction",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Neuropathy - distal median nerve"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001252-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Distal median nerve dysfunction"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

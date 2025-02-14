@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0000588",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000520.htm",
+        "Focus": "Broken toe - self-care",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Fractured toe - self-care",
+                    "Broken bone - toe - self-care",
+                    "Fracture - toe - self-care"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000588-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Broken toe - self-care"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

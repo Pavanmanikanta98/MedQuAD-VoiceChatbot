@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0003671",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002184.htm",
+        "Focus": "Spina bifida - resources",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0080178"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T019"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Resources - spina bifida"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003671-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Spina bifida - resources ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

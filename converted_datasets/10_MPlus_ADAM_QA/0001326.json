@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0001326",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003014.htm",
+        "Focus": "Eardrum repair",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Myringoplasty",
+                    "Tympanoplasty",
+                    "Ossiculoplasty",
+                    "Ossicular reconstruction",
+                    "Tympanosclerosis - surgery",
+                    "Ossicular discontinuity - surgery",
+                    "Ossicular fixation - surgery"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001326-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Eardrum repair"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

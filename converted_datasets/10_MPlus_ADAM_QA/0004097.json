@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0004097",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003816.htm",
+        "Focus": "Upper GI and small bowel series",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "GI series",
+                    "Barium swallow x-ray",
+                    "Upper GI series"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004097-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Upper GI and small bowel series"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0003538",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003544.htm",
+        "Focus": "Serum globulin electrophoresis",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Globulin electrophoresis"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003538-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Serum globulin electrophoresis"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

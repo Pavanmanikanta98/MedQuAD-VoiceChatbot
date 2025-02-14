@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0002627",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003412.htm",
+        "Focus": "Methylene blue test",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002627-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Methylene blue test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

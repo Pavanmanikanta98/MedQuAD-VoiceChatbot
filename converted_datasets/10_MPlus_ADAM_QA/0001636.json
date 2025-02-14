@@ -1,0 +1,63 @@
+{
+    "Document": {
+        "@id": "0001636",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000652.htm",
+        "Focus": "Foot sprain - aftercare",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0160093"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Mid-foot sprain"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001636-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Foot sprain - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001636-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Foot sprain - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001636-3",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Foot sprain - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001636-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Foot sprain - aftercare ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

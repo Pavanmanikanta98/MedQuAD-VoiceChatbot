@@ -1,0 +1,103 @@
+{
+    "Document": {
+        "@id": "0003926",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000331.htm",
+        "Focus": "Thyroid cancer - papillary carcinoma",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0549473",
+                        "C0007133",
+                        "C0007115"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Papillary carcinoma of the thyroid"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003926-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Thyroid cancer - papillary carcinoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003926-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Thyroid cancer - papillary carcinoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003926-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Thyroid cancer - papillary carcinoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003926-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Thyroid cancer - papillary carcinoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003926-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Thyroid cancer - papillary carcinoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003926-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Thyroid cancer - papillary carcinoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003926-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Thyroid cancer - papillary carcinoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003926-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Thyroid cancer - papillary carcinoma ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

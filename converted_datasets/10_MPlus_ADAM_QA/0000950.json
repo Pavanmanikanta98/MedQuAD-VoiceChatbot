@@ -1,0 +1,59 @@
+{
+    "Document": {
+        "@id": "0000950",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002948.htm",
+        "Focus": "Congenital heart defect - corrective surgery",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0018798"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T019"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Congenital heart surgery",
+                    "Patent ductus arteriosus ligation",
+                    "Hypoplastic left heart repair",
+                    "Tetralogy of Fallot repair",
+                    "Coarctation of the aorta repair",
+                    "Atrial septal defect repair",
+                    "Ventricular septal defect repair",
+                    "Truncus arteriosus repair",
+                    "Total anomalous pulmonary artery correction",
+                    "Transposition of great vessels repair",
+                    "Tricuspid atresia repair",
+                    "VSD repair",
+                    "ASD repair"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000950-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Congenital heart defect - corrective surgery ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000950-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Congenital heart defect - corrective surgery ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

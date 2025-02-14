@@ -1,0 +1,118 @@
+{
+    "Document": {
+        "@id": "0003751",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000726.htm",
+        "Focus": "Stroke",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0038454"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Cerebrovascular disease",
+                    "CVA",
+                    "Cerebral infarction",
+                    "Cerebral hemorrhage",
+                    "Ischemic stroke",
+                    "Stroke - ischemic",
+                    "Cerebrovascular accident",
+                    "Stroke - hemorrhagic",
+                    "Carotid artery - stroke"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003751-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Stroke ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003751-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Stroke ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003751-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Stroke ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003751-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Stroke ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003751-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Stroke ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003751-6",
+                        "@qtype": "support groups",
+                        "#text": "Where to find support for people with Stroke ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003751-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Stroke ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003751-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Stroke ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0003751-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Stroke ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

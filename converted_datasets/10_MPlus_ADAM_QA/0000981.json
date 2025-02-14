@@ -1,0 +1,69 @@
+{
+    "Document": {
+        "@id": "0000981",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000914.htm",
+        "Focus": "Coping with cancer - hair loss",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0006826",
+                        "C0002170"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T191",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Alopecia"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000981-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Coping with cancer - hair loss ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000981-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Coping with cancer - hair loss ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000981-3",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Coping with cancer - hair loss ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000981-6",
+                        "@qtype": "information",
+                        "#text": "What is (are) Coping with cancer - hair loss ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

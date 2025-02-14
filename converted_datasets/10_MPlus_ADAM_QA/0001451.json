@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001451",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003764.htm",
+        "Focus": "Esophageal culture",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Culture - esophageal"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001451-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Esophageal culture"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

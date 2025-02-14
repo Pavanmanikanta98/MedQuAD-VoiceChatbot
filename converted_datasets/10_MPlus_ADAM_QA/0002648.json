@@ -1,0 +1,112 @@
+{
+    "Document": {
+        "@id": "0002648",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001488.htm",
+        "Focus": "Miscarriage",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0000786"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T046"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Abortion - spontaneous",
+                    "Spontaneous abortion",
+                    "Abortion - missed",
+                    "Abortion - incomplete",
+                    "Abortion - complete",
+                    "Abortion - inevitable",
+                    "Abortion - infected",
+                    "Missed abortion",
+                    "Incomplete abortion",
+                    "Complete abortion",
+                    "Inevitable abortion",
+                    "Infected abortion"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002648-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Miscarriage ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002648-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Miscarriage ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002648-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Miscarriage ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002648-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Miscarriage ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002648-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Miscarriage ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002648-6",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Miscarriage ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002648-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Miscarriage ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002648-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Miscarriage ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

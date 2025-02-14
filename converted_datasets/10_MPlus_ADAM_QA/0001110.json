@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0001110",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000368.htm",
+        "Focus": "Deciding to have knee or hip replacement",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001110-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Deciding to have knee or hip replacement"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

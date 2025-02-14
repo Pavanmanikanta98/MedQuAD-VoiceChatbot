@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001216",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002866.htm",
+        "Focus": "Dieffenbachia poisoning",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Dumbcane poisoning",
+                    "Leopard lily poisoning",
+                    "Tuft root poisoning"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001216-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Dieffenbachia poisoning"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

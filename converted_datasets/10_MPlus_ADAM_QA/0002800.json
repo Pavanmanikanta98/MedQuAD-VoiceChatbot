@@ -1,0 +1,35 @@
+{
+    "Document": {
+        "@id": "0002800",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000953.htm",
+        "Focus": "Nicotine and tobacco",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Withdrawal from nicotine",
+                    "Smoking - nicotine addiction and withdrawal",
+                    "Smokeless tobacco - nicotine addiction",
+                    "Cigar smoking",
+                    "Pipe smoking",
+                    "Smokeless snuff",
+                    "Tobacco use",
+                    "Chewing tobacco",
+                    "Nicotine addiction and tobacco"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002800-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Nicotine and tobacco"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

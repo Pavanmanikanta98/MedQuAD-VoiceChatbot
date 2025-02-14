@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0000494",
+        "@source": "MPlusHealthTopics",
+        "@url": "https://www.nlm.nih.gov/medlineplus/hyperglycemia.html",
+        "Focus": "Hyperglycemia",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0020456"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "High blood glucose",
+                    "High blood sugar"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000494-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Hyperglycemia ?"
+                },
+                "Answer": "Hyperglycemia means high blood sugar or glucose. Glucose comes from the foods you eat. Insulin is a hormone that moves glucose into your cells to give them energy. Hyperglycemia happens when your body doesn't make enough insulin or can't use it the right way.    People with diabetes can get hyperglycemia from not eating the right foods or not taking medicines correctly. Other problems that can raise blood sugar include infections, certain medicines, hormone imbalances, or severe illnesses."
+            }
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001623",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003309.htm",
+        "Focus": "Fontanelles - sunken",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Sunken fontanelles",
+                    "Soft spot - sunken"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001623-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Fontanelles - sunken"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

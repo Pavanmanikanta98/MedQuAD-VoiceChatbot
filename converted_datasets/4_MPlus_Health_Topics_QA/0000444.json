@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0000444",
+        "@source": "MPlusHealthTopics",
+        "@url": "https://www.nlm.nih.gov/medlineplus/heartdiseases.html",
+        "Focus": "Heart Diseases",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0018799"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Cardiac diseases"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000444-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Heart Diseases ?"
+                },
+                "Answer": "If you're like most people, you think that heart disease is a problem for others. But heart disease is the number one killer in the U.S. It is also a major cause of disability. There are many different forms of heart disease. The most common cause of heart disease is narrowing or blockage of the coronary arteries, the blood vessels that supply blood to the heart itself. This is called coronary artery disease and happens slowly over time. It's the major reason people have heart attacks.     Other kinds of heart problems may happen to the valves in the heart, or the heart may not pump well and cause heart failure. Some people are born with heart disease.    You can help reduce your risk of heart disease by taking steps to control factors that put you at greater risk:       -  Control your blood pressure    -  Lower your cholesterol    -  Don't smoke    -  Get enough exercise       NIH: National Heart, Lung, and Blood Institute"
+            }
+        }
+    }
+}

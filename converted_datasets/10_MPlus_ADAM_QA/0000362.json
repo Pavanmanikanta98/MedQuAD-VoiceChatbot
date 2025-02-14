@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0000362",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002163.htm",
+        "Focus": "Autism - resources",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0004352"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T048"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Resources - autism"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000362-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Autism - resources ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

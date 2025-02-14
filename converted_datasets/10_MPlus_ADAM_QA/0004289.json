@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0004289",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000315.htm",
+        "Focus": "Wet to dry dressing changes",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Dressing changes",
+                    "Wound care - dressing change"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004289-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Wet to dry dressing changes"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

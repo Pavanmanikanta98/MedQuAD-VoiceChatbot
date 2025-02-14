@@ -1,0 +1,57 @@
+{
+    "Document": {
+        "@id": "0000856",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000290.htm",
+        "Focus": "Cirrhosis - discharge",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0023890"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Liver failure - discharge",
+                    "Liver cirrhosis - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000856-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Cirrhosis - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000856-2",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Cirrhosis - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000856-4",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Cirrhosis - discharge ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

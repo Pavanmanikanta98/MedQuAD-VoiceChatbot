@@ -1,0 +1,105 @@
+{
+    "Document": {
+        "@id": "0003374",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000204.htm",
+        "Focus": "Renovascular hypertension",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0020545"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Renal hypertension",
+                    "Hypertension - renovascular",
+                    "Renal artery occlusion",
+                    "Stenosis - renal artery",
+                    "Renal artery stenosis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003374-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Renovascular hypertension ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003374-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Renovascular hypertension ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003374-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Renovascular hypertension ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003374-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Renovascular hypertension ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003374-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Renovascular hypertension ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003374-6",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Renovascular hypertension ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003374-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Renovascular hypertension ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003374-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Renovascular hypertension ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

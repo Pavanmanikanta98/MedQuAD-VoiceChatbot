@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0000750",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007351.htm",
+        "Focus": "Cervical spine CT scan",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "CAT scan of cervical spine",
+                    "Computed axial tomography scan of cervical spine",
+                    "Computed tomography scan of cervical spine",
+                    "CT scan of cervical spine",
+                    "Neck CT scan"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000750-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Cervical spine CT scan"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

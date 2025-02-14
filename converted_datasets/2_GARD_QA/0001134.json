@@ -1,0 +1,36 @@
+{
+    "Document": {
+        "@id": "0001134",
+        "@source": "GARD",
+        "@url": "https://rarediseases.info.nih.gov/gard/10185/chester-porphyria",
+        "Focus": "Chester porphyria",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0032708"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Porphyria, Chester type",
+                    "PORC"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001134-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Chester porphyria ?"
+                },
+                "Answer": "Chester porphyria is a unique type of porphyria with the signs and symptoms of acute intermittent porphyria (AIP) and the biochemical defects of both AIP and variegate porphyria (VP).  Chester porphyria does not conform to any of the recognized types of acute porphyria. The symptoms associated with Chester porphyria are similar to those observed in other acute porphyrias. Treatment is symptomatic."
+            }
+        }
+    }
+}

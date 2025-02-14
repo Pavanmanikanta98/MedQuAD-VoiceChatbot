@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0003359",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002736.htm",
+        "Focus": "Refrigerant poisoning",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Coolant poisoning",
+                    "Freon poisoning",
+                    "Fluorinated hydrocarbon poisoning",
+                    "Sudden sniffing death syndrome"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003359-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Refrigerant poisoning"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

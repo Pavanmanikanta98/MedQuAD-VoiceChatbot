@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0002284",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003001.htm",
+        "Focus": "Kidney removal",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Nephrectomy",
+                    "Simple nephrectomy",
+                    "Radical nephrectomy",
+                    "Open nephrectomy",
+                    "Laparoscopic nephrectomy",
+                    "Partial nephrectomy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002284-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Kidney removal"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

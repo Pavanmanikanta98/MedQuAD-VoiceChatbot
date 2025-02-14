@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0002119",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000276.htm",
+        "Focus": "Hysterectomy - laparoscopic - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Supracervical hysterectomy - discharge",
+                    "Removal of the uterus - discharge",
+                    "Laparoscopic hysterectomy - discharge",
+                    "Total laparoscopic hysterectomy - discharge",
+                    "TLH - discharge",
+                    "Laparoscopic supracervical hysterectomy - discharge",
+                    "Robotic assisted laparoscopic hysterectomy - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002119-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Hysterectomy - laparoscopic - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

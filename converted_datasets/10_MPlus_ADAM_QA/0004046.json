@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0004046",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003594.htm",
+        "Focus": "Trypsin and chymotrypsin in stool",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Stool - trypsin and chymotrypsin"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004046-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Trypsin and chymotrypsin in stool"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

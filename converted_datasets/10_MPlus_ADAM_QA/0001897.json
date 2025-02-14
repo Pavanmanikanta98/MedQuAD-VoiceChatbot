@@ -1,0 +1,54 @@
+{
+    "Document": {
+        "@id": "0001897",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000814.htm",
+        "Focus": "Help your teen cope with stress",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0038435"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Adolescents - stress"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001897-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Help your teen cope with stress ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001897-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Help your teen cope with stress ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001897-6",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Help your teen cope with stress ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

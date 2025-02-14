@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001397",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003449.htm",
+        "Focus": "Endotracheal intubation",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Intubation - endotracheal"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001397-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Endotracheal intubation"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

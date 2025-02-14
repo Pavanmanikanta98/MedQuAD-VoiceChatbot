@@ -1,0 +1,109 @@
+{
+    "Document": {
+        "@id": "0001259",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007668.htm",
+        "Focus": "Diverticulosis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1510475"
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T190",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Diverticula - diverticulosis",
+                    "Diverticulitis - diverticulosis",
+                    "Diverticular disease - diverticulosis",
+                    "G.I. bleed - diverticulosis",
+                    "Gastrointestinal hemorrhage - diverticulosis",
+                    "Gastrointestinal bleed - diverticulosis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001259-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Diverticulosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001259-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Diverticulosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001259-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Diverticulosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001259-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Diverticulosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001259-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Diverticulosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001259-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Diverticulosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001259-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Diverticulosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001259-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Diverticulosis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

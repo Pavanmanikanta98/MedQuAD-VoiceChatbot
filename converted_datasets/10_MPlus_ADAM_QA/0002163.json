@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0002163",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003978.htm",
+        "Focus": "Incontinence - resources",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0021167"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Resources - incontinence"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002163-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Incontinence - resources ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

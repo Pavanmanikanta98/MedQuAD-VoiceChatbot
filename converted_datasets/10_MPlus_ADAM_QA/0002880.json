@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0002880",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003641.htm",
+        "Focus": "Osmotic fragility test",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0302113"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T049"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002880-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Osmotic fragility test ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002880-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Osmotic fragility test? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

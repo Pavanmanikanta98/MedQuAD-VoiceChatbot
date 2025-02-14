@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0003733",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003132.htm",
+        "Focus": "Stools - foul smelling",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Foul-smelling stools"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003733-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Stools - foul smelling"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

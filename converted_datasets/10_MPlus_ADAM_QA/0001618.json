@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0001618",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002408.htm",
+        "Focus": "Folic acid in diet",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Folic acid",
+                    "Polyglutamyl folacin",
+                    "Pteroylmonoglutamate",
+                    "Folate"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001618-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Folic acid in diet"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

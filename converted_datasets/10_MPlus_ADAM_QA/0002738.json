@@ -1,0 +1,39 @@
+{
+    "Document": {
+        "@id": "0002738",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001916.htm",
+        "Focus": "Nasal CPAP",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Continuous positive airway pressure",
+                    "CPAP",
+                    "Bilevel positive airway pressure",
+                    "BiPAP",
+                    "Autotitrating positive airway pressure",
+                    "APAP",
+                    "nCPAP",
+                    "Non-invasive positive pressure ventilation",
+                    "NIPPV",
+                    "Non-invasive ventilation",
+                    "NIV",
+                    "OSA - CPAP",
+                    "Obstructive sleep apnea - CPAP"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002738-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Nasal CPAP"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

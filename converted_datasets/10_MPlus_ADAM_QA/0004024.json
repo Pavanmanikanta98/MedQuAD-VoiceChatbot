@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0004024",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002559.htm",
+        "Focus": "Trazodone hydrochloride overdose",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Desyrel overdose",
+                    "Deprax overdose",
+                    "Molipaxin overdose",
+                    "Thrombran overdose",
+                    "Trialodine overdose",
+                    "Trittico overdose"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004024-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Trazodone hydrochloride overdose"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

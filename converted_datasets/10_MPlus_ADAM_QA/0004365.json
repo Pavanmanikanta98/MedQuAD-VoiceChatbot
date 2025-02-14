@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0004365",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003612.htm",
+        "Focus": "5-HIAA",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "HIAA",
+                    "5-hydroxyindole acetic acid",
+                    "Serotonin metabolite"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004365-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about 5-HIAA"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

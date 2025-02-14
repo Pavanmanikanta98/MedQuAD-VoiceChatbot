@@ -1,0 +1,60 @@
+{
+    "Document": {
+        "@id": "0000997",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002582.htm",
+        "Focus": "Corticosteroids overdose",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0573704"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000997-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Corticosteroids overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000997-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Corticosteroids overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000997-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Corticosteroids overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000997-8",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Corticosteroids overdose ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

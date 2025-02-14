@@ -1,0 +1,39 @@
+{
+    "Document": {
+        "@id": "0000157",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000247.htm",
+        "Focus": "Allergic rhinitis - what to ask your doctor - adult",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C2607914"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "What to ask your doctor about allergic rhinitis - adult",
+                    "Hay fever - what to ask your doctor - adult",
+                    "Allergies - what to ask your doctor - adult",
+                    "Allergic conjunctivitis - what to ask your doctor"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000157-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Allergic rhinitis - what to ask your doctor - adult ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

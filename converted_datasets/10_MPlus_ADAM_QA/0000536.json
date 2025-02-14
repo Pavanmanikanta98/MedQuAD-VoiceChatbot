@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000536",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000055.htm",
+        "Focus": "Brain radiation - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Radiation - brain - discharge"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000536-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Brain radiation - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

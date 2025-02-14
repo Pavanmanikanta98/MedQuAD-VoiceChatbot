@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0000138",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003480.htm",
+        "Focus": "Albumin - blood (serum) test",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0456984"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000138-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Albumin - blood (serum) test ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000138-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Albumin - blood (serum) test? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

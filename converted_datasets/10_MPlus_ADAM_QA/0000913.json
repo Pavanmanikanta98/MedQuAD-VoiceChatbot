@@ -1,0 +1,93 @@
+{
+    "Document": {
+        "@id": "0000913",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001002.htm",
+        "Focus": "Color blindness",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0242225"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Color deficiency",
+                    "Blindness - color"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000913-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Color blindness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000913-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Color blindness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000913-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Color blindness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000913-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Color blindness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000913-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Color blindness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000913-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Color blindness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000913-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Color blindness ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

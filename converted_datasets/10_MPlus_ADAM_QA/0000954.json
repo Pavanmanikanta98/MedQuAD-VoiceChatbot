@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000954",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000559.htm",
+        "Focus": "Congenital protein C or S deficiency",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Protein S deficiency",
+                    "Protein C deficiency"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000954-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Congenital protein C or S deficiency"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

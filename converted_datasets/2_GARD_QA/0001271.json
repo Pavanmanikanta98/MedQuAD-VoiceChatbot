@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0001271",
+        "@source": "GARD",
+        "@url": "https://rarediseases.info.nih.gov/gard/3744/chromosome-2q-deletion",
+        "Focus": "Chromosome 2q deletion",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1442161"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T049"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Deletion 2q",
+                    "Monosomy 2q",
+                    "2q deletion",
+                    "2q monosomy",
+                    "Partial monosomy 2q",
+                    "2q23.1 microdeletion syndrome",
+                    "2q37 deletion syndrome",
+                    "Chromosome 2q24 microdeletion syndrome"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001271-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Chromosome 2q deletion ?"
+                },
+                "Answer": "Chromosome 2q deletion is a chromosome abnormality that occurs when there is a missing copy of the genetic material located on the long arm (q) of chromosome 2. The severity of the condition and the signs and symptoms depend on the size and location of the deletion and which genes are involved. Features that often occur in people with chromosome 2q deletion include developmental delay, intellectual disability, behavioral problems, and distinctive facial features. Most cases are not inherited, but people can pass the deletion on to their children. Treatment is based on the signs and symptoms present in each person."
+            }
+        }
+    }
+}

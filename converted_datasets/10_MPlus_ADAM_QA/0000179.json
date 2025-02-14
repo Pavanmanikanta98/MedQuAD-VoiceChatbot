@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0000179",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000508.htm",
+        "Focus": "Am I in labor?",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "False labor",
+                    "Braxton Hicks contractions",
+                    "Prodromal labor",
+                    "Latent labor",
+                    "Pregnancy - labor"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000179-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Am I in labor?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

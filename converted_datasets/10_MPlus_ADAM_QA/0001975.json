@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001975",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000193.htm",
+        "Focus": "High-fiber foods",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Dietary fiber - self-care"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001975-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about High-fiber foods"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

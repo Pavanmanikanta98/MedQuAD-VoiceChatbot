@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0000107",
+        "@source": "MPlusHealthTopics",
+        "@url": "https://www.nlm.nih.gov/medlineplus/bloodpressuremedicines.html",
+        "Focus": "Blood Pressure Medicines",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0460139"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Antihypertensive medicines",
+                    "High blood pressure medicines"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000107-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Blood Pressure Medicines ?"
+                },
+                "Answer": "High blood pressure, also called hypertension, usually has no symptoms. But it can cause serious problems such as stroke, heart failure, heart attack and kidney failure. If you cannot control your high blood pressure through lifestyle changes such as losing weight and reducing sodium in your diet, you may need medicines.    Blood pressure medicines work in different ways to lower blood pressure. Some remove extra fluid and salt from the body. Others slow down the heartbeat or relax and widen blood vessels. Often, two or more medicines work better than one.     NIH: National Heart, Lung, and Blood Institute"
+            }
+        }
+    }
+}

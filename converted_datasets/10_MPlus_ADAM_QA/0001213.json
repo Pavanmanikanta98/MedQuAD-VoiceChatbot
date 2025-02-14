@@ -1,0 +1,72 @@
+{
+    "Document": {
+        "@id": "0001213",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002629.htm",
+        "Focus": "Diazepam overdose",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0572995"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Aliseum overdose",
+                    "Alupram overdose",
+                    "Atensine overdose",
+                    "Valium overdose",
+                    "Valrelease overdose",
+                    "Vatran overdose",
+                    "Vivol overdose",
+                    "Zeltran overdose"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001213-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Diazepam overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001213-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Diazepam overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001213-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Diazepam overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001213-8",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Diazepam overdose ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

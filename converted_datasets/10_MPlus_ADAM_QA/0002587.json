@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0002587",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007209.htm",
+        "Focus": "Meniscal allograft transplantation",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Meniscus transplant",
+                    "Surgery - knee - meniscus transplant",
+                    "Surgery - knee - cartilage",
+                    "Arthroscopy - knee - meniscus transplant"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002587-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Meniscal allograft transplantation"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

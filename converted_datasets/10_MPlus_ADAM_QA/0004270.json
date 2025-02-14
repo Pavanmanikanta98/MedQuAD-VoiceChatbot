@@ -1,0 +1,97 @@
+{
+    "Document": {
+        "@id": "0004270",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000609.htm",
+        "Focus": "Waterhouse-Friderichsen syndrome",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0043068",
+                        "C1403891"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Fulminant meningococcemia - Waterhouse-Friderichsen syndrome",
+                    "Fulminant meningococcal sepsis - Waterhouse-Friderichsen syndrome",
+                    "Hemorrhagic adrenalitis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004270-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Waterhouse-Friderichsen syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004270-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Waterhouse-Friderichsen syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0004270-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Waterhouse-Friderichsen syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0004270-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Waterhouse-Friderichsen syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0004270-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Waterhouse-Friderichsen syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0004270-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Waterhouse-Friderichsen syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0004270-7",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Waterhouse-Friderichsen syndrome ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "Document": {
+        "@id": "0000141",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000944.htm",
+        "Focus": "Alcohol use disorder",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0001956"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T048"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Alcohol dependence",
+                    "Alcohol abuse",
+                    "Problem drinking",
+                    "Drinking problem",
+                    "Alcohol addiction"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000141-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Alcohol use disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000141-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Alcohol use disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000141-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Alcohol use disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000141-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Alcohol use disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000141-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Alcohol use disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000141-6",
+                        "@qtype": "support groups",
+                        "#text": "Where to find support for people with Alcohol use disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000141-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Alcohol use disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000141-8",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Alcohol use disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000141-9",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Alcohol use disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "10",
+                    "Question": {
+                        "@qid": "0000141-10",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Alcohol use disorder ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

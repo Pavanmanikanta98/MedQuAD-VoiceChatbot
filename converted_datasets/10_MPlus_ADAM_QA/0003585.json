@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0003585",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000746.htm",
+        "Focus": "Simple, heart-smart substitutions",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0235048"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003585-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Simple, heart-smart substitutions ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

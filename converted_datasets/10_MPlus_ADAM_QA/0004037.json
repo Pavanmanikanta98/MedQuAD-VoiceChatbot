@@ -1,0 +1,58 @@
+{
+    "Document": {
+        "@id": "0004037",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000565.htm",
+        "Focus": "Trigger finger",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0158328"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T020"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Digital stenosing tenosynovitis",
+                    "Trigger digit",
+                    "Trigger finger release"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004037-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Trigger finger ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004037-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Trigger finger ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0004037-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Trigger finger ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

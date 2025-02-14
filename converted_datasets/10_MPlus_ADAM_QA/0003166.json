@@ -1,0 +1,66 @@
+{
+    "Document": {
+        "@id": "0003166",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000680.htm",
+        "Focus": "Posterior cruciate ligament (PCL) injury - aftercare",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C3263723"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Cruciate ligament injury - aftercare",
+                    "PCL injury - aftercare"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003166-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Posterior cruciate ligament (PCL) injury - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003166-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Posterior cruciate ligament (PCL) injury - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003166-3",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Posterior cruciate ligament (PCL) injury - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003166-6",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Posterior cruciate ligament (PCL) injury - aftercare ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

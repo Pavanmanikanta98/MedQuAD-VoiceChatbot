@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0000845",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000009.htm",
+        "Focus": "Chronic obstructive pulmonary disease - adults - discharge",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0024117"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000845-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Chronic obstructive pulmonary disease - adults - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000845-9",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Chronic obstructive pulmonary disease - adults - discharge ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

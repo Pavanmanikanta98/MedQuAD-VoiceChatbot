@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0000462",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002858.htm",
+        "Focus": "Black widow spider",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000462-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Black widow spider"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

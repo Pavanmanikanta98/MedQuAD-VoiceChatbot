@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0003078",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002125.htm",
+        "Focus": "Physical exam frequency",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "How often you need a physical exam",
+                    "Health maintenance visit",
+                    "Health screening",
+                    "Checkup"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003078-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Physical exam frequency"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

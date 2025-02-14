@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0004089",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000878.htm",
+        "Focus": "Understanding your health care costs",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0580931"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004089-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Understanding your health care costs ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

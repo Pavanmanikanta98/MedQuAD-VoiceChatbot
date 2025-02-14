@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0000325",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001549.htm",
+        "Focus": "Asperger syndrome",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0236792"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T048"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000325-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Asperger syndrome ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000871",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000522.htm",
+        "Focus": "Closed reduction of a fractured bone - aftercare",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Fracture reduction - closed - aftercare",
+                    "Cast care"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000871-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Closed reduction of a fractured bone - aftercare"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

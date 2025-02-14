@@ -1,0 +1,57 @@
+{
+    "Document": {
+        "@id": "0000611",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000191.htm",
+        "Focus": "Bunion removal - discharge",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0006386"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T020"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Bunionectomy - discharge",
+                    "Hallux valgus correction - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000611-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Bunion removal - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000611-2",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Bunion removal - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000611-6",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Bunion removal - discharge ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

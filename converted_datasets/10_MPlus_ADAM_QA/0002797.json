@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0002797",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007257.htm",
+        "Focus": "Newborn screening tests",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Infant screening tests",
+                    "Neonatal screening tests",
+                    "The PKU test"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002797-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Newborn screening tests"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

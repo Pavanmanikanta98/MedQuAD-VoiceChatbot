@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0000052",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003368.htm",
+        "Focus": "Acid mucopolysaccharides",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "AMP",
+                    "Dermatan sulfate - urine",
+                    "Urine heparan sulfate",
+                    "Urine dermatan sulfate",
+                    "Heparan sulfate - urine"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000052-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Acid mucopolysaccharides"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0000665",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000840.htm",
+        "Focus": "Cancer treatment: fertility and sexual side effects in women",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000665-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Cancer treatment: fertility and sexual side effects in women"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0002309",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007511.htm",
+        "Focus": "Kyphoplasty",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Balloon kyphoplasty"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002309-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Kyphoplasty"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "Document": {
+        "@id": "0001388",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000910.htm",
+        "Focus": "Endometrial cancer",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C1883486",
+                        "C0007103",
+                        "C0476089"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Endometrial adenocarcinoma",
+                    "Uterine adenocarcinoma",
+                    "Uterine cancer",
+                    "Adenocarcinoma - endometrium",
+                    "Adenocarcinoma - uterus",
+                    "Cancer - uterine",
+                    "Cancer - endometrial",
+                    "Uterine corpus cancer"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001388-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Endometrial cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001388-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Endometrial cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001388-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Endometrial cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001388-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Endometrial cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001388-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Endometrial cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001388-6",
+                        "@qtype": "support groups",
+                        "#text": "Where to find support for people with Endometrial cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001388-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Endometrial cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001388-8",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Endometrial cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0001388-9",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Endometrial cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "10",
+                    "Question": {
+                        "@qid": "0001388-10",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Endometrial cancer ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

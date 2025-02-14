@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003093",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002589.htm",
+        "Focus": "Piperonyl butoxide with pyrethrins poisoning",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Pyrethrins poisoning",
+                    "Lice medicine poisoning"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003093-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Piperonyl butoxide with pyrethrins poisoning"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

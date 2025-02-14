@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0002930",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002283.htm",
+        "Focus": "PAM",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Potential acuity meter"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002930-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about PAM"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "Document": {
+        "@id": "0000836",
+        "@source": "MPlusDrugs",
+        "@url": "https://www.nlm.nih.gov/medlineplus/druginfo/meds/a682668.html",
+        "Focus": "Nalbuphine Injection",
+        "FocusAnnotations": {
+            "Category": "Drug"
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000836-1",
+                        "@qtype": "other information",
+                        "#text": "What other information should I know about Nalbuphine Injection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000836-2",
+                        "@qtype": "precautions",
+                        "#text": "Are there safety concerns or special precautions about Nalbuphine Injection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000836-4",
+                        "@qtype": "side effects",
+                        "#text": "What are the side effects or risks of Nalbuphine Injection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000836-5",
+                        "@qtype": "storage and disposal",
+                        "#text": "What should I know about storage and disposal of Nalbuphine Injection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000836-7",
+                        "@qtype": "brand names",
+                        "#text": "What are the brand names of Nalbuphine Injection ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

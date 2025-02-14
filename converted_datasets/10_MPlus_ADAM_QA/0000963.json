@@ -1,0 +1,57 @@
+{
+    "Document": {
+        "@id": "0000963",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000120.htm",
+        "Focus": "Constipation - self-care",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C1963087",
+                        "C0009806"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T033",
+                        "T184"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000963-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Constipation - self-care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000963-2",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Constipation - self-care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000963-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Constipation - self-care ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

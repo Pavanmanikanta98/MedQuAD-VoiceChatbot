@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0003643",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000696.htm",
+        "Focus": "Smoking and COPD",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1519384"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003643-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Smoking and COPD ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "Document": {
+        "@id": "0000033",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003382.htm",
+        "Focus": "Abscess scan - radioactive",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0000833"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Radioactive abscess scan",
+                    "Abscess scan",
+                    "Indium Scan",
+                    "Indium-labelled white blood cell scan"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000033-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Abscess scan - radioactive ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000033-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Abscess scan - radioactive? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

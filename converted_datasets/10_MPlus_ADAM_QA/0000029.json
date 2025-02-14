@@ -1,0 +1,68 @@
+{
+    "Document": {
+        "@id": "0000029",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002912.htm",
+        "Focus": "Abortion - surgical",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0156543"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Suction curettage",
+                    "Surgical abortion",
+                    "Elective abortion - surgical",
+                    "Therapeutic abortion - surgical"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000029-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Abortion - surgical ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000029-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Abortion - surgical ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000029-4",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Abortion - surgical? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000029-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Abortion - surgical ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

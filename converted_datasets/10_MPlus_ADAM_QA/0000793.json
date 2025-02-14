@@ -1,0 +1,94 @@
+{
+    "Document": {
+        "@id": "0000793",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001126.htm",
+        "Focus": "Chinese restaurant syndrome",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0008127"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Hot dog headache",
+                    "Glutamate-induced asthma",
+                    "MSG (monosodium glutamate) syndrome"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000793-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Chinese restaurant syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000793-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Chinese restaurant syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000793-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Chinese restaurant syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000793-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Chinese restaurant syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000793-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Chinese restaurant syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000793-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Chinese restaurant syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000793-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Chinese restaurant syndrome ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

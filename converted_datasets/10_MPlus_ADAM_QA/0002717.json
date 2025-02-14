@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002717",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003873.htm",
+        "Focus": "Myocardial biopsy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Heart biopsy",
+                    "Biopsy - heart"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002717-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Myocardial biopsy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

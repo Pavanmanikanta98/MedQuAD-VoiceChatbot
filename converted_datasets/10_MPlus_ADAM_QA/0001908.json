@@ -1,0 +1,38 @@
+{
+    "Document": {
+        "@id": "0001908",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003371.htm",
+        "Focus": "Hemoglobin derivatives",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1561562"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Methemoglobin",
+                    "Carboxyhemoglobin",
+                    "Sulfhemoglobin"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001908-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Hemoglobin derivatives ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

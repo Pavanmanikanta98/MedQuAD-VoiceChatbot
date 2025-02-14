@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0000495",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003345.htm",
+        "Focus": "Blood typing",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Cross matching",
+                    "Rh typing",
+                    "ABO blood typing"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000495-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Blood typing"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

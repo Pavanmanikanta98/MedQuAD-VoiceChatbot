@@ -1,0 +1,105 @@
+{
+    "Document": {
+        "@id": "0002860",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001537.htm",
+        "Focus": "Oppositional defiant disorder",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0029121"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T048"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002860-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Oppositional defiant disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002860-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Oppositional defiant disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002860-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Oppositional defiant disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002860-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Oppositional defiant disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002860-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Oppositional defiant disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002860-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Oppositional defiant disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002860-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Oppositional defiant disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002860-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Oppositional defiant disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002860-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Oppositional defiant disorder ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

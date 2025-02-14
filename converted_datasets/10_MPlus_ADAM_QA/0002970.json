@@ -1,0 +1,105 @@
+{
+    "Document": {
+        "@id": "0002970",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001113.htm",
+        "Focus": "Patent foramen ovale",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0016522",
+                        "C2939192"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T019",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "PFO"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002970-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Patent foramen ovale ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002970-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Patent foramen ovale ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002970-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Patent foramen ovale ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002970-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Patent foramen ovale ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002970-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Patent foramen ovale ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002970-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Patent foramen ovale ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002970-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Patent foramen ovale ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002970-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Patent foramen ovale ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

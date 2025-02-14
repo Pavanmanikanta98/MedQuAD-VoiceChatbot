@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0004363",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003569.htm",
+        "Focus": "25-hydroxy vitamin D test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "25-OH vitamin D test",
+                    "Calcidiol",
+                    "25-hydroxycholecalciferol test"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004363-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about 25-hydroxy vitamin D test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

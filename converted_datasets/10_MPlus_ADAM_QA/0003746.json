@@ -1,0 +1,49 @@
+{
+    "Document": {
+        "@id": "0003746",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002059.htm",
+        "Focus": "Stress in childhood",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0038435"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Fear in children",
+                    "Anxiety in children",
+                    "Childhood stress"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003746-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Stress in childhood ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003746-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Stress in childhood ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

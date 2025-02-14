@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001925",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002939.htm",
+        "Focus": "Hemorrhoid surgery",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Hemorrhoidectomy"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001925-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Hemorrhoid surgery"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

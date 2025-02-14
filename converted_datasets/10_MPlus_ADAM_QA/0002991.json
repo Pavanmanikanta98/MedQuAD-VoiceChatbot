@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0002991",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007667.htm",
+        "Focus": "Pelvic ultrasound - abdominal",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Ultrasound pelvis",
+                    "Pelvic ultrasonography",
+                    "Pelvic sonography",
+                    "Pelvic scan",
+                    "Lower abdomen ultrasound",
+                    "Gynecologic ultrasound",
+                    "Transabdominal ultrasound"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002991-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Pelvic ultrasound - abdominal"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

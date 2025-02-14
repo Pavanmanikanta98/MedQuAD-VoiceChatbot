@@ -1,0 +1,105 @@
+{
+    "Document": {
+        "@id": "0001672",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001436.htm",
+        "Focus": "Ganglioneuroblastoma",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0206718"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001672-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Ganglioneuroblastoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001672-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Ganglioneuroblastoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001672-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Ganglioneuroblastoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001672-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Ganglioneuroblastoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001672-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Ganglioneuroblastoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001672-6",
+                        "@qtype": "support groups",
+                        "#text": "Where to find support for people with Ganglioneuroblastoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001672-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Ganglioneuroblastoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001672-8",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Ganglioneuroblastoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0001672-9",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Ganglioneuroblastoma ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

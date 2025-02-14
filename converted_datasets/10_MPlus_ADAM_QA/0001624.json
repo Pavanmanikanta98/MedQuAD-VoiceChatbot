@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001624",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002435.htm",
+        "Focus": "Food additives",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Additives in food",
+                    "Artificial flavors and color"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001624-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Food additives"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

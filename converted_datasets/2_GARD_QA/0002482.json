@@ -1,0 +1,39 @@
+{
+    "Document": {
+        "@id": "0002482",
+        "@source": "GARD",
+        "@url": "https://rarediseases.info.nih.gov/gard/194/gamma-aminobutyric-acid-transaminase-deficiency",
+        "Focus": "Gamma aminobutyric acid transaminase deficiency",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0342708"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "GABA transaminase deficiency",
+                    "Gamma aminobutyrate transaminase deficiency",
+                    "GABAT",
+                    "4 alpha aminobutyrate transaminase deficiency",
+                    "ABAT"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002482-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Gamma aminobutyric acid transaminase deficiency ?"
+                },
+                "Answer": "GABA (gamma-aminobutyric acid) is an important molecule which slows down the activity of cells in the brain.[1] GABA is broken down in the body by a substance known as 4-aminobutyrate aminotransferase, also known as GABA-transaminase or GABA-T.[1] Mutations in the ABAT gene can cause less GABA-T to be made, a condition known as GABA-T deficiency.[1] The symptoms for an individual with GABA-T deficiency can include: psychomotor retardation (a slowing down of thought and activity), low muscle tone, hyperactive responses, lethargy, seizures, and EEG abnormalities.[1] GABA-T deficiency is very rare, with fewer than 5 cases reported in the literature.[2] It is thought to be inherited in an autosomal recessive manner.[3][4]"
+            }
+        }
+    }
+}

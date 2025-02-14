@@ -1,0 +1,52 @@
+{
+    "Document": {
+        "@id": "0002613",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002260.htm",
+        "Focus": "Metastasis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C2939420",
+                        "C0027627",
+                        "C2939419"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Metastatic cancer",
+                    "Cancer metastases"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002613-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Metastasis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002613-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Metastasis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003686",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000286.htm",
+        "Focus": "Spleen removal - laparoscopic - adults - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Splenectomy - microscopic - discharge",
+                    "Laparoscopic splenectomy - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003686-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Spleen removal - laparoscopic - adults - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

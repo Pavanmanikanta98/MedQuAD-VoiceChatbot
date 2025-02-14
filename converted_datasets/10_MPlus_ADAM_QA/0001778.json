@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001778",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003377.htm",
+        "Focus": "Growth hormone stimulation test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Arginine test",
+                    "Arginine-GHRH test"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001778-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Growth hormone stimulation test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

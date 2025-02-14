@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0002983",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000900.htm",
+        "Focus": "PEG tube insertion - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Gastrostomy tube insertion-discharge",
+                    "G-tube insertion-discharge",
+                    "PEG tube insertion-discharge",
+                    "Stomach tube insertion-discharge",
+                    "Percutaneous endoscopic gastrostomy tube insertion-discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002983-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about PEG tube insertion - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

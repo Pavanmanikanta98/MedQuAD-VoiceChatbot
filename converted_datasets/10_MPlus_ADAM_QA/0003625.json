@@ -1,0 +1,108 @@
+{
+    "Document": {
+        "@id": "0003625",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001362.htm",
+        "Focus": "Sleeping sickness",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0041228"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Human African trypanosomiasis"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003625-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Sleeping sickness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003625-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Sleeping sickness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003625-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Sleeping sickness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003625-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Sleeping sickness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003625-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Sleeping sickness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003625-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Sleeping sickness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003625-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Sleeping sickness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003625-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Sleeping sickness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0003625-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Sleeping sickness ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

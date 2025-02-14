@@ -1,0 +1,54 @@
+{
+    "Document": {
+        "@id": "0001285",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000293.htm",
+        "Focus": "Drug-induced diarrhea",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1996989"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Diarrhea associated with medications"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001285-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Drug-induced diarrhea ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001285-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Drug-induced diarrhea ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001285-3",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Drug-induced diarrhea ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

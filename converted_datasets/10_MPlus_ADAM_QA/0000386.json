@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0000386",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007494.htm",
+        "Focus": "Back pain - when you see the doctor",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0004604"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000386-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Back pain - when you see the doctor ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000386-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Back pain - when you see the doctor ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

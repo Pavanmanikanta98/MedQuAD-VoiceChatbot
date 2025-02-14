@@ -1,0 +1,81 @@
+{
+    "Document": {
+        "@id": "0000235",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000734.htm",
+        "Focus": "Animal bites - self-care",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0003044"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Bites - animals - self-care"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000235-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Animal bites - self-care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000235-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Animal bites - self-care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000235-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Animal bites - self-care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000235-6",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Animal bites - self-care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000235-7",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Animal bites - self-care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000235-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Animal bites - self-care ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "Document": {
+        "@id": "0001880",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003266.htm",
+        "Focus": "Heart murmurs and other sounds",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0018808"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Chest sounds - murmurs",
+                    "Heart sounds - abnormal",
+                    "Murmur - innocent",
+                    "Innocent murmur",
+                    "Systolic heart murmur",
+                    "Diastolic heart murmur"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001880-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Heart murmurs and other sounds ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001880-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Heart murmurs and other sounds ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001880-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Heart murmurs and other sounds ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001880-4",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Heart murmurs and other sounds ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

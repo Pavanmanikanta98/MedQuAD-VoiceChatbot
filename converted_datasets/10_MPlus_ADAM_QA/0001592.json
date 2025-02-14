@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001592",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003899.htm",
+        "Focus": "Fine needle aspiration of the thyroid",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Thyroid nodule fine needle aspirate biopsy",
+                    "Biopsy - thyroid - skinny-needle",
+                    "Skinny-needle thyroid biopsy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001592-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Fine needle aspiration of the thyroid"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

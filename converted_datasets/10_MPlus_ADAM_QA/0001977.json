@@ -1,0 +1,77 @@
+{
+    "Document": {
+        "@id": "0001977",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000682.htm",
+        "Focus": "Hip flexor strain - aftercare",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C1510453",
+                        "C0080194"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T037",
+                        "T184"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Pulled hip flexor - aftercare",
+                    "Hip flexor injury - aftercare",
+                    "Hip flexor tear - aftercare",
+                    "Iliopsoas strain - aftercare",
+                    "Strained iliopsoas muscle - aftercare",
+                    "Torn iliopsoas muscle - aftercare",
+                    "Psoas strain - aftercare"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001977-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hip flexor strain - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001977-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hip flexor strain - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001977-3",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Hip flexor strain - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001977-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Hip flexor strain - aftercare ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

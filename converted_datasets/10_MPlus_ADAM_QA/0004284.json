@@ -1,0 +1,40 @@
+{
+    "Document": {
+        "@id": "0004284",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000259.htm",
+        "Focus": "Weight-loss surgery - before - what to ask your doctor",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0424653"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Gastric bypass - before - what to ask your doctor",
+                    "Roux-en-Y gastric bypass - before - what to ask your doctor",
+                    "Gastric banding - before - what to ask your doctor",
+                    "Vertical sleeve surgery - before - what to ask your doctor",
+                    "What to ask your doctor before weight-loss surgery"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004284-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Weight-loss surgery - before - what to ask your doctor ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

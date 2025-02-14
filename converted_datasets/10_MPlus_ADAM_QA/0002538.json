@@ -1,0 +1,108 @@
+{
+    "Document": {
+        "@id": "0002538",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001534.htm",
+        "Focus": "Mathematics disorder",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1411876"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T048"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Developmental dyscalculia"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002538-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Mathematics disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002538-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Mathematics disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002538-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Mathematics disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002538-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Mathematics disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002538-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Mathematics disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002538-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Mathematics disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002538-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Mathematics disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002538-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Mathematics disorder ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002538-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Mathematics disorder ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

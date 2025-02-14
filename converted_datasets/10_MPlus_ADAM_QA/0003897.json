@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0003897",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000579.htm",
+        "Focus": "The day of surgery for your child",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Same-day surgery - child",
+                    "Ambulatory surgery - child",
+                    "Surgical procedure - child"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003897-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about The day of surgery for your child"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "Document": {
+        "@id": "0004301",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000122.htm",
+        "Focus": "When you have nausea and vomiting",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0027498"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Nausea - self-care",
+                    "Vomiting - self-care"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004301-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) When you have nausea and vomiting ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004301-2",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for When you have nausea and vomiting ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0004301-4",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for When you have nausea and vomiting ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

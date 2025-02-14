@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0002354",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000813.htm",
+        "Focus": "Learn about gluten-free diets",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002354-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Learn about gluten-free diets"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

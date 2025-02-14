@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0002132",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007378.htm",
+        "Focus": "Ileostomy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Enterostomy"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002132-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Ileostomy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

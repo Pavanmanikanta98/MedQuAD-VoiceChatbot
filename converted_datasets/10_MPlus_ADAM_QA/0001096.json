@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001096",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003606.htm",
+        "Focus": "D-xylose absorption",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Xylose tolerance test"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001096-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about D-xylose absorption"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0003426",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002032.htm",
+        "Focus": "Risks of tobacco",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Secondhand smoke - risks",
+                    "Cigarette smoking - risks",
+                    "Smoking and smokeless tobacco - risks"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003426-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Risks of tobacco"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

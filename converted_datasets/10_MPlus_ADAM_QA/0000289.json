@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0000289",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007407.htm",
+        "Focus": "Aortic valve surgery - minimally invasive",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Mini-thoracotomy aortic valve replacement or repair",
+                    "Cardiac valvular surgery",
+                    "Mini-sternotomy",
+                    "Robotically-assisted aortic valve replacement, Trancatheter aortic valve replacement, TAVR."
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000289-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Aortic valve surgery - minimally invasive"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

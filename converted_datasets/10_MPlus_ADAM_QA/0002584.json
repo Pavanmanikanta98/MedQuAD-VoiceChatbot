@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0002584",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003020.htm",
+        "Focus": "Meningocele repair",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Myelomeningocele repair",
+                    "Myelomeningocele closure",
+                    "Myelodysplasia repair",
+                    "Spinal dysraphism repair",
+                    "Meningomyelocele repair",
+                    "Neural tube defect repair",
+                    "Spina bifida repair"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002584-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Meningocele repair"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

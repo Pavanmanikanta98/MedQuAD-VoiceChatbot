@@ -1,0 +1,57 @@
+{
+    "Document": {
+        "@id": "0002821",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000475.htm",
+        "Focus": "Norovirus - hospital",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0949920"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T005"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Gastroenteritis - norovirus",
+                    "Colitis - norovirus"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002821-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Norovirus - hospital ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002821-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Norovirus - hospital ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002821-4",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Norovirus - hospital ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

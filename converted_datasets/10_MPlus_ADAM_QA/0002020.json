@@ -1,0 +1,69 @@
+{
+    "Document": {
+        "@id": "0002020",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000845.htm",
+        "Focus": "How childhood cancers are different from adult cancers",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0006826"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002020-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) How childhood cancers are different from adult cancers ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002020-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) How childhood cancers are different from adult cancers ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002020-3",
+                        "@qtype": "causes",
+                        "#text": "What causes How childhood cancers are different from adult cancers ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002020-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose How childhood cancers are different from adult cancers ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002020-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for How childhood cancers are different from adult cancers ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

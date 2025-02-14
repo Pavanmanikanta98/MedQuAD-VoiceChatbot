@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0001861",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007012.htm",
+        "Focus": "Heart bypass surgery - minimally invasive",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Minimally invasive direct coronary artery bypass",
+                    "MIDCAB",
+                    "Robot assisted coronary artery bypass",
+                    "RACAB",
+                    "Keyhole heart surgery"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001861-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Heart bypass surgery - minimally invasive"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

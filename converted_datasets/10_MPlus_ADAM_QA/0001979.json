@@ -1,0 +1,70 @@
+{
+    "Document": {
+        "@id": "0001979",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007386.htm",
+        "Focus": "Hip fracture surgery",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0019557"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Inter-trochanteric fracture repair",
+                    "Subtrochanteric fracture repair",
+                    "Femoral neck fracture repair",
+                    "Trochanteric fracture repair",
+                    "Hip pinning surgery",
+                    "Osteoarthritis-hip"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001979-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hip fracture surgery ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001979-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hip fracture surgery ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001979-4",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Hip fracture surgery? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001979-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Hip fracture surgery ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

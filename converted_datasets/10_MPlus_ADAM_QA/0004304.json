@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0004304",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000515.htm",
+        "Focus": "When you pass your due date",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C2825543"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004304-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) When you pass your due date ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0004304-3",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for When you pass your due date? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

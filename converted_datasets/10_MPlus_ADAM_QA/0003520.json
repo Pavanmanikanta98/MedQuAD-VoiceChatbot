@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0003520",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003741.htm",
+        "Focus": "Sensitivity analysis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0427965"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Antibiotic sensitivity testing",
+                    "Antimicrobial susceptibility testing"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003520-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Sensitivity analysis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003520-7",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Sensitivity analysis? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

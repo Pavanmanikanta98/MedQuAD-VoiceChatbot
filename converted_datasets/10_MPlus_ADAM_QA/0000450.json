@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000450",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003894.htm",
+        "Focus": "Biopsy - biliary tract",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Cytology analysis - biliary tract",
+                    "Biliary tract biopsy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000450-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Biopsy - biliary tract"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

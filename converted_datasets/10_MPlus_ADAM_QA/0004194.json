@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0004194",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000615.htm",
+        "Focus": "Varicose and other vein problems - self-care",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Venous insufficiency - self-care",
+                    "Venous stasis ulcers - self-care",
+                    "Lipodermatosclerosis - self-care"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004194-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Varicose and other vein problems - self-care"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

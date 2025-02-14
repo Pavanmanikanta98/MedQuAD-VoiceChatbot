@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001599",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000055.htm",
+        "Focus": "Fishhook removal",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Fishhook removal from skin"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001599-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Fishhook removal"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

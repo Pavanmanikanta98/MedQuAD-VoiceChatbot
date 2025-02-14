@@ -1,0 +1,49 @@
+{
+    "Document": {
+        "@id": "0003828",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003688.htm",
+        "Focus": "T3RU test",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0456984"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Resin T3 uptake",
+                    "T3 resin uptake",
+                    "Thyroid hormone-binding ratio"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003828-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) T3RU test ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003828-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for T3RU test? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

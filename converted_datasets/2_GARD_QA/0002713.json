@@ -1,0 +1,53 @@
+{
+    "Document": {
+        "@id": "0002713",
+        "@source": "GARD",
+        "@url": "https://rarediseases.info.nih.gov/gard/6561/hairy-tongue",
+        "Focus": "Hairy tongue",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0040414"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Lingua villosa"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002713-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hairy tongue ?"
+                    },
+                    "Answer": "Hairy tongue is a condition in which the the central top portion of the tongue presents with an abnormal coloring.  Although the abnormal coating is typically black in color, brown, yellow, and green discoloration has been described."
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002713-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Hairy tongue ?"
+                    },
+                    "Answer": "What causes hairy tongue? The exact cause is unknown; however, smoking, alcohol, dehydration, use of antibiotics, low saliva production, trigeminal neuralgia, poor oral hygiene and cranial radiation therapy have shown to bring about hairy tongue."
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002713-3",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Hairy tongue ?"
+                    },
+                    "Answer": "What treatment is available for hairy tongue? Although hairy tongue normally resolves on its own, patients are encouraged to avoid the factors that have been shown to bring about hairy tongue. Treatment usually involves gentle cleaning of the tongue with a soft toothbrush.  Medication is rarely prescribed for hairy tongue; however, in severe cases, antifungals, retinoids or mouthwashes may be used.  If treatment fails, the affected portion of the tongue called the papillae (finger-like projections) may be clipped or removed using techniques such as carbon dioxide laser burning or electrodesiccation (a procedure in which an electrical current is used to seal of the affected area)."
+                }
+            ]
+        }
+    }
+}

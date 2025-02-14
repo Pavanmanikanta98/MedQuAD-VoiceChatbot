@@ -1,0 +1,49 @@
+{
+    "Document": {
+        "@id": "0000454",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001946.htm",
+        "Focus": "Birth control and family planning",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C2703065"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Contraception",
+                    "Family planning and contraception",
+                    "Coitus interruptus"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000454-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Birth control and family planning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000454-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Birth control and family planning ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

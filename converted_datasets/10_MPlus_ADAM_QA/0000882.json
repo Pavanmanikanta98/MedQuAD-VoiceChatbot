@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0000882",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003469.htm",
+        "Focus": "CO2 blood test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Bicarbonate test",
+                    "HCO3-",
+                    "Carbon dioxide test",
+                    "TCO2",
+                    "Total CO2",
+                    "CO2 test - serum"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000882-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about CO2 blood test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

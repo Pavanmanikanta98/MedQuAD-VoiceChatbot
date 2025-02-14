@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0003646",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000322.htm",
+        "Focus": "Snacking when you have diabetes",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0011860",
+                        "C0011849"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Healthy snacking"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003646-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Snacking when you have diabetes ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

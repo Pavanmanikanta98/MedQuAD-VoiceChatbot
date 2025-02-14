@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003881",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002334.htm",
+        "Focus": "Testes",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Testicles",
+                    "Gonads - male"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003881-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Testes"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

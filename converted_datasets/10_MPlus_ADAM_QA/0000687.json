@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0000687",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002581.htm",
+        "Focus": "Cardiac glycoside overdose",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Digoxin overdose",
+                    "Digitoxin overdose",
+                    "Lanoxin overdose",
+                    "Purgoxin overdose",
+                    "Allocar overdose",
+                    "Corramedan overdose",
+                    "Crystodigin overdose"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000687-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Cardiac glycoside overdose"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

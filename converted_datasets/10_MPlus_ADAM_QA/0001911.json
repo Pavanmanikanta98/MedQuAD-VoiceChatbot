@@ -1,0 +1,40 @@
+{
+    "Document": {
+        "@id": "0001911",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003363.htm",
+        "Focus": "Hemoglobinuria test",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0019048",
+                        "C0456984"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T047",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Urine - hemoglobin"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001911-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Hemoglobinuria test ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

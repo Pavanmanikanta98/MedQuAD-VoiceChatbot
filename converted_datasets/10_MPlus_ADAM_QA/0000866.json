@@ -1,0 +1,43 @@
+{
+    "Document": {
+        "@id": "0000866",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002165.htm",
+        "Focus": "Cleft palate - resources",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0008925",
+                        "C1837218",
+                        "C2240378",
+                        "C2981150"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T019",
+                        "T047",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Resources - cleft palate"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000866-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Cleft palate - resources ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0002351",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002111.htm",
+        "Focus": "Lead and tap water",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Water contaminated with lead"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002351-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Lead and tap water"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

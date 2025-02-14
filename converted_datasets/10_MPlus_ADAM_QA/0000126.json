@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000126",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/004017.htm",
+        "Focus": "Aging changes in the male reproductive system",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Andropause",
+                    "Male reproductive changes"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000126-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Aging changes in the male reproductive system"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

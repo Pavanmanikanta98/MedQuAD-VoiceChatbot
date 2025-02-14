@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001514",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002989.htm",
+        "Focus": "Facelift",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Rhytidectomy",
+                    "Facialplasty",
+                    "Cosmetic surgery of the face"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001514-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Facelift"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

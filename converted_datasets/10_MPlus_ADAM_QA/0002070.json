@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0002070",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002426.htm",
+        "Focus": "Hyperactivity and sugar",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0424295"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Diet - hyperactivity"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002070-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Hyperactivity and sugar ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "Document": {
+        "@id": "0003084",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001607.htm",
+        "Focus": "Pierre Robin syndrome",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0031900"
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T019",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Pierre Robin sequence",
+                    "Pierre Robin complex",
+                    "Pierre Robin anomaly"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003084-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Pierre Robin syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003084-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Pierre Robin syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003084-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Pierre Robin syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003084-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Pierre Robin syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003084-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Pierre Robin syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003084-6",
+                        "@qtype": "support groups",
+                        "#text": "Where to find support for people with Pierre Robin syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003084-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Pierre Robin syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003084-8",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Pierre Robin syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0003084-9",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Pierre Robin syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "10",
+                    "Question": {
+                        "@qid": "0003084-10",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Pierre Robin syndrome ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

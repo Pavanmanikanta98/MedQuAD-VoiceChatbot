@@ -1,0 +1,45 @@
+{
+    "Document": {
+        "@id": "0003471",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003572.htm",
+        "Focus": "Schilling test",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0456984"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Vitamin B12 absorption test"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003471-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Schilling test ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003471-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Schilling test? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

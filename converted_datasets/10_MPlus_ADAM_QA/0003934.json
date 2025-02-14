@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0003934",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003776.htm",
+        "Focus": "Thyroid ultrasound",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Ultrasound - thyroid",
+                    "Thyroid sonogram",
+                    "Thyroid echogram"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003934-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Thyroid ultrasound"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

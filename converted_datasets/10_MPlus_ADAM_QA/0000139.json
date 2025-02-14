@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000139",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007454.htm",
+        "Focus": "Alcohol and pregnancy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Drinking alcohol during pregnancy"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000139-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Alcohol and pregnancy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

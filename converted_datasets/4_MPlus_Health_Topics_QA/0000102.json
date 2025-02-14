@@ -1,0 +1,41 @@
+{
+    "Document": {
+        "@id": "0000102",
+        "@source": "MPlusHealthTopics",
+        "@url": "https://www.nlm.nih.gov/medlineplus/bleedingdisorders.html",
+        "Focus": "Bleeding Disorders",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C1458140",
+                        "C0005779",
+                        "C0012634"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T046",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Clotting disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000102-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Bleeding Disorders ?"
+                },
+                "Answer": "Normally, if you get hurt, your body forms a blood clot to stop the bleeding. For blood to clot, your body needs cells called platelets and proteins known as clotting factors. If you have a bleeding disorder, you either do not have enough platelets or clotting factors or they don't work the way they should.     Bleeding disorders can be the result of other diseases, such as severe liver disease. They can also be inherited. Hemophilia is an inherited bleeding disorder. Bleeding disorders can also be a side effect of medicines."
+            }
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0000279",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003661.htm",
+        "Focus": "Antithrombin III blood test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Antithrombin",
+                    "AT III",
+                    "AT 3",
+                    "Functional antithrombin III"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000279-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Antithrombin III blood test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

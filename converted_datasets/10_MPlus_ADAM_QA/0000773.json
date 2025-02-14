@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000773",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000185.htm",
+        "Focus": "Chemotherapy - what to ask your doctor",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "What to ask your doctor about chemotherapy"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000773-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Chemotherapy - what to ask your doctor"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

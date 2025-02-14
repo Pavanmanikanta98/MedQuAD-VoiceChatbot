@@ -1,0 +1,23 @@
+{
+    "Document": {
+        "@id": "0000077",
+        "@source": "NIDDK",
+        "@url": "http://www.niddk.nih.gov/health-information/health-topics/Diabetes/eating-diabetes/Pages/eating-diabetes.aspx",
+        "Focus": "What I need to know about Eating and Diabetes",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0011860",
+                        "C0011849"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": null
+    }
+}

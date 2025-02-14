@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0001596",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000390.htm",
+        "Focus": "Fire safety at home",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001596-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Fire safety at home"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

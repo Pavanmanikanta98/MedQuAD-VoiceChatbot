@@ -1,0 +1,84 @@
+{
+    "Document": {
+        "@id": "0003630",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000222.htm",
+        "Focus": "Small bowel bacterial overgrowth",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0238427"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Overgrowth - intestinal bacteria",
+                    "Bacterial overgrowth - intestine"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003630-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Small bowel bacterial overgrowth ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003630-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Small bowel bacterial overgrowth ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003630-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Small bowel bacterial overgrowth ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003630-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Small bowel bacterial overgrowth ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003630-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Small bowel bacterial overgrowth ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003630-6",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Small bowel bacterial overgrowth ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

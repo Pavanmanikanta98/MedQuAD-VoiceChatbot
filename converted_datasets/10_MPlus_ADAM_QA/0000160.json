@@ -1,0 +1,43 @@
+{
+    "Document": {
+        "@id": "0000160",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000487.htm",
+        "Focus": "Allergies, asthma, and dust",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0020517",
+                        "C0563970",
+                        "C0004096",
+                        "C0489531"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T046",
+                        "T047",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Allergic rhinitis - dust"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000160-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Allergies, asthma, and dust ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

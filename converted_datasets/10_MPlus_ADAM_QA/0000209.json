@@ -1,0 +1,108 @@
+{
+    "Document": {
+        "@id": "0000209",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000352.htm",
+        "Focus": "Anaplastic thyroid cancer",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0238461"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Anaplastic carcinoma of the thyroid"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000209-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Anaplastic thyroid cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000209-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Anaplastic thyroid cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000209-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Anaplastic thyroid cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000209-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Anaplastic thyroid cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000209-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Anaplastic thyroid cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000209-6",
+                        "@qtype": "support groups",
+                        "#text": "Where to find support for people with Anaplastic thyroid cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000209-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Anaplastic thyroid cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000209-8",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Anaplastic thyroid cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000209-9",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Anaplastic thyroid cancer ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

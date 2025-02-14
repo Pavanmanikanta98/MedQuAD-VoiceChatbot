@@ -1,0 +1,115 @@
+{
+    "Document": {
+        "@id": "0002505",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000621.htm",
+        "Focus": "Malaria",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0024530"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Quartan malaria",
+                    "Falciparum malaria",
+                    "Biduoterian fever",
+                    "Blackwater fever",
+                    "Tertian malaria",
+                    "Plasmodium"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002505-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Malaria ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002505-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Malaria ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002505-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Malaria ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002505-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Malaria ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002505-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Malaria ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002505-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Malaria ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002505-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Malaria ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002505-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Malaria ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002505-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Malaria ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

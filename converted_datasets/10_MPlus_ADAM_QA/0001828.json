@@ -1,0 +1,45 @@
+{
+    "Document": {
+        "@id": "0001828",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000303.htm",
+        "Focus": "Headache - what to ask your doctor",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C2096315",
+                        "C0018681"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T033",
+                        "T184"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "What to ask your doctor about headaches",
+                    "Migraine - what to ask your doctor",
+                    "Tension-type headache - what to ask your doctor",
+                    "Cluster headache - what to ask your doctor"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001828-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Headache - what to ask your doctor ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

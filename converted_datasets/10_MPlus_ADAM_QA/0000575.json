@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000575",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007535.htm",
+        "Focus": "Breath sounds",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Lung sounds",
+                    "Breathing sounds"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000575-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Breath sounds"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "Document": {
+        "@id": "0002088",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000163.htm",
+        "Focus": "Hypertensive heart disease",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0152105"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002088-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hypertensive heart disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002088-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Hypertensive heart disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002088-3",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Hypertensive heart disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002088-4",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Hypertensive heart disease ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

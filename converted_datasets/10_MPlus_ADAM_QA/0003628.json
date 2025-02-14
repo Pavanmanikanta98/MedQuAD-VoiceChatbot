@@ -1,0 +1,108 @@
+{
+    "Document": {
+        "@id": "0003628",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000972.htm",
+        "Focus": "Slipped capital femoral epiphysis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0149887"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Femoral epiphysis - slipped"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003628-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Slipped capital femoral epiphysis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003628-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Slipped capital femoral epiphysis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003628-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Slipped capital femoral epiphysis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003628-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Slipped capital femoral epiphysis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003628-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Slipped capital femoral epiphysis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003628-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Slipped capital femoral epiphysis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003628-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Slipped capital femoral epiphysis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003628-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Slipped capital femoral epiphysis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0003628-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Slipped capital femoral epiphysis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

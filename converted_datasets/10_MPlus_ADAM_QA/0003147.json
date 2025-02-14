@@ -1,0 +1,104 @@
+{
+    "Document": {
+        "@id": "0003147",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000369.htm",
+        "Focus": "Polycystic ovary syndrome",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0032460"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Polycystic ovaries",
+                    "Polycystic ovary disease",
+                    "Stein-Leventhal syndrome",
+                    "Polyfollicular ovarian disease"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003147-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Polycystic ovary syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003147-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Polycystic ovary syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003147-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Polycystic ovary syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003147-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Polycystic ovary syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003147-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Polycystic ovary syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003147-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Polycystic ovary syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003147-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Polycystic ovary syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003147-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Polycystic ovary syndrome ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

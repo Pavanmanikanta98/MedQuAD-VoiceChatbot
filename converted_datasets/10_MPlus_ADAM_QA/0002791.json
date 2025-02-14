@@ -1,0 +1,76 @@
+{
+    "Document": {
+        "@id": "0002791",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007230.htm",
+        "Focus": "Neutropenia - infants",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0023530",
+                        "C0853697",
+                        "C0027947"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T047",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002791-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Neutropenia - infants ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002791-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Neutropenia - infants ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002791-3",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Neutropenia - infants ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002791-4",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Neutropenia - infants ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002791-5",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Neutropenia - infants ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

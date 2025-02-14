@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0002554",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000899.htm",
+        "Focus": "Medical marijuana",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Pot",
+                    "Grass",
+                    "Cannabis",
+                    "Weed",
+                    "Hash",
+                    "Ganja"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002554-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Medical marijuana"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

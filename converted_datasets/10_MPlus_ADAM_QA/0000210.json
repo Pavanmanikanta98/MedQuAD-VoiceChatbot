@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0000210",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002231.htm",
+        "Focus": "Anastomosis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0332853"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T020"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000210-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Anastomosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000210-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Anastomosis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

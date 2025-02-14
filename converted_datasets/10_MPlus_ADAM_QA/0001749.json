@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0001749",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003581.htm",
+        "Focus": "Glucose urine test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Urine sugar test",
+                    "Urine glucose test",
+                    "Glucosuria test",
+                    "Glycosuria test"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001749-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Glucose urine test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

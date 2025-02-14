@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0002338",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002958.htm",
+        "Focus": "Laser surgery - skin",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Surgery using a laser"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002338-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Laser surgery - skin"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

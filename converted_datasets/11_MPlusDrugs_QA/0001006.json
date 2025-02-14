@@ -1,0 +1,87 @@
+{
+    "Document": {
+        "@id": "0001006",
+        "@source": "MPlusDrugs",
+        "@url": "https://www.nlm.nih.gov/medlineplus/druginfo/meds/a610001.html",
+        "Focus": "Pralatrexate Injection",
+        "FocusAnnotations": {
+            "Category": "Drug"
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001006-1",
+                        "@qtype": "indication",
+                        "#text": "Who should get Pralatrexate Injection and why is it prescribed ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001006-2",
+                        "@qtype": "usage",
+                        "#text": "How should Pralatrexate Injection be used and what is the dosage ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001006-4",
+                        "@qtype": "precautions",
+                        "#text": "Are there safety concerns or special precautions about Pralatrexate Injection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001006-5",
+                        "@qtype": "dietary",
+                        "#text": "What special dietary instructions should I follow with Pralatrexate Injection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001006-6",
+                        "@qtype": "side effects",
+                        "#text": "What are the side effects or risks of Pralatrexate Injection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001006-7",
+                        "@qtype": "emergency or overdose",
+                        "#text": "What to do in case of emergency or overdose of Pralatrexate Injection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001006-8",
+                        "@qtype": "other information",
+                        "#text": "What other information should I know about Pralatrexate Injection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0001006-9",
+                        "@qtype": "brand names",
+                        "#text": "What are the brand names of Pralatrexate Injection ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

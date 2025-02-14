@@ -1,0 +1,120 @@
+{
+    "Document": {
+        "@id": "0003444",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001249.htm",
+        "Focus": "Rubinstein-Taybi syndrome",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0035934"
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T019",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Rubinstein syndrome, RTS"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003444-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Rubinstein-Taybi syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003444-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Rubinstein-Taybi syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003444-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Rubinstein-Taybi syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003444-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Rubinstein-Taybi syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003444-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Rubinstein-Taybi syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003444-6",
+                        "@qtype": "support groups",
+                        "#text": "Where to find support for people with Rubinstein-Taybi syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003444-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Rubinstein-Taybi syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003444-8",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Rubinstein-Taybi syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0003444-9",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Rubinstein-Taybi syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "10",
+                    "Question": {
+                        "@qid": "0003444-10",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Rubinstein-Taybi syndrome ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0001103",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000697.htm",
+        "Focus": "Day to day with COPD",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "COPD - day to day",
+                    "Chronic obstructive airways disease - day to day",
+                    "Chronic obstructive lung disease - day to day",
+                    "Chronic bronchitis - day to day",
+                    "Emphysema - day to day",
+                    "Bronchitis - chronic - day to day"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001103-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Day to day with COPD"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

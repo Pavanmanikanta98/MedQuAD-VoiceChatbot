@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000173",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002189.htm",
+        "Focus": "ALS - resources",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Resources - ALS"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000173-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about ALS - resources"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

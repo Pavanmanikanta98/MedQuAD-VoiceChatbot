@@ -1,0 +1,34 @@
+[
+    {
+        "question": "What is (are) Thyrotoxic Myopathy ?",
+        "answer": "Thyrotoxic myopathy is a neuromuscular disorder that may accompany hyperthyroidism (Graves' disease, caused by overproduction of the thyroid hormone thyroxine). Symptoms may include muscle weakness, myalgias (muscle tenderness), wasting of the pelvic girdle and shoulder muscles, fatigue, and/or heat intolerance. Thyroid myopathy may be associated with rhabdomyolysis (acute muscle breakdown), damage to the muscles that control eye movement, and temporary, but severe, attacks of muscle weakness that are associated with low blood potassium levels (known as periodic paralysis).",
+        "qtype": "information",
+        "focus": "Thyrotoxic Myopathy",
+        "synonyms": [],
+        "semantic_group": "Disorders"
+    },
+    {
+        "question": "What are the treatments for Thyrotoxic Myopathy ?",
+        "answer": "Treatment involves restoring normal levels of thyroid hormone and may include thyroid drugs, radioactive iodine, and sometimes partial or complete surgical removal of the thyroid.",
+        "qtype": "treatment",
+        "focus": "Thyrotoxic Myopathy",
+        "synonyms": [],
+        "semantic_group": "Disorders"
+    },
+    {
+        "question": "What is the outlook for Thyrotoxic Myopathy ?",
+        "answer": "With treatment, muscle weakness may improve or be reversed.",
+        "qtype": "outlook",
+        "focus": "Thyrotoxic Myopathy",
+        "synonyms": [],
+        "semantic_group": "Disorders"
+    },
+    {
+        "question": "what research (or clinical trials) is being done for Thyrotoxic Myopathy ?",
+        "answer": "The NINDS supports a broad range of research on neuromuscular disorders such as thyrotoxic myopathy. Much of this research is aimed at learning more about these disorders and finding ways to prevent and treat them.",
+        "qtype": "research",
+        "focus": "Thyrotoxic Myopathy",
+        "synonyms": [],
+        "semantic_group": "Disorders"
+    }
+]

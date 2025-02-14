@@ -1,0 +1,111 @@
+{
+    "Document": {
+        "@id": "0002814",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001342.htm",
+        "Focus": "Noma",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0028271"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Cancrum oris",
+                    "Gangrenous stomatitis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002814-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Noma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002814-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Noma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002814-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Noma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002814-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Noma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002814-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Noma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002814-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Noma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002814-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Noma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002814-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Noma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002814-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Noma ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

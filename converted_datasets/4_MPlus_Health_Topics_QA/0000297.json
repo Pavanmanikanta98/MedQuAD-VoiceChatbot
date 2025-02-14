@@ -1,0 +1,40 @@
+{
+    "Document": {
+        "@id": "0000297",
+        "@source": "MPlusHealthTopics",
+        "@url": "https://www.nlm.nih.gov/medlineplus/downsyndrome.html",
+        "Focus": "Down Syndrome",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0039082",
+                        "C0013080"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T019",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Trisomy 21"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000297-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Down Syndrome ?"
+                },
+                "Answer": "Down syndrome is a condition in which a person is born with an extra copy of chromosome 21. People with Down syndrome can have physical problems, as well as intellectual disabilities. Every person born with Down syndrome is different.    People with the syndrome may also have other health problems. They may be born with heart disease. They may have dementia. They may have hearing problems and problems with the intestines, eyes, thyroid, and skeleton.    The chance of having a baby with Down syndrome increases as a woman gets older. Down syndrome cannot be cured. Early treatment programs can help improve skills. They may include speech, physical, occupational, and/or educational therapy. With support and treatment, many people with Down syndrome live happy, productive lives.    NIH: National Institute of Child Health and Human Development"
+            }
+        }
+    }
+}

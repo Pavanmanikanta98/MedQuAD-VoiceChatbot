@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0002496",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007269.htm",
+        "Focus": "Magnetic resonance angiography",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0231881"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "MRA",
+                    "Angiography - magnetic resonance"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002496-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Magnetic resonance angiography ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002496-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Magnetic resonance angiography? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

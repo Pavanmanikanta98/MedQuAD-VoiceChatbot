@@ -1,0 +1,104 @@
+{
+    "Document": {
+        "@id": "0000255",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001325.htm",
+        "Focus": "Anthrax",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0003175"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Woolsorter's disease",
+                    "Ragpicker's disease",
+                    "Cutaneous anthrax",
+                    "Gastrointestinal anthrax"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000255-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Anthrax ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000255-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Anthrax ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000255-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Anthrax ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000255-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Anthrax ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000255-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Anthrax ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000255-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Anthrax ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000255-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Anthrax ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000255-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Anthrax ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

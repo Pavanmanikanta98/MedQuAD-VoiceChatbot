@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0003321",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000790.htm",
+        "Focus": "Radial nerve dysfunction",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Neuropathy - radial nerve",
+                    "Radial nerve palsy",
+                    "Mononeuropathy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003321-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Radial nerve dysfunction"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

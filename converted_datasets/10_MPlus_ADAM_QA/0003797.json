@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0003797",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003307.htm",
+        "Focus": "Sutures - separated",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Separation of the sutures"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003797-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Sutures - separated"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

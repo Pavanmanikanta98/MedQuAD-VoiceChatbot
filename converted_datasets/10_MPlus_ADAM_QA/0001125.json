@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001125",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003457.htm",
+        "Focus": "Delta-ALA urine test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Delta-aminolevulinic acid"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001125-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Delta-ALA urine test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

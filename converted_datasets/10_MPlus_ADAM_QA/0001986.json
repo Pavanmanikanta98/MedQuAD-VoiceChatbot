@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0001986",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000169.htm",
+        "Focus": "Hip replacement - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Hip arthroplasty - discharge",
+                    "Total hip replacement - discharge",
+                    "Hip hemiarthroplasty - discharge",
+                    "Osteoarthritis - hip"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001986-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Hip replacement - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

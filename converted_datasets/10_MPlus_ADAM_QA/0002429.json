@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0002429",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000586.htm",
+        "Focus": "Losing weight after pregnancy",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0424653"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002429-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Losing weight after pregnancy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002429-5",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Losing weight after pregnancy ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "Document": {
+        "@id": "0003187",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001368.htm",
+        "Focus": "Pregnancy and herpes",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0019340"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "HSV",
+                    "Congenital herpes",
+                    "Herpes - congenital",
+                    "Birth-acquired herpes",
+                    "Herpes during pregnancy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003187-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Pregnancy and herpes ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003187-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Pregnancy and herpes ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003187-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Pregnancy and herpes ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003187-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Pregnancy and herpes ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003187-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Pregnancy and herpes ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003187-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Pregnancy and herpes ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003187-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Pregnancy and herpes ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003187-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Pregnancy and herpes ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

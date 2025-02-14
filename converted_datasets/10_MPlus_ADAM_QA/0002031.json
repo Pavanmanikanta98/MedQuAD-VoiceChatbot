@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0002031",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000107.htm",
+        "Focus": "How to read food labels",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002031-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about How to read food labels"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

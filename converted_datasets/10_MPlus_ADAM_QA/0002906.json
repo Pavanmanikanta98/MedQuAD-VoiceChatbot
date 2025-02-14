@@ -1,0 +1,51 @@
+{
+    "Document": {
+        "@id": "0002906",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000884.htm",
+        "Focus": "Overcoming job stress",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0344330"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002906-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Overcoming job stress ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002906-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Overcoming job stress ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002906-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Overcoming job stress ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

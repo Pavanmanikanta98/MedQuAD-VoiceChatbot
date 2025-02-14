@@ -1,0 +1,99 @@
+{
+    "Document": {
+        "@id": "0001559",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000230.htm",
+        "Focus": "Fecal impaction",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0015734"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Impaction of the bowels"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001559-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Fecal impaction ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001559-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Fecal impaction ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001559-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Fecal impaction ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001559-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Fecal impaction ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001559-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Fecal impaction ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001559-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Fecal impaction ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001559-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Fecal impaction ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001559-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Fecal impaction ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

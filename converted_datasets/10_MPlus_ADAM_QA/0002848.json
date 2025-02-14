@@ -1,0 +1,104 @@
+{
+    "Document": {
+        "@id": "0002848",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000758.htm",
+        "Focus": "Olivopontocerebellar atrophy",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0028968"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "OPCA",
+                    "Olivopontocerebellar degeneration",
+                    "Multiple system atrophy  cerebellar predominance",
+                    "MSA-C"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002848-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Olivopontocerebellar atrophy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002848-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Olivopontocerebellar atrophy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002848-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Olivopontocerebellar atrophy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002848-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Olivopontocerebellar atrophy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002848-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Olivopontocerebellar atrophy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002848-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Olivopontocerebellar atrophy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002848-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Olivopontocerebellar atrophy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002848-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Olivopontocerebellar atrophy ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

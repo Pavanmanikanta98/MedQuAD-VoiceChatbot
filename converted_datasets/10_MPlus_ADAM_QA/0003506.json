@@ -1,0 +1,66 @@
+{
+    "Document": {
+        "@id": "0003506",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002544.htm",
+        "Focus": "Secobarbital overdose",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0572929"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Meballymal overdose",
+                    "Quinalbarbitone sodium overdose"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003506-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Secobarbital overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003506-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Secobarbital overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003506-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Secobarbital overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003506-8",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Secobarbital overdose ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

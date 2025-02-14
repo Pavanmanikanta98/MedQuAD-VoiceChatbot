@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000636",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002605.htm",
+        "Focus": "Calcium carbonate overdose",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Tums overdose",
+                    "Calcium overdose"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000636-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Calcium carbonate overdose"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "Document": {
+        "@id": "0002565",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000465.htm",
+        "Focus": "Medullary cystic kidney disease",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0687120"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Familial juvenile nephronophthisis",
+                    "Senior-Loken syndrome"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002565-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Medullary cystic kidney disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002565-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Medullary cystic kidney disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002565-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Medullary cystic kidney disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002565-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Medullary cystic kidney disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002565-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Medullary cystic kidney disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002565-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Medullary cystic kidney disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002565-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Medullary cystic kidney disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002565-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Medullary cystic kidney disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002565-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Medullary cystic kidney disease ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001055",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001068.htm",
+        "Focus": "CSF leak",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Intracranial hypotension"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001055-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about CSF leak"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0003595",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000436.htm",
+        "Focus": "Skilled nursing and rehabilitation facilities - choosing",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "SNF",
+                    "SAR",
+                    "Sub-acute rehab"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003595-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Skilled nursing and rehabilitation facilities - choosing"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

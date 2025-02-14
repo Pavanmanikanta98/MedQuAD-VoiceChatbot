@@ -1,0 +1,70 @@
+{
+    "Document": {
+        "@id": "0001427",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000128.htm",
+        "Focus": "Epilepsy or seizures - discharge",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0036572",
+                        "C0014544"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T047",
+                        "T184"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Focal seizure - discharge",
+                    "Jacksonian seizure - discharge",
+                    "Seizure - partial (focal) - discharge",
+                    "TLE - discharge",
+                    "Seizure - temporal lobe - discharge",
+                    "Seizure - tonic-clonic - discharge",
+                    "Seizure - grand mal - discharge",
+                    "Grand mal seizure - discharge",
+                    "Seizure - generalized - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001427-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Epilepsy or seizures - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001427-2",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Epilepsy or seizures - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001427-6",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Epilepsy or seizures - discharge ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

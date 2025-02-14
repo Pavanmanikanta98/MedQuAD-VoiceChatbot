@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0002141",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007451.htm",
+        "Focus": "Imaging and radiology",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Interventional radiology",
+                    "Diagnostic radiology",
+                    "X-ray imaging"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002141-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Imaging and radiology"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0002044",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007648.htm",
+        "Focus": "HPV (Human Papillomavirus) vaccine - what you need to know [Gardasil-9]",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0021344"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T005"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002044-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) HPV (Human Papillomavirus) vaccine - what you need to know [Gardasil-9] ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002044-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) HPV (Human Papillomavirus) vaccine - what you need to know [Gardasil-9] ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

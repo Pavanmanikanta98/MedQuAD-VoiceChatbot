@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0001105",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001915.htm",
+        "Focus": "Death among children and adolescents",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1306577"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Childhood and adolescent causes of death"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001105-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Death among children and adolescents ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

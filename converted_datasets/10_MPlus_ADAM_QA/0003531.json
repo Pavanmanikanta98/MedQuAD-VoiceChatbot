@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0003531",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003536.htm",
+        "Focus": "Serology for brucellosis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0006309"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Brucella serology",
+                    "Brucella antibody test or titer"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003531-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Serology for brucellosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003531-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Serology for brucellosis? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

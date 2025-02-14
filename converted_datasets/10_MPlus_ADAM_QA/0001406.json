@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0001406",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003889.htm",
+        "Focus": "Enteroscopy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Small bowel biopsy",
+                    "Push enteroscopy",
+                    "Double-balloon enteroscopy",
+                    "Capsule enteroscopy",
+                    "Sonde enteroscopy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001406-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Enteroscopy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

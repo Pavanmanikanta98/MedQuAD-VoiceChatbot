@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001661",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003636.htm",
+        "Focus": "Galactose-1-phosphate uridyltransferase blood test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Galactosemia screen",
+                    "GALT",
+                    "Gal-1-PUT"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001661-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Galactose-1-phosphate uridyltransferase blood test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

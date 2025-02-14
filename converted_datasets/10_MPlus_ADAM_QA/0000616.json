@@ -1,0 +1,96 @@
+{
+    "Document": {
+        "@id": "0000616",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000419.htm",
+        "Focus": "Bursitis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0006444"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000616-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Bursitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000616-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Bursitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000616-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Bursitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000616-4",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Bursitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000616-5",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Bursitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000616-6",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Bursitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000616-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Bursitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000616-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Bursitis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

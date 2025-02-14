@@ -1,0 +1,45 @@
+{
+    "Document": {
+        "@id": "0003033",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000159.htm",
+        "Focus": "Peripherally inserted central catheter - flushing",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0016382"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "PICC - flushing"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003033-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Peripherally inserted central catheter - flushing ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003033-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Peripherally inserted central catheter - flushing ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

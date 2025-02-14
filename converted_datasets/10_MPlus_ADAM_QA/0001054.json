@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001054",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003633.htm",
+        "Focus": "CSF glucose test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Glucose test - CSF",
+                    "Cerebrospinal fluid glucose test"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001054-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about CSF glucose test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Document": {
+        "@id": "0003345",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000440.htm",
+        "Focus": "Reactive arthritis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0085435"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Reiter syndrome",
+                    "Post-infectious arthritis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003345-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Reactive arthritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003345-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Reactive arthritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003345-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Reactive arthritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003345-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Reactive arthritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003345-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Reactive arthritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003345-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Reactive arthritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003345-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Reactive arthritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003345-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Reactive arthritis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

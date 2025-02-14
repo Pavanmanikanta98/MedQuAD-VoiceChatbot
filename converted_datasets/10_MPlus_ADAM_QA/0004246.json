@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0004246",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002145.htm",
+        "Focus": "Vitamin C and colds",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0009443"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Colds and vitamin C"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004246-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Vitamin C and colds ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

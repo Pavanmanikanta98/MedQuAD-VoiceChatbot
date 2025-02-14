@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0000284",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003814.htm",
+        "Focus": "Aortic angiography",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Angiography - aorta",
+                    "Aortography",
+                    "Abdominal aorta angiogram",
+                    "Aortic arteriogram"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000284-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Aortic angiography"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

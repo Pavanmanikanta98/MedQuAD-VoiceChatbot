@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000372",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002049.htm",
+        "Focus": "Autosomal dominant",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Inheritance - autosomal dominant",
+                    "Genetics - autosomal dominant"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000372-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Autosomal dominant"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

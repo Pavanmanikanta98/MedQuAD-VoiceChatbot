@@ -1,0 +1,55 @@
+{
+    "Document": {
+        "@id": "0001435",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003513.htm",
+        "Focus": "Epstein-Barr virus antibody test",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0042776",
+                        "C0319157",
+                        "C0042769"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T005",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "EBV antibody test",
+                    "EBV serology"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001435-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Epstein-Barr virus antibody test ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001435-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Epstein-Barr virus antibody test? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

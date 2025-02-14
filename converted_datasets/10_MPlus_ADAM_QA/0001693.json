@@ -1,0 +1,102 @@
+{
+    "Document": {
+        "@id": "0001693",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000297.htm",
+        "Focus": "Gastroparesis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0152020"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Gastroparesis diabeticorum",
+                    "Delayed gastric emptying"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001693-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Gastroparesis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001693-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Gastroparesis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001693-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Gastroparesis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001693-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Gastroparesis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001693-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Gastroparesis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001693-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Gastroparesis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001693-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Gastroparesis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001693-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Gastroparesis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

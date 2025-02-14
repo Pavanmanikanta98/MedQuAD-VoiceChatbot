@@ -1,0 +1,27 @@
+{
+    "Document": {
+        "@id": "0000064",
+        "@source": "NIDDK",
+        "@url": "http://www.niddk.nih.gov/health-information/health-topics/Diabetes/your-guide-diabetes/Pages/specialtimes.aspx",
+        "Focus": "Take Care of Your Diabetes during Special Times or Events",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0580931",
+                        "C0011860",
+                        "C0011849"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T047",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": null
+    }
+}

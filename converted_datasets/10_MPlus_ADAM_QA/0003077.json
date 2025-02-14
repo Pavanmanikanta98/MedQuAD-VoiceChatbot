@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003077",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001941.htm",
+        "Focus": "Physical activity",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Fitness recommendations",
+                    "Exercise"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003077-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Physical activity"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

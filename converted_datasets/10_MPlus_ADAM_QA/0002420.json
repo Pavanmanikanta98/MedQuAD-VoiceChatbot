@@ -1,0 +1,36 @@
+{
+    "Document": {
+        "@id": "0002420",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000360.htm",
+        "Focus": "Living with hearing loss",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0011053",
+                        "C1384666",
+                        "C2029884",
+                        "C0018772"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002420-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Living with hearing loss ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

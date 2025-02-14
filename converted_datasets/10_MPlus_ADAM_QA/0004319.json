@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0004319",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002803.htm",
+        "Focus": "Windshield washer fluid",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004319-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Windshield washer fluid"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

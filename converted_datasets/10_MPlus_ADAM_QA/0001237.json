@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001237",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002634.htm",
+        "Focus": "Dimenhydrinate overdose",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Dramamine",
+                    "Dimetabs"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001237-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Dimenhydrinate overdose"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

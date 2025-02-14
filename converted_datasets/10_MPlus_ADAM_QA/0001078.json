@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0001078",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003240.htm",
+        "Focus": "Cyst",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0010709"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001078-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Cyst ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001078-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Cyst ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

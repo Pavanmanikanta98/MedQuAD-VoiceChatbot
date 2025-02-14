@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0004358",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003713.htm",
+        "Focus": "17-OH progesterone",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "17-hydroxyprogesterone",
+                    "Progesterone - 17-OH"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004358-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about 17-OH progesterone"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

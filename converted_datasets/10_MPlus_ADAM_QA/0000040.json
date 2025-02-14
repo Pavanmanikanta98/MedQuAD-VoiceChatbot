@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000040",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000783.htm",
+        "Focus": "Acetaminophen dosing for children",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Tylenol"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000040-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Acetaminophen dosing for children"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0000476",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003235.htm",
+        "Focus": "Bleeding into the skin",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Ecchymoses",
+                    "Skin spots - red",
+                    "Pinpoint red spots on the skin",
+                    "Petechiae"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000476-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Bleeding into the skin"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

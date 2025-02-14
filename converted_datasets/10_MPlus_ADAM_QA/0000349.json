@@ -1,0 +1,50 @@
+{
+    "Document": {
+        "@id": "0000349",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000480.htm",
+        "Focus": "Atheroembolic renal disease",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0022658"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Renal disease - atheroembolic",
+                    "Cholesterol embolization syndrome",
+                    "Atheroemboli - renal",
+                    "Atherosclerotic disease - renal"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000349-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Atheroembolic renal disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000349-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Atheroembolic renal disease ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

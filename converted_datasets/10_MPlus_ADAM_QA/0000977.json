@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0000977",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000215.htm",
+        "Focus": "COPD - what to ask your doctor",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "What to ask your doctor about COPD",
+                    "Emphysema - what to ask your doctor",
+                    "Chronic bronchitis - what to ask your doctor",
+                    "Chronic obstructive pulmonary disease - what to ask your doctor"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000977-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about COPD - what to ask your doctor"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

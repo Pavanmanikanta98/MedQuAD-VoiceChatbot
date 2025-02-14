@@ -1,0 +1,114 @@
+{
+    "Document": {
+        "@id": "0002693",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000583.htm",
+        "Focus": "Multiple myeloma",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0026764"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Plasma cell dyscrasia",
+                    "Plasma cell myeloma",
+                    "Malignant plasmacytoma",
+                    "Plasmacytoma of bone",
+                    "Myeloma - multiple"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002693-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Multiple myeloma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002693-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Multiple myeloma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002693-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Multiple myeloma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002693-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Multiple myeloma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002693-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Multiple myeloma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002693-6",
+                        "@qtype": "support groups",
+                        "#text": "Where to find support for people with Multiple myeloma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002693-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Multiple myeloma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002693-8",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Multiple myeloma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002693-9",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Multiple myeloma ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

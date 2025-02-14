@@ -1,0 +1,60 @@
+{
+    "Document": {
+        "@id": "0003417",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000539.htm",
+        "Focus": "Rib fracture - aftercare",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0035522"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003417-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Rib fracture - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003417-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Rib fracture - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003417-3",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Rib fracture - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003417-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Rib fracture - aftercare ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

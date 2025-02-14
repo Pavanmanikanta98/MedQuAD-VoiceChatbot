@@ -1,0 +1,68 @@
+{
+    "Document": {
+        "@id": "0000456",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000655.htm",
+        "Focus": "Birth control pills - combination",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C3811910"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "The pill - combination",
+                    "Oral contraceptives - combination",
+                    "OCP - combination",
+                    "Contraception - combination"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000456-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Birth control pills - combination ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000456-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Birth control pills - combination ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000456-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Birth control pills - combination ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000456-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Birth control pills - combination ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

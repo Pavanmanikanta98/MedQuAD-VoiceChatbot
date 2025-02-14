@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0003056",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000050.htm",
+        "Focus": "Phantom limb pain",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0031315"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003056-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Phantom limb pain ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

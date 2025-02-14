@@ -1,0 +1,59 @@
+{
+    "Document": {
+        "@id": "0001686",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000197.htm",
+        "Focus": "Gastroesophageal reflux - discharge",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0017168"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Peptic esophagitis - discharge",
+                    "Reflux esophagitis - discharge",
+                    "GERD - discharge",
+                    "Heartburn - chronic - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001686-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Gastroesophageal reflux - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001686-3",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Gastroesophageal reflux - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001686-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Gastroesophageal reflux - discharge ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

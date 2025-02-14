@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0003434",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000357.htm",
+        "Focus": "Rotator cuff exercises",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Shoulder exercises"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003434-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Rotator cuff exercises"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0002711",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002156.htm",
+        "Focus": "Myasthenia gravis - resources",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0026896"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Resources - myasthenia gravis"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002711-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Myasthenia gravis - resources ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

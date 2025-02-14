@@ -1,0 +1,114 @@
+{
+    "Document": {
+        "@id": "0000724",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000855.htm",
+        "Focus": "Cellulitis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C2025995",
+                        "C0007642"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T046",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Skin infection - bacterial"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000724-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Cellulitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000724-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Cellulitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000724-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Cellulitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000724-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Cellulitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000724-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Cellulitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000724-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Cellulitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000724-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Cellulitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000724-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Cellulitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000724-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Cellulitis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

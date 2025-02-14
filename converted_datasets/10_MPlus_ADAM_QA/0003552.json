@@ -1,0 +1,103 @@
+{
+    "Document": {
+        "@id": "0003552",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001175.htm",
+        "Focus": "Sheehan syndrome",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0242342"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Postpartum hypopituitarism",
+                    "Postpartum pituitary insufficiency",
+                    "Hypopituitarism Syndrome"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003552-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Sheehan syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003552-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Sheehan syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003552-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Sheehan syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003552-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Sheehan syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003552-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Sheehan syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003552-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Sheehan syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003552-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Sheehan syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003552-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Sheehan syndrome ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

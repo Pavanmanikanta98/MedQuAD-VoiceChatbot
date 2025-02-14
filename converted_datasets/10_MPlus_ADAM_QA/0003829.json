@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0003829",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003517.htm",
+        "Focus": "T4 test",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0456984"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Thyroxine test",
+                    "Total T4 test"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003829-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) T4 test ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003829-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for T4 test? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

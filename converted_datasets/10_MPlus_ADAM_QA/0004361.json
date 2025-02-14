@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0004361",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003604.htm",
+        "Focus": "24-hour urine copper test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Quantitative urinary copper"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004361-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about 24-hour urine copper test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

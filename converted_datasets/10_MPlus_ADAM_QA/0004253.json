@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0004253",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003784.htm",
+        "Focus": "Voiding cystourethrogram",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Cystourethrogram - voiding"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004253-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Voiding cystourethrogram"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

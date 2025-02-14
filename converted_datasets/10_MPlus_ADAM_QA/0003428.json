@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0003428",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007339.htm",
+        "Focus": "Robotic surgery",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Robot-assisted surgery",
+                    "Robotic-assisted laparoscopic surgery",
+                    "Laparoscopic surgery with robotic assistance"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003428-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Robotic surgery"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

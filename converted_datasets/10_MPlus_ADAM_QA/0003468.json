@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0003468",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002991.htm",
+        "Focus": "Scar revision",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Keloid revision",
+                    "Hypertrophic scar revision",
+                    "Scar repair",
+                    "Z-plasty"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003468-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Scar revision"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

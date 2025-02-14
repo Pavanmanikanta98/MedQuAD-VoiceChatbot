@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0003672",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007413.htm",
+        "Focus": "Spinal and epidural anesthesia",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Intraspinal anesthesia",
+                    "Subarachnoid anesthesia",
+                    "Epidural",
+                    "Peridural anesthesia"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003672-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Spinal and epidural anesthesia"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

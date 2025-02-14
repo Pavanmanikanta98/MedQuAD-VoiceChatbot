@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0002966",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007256.htm",
+        "Focus": "Partial knee replacement",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Unicompartmental knee arthroplasty",
+                    "Knee replacement - partial",
+                    "Unicondylar knee replacement",
+                    "Arthroplasty - unicompartmental knee",
+                    "UKA",
+                    "Minimally invasive partial knee replacement"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002966-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Partial knee replacement"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

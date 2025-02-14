@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000999",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003703.htm",
+        "Focus": "Cortisol urine test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "24-hour urinary free cortisol (UFC)"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000999-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Cortisol urine test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

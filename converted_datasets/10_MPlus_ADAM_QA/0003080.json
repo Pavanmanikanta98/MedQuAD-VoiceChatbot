@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0003080",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007448.htm",
+        "Focus": "Physical medicine and rehabilitation",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Rehabilitation",
+                    "Physical rehab",
+                    "Physiatry"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003080-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Physical medicine and rehabilitation"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

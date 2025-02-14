@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0002472",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003708.htm",
+        "Focus": "Luteinizing hormone (LH) blood test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "ICSH - blood test",
+                    "Luteinizing hormone - blood test",
+                    "Interstitial cell stimulating hormone - blood test"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002472-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Luteinizing hormone (LH) blood test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0002494",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003487.htm",
+        "Focus": "Magnesium blood test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Magnesium - blood"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002494-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Magnesium blood test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0004131",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003138.htm",
+        "Focus": "Urine - bloody",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Hematuria",
+                    "Blood in the urine"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004131-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Urine - bloody"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

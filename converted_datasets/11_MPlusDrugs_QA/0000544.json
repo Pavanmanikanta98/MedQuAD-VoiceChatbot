@@ -1,0 +1,78 @@
+{
+    "Document": {
+        "@id": "0000544",
+        "@source": "MPlusDrugs",
+        "@url": "https://www.nlm.nih.gov/medlineplus/druginfo/meds/a689014.html",
+        "Focus": "Ganciclovir Injection",
+        "FocusAnnotations": {
+            "Category": "Drug"
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000544-1",
+                        "@qtype": "important warning",
+                        "#text": "What important warning or information should I know about Ganciclovir Injection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000544-2",
+                        "@qtype": "other information",
+                        "#text": "What other information should I know about Ganciclovir Injection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000544-3",
+                        "@qtype": "precautions",
+                        "#text": "Are there safety concerns or special precautions about Ganciclovir Injection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000544-5",
+                        "@qtype": "side effects",
+                        "#text": "What are the side effects or risks of Ganciclovir Injection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000544-6",
+                        "@qtype": "storage and disposal",
+                        "#text": "What should I know about storage and disposal of Ganciclovir Injection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000544-7",
+                        "@qtype": "emergency or overdose",
+                        "#text": "What to do in case of emergency or overdose of Ganciclovir Injection ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000544-9",
+                        "@qtype": "brand names",
+                        "#text": "What are the brand names of Ganciclovir Injection ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

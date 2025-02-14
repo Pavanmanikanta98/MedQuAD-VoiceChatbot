@@ -1,0 +1,113 @@
+{
+    "Document": {
+        "@id": "0000765",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000727.htm",
+        "Focus": "Charcot-Marie-Tooth disease",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0007959"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Progressive neuropathic (peroneal) muscular atrophy",
+                    "Hereditary peroneal nerve dysfunction",
+                    "Neuropathy - peroneal (hereditary)",
+                    "Hereditary motor and sensory neuropathy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000765-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Charcot-Marie-Tooth disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000765-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Charcot-Marie-Tooth disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000765-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Charcot-Marie-Tooth disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000765-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Charcot-Marie-Tooth disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000765-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Charcot-Marie-Tooth disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000765-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Charcot-Marie-Tooth disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000765-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Charcot-Marie-Tooth disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000765-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Charcot-Marie-Tooth disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000765-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Charcot-Marie-Tooth disease ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

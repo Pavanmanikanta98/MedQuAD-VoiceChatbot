@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0000254",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003982.htm",
+        "Focus": "Anterior vaginal wall repair",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "A/P repair",
+                    "Vaginal wall repair",
+                    "Anterior and/or posterior vaginal wall repair",
+                    "Colporrhaphy - repair of vaginal wall",
+                    "Cystocele repair"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000254-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Anterior vaginal wall repair"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

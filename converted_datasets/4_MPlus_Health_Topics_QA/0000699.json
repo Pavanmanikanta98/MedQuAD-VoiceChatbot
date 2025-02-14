@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0000699",
+        "@source": "MPlusHealthTopics",
+        "@url": "https://www.nlm.nih.gov/medlineplus/penisdisorders.html",
+        "Focus": "Penis Disorders",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0030846"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Penile disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000699-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Penis Disorders ?"
+                },
+                "Answer": "Problems with the penis can cause pain and affect a man's sexual function and fertility. Penis disorders include       -  Erectile dysfunction - inability to get or keep an erection     -  Priapism - a painful erection that does not go away     -  Peyronie's disease - bending of the penis during an erection due to a hard lump called a plaque     -  Balanitis - inflammation of the skin covering the head of the penis, most often in men and boys who have not been circumcised     -  Penile cancer - a rare form of cancer, highly curable when caught early"
+            }
+        }
+    }
+}

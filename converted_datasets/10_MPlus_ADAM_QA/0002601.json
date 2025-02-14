@@ -1,0 +1,111 @@
+{
+    "Document": {
+        "@id": "0002601",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001156.htm",
+        "Focus": "Mesenteric artery ischemia",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0853812"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Mesenteric vascular disease",
+                    "Ischemic colitis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002601-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Mesenteric artery ischemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002601-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Mesenteric artery ischemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002601-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Mesenteric artery ischemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002601-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Mesenteric artery ischemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002601-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Mesenteric artery ischemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002601-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Mesenteric artery ischemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002601-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Mesenteric artery ischemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002601-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Mesenteric artery ischemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002601-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Mesenteric artery ischemia ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

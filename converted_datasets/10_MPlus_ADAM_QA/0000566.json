@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000566",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000622.htm",
+        "Focus": "Breast skin and nipple changes",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Inverted nipple",
+                    "Nipple discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000566-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Breast skin and nipple changes"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

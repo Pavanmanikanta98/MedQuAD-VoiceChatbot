@@ -1,0 +1,95 @@
+{
+    "Document": {
+        "@id": "0004032",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001449.htm",
+        "Focus": "Trichorrhexis nodosa",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0263485"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Hair shaft fracture",
+                    "Brittle hair",
+                    "Fragile hair",
+                    "Hair breakage"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004032-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Trichorrhexis nodosa ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004032-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Trichorrhexis nodosa ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0004032-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Trichorrhexis nodosa ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0004032-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Trichorrhexis nodosa ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0004032-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Trichorrhexis nodosa ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0004032-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Trichorrhexis nodosa ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0004032-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Trichorrhexis nodosa ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

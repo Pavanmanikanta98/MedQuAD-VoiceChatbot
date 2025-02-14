@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0003845",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000255.htm",
+        "Focus": "Taking warfarin (Coumadin, Jantoven) - what to ask your doctor",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Warfarin - what to ask your doctor",
+                    "Coumadin - what to ask your doctor",
+                    "What to ask your doctor about taking warfarin (Coumadin)",
+                    "Jantoven - what to ask your doctor",
+                    "What to ask your doctor about taking warfarin (Jantoven)"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003845-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Taking warfarin (Coumadin, Jantoven) - what to ask your doctor"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

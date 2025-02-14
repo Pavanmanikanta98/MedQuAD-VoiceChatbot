@@ -1,0 +1,39 @@
+{
+    "Document": {
+        "@id": "0005204",
+        "@source": "GARD",
+        "@url": "https://rarediseases.info.nih.gov/gard/10428/pure-autonomic-failure",
+        "Focus": "Pure autonomic failure",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0393911"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Bradbury Eggleston syndrome",
+                    "Bradbury-Eggleston syndrome",
+                    "Orthostatic hypotension (a symptom)",
+                    "Idiopathic orthostatic hypotension (a symptom)",
+                    "Primary orthostatic hypotension"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0005204-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Pure autonomic failure ?"
+                },
+                "Answer": "Pure autonomic failure is characterized by generalized autonomic failure without central nervous system (brain or spinal cord) involvement. The autonomic nervous system is the part of our bodies that controls involuntary actions, such as the widening or narrowing of our blood vessels. Failure of this system can cause a variety of symptoms. The most common symptom of pure autonomic failure is orthostatic hypotension. Other symptoms may include decreased sweating, heat intolerance, inability to empty the bladder, erectile dysfunction, incontinence or constipation, and pupil changes. The cause of this condition is usually unknown."
+            }
+        }
+    }
+}

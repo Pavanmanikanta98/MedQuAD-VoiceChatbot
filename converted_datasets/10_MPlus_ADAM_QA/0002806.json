@@ -1,0 +1,102 @@
+{
+    "Document": {
+        "@id": "0002806",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000809.htm",
+        "Focus": "Night terror",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0037320"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T048"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Pavor nocturnus",
+                    "Sleep terror disorder"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002806-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Night terror ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002806-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Night terror ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002806-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Night terror ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002806-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Night terror ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002806-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Night terror ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002806-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Night terror ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002806-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Night terror ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002806-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Night terror ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

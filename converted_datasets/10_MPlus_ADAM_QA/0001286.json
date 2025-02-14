@@ -1,0 +1,108 @@
+{
+    "Document": {
+        "@id": "0001286",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000226.htm",
+        "Focus": "Drug-induced hepatitis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1262760"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Toxic hepatitis"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001286-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Drug-induced hepatitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001286-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Drug-induced hepatitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001286-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Drug-induced hepatitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001286-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Drug-induced hepatitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001286-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Drug-induced hepatitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001286-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Drug-induced hepatitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001286-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Drug-induced hepatitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001286-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Drug-induced hepatitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0001286-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Drug-induced hepatitis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

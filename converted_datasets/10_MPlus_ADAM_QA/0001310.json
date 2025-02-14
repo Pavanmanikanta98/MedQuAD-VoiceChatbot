@@ -1,0 +1,93 @@
+{
+    "Document": {
+        "@id": "0001310",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000832.htm",
+        "Focus": "Dyshidrotic eczema",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0032633"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Dyshidrosis",
+                    "Pompholyx"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001310-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Dyshidrotic eczema ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001310-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Dyshidrotic eczema ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001310-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Dyshidrotic eczema ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001310-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Dyshidrotic eczema ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001310-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Dyshidrotic eczema ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001310-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Dyshidrotic eczema ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001310-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Dyshidrotic eczema ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

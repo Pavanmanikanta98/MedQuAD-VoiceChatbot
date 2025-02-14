@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0002328",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000180.htm",
+        "Focus": "Laparoscopic gastric banding - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Lap-Band - discharge",
+                    "LAGB - discharge",
+                    "Laparoscopic adjustable gastric banding - discharge",
+                    "Bariatric surgery - laparoscopic gastric banding - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002328-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Laparoscopic gastric banding - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

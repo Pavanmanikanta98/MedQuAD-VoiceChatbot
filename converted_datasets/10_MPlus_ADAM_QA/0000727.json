@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0000727",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002311.htm",
+        "Focus": "Central nervous system",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000727-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Central nervous system"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

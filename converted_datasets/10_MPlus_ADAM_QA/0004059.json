@@ -1,0 +1,106 @@
+{
+    "Document": {
+        "@id": "0004059",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000379.htm",
+        "Focus": "Turner syndrome",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0041408"
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T019",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Bonnevie-Ullrich syndrome",
+                    "Gonadal dysgenesis",
+                    "Monosomy X"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004059-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Turner syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004059-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Turner syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0004059-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Turner syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0004059-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Turner syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0004059-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Turner syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0004059-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Turner syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0004059-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Turner syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0004059-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Turner syndrome ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "Document": {
+        "@id": "0000531",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000123.htm",
+        "Focus": "Brain aneurysm repair - discharge",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0751003"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Aneurysm repair - cerebral - discharge",
+                    "Cerebral aneurysm repair - discharge",
+                    "Coiling - discharge",
+                    "Saccular aneurysm repair - discharge",
+                    "Berry aneurysm repair - discharge",
+                    "Fusiform aneurysm repair - discharge",
+                    "Dissecting aneurysm repair - discharge",
+                    "Endovascular aneurysm repair - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000531-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Brain aneurysm repair - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000531-2",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Brain aneurysm repair - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000531-4",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Brain aneurysm repair - discharge ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

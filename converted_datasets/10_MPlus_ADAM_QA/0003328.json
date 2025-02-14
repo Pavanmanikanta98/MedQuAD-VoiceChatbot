@@ -1,0 +1,35 @@
+{
+    "Document": {
+        "@id": "0003328",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000301.htm",
+        "Focus": "Radical prostatectomy - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Prostatectomy - radical - discharge",
+                    "Radical retropubic prostatectomy - discharge",
+                    "Radical perineal prostatectomy - discharge",
+                    "Laparoscopic radical prostatectomy - discharge",
+                    "LRP - discharge",
+                    "Robotic-assisted laparoscopic prostatectomy - discharge",
+                    "RALP - discharge",
+                    "Pelvic lymphadenectomy - discharge",
+                    "Prostate cancer - prostatectomy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003328-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Radical prostatectomy - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

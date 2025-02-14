@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0002170",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000625.htm",
+        "Focus": "Inducing labor",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0022875"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Labor induction"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002170-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Inducing labor ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

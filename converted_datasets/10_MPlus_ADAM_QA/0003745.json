@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0003745",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007150.htm",
+        "Focus": "Stress echocardiography",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Echocardiography stress test",
+                    "Stress test - echocardiography",
+                    "CAD - stress echocardiography",
+                    "Coronary artery disease - stress Echocardiography",
+                    "Chest pain - stress echocardiography",
+                    "Angina - stress echocardiography",
+                    "Heart disease - stress echocardiography"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003745-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Stress echocardiography"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

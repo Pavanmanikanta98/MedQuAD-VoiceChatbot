@@ -1,0 +1,69 @@
+{
+    "Document": {
+        "@id": "0001905",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007641.htm",
+        "Focus": "Hemodialysis access procedures",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1820678"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Kidney failure - chronic-dialysis access",
+                    "Renal failure - chronic-dialysis access",
+                    "Chronic renal insufficiency-dialysis access",
+                    "Chronic kidney failure-dialysis access",
+                    "Chronic renal failure-dialysis access"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001905-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hemodialysis access procedures ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001905-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hemodialysis access procedures ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001905-4",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Hemodialysis access procedures? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001905-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Hemodialysis access procedures ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

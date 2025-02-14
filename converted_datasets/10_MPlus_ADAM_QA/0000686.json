@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000686",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000096.htm",
+        "Focus": "Cardiac catheterization - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Catheterization - cardiac - discharge",
+                    "Heart catheterization - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000686-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Cardiac catheterization - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

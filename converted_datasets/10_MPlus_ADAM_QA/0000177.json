@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0000177",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002188.htm",
+        "Focus": "Alzheimer - resources",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0002395"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Resources - Alzheimer"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000177-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Alzheimer - resources ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

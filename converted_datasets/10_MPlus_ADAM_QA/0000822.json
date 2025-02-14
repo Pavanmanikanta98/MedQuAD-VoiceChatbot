@@ -1,0 +1,49 @@
+{
+    "Document": {
+        "@id": "0000822",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001939.htm",
+        "Focus": "Choosing a primary care provider",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0580931"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Family doctor - how to choose one",
+                    "Primary care provider - how to choose one",
+                    "Doctor - how to choose a family doctor"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000822-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Choosing a primary care provider ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000822-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Choosing a primary care provider ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "Document": {
+        "@id": "0000506",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003923.htm",
+        "Focus": "Bone lesion biopsy",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0221198"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Bone biopsy",
+                    "Biopsy - bone"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000506-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Bone lesion biopsy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000506-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Bone lesion biopsy? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000506-9",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Bone lesion biopsy ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

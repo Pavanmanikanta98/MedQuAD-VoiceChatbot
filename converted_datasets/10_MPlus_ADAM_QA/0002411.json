@@ -1,0 +1,40 @@
+{
+    "Document": {
+        "@id": "0002411",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002182.htm",
+        "Focus": "Liver disease - resources",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C2186532",
+                        "C0023895"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T047",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Resources - liver disease"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002411-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Liver disease - resources ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "Document": {
+        "@id": "0000968",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003185.htm",
+        "Focus": "Contracture deformity",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C2117118",
+                        "C0009917",
+                        "C0302142",
+                        "C0000768"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T190",
+                        "T019",
+                        "T033",
+                        "T020"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Deformity - contracture"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000968-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Contracture deformity ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000968-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Contracture deformity ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000968-3",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Contracture deformity ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000968-4",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Contracture deformity ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000968-5",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Contracture deformity ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

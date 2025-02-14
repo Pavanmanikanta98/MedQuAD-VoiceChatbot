@@ -1,0 +1,99 @@
+{
+    "Document": {
+        "@id": "0002875",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001258.htm",
+        "Focus": "Osgood-Schlatter disease",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0029376"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Osteochondrosis"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002875-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Osgood-Schlatter disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002875-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Osgood-Schlatter disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002875-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Osgood-Schlatter disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002875-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Osgood-Schlatter disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002875-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Osgood-Schlatter disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002875-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Osgood-Schlatter disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002875-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Osgood-Schlatter disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002875-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Osgood-Schlatter disease ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

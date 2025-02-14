@@ -1,0 +1,113 @@
+{
+    "Document": {
+        "@id": "0000902",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000087.htm",
+        "Focus": "Collapsed lung (pneumothorax)",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0032326"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Air around the lung",
+                    "Air outside the lung",
+                    "Pneumothorax dropped lung",
+                    "Spontaneous pneumothorax"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000902-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Collapsed lung (pneumothorax) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000902-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Collapsed lung (pneumothorax) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000902-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Collapsed lung (pneumothorax) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000902-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Collapsed lung (pneumothorax) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000902-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Collapsed lung (pneumothorax) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000902-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Collapsed lung (pneumothorax) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000902-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Collapsed lung (pneumothorax) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000902-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Collapsed lung (pneumothorax) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000902-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Collapsed lung (pneumothorax) ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

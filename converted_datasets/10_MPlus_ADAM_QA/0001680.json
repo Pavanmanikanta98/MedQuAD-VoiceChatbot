@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001680",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000172.htm",
+        "Focus": "Gastric bypass surgery - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Bariatric surgery - gastric bypass - discharge",
+                    "Roux-en-Y gastric bypass - discharge",
+                    "Gastric bypass- Roux-en-Y - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001680-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Gastric bypass surgery - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

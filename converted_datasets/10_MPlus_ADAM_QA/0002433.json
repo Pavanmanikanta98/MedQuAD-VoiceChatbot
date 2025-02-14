@@ -1,0 +1,108 @@
+{
+    "Document": {
+        "@id": "0002433",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007425.htm",
+        "Focus": "Low back pain - acute",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0024031"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Backache",
+                    "Low back pain",
+                    "Lumbar pain",
+                    "Pain - back",
+                    "Acute back pain",
+                    "Back pain - new",
+                    "Back pain - short-term",
+                    "Back strain - new"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002433-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Low back pain - acute ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002433-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Low back pain - acute ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002433-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Low back pain - acute ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002433-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Low back pain - acute ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002433-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Low back pain - acute ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002433-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Low back pain - acute ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002433-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Low back pain - acute ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002433-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Low back pain - acute ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

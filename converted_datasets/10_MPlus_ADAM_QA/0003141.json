@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0003141",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002874.htm",
+        "Focus": "Pokeweed poisoning",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "American nightshade poisoning",
+                    "Inkberry poisoning",
+                    "Pigeon Berry poisoning",
+                    "Pokeberry poisoning",
+                    "Scoke poisoning",
+                    "Virginia poke poisoning",
+                    "Poke salad poisoning"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003141-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Pokeweed poisoning"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

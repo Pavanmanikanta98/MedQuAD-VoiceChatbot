@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000808",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000049.htm",
+        "Focus": "Choking - adult or child over 1 year",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Abdominal thrusts - adult or child over 1 year",
+                    "Heimlich maneuver - adult or child over 1 year: Choking - back blows - adult or child over 1 year"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000808-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Choking - adult or child over 1 year"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

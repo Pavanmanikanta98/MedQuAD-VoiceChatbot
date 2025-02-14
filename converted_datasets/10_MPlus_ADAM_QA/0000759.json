@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000759",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002395.htm",
+        "Focus": "Changes in the newborn at birth",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Birth - changes in the newborn"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000759-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Changes in the newborn at birth"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0003859",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003936.htm",
+        "Focus": "Tay-Sachs - resources",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0039373"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Resources - Tay-Sachs"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003859-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Tay-Sachs - resources ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

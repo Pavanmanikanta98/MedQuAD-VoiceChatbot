@@ -1,0 +1,59 @@
+{
+    "Document": {
+        "@id": "0001711",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000653.htm",
+        "Focus": "Genital herpes - self-care",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0019342"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Herpes - genital -self-care",
+                    "Herpes simplex - genital - self-care",
+                    "Herpesvirus 2 - self-care",
+                    "HSV-2 - self-care"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001711-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Genital herpes - self-care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001711-6",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Genital herpes - self-care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001711-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Genital herpes - self-care ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

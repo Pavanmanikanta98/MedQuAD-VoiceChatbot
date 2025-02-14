@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001057",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003631.htm",
+        "Focus": "CSF oligoclonal banding",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Cerebrospinal fluid - immunofixation"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001057-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about CSF oligoclonal banding"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001018",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002320.htm",
+        "Focus": "Cranial sutures",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Fontanelles",
+                    "Sutures - cranial"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001018-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Cranial sutures"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

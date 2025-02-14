@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001232",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007069.htm",
+        "Focus": "Digital rectal exam",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "DRE"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001232-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Digital rectal exam"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

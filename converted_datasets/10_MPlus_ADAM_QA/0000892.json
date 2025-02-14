@@ -1,0 +1,51 @@
+{
+    "Document": {
+        "@id": "0000892",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000415.htm",
+        "Focus": "Cognitive behavioral therapy for back pain",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0004604"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Nonspecific back pain - cognitive behavioral",
+                    "Backache - chronic - cognitive behavioral",
+                    "Lumbar pain - chronic - cognitive behavioral",
+                    "Pain - back - chronic - cognitive behavioral",
+                    "Chronic back pain - low - cognitive behavioral"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000892-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Cognitive behavioral therapy for back pain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000892-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Cognitive behavioral therapy for back pain ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

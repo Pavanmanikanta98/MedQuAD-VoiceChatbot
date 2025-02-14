@@ -1,0 +1,66 @@
+{
+    "Document": {
+        "@id": "0000226",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000088.htm",
+        "Focus": "Angina - when you have chest pain",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0008031",
+                        "C0002962"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T033",
+                        "T184"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000226-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Angina - when you have chest pain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000226-2",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Angina - when you have chest pain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000226-3",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Angina - when you have chest pain? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000226-4",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Angina - when you have chest pain ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

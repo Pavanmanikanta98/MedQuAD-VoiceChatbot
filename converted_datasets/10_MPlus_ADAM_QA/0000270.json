@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0000270",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003702.htm",
+        "Focus": "Antidiuretic hormone blood test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Arginine vasopressin",
+                    "Antidiuretic hormone",
+                    "AVP",
+                    "Vasopressin"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000270-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Antidiuretic hormone blood test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

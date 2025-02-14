@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001573",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003490.htm",
+        "Focus": "Ferritin blood test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Serum ferritin level"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001573-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Ferritin blood test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

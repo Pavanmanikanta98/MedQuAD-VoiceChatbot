@@ -1,0 +1,67 @@
+{
+    "Document": {
+        "@id": "0004074",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000203.htm",
+        "Focus": "Ulcerative colitis - discharge",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0009324"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Inflammatory bowel disease - ulcerative colitis - discharge",
+                    "Ulcerative proctitis - discharge",
+                    "Colitis - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004074-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Ulcerative colitis - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004074-2",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Ulcerative colitis - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0004074-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Ulcerative colitis - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0004074-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Ulcerative colitis - discharge ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

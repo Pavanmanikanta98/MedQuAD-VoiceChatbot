@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0000538",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000124.htm",
+        "Focus": "Brain surgery - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Craniotomy - discharge",
+                    "Surgery - brain - discharge",
+                    "Neurosurgery - discharge",
+                    "Craniectomy - discharge",
+                    "Stereotactic craniotomy - discharge",
+                    "Stereotactic brain biopsy - discharge",
+                    "Endoscopic craniotomy - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000538-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Brain surgery - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

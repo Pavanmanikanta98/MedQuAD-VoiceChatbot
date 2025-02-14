@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000873",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002784.htm",
+        "Focus": "Cloth dye poisoning",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Dyes - cloth"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000873-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Cloth dye poisoning"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0000331",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000092.htm",
+        "Focus": "Aspirin and heart disease",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0018799"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Blood thinners - aspirin",
+                    "Antiplatelet therapy - aspirin"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000331-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Aspirin and heart disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000331-4",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Aspirin and heart disease ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

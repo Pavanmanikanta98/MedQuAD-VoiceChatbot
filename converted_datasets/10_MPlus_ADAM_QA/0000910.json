@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0000910",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002071.htm",
+        "Focus": "Colon cancer screening",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Screening for colon cancer",
+                    "Colonoscopy - screening",
+                    "Sigmoidoscopy - screening",
+                    "Virtual colonoscopy - screening",
+                    "Fecal immunochemical test",
+                    "Stool DNA test",
+                    "sDNA test"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000910-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Colon cancer screening"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

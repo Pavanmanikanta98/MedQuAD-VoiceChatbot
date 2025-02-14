@@ -1,0 +1,108 @@
+{
+    "Document": {
+        "@id": "0000599",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007213.htm",
+        "Focus": "Bruise",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C3812660",
+                        "C0009938"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T037",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Contusion",
+                    "Hematoma"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000599-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Bruise ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000599-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Bruise ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000599-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Bruise ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000599-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Bruise ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000599-5",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Bruise ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000599-6",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Bruise ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000599-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Bruise ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000599-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Bruise ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

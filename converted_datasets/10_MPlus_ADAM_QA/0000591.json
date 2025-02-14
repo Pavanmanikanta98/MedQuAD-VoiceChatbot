@@ -1,0 +1,96 @@
+{
+    "Document": {
+        "@id": "0000591",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000975.htm",
+        "Focus": "Bronchiolitis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0006271"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000591-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Bronchiolitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000591-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Bronchiolitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000591-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Bronchiolitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000591-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Bronchiolitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000591-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Bronchiolitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000591-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Bronchiolitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000591-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Bronchiolitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000591-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Bronchiolitis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

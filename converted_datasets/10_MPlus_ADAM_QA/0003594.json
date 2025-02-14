@@ -1,0 +1,77 @@
+{
+    "Document": {
+        "@id": "0003594",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000572.htm",
+        "Focus": "Skiers thumb - aftercare",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0425040"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Sprained thumb",
+                    "Stable thumb",
+                    "Ulnar collateral ligament injury",
+                    "Gamekeeper's thumb"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003594-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Skiers thumb - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003594-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Skiers thumb - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003594-3",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Skiers thumb - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003594-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Skiers thumb - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003594-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Skiers thumb - aftercare ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

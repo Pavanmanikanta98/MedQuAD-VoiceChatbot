@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0002084",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003441.htm",
+        "Focus": "Hyperplasia",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0020507"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T046"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Hypergenesis"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002084-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Hyperplasia ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

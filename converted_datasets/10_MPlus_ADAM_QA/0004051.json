@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0004051",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002913.htm",
+        "Focus": "Tubal ligation",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Sterilization surgery - female",
+                    "Tubal sterilization",
+                    "Tube tying",
+                    "Tying the tubes",
+                    "Hysteroscopic tubal occlusion procedure"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004051-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Tubal ligation"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

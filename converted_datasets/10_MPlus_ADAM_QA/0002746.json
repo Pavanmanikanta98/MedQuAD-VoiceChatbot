@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0002746",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003747.htm",
+        "Focus": "Nasopharyngeal culture",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Culture - nasopharyngeal",
+                    "Swab for respiratory viruses",
+                    "Swab for staph carriage"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002746-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Nasopharyngeal culture"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

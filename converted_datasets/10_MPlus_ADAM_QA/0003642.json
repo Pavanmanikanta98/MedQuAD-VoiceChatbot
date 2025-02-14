@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0003642",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000504.htm",
+        "Focus": "Smoking and asthma",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0004096",
+                        "C1519384"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T047",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003642-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Smoking and asthma ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

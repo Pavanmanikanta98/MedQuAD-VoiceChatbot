@@ -1,0 +1,20 @@
+{
+    "Document": {
+        "@id": "0000175",
+        "@source": "NIDDK",
+        "@url": "http://www.niddk.nih.gov/health-information/health-topics/kidney-disease/treatment-methods-for-kidney-failure-in-children/Pages/facts.aspx",
+        "Focus": "Treatment Methods for Kidney Failure in Children",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0035078"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": null
+    }
+}

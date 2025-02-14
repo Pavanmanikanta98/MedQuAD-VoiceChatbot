@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0002819",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002456.htm",
+        "Focus": "Normal growth and development",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0578019"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Diet - intellectual development"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002819-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Normal growth and development ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

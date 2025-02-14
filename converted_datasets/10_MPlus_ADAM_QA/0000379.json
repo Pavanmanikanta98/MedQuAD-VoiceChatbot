@@ -1,0 +1,55 @@
+{
+    "Document": {
+        "@id": "0000379",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001966.htm",
+        "Focus": "Babies and heat rashes",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0221500",
+                        "C0015230"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T047",
+                        "T184"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Heat rashes and babies",
+                    "Prickly heat rash",
+                    "Red miliaria"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000379-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Babies and heat rashes ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000379-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Babies and heat rashes ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

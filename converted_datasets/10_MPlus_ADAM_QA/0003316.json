@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0003316",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003545.htm",
+        "Focus": "Quantitative nephelometry",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Quantitative immunoglobulins"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003316-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Quantitative nephelometry"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

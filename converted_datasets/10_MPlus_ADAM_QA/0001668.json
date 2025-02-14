@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001668",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003450.htm",
+        "Focus": "Gallium scan",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Liver gallium scan",
+                    "Bony gallium scan"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001668-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Gallium scan"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

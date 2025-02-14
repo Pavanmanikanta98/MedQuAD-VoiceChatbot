@@ -1,0 +1,93 @@
+{
+    "Document": {
+        "@id": "0001824",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000028.htm",
+        "Focus": "Head injury - first aid",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0018674"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Brain injury",
+                    "Head trauma"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001824-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Head injury - first aid ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001824-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Head injury - first aid ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001824-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Head injury - first aid ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001824-4",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Head injury - first aid ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001824-5",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Head injury - first aid ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001824-6",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Head injury - first aid ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001824-7",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Head injury - first aid ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

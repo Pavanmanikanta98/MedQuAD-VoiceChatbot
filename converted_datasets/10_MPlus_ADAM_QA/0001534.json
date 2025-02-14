@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001534",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000785.htm",
+        "Focus": "Facts about monounsaturated fats",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Monounsaturated fatty acid",
+                    "MUFA",
+                    "Oleic acid"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001534-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Facts about monounsaturated fats"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

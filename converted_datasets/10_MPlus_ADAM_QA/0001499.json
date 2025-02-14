@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0001499",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003797.htm",
+        "Focus": "Eye and orbit ultrasound",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Echography - eye orbit",
+                    "Ultrasound - eye orbit",
+                    "Ocular ultrasonography",
+                    "Orbital ultrasonography"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001499-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Eye and orbit ultrasound"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

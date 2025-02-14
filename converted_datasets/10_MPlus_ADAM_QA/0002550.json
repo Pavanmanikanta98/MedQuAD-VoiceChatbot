@@ -1,0 +1,93 @@
+{
+    "Document": {
+        "@id": "0002550",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007638.htm",
+        "Focus": "Medial epicondylitis - golfer's elbow",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0158309"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T020"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Baseball elbow",
+                    "Suitcase elbow"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002550-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Medial epicondylitis - golfer's elbow ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002550-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Medial epicondylitis - golfer's elbow ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002550-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Medial epicondylitis - golfer's elbow ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002550-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Medial epicondylitis - golfer's elbow ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002550-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Medial epicondylitis - golfer's elbow ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002550-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Medial epicondylitis - golfer's elbow ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002550-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Medial epicondylitis - golfer's elbow ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

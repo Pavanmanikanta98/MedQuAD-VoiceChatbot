@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0001762",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003453.htm",
+        "Focus": "Gram stain of tissue biopsy",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001762-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Gram stain of tissue biopsy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

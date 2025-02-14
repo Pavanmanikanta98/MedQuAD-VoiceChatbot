@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000762",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000478.htm",
+        "Focus": "Changing your urostomy pouch",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Urinary pouch",
+                    "Urinary appliance"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000762-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Changing your urostomy pouch"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

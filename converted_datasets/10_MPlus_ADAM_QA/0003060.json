@@ -1,0 +1,76 @@
+{
+    "Document": {
+        "@id": "0003060",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002526.htm",
+        "Focus": "Phencyclidine overdose",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C2919094"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T048"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "PCP overdose",
+                    "Angel dust overdose",
+                    "Sernyl overdose"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003060-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Phencyclidine overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003060-2",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Phencyclidine overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003060-3",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Phencyclidine overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003060-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Phencyclidine overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003060-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Phencyclidine overdose ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

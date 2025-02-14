@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000008",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007392.htm",
+        "Focus": "Abdominal aortic aneurysm repair - open",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "AAA - open",
+                    "Repair - aortic aneurysm - open"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000008-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Abdominal aortic aneurysm repair - open"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

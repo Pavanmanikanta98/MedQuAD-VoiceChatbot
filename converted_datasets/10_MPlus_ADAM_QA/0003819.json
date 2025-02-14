@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003819",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003629.htm",
+        "Focus": "Synovial fluid analysis",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Joint fluid analysis",
+                    "Joint fluid aspiration"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003819-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Synovial fluid analysis"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

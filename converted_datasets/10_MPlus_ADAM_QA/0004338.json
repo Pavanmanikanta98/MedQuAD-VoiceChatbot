@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0004338",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003096.htm",
+        "Focus": "Yawning - excessive",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Excessive yawning"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004338-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Yawning - excessive"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "Document": {
+        "@id": "0002594",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002677.htm",
+        "Focus": "Meprobamate overdose",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0573008"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Equanil overdose"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002594-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Meprobamate overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002594-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Meprobamate overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002594-5",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Meprobamate overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002594-8",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Meprobamate overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002594-9",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Meprobamate overdose ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

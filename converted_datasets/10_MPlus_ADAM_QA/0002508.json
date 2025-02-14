@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0002508",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002253.htm",
+        "Focus": "Malignancy",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0006826",
+                        "C1306459"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002508-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Malignancy ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

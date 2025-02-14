@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0001039",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000643.htm",
+        "Focus": "Crutches and children - stairs",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001039-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Crutches and children - stairs"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

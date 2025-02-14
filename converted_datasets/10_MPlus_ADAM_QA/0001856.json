@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0001856",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000231.htm",
+        "Focus": "Heart attack - what to ask your doctor",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0027051"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "What to ask your doctor about your heart attack"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001856-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Heart attack - what to ask your doctor ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

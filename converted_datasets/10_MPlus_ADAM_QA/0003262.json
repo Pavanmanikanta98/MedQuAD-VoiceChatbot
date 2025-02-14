@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0003262",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003580.htm",
+        "Focus": "Protein urine test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Urine protein",
+                    "Albumin - urine",
+                    "Urine albumin",
+                    "Proteinuria",
+                    "Albuminuria"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003262-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Protein urine test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

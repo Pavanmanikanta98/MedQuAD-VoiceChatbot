@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0004157",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000176.htm",
+        "Focus": "Using your shoulder after replacement surgery",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Joint replacement surgery - using your shoulder",
+                    "Shoulder replacement surgery - after"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004157-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Using your shoulder after replacement surgery"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

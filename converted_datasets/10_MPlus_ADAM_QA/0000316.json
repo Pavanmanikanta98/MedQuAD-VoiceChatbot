@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000316",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003327.htm",
+        "Focus": "Arteriogram",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Angiogram",
+                    "Angiography"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000316-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Arteriogram"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

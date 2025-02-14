@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0001879",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003795.htm",
+        "Focus": "Heart MRI",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Magnetic resonance imaging - cardiac",
+                    "Magnetic resonance imaging - heart",
+                    "Nuclear magnetic resonance - cardiac",
+                    "NMR - cardiac",
+                    "MRI of the heart"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001879-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Heart MRI"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

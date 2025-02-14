@@ -1,0 +1,59 @@
+{
+    "Document": {
+        "@id": "0000241",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000190.htm",
+        "Focus": "Ankle replacement - discharge",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C2186375"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Ankle arthroplasty - total - discharge",
+                    "Total ankle arthroplasty - discharge",
+                    "Endoprosthetic ankle replacement - discharge",
+                    "Osteoarthritis - ankle"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000241-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Ankle replacement - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000241-2",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Ankle replacement - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000241-6",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Ankle replacement - discharge ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

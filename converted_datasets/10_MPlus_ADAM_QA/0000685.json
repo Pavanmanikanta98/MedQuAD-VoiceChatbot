@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000685",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003419.htm",
+        "Focus": "Cardiac catheterization",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Catheterization - cardiac",
+                    "Heart catheterization"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000685-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Cardiac catheterization"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0001254",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007647.htm",
+        "Focus": "Distal splenorenal shunt",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "DSRS",
+                    "Distal splenorenal shunt procedure",
+                    "Renal - splenic venous shunt",
+                    "Warren shunt",
+                    "Cirrhosis - distal splenorenal",
+                    "Liver failure - distal splenorenal"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001254-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Distal splenorenal shunt"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

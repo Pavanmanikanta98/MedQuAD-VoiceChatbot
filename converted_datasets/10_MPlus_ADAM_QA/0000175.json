@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0000175",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002064.htm",
+        "Focus": "Alternative medicine - pain relief",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Acupuncture - pain relief",
+                    "Hypnosis - pain relief",
+                    "Guided imagery"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000175-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Alternative medicine - pain relief"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

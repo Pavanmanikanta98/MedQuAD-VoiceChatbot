@@ -1,0 +1,78 @@
+{
+    "Document": {
+        "@id": "0000360",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001638.htm",
+        "Focus": "Aural polyps",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0859865"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000360-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Aural polyps ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000360-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Aural polyps ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000360-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Aural polyps ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000360-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Aural polyps ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000360-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Aural polyps ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000360-6",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Aural polyps ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

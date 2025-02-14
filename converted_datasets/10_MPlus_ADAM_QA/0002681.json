@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0002681",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003196.htm",
+        "Focus": "Movement - unpredictable or jerky",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Chorea",
+                    "Muscle - jerky movements (uncontrolled)",
+                    "Hyperkinetic movements"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002681-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Movement - unpredictable or jerky"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

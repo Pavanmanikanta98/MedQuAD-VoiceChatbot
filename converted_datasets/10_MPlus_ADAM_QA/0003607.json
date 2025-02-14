@@ -1,0 +1,38 @@
+{
+    "Document": {
+        "@id": "0003607",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000743.htm",
+        "Focus": "Skin flaps and grafts - self-care",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Autograft - self-care",
+                    "Skin transplant - self-care",
+                    "Split-skin graft - self-care",
+                    "Full thickness skin graft - self-care",
+                    "Partial-dermal skin graft - self-care",
+                    "FTSG - self-care",
+                    "STSG - self-care",
+                    "Local flaps - self-care",
+                    "Regional flaps - self-care",
+                    "Distant flaps - self-care",
+                    "Free flap - self-care",
+                    "Skin autografting - self-care"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003607-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Skin flaps and grafts - self-care"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

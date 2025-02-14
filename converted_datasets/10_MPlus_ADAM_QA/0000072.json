@@ -1,0 +1,113 @@
+{
+    "Document": {
+        "@id": "0000072",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001272.htm",
+        "Focus": "Acute arterial occlusion - kidney",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C2062866"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Acute renal arterial thrombosis",
+                    "Renal artery embolism",
+                    "Acute renal artery occlusion",
+                    "Embolism - renal artery"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000072-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Acute arterial occlusion - kidney ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000072-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Acute arterial occlusion - kidney ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000072-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Acute arterial occlusion - kidney ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000072-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Acute arterial occlusion - kidney ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000072-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Acute arterial occlusion - kidney ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000072-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Acute arterial occlusion - kidney ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000072-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Acute arterial occlusion - kidney ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000072-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Acute arterial occlusion - kidney ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000072-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Acute arterial occlusion - kidney ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

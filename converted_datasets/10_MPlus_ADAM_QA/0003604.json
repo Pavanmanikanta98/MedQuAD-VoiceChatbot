@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003604",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002301.htm",
+        "Focus": "Skin characteristics in newborns",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Newborn skin characteristics",
+                    "Infant skin characteristics"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003604-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Skin characteristics in newborns"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

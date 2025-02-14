@@ -1,0 +1,93 @@
+{
+    "Document": {
+        "@id": "0003670",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001095.htm",
+        "Focus": "Spider angioma",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0085666"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T020"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Nevus araneus",
+                    "Spider veins"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003670-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Spider angioma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003670-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Spider angioma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003670-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Spider angioma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003670-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Spider angioma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003670-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Spider angioma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003670-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Spider angioma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003670-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Spider angioma ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

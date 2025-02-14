@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0003919",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007089.htm",
+        "Focus": "Thrombolytic therapy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Tissue plasminogen activator",
+                    "TPA",
+                    "Alteplase",
+                    "Reteplase",
+                    "Tenecteplase",
+                    "Activase thrombolytic agent",
+                    "Clot-dissolving agents",
+                    "Reperfusion therapy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003919-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Thrombolytic therapy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

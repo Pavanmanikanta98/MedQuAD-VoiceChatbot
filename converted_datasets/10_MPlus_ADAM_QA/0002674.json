@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0002674",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000058.htm",
+        "Focus": "Mouth and neck radiation - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Radiation - mouth and neck - discharge"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002674-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Mouth and neck radiation - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

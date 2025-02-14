@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0002960",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002196.htm",
+        "Focus": "Parkinson disease - resources",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0030567"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Resources - Parkinson disease"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002960-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Parkinson disease - resources ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

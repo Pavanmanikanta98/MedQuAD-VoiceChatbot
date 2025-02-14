@@ -1,0 +1,113 @@
+{
+    "Document": {
+        "@id": "0000843",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000570.htm",
+        "Focus": "Chronic myelogenous leukemia (CML)",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0023473"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "CML",
+                    "Chronic myeloid leukemia",
+                    "Chronic granulocytic leukemia",
+                    "Leukemia - chronic granulocytic"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000843-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Chronic myelogenous leukemia (CML) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000843-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Chronic myelogenous leukemia (CML) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000843-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Chronic myelogenous leukemia (CML) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000843-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Chronic myelogenous leukemia (CML) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000843-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Chronic myelogenous leukemia (CML) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000843-6",
+                        "@qtype": "support groups",
+                        "#text": "Where to find support for people with Chronic myelogenous leukemia (CML) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000843-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Chronic myelogenous leukemia (CML) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000843-8",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Chronic myelogenous leukemia (CML) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000843-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Chronic myelogenous leukemia (CML) ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

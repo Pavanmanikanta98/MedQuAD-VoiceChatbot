@@ -1,0 +1,99 @@
+{
+    "Document": {
+        "@id": "0003778",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001566.htm",
+        "Focus": "Sudden infant death syndrome",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0038644",
+                        "C0549159"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T047",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Crib death",
+                    "SIDS"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003778-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Sudden infant death syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003778-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Sudden infant death syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003778-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Sudden infant death syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003778-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Sudden infant death syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003778-5",
+                        "@qtype": "support groups",
+                        "#text": "Where to find support for people with Sudden infant death syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003778-6",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Sudden infant death syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003778-7",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Sudden infant death syndrome ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

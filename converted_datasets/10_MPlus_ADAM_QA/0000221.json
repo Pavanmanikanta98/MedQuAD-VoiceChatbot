@@ -1,0 +1,112 @@
+{
+    "Document": {
+        "@id": "0000221",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001414.htm",
+        "Focus": "Aneurysm in the brain",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0002940"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Aneurysm - cerebral",
+                    "Cerebral aneurysm",
+                    "Aneurysm - intracranial"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000221-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Aneurysm in the brain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000221-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Aneurysm in the brain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000221-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Aneurysm in the brain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000221-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Aneurysm in the brain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000221-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Aneurysm in the brain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000221-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Aneurysm in the brain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000221-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Aneurysm in the brain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000221-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Aneurysm in the brain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000221-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Aneurysm in the brain ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

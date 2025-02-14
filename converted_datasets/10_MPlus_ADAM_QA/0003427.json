@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0003427",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000528.htm",
+        "Focus": "Risks of underage drinking",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003427-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Risks of underage drinking"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

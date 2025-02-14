@@ -1,0 +1,45 @@
+{
+    "Document": {
+        "@id": "0001652",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003512.htm",
+        "Focus": "FTA-ABS test",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0456984"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Fluorescent treponemal antibody absorption test"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001652-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) FTA-ABS test ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001652-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for FTA-ABS test? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

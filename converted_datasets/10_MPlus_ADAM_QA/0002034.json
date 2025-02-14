@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0002034",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000857.htm",
+        "Focus": "How to stop drinking",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002034-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about How to stop drinking"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

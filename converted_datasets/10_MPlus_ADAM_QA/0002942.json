@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002942",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002518.htm",
+        "Focus": "Para-aminobenzoic acid",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "PABA",
+                    "Vitamin Bx"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002942-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Para-aminobenzoic acid"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

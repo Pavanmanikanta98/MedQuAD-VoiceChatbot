@@ -1,0 +1,45 @@
+{
+    "Document": {
+        "@id": "0003467",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003226.htm",
+        "Focus": "Scales",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0237849"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Skin flaking"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003467-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Scales ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003467-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Scales ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

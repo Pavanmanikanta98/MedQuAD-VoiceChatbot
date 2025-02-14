@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0001837",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007467.htm",
+        "Focus": "Health screening - women - ages 40 to 64",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Health maintenance visit - women - ages 40 to 64",
+                    "Physical exam - women - ages 40 to 64",
+                    "Yearly exam - women - ages 40 to 64",
+                    "Checkup - women - ages 40 to 64",
+                    "Women's health - ages 40 to 64",
+                    "Preventive care - women - ages 40 to 64"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001837-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Health screening - women - ages 40 to 64"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

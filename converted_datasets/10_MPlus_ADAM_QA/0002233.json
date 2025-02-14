@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002233",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002385.htm",
+        "Focus": "Ions",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Cations",
+                    "Anions"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002233-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Ions"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

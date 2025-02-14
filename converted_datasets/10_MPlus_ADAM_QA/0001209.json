@@ -1,0 +1,43 @@
+{
+    "Document": {
+        "@id": "0001209",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000218.htm",
+        "Focus": "Diarrhea - what to ask your health care provider - adult",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0580931",
+                        "C0011991"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T033",
+                        "T184"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "What to ask your health care provider about diarrhea - adult",
+                    "Loose stools - what to ask your health care provider - adult"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001209-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Diarrhea - what to ask your health care provider - adult ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

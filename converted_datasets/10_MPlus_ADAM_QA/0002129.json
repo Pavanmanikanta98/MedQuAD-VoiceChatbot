@@ -1,0 +1,111 @@
+{
+    "Document": {
+        "@id": "0002129",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000069.htm",
+        "Focus": "Idiopathic pulmonary fibrosis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C3812887",
+                        "C1800706"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Idiopathic diffuse interstitial pulmonary fibrosis",
+                    "IPF",
+                    "Pulmonary fibrosis",
+                    "Cryptogenic fibrosing alveolitis",
+                    "CFA",
+                    "Fibrosing alveolitis",
+                    "Usual interstitial pneumonitis",
+                    "UIP"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002129-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Idiopathic pulmonary fibrosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002129-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Idiopathic pulmonary fibrosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002129-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Idiopathic pulmonary fibrosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002129-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Idiopathic pulmonary fibrosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002129-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Idiopathic pulmonary fibrosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002129-6",
+                        "@qtype": "support groups",
+                        "#text": "Where to find support for people with Idiopathic pulmonary fibrosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002129-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Idiopathic pulmonary fibrosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002129-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Idiopathic pulmonary fibrosis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

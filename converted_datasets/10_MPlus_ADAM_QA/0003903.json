@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0003903",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002577.htm",
+        "Focus": "Thiazide overdose",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Diuretic anti-hypertensives overdose"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003903-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Thiazide overdose"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

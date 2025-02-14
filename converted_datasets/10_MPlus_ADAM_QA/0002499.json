@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0002499",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000046.htm",
+        "Focus": "Make peak flow a habit!",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0857465"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002499-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Make peak flow a habit! ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002499-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Make peak flow a habit! ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "Document": {
+        "@id": "0003856",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000902.htm",
+        "Focus": "Targeted therapies for cancer",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0006826"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Molecularly targeted anticancer agents",
+                    "MTAs",
+                    "Chemotherapy-targeted",
+                    "Vascular endothelial growth factor-targeted",
+                    "VEGF-targeted",
+                    "VEGFR-targeted",
+                    "Tyrosine kinase inhibitor-targeted",
+                    "TKI-targeted"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003856-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Targeted therapies for cancer ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

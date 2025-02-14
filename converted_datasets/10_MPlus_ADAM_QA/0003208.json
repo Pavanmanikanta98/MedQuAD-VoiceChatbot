@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0003208",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002013.htm",
+        "Focus": "Preschooler development",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Developmental milestones record - 3 to 6 years"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003208-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Preschooler development"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

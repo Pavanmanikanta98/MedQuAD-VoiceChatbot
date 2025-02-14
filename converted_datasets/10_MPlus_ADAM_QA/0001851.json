@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001851",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000495.htm",
+        "Focus": "Hearing loss and music",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Noise induced hearing loss - music",
+                    "Sensory hearing loss - music"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001851-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Hearing loss and music"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "Document": {
+        "@id": "0000450",
+        "@source": "MPlusHealthTopics",
+        "@url": "https://www.nlm.nih.gov/medlineplus/heartburn.html",
+        "Focus": "Heartburn",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0018834",
+                        "C0847097"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Acid indigestion",
+                    "Pyrosis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000450-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Heartburn ?"
+                },
+                "Answer": "Heartburn is a painful burning feeling in your chest or throat. It happens when stomach acid backs up into your esophagus, the tube that carries food from your mouth to your stomach.    If you have heartburn more than twice a week, you may have GERD. But you can have GERD without having heartburn.    Pregnancy, certain foods, alcohol, and some medications can bring on heartburn. Treating heartburn is important because over time reflux can damage the esophagus.    Over-the-counter medicines may help. If the heartburn continues, you may need prescription medicines or surgery.     If you have other symptoms such as crushing chest pain, it could be a heart attack. Get help immediately."
+            }
+        }
+    }
+}

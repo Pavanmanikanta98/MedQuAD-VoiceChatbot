@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001219",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000205.htm",
+        "Focus": "Diet - clear liquid",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Clear liquid diet"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001219-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Diet - clear liquid"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

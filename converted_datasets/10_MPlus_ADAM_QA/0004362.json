@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0004362",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003622.htm",
+        "Focus": "24-hour urine protein",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Urine protein - 24 hour"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004362-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about 24-hour urine protein"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

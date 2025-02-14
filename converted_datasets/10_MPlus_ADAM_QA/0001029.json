@@ -1,0 +1,107 @@
+{
+    "Document": {
+        "@id": "0001029",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000788.htm",
+        "Focus": "Creutzfeldt-Jakob disease",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0022336",
+                        "C0012634"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Transmissible spongiform encephalopathy",
+                    "vCJD",
+                    "CJD",
+                    "Jacob-Creutzfeldt disease"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001029-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Creutzfeldt-Jakob disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001029-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Creutzfeldt-Jakob disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001029-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Creutzfeldt-Jakob disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001029-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Creutzfeldt-Jakob disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001029-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Creutzfeldt-Jakob disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001029-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Creutzfeldt-Jakob disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001029-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Creutzfeldt-Jakob disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001029-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Creutzfeldt-Jakob disease ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

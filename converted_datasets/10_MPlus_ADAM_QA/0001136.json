@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001136",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001957.htm",
+        "Focus": "Dental care - adult",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Teeth - caring for",
+                    "Oral hygiene",
+                    "Dental hygiene"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001136-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Dental care - adult"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

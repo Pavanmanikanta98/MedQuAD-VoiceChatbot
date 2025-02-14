@@ -1,0 +1,52 @@
+{
+    "Document": {
+        "@id": "0001263",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000473.htm",
+        "Focus": "Do-not-resuscitate order",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C2587207"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "No code",
+                    "End-of-life",
+                    "Do not resuscitate",
+                    "Do not resuscitate order",
+                    "DNR",
+                    "DNR order"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001263-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Do-not-resuscitate order ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001263-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Do-not-resuscitate order ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

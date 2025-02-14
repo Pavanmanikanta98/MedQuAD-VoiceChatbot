@@ -1,0 +1,39 @@
+{
+    "Document": {
+        "@id": "0002826",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007201.htm",
+        "Focus": "Nuclear stress test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Sestamibi stress test",
+                    "MIBI stress test",
+                    "Myocardial perfusion scintigraphy",
+                    "Dobutamine stress test",
+                    "Persantine stress test",
+                    "Thallium stress test",
+                    "Stress test - nuclear",
+                    "Adenosine stress test",
+                    "Regadenoson stress test",
+                    "CAD - nuclear stress",
+                    "Coronary artery disease - nuclear stress",
+                    "Angina - nuclear stress",
+                    "Chest pain - nuclear stress"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002826-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Nuclear stress test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "Document": {
+        "@id": "0003356",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003844.htm",
+        "Focus": "Refraction test",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0429585",
+                        "C0456984"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Eye test - refraction",
+                    "Vision test - refraction",
+                    "Refraction"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003356-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Refraction test ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003356-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Refraction test? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0003356-9",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Refraction test ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

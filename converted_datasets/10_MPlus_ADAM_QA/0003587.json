@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0003587",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007356.htm",
+        "Focus": "Sinus MRI scan",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "MRI of the sinuses",
+                    "Magnetic resonance imaging - sinuses",
+                    "Maxillary sinus MRI"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003587-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Sinus MRI scan"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

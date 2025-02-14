@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0002739",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007627.htm",
+        "Focus": "Nasal endoscopy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Rhinoscopy"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002739-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Nasal endoscopy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

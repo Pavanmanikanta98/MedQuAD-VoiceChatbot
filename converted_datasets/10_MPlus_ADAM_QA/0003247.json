@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0003247",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000397.htm",
+        "Focus": "Prostate cancer staging and grading",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C2217386"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003247-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Prostate cancer staging and grading ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

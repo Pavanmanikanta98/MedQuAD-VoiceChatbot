@@ -1,0 +1,49 @@
+{
+    "Document": {
+        "@id": "0003333",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001955.htm",
+        "Focus": "Rape (sexual assault) - overview",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0237236"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T048"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Sex and rape",
+                    "Date rape",
+                    "Sexual assault"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003333-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Rape (sexual assault) - overview ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003333-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Rape (sexual assault) - overview ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

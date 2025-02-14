@@ -1,0 +1,111 @@
+{
+    "Document": {
+        "@id": "0000062",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000546.htm",
+        "Focus": "Acquired platelet function defect",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1855853"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Acquired qualitative platelet disorders",
+                    "Acquired disorders of platelet function"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000062-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Acquired platelet function defect ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000062-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Acquired platelet function defect ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000062-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Acquired platelet function defect ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000062-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Acquired platelet function defect ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000062-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Acquired platelet function defect ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000062-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Acquired platelet function defect ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000062-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Acquired platelet function defect ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000062-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Acquired platelet function defect ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000062-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Acquired platelet function defect ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

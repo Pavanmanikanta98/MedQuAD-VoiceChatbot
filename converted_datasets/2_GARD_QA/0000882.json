@@ -1,0 +1,43 @@
+{
+    "Document": {
+        "@id": "0000882",
+        "@source": "GARD",
+        "@url": "https://rarediseases.info.nih.gov/gard/9663/buschke-lowenstein-tumor",
+        "Focus": "Buschke Lowenstein tumor",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C3273930",
+                        "C0027651"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T191",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Giant condyloma acuminatum involving the prepuce and glans penis",
+                    "Giant condyloma of Buschke and Lwenstein",
+                    "GCBL"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000882-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Buschke Lowenstein tumor ?"
+                },
+                "Answer": "Buschke Lowenstein tumor is a tumor that most commonly occurs near the penis or anus.  This tumor often looks like a large genital wart; it tends to grow slowly, but can sometimes grow very large and spread into surrounding tissues.  These tumors rarely spread to other parts of the body.  Treatment of these tumors begins with removal by surgery.  Chemotherapy and radiation therapy have also been shown to be effective treatments for this tumor type."
+            }
+        }
+    }
+}

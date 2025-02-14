@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0002853",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002950.htm",
+        "Focus": "Open heart surgery",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Heart surgery - open"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002853-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Open heart surgery"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

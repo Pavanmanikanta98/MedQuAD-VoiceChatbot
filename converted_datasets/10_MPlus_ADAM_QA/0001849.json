@@ -1,0 +1,93 @@
+{
+    "Document": {
+        "@id": "0001849",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003044.htm",
+        "Focus": "Hearing loss",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0011053",
+                        "C1384666",
+                        "C2029884",
+                        "C0018772"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Decreased hearing",
+                    "Deafness",
+                    "Loss of hearing",
+                    "Conductive hearing loss",
+                    "Sensorineural hearing loss",
+                    "Presbycusis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001849-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hearing loss ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001849-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Hearing loss ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001849-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Hearing loss ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001849-4",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Hearing loss ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001849-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Hearing loss ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001849-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Hearing loss ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

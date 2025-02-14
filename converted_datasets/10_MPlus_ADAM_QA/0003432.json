@@ -1,0 +1,105 @@
+{
+    "Document": {
+        "@id": "0003432",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000968.htm",
+        "Focus": "Roseola",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0015231",
+                        "C0595993"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Exanthem subitum",
+                    "Sixth disease"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003432-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Roseola ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003432-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Roseola ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003432-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Roseola ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003432-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Roseola ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003432-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Roseola ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003432-6",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Roseola ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003432-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Roseola ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003432-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Roseola ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

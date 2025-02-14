@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001980",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007633.htm",
+        "Focus": "Hip joint injection",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Cortisone shot - hip",
+                    "Hip injection",
+                    "Intra-articular steroid injections - hip"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001980-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Hip joint injection"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

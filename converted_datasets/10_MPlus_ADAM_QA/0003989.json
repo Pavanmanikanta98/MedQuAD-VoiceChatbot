@@ -1,0 +1,35 @@
+{
+    "Document": {
+        "@id": "0003989",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003578.htm",
+        "Focus": "Toxicology screen",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Barbiturates - screen",
+                    "Benzodiazepines - screen",
+                    "Amphetamines - screen",
+                    "Analgesics - screen",
+                    "Antidepressants - screen",
+                    "Narcotics - screen",
+                    "Phenothiazines - screen",
+                    "Drug abuse screen",
+                    "Blood alcohol test"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003989-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Toxicology screen"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

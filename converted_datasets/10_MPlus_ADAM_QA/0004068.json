@@ -1,0 +1,51 @@
+{
+    "Document": {
+        "@id": "0004068",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001933.htm",
+        "Focus": "Types of health care providers",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0580931"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Physicians",
+                    "Nurses",
+                    "Health care providers",
+                    "Doctors",
+                    "Pharmacists"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004068-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Types of health care providers ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004068-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Types of health care providers ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

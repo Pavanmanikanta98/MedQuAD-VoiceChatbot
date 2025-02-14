@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0004351",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002571.htm",
+        "Focus": "Zinc oxide overdose",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Desitin overdose",
+                    "Calamine lotion overdose",
+                    "Zinaderm overdose",
+                    "Amalox overdose",
+                    "Azo 22 overdose"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004351-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Zinc oxide overdose"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0003730",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003393.htm",
+        "Focus": "Stool guaiac test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Guaiac smear test",
+                    "Fecal occult blood test -- guaiac smear",
+                    "Stool occult blood test -- guaiac smear"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003730-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Stool guaiac test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

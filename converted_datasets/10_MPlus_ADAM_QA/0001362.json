@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001362",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007474.htm",
+        "Focus": "Electroconvulsive therapy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Shock treatment",
+                    "Shock therapy",
+                    "ECT"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001362-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Electroconvulsive therapy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

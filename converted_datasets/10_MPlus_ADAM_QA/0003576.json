@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003576",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003666.htm",
+        "Focus": "Sickle cell test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Sickledex",
+                    "Hgb S test"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003576-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Sickle cell test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

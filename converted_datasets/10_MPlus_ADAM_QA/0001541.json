@@ -1,0 +1,111 @@
+{
+    "Document": {
+        "@id": "0001541",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000402.htm",
+        "Focus": "Familial dysbetalipoproteinemia",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0020479"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Type III hyperlipoproteinemia",
+                    "Deficient or defective apolipoprotein E"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001541-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Familial dysbetalipoproteinemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001541-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Familial dysbetalipoproteinemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001541-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Familial dysbetalipoproteinemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001541-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Familial dysbetalipoproteinemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001541-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Familial dysbetalipoproteinemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001541-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Familial dysbetalipoproteinemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001541-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Familial dysbetalipoproteinemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001541-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Familial dysbetalipoproteinemia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0001541-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Familial dysbetalipoproteinemia ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

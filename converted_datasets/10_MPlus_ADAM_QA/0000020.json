@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000020",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003137.htm",
+        "Focus": "Abdominal sounds",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Bowel sounds"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000020-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Abdominal sounds"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

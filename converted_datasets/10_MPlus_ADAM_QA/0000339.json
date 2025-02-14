@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0000339",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000208.htm",
+        "Focus": "Asthma - what to ask the doctor - adult",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0004096"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "What to ask your doctor about asthma - adult"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000339-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Asthma - what to ask the doctor - adult ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

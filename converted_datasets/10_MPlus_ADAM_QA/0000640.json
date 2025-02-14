@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000640",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002412.htm",
+        "Focus": "Calcium in diet",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Diet - calcium"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000640-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Calcium in diet"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

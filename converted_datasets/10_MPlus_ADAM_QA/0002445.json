@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0002445",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000200.htm",
+        "Focus": "Low-fiber diet",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Fiber diet - low-residue",
+                    "Low-fiber diet",
+                    "Fiber restricted diet"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002445-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Low-fiber diet"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

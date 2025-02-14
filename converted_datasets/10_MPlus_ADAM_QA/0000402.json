@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0000402",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003462.htm",
+        "Focus": "Basic metabolic panel",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "SMAC7",
+                    "Sequential multi-channel analysis with computer-7",
+                    "SMA7",
+                    "Metabolic panel 7",
+                    "CHEM-7"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000402-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Basic metabolic panel"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0002260",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002881.htm",
+        "Focus": "Jimsonweed poisoning",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Angel's trumpet",
+                    "Devil's weed",
+                    "Thorn apple",
+                    "Tolguacha",
+                    "Jamestown weed",
+                    "Stinkweed",
+                    "Datura",
+                    "Moonflower"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002260-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Jimsonweed poisoning"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

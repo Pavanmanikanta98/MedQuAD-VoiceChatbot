@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000597",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002859.htm",
+        "Focus": "Brown recluse spider",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Loxosceles reclusa"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000597-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Brown recluse spider"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

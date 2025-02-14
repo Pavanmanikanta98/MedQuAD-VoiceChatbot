@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002559",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000619.htm",
+        "Focus": "Medicine safety and children",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Medication safety",
+                    "Poison control"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002559-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Medicine safety and children"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

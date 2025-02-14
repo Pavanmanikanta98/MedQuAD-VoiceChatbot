@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0001836",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007462.htm",
+        "Focus": "Health screening - women - ages 18 to 39",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Health maintenance visit - women - ages 18 to 39",
+                    "Physical exam - women - ages 18 to 39",
+                    "Yearly exam - women - ages 18 to 39",
+                    "Checkup - women - ages 18 to 39",
+                    "Women's health - ages 18 to 39",
+                    "Preventive care - women - ages 18 to 39"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001836-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Health screening - women - ages 18 to 39"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001484",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000492.htm",
+        "Focus": "Exercise, lifestyle, and your bones",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Osteoporosis - exercise",
+                    "Low bone density - exercise"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001484-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Exercise, lifestyle, and your bones"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

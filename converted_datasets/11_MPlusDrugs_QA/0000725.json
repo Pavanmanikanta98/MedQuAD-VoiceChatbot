@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0000725",
+        "@source": "MPlusDrugs",
+        "@url": "https://www.nlm.nih.gov/medlineplus/druginfo/meds/a601071.html",
+        "Focus": "Losartan and Hydrochlorothiazide",
+        "FocusAnnotations": {
+            "Category": "Drug"
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000725-1",
+                        "@qtype": "brand names of combination products",
+                        "#text": "What are the brand names of combination products of Losartan and Hydrochlorothiazide ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000725-2",
+                        "@qtype": "brand names of combination products",
+                        "#text": "What are the brand names of combination products of Losartan and Hydrochlorothiazide ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

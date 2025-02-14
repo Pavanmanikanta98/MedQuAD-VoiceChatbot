@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001563",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007235.htm",
+        "Focus": "Feeding tube - infants",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Gavage tube - infants",
+                    "OG - infants",
+                    "NG - infants"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001563-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Feeding tube - infants"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

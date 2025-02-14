@@ -1,0 +1,117 @@
+{
+    "Document": {
+        "@id": "0002455",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007194.htm",
+        "Focus": "Lung cancer - non-small cell",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0242379",
+                        "C0684249"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Cancer - lung - non-small cell",
+                    "Non-small cell lung cancer",
+                    "NSCLC",
+                    "Adenocarcinoma - lung",
+                    "Squamous cell carcinoma - lung"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002455-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Lung cancer - non-small cell ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002455-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Lung cancer - non-small cell ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002455-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Lung cancer - non-small cell ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002455-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Lung cancer - non-small cell ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002455-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Lung cancer - non-small cell ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002455-6",
+                        "@qtype": "support groups",
+                        "#text": "Where to find support for people with Lung cancer - non-small cell ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002455-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Lung cancer - non-small cell ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002455-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Lung cancer - non-small cell ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002455-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Lung cancer - non-small cell ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

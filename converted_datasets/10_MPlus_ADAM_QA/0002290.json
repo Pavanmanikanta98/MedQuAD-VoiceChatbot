@@ -1,0 +1,66 @@
+{
+    "Document": {
+        "@id": "0002290",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003005.htm",
+        "Focus": "Kidney transplant",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0677491"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Renal transplant",
+                    "Transplant - kidney"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002290-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Kidney transplant ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002290-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Kidney transplant ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002290-4",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Kidney transplant? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002290-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Kidney transplant ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

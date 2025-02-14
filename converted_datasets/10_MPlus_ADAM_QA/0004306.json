@@ -1,0 +1,51 @@
+{
+    "Document": {
+        "@id": "0004306",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000319.htm",
+        "Focus": "When your baby or infant has a fever",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0424755",
+                        "C0015967"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Fever - infant",
+                    "Fever - baby"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004306-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) When your baby or infant has a fever ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0004306-4",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for When your baby or infant has a fever ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

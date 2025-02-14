@@ -1,0 +1,88 @@
+{
+    "Document": {
+        "@id": "0003536",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001172.htm",
+        "Focus": "Sertoli-Leydig cell tumor",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0206723",
+                        "C1318541"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Sertoli-stromal cell tumor",
+                    "Arrhenoblastoma",
+                    "Androblastoma"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003536-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Sertoli-Leydig cell tumor ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003536-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Sertoli-Leydig cell tumor ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003536-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Sertoli-Leydig cell tumor ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003536-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Sertoli-Leydig cell tumor ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003536-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Sertoli-Leydig cell tumor ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003536-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Sertoli-Leydig cell tumor ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

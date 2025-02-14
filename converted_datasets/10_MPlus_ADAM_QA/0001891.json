@@ -1,0 +1,81 @@
+{
+    "Document": {
+        "@id": "0001891",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003094.htm",
+        "Focus": "Heat intolerance",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0231274",
+                        "C2107732"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T046",
+                        "T184"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Sensitivity to heat",
+                    "Intolerance to heat"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001891-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Heat intolerance ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001891-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Heat intolerance ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001891-3",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Heat intolerance ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001891-4",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Heat intolerance ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001891-5",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Heat intolerance ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

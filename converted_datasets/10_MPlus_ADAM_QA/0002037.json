@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0002037",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000748.htm",
+        "Focus": "How to take statins",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Antilipemic Agent",
+                    "HMG-CoA reductase inhibitors",
+                    "Atorvastatin (Lipitor)",
+                    "Simvastatin (Zocor)",
+                    "Lovastatin (Mevacor, Altoprev)",
+                    "Pravastatin (Pravachol)",
+                    "Rosuvastatin (Crestor)",
+                    "Fluvastatin (Lescol)"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002037-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about How to take statins"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "Document": {
+        "@id": "0003805",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003630.htm",
+        "Focus": "Sweat electrolytes test",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0038990"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Sweat test",
+                    "Sweat chloride",
+                    "Iontophoretic sweat test"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003805-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Sweat electrolytes test ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "Document": {
+        "@id": "0000549",
+        "@source": "GHR",
+        "@url": "https://ghr.nlm.nih.gov/condition/juvenile-paget-disease",
+        "Focus": "juvenile Paget disease",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0268414"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "chronic congenital idiopathic hyperphosphatasemia",
+                    "familial idiopathic hyperphosphatasemia",
+                    "familial osteoectasia",
+                    "hyperostosis corticalis deformans juvenilis",
+                    "hyperphosphatasemia with bone disease",
+                    "hyperphosphatasia, familial idiopathic",
+                    "idiopathic hyperphosphatasia",
+                    "JPD",
+                    "juvenile Paget's disease",
+                    "osteochalasia desmalis familiaris",
+                    "osteoectasia with hyperphosphatasia"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000549-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) juvenile Paget disease ?"
+                    },
+                    "Answer": "Juvenile Paget disease is a disorder that affects bone growth. This disease causes bones to be abnormally large, misshapen, and easily broken (fractured).  The signs of juvenile Paget disease appear in infancy or early childhood. As bones grow, they become progressively weaker and more deformed. These abnormalities usually become more severe during the adolescent growth spurt, when bones grow very quickly.  Juvenile Paget disease affects the entire skeleton, resulting in widespread bone and joint pain. The bones of the skull tend to grow unusually large and thick, which can lead to hearing loss. The disease also affects bones of the spine (vertebrae). The deformed vertebrae can collapse, leading to abnormal curvature of the spine. Additionally, weight-bearing long bones in the legs tend to bow and fracture easily, which can interfere with standing and walking."
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000549-2",
+                        "@qtype": "frequency",
+                        "#text": "How many people are affected by juvenile Paget disease ?"
+                    },
+                    "Answer": "Juvenile Paget disease is rare; about 50 affected individuals have been identified worldwide."
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000549-3",
+                        "@qtype": "genetic changes",
+                        "#text": "What are the genetic changes related to juvenile Paget disease ?"
+                    },
+                    "Answer": "Juvenile Paget disease is caused by mutations in the TNFRSF11B gene. This gene provides instructions for making a protein that is involved in bone remodeling, a normal process in which old bone is broken down and new bone is created to replace it.  Bones are constantly being remodeled, and the process is carefully controlled to ensure that bones stay strong and healthy. Mutations in the TNFRSF11B gene lead to a much faster rate of bone remodeling starting early in life. Bone tissue is broken down more quickly than usual, and when new bone tissue grows it is larger, weaker, and less organized than normal bone. This abnormally fast bone remodeling underlies the problems with bone growth characteristic of juvenile Paget disease."
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000549-4",
+                        "@qtype": "inheritance",
+                        "#text": "Is juvenile Paget disease inherited ?"
+                    },
+                    "Answer": "This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition."
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000549-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for juvenile Paget disease ?"
+                    },
+                    "Answer": "These resources address the diagnosis or management of juvenile Paget disease:  - Genetic Testing Registry: Hyperphosphatasemia with bone disease   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care"
+                }
+            ]
+        }
+    }
+}

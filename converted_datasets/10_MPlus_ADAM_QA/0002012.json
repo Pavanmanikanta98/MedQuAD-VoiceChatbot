@@ -1,0 +1,44 @@
+{
+    "Document": {
+        "@id": "0002012",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000909.htm",
+        "Focus": "Hormone therapy for breast cancer",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0006142",
+                        "C0678222"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Hormonal therapy - breast cancer",
+                    "Hormone treatment - breast cancer",
+                    "Endocrine therapy",
+                    "Hormone-sensitive cancers-therapy",
+                    "ER positive-therapy",
+                    "Aromatase inhibitors-breast cancer"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002012-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Hormone therapy for breast cancer ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

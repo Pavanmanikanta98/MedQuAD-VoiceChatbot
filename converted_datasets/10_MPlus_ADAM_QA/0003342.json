@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0003342",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003648.htm",
+        "Focus": "RBC indices",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Erythrocyte indices",
+                    "Blood indices",
+                    "Mean corpuscular hemoglobin (MCH)",
+                    "Mean corpuscular hemoglobin concentration (MCHC)",
+                    "Mean corpuscular volume (MCV)",
+                    "Red blood cell indices"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003342-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about RBC indices"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

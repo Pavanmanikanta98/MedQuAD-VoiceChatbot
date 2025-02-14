@@ -1,0 +1,39 @@
+{
+    "Document": {
+        "@id": "0000164",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003519.htm",
+        "Focus": "Allergy testing - skin",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0362085"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Patch tests - allergy",
+                    "Scratch tests - allergy",
+                    "Skin tests - allergy",
+                    "RAST test"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000164-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Allergy testing - skin ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

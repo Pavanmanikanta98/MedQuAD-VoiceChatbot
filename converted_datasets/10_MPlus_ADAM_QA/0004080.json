@@ -1,0 +1,111 @@
+{
+    "Document": {
+        "@id": "0004080",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000987.htm",
+        "Focus": "Umbilical hernia",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0019322",
+                        "C1306503"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T190",
+                        "T019"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004080-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Umbilical hernia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004080-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Umbilical hernia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0004080-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Umbilical hernia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0004080-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Umbilical hernia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0004080-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Umbilical hernia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0004080-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Umbilical hernia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0004080-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Umbilical hernia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0004080-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Umbilical hernia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0004080-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Umbilical hernia ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

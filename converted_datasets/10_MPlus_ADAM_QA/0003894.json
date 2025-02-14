@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003894",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002590.htm",
+        "Focus": "Tetrahydrozoline poisoning",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Murine",
+                    "Visine"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003894-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Tetrahydrozoline poisoning"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0003375",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002969.htm",
+        "Focus": "Repair of webbed fingers or toes",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Web finger repair",
+                    "Web toe repair",
+                    "Syndactyly repair"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003375-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Repair of webbed fingers or toes"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

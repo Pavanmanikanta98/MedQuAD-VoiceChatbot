@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0002470",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000547.htm",
+        "Focus": "Lupus anticoagulants and antiphospholipid antibodies",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002470-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Lupus anticoagulants and antiphospholipid antibodies"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

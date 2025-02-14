@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0003201",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000544.htm",
+        "Focus": "Prenatal care in your first trimester",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003201-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Prenatal care in your first trimester"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

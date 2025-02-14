@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000743",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002000.htm",
+        "Focus": "Certified nurse-midwife",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Nurse midwife",
+                    "CNM"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000743-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Certified nurse-midwife"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "Document": {
+        "@id": "0001246",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000014.htm",
+        "Focus": "Dislocation",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0012691"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Joint dislocation"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001246-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Dislocation ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001246-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Dislocation ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001246-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Dislocation ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001246-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Dislocation ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001246-5",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Dislocation ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001246-6",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Dislocation ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001246-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Dislocation ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001246-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Dislocation ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

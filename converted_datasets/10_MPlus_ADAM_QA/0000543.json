@@ -1,0 +1,58 @@
+{
+    "Document": {
+        "@id": "0000543",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000808.htm",
+        "Focus": "Break the Bonds of Emotional Eating",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0849912"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Obesity - emotional eating",
+                    "Overweight - emotional eating",
+                    "Diet - emotional eating"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000543-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Break the Bonds of Emotional Eating ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000543-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Break the Bonds of Emotional Eating ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000543-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Break the Bonds of Emotional Eating ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "Document": {
+        "@id": "0003290",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000127.htm",
+        "Focus": "Pulmonary aspergilloma",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0276651"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Fungus ball",
+                    "Mycetoma",
+                    "Aspergilloma"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003290-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Pulmonary aspergilloma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003290-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Pulmonary aspergilloma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003290-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Pulmonary aspergilloma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003290-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Pulmonary aspergilloma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003290-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Pulmonary aspergilloma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003290-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Pulmonary aspergilloma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003290-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Pulmonary aspergilloma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003290-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Pulmonary aspergilloma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0003290-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Pulmonary aspergilloma ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

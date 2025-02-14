@@ -1,0 +1,86 @@
+{
+    "Document": {
+        "@id": "0002731",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000800.htm",
+        "Focus": "Nail injuries",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C3263723"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Nail laceration",
+                    "Nail avulsion",
+                    "Nail bed injury",
+                    "Subungual hematoma"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002731-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Nail injuries ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002731-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Nail injuries ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002731-4",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Nail injuries ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002731-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Nail injuries ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002731-6",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Nail injuries ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002731-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Nail injuries ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

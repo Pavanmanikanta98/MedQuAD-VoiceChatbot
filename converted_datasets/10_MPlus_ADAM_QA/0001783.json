@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0001783",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000859.htm",
+        "Focus": "Gumma",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0333422"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001783-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Gumma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001783-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Gumma ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

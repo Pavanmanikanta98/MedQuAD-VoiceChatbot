@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000643",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000490.htm",
+        "Focus": "Calcium, vitamin D, and your bones",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Osteoporosis - calcium",
+                    "Osteoporosis - low bone density"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000643-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Calcium, vitamin D, and your bones"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

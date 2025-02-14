@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000561",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000056.htm",
+        "Focus": "Breast radiation - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Radiation - breast - discharge"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000561-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Breast radiation - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "Document": {
+        "@id": "0000544",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002984.htm",
+        "Focus": "Breast augmentation surgery",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0740199"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Breast augmentation",
+                    "Breast implants",
+                    "Implants - breast",
+                    "Mammaplasty"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000544-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Breast augmentation surgery ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000544-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Breast augmentation surgery ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000544-4",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Breast augmentation surgery? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000544-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Breast augmentation surgery ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

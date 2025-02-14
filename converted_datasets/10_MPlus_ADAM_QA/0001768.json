@@ -1,0 +1,75 @@
+{
+    "Document": {
+        "@id": "0001768",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002838.htm",
+        "Focus": "Grass and weed killer poisoning",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0032343"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Weedoff poisoning",
+                    "Roundup poisoning"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001768-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Grass and weed killer poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001768-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Grass and weed killer poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001768-5",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Grass and weed killer poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001768-8",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Grass and weed killer poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0001768-9",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Grass and weed killer poisoning ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

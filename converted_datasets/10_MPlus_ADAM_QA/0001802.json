@@ -1,0 +1,60 @@
+{
+    "Document": {
+        "@id": "0001802",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007559.htm",
+        "Focus": "Hammer toe repair",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C2239184",
+                        "C1136179"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T190",
+                        "T020"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Flexion contracture of the toe"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001802-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hammer toe repair ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001802-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hammer toe repair ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001802-4",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Hammer toe repair? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

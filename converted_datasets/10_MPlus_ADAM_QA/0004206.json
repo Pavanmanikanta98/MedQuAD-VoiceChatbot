@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0004206",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002465.htm",
+        "Focus": "Vegetarian diet",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Lacto-ovovegetarian",
+                    "Semi-vegetarian",
+                    "Partial vegetarian",
+                    "Vegan",
+                    "Lacto-vegetarian"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004206-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Vegetarian diet"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

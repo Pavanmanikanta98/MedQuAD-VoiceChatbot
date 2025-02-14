@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0003260",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002467.htm",
+        "Focus": "Protein in diet",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Diet - protein",
+                    "Complete protein",
+                    "Incomplete protein"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003260-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Protein in diet"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

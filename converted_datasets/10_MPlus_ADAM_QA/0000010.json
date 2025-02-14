@@ -1,0 +1,72 @@
+{
+    "Document": {
+        "@id": "0000010",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003123.htm",
+        "Focus": "Abdominal bloating",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C1291077",
+                        "C0000731"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T033",
+                        "T184"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Bloating",
+                    "Meteorism"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000010-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Abdominal bloating ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000010-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Abdominal bloating ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000010-3",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Abdominal bloating ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000010-4",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Abdominal bloating ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

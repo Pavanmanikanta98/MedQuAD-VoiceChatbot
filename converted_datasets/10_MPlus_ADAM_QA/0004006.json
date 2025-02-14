@@ -1,0 +1,105 @@
+{
+    "Document": {
+        "@id": "0004006",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000730.htm",
+        "Focus": "Transient ischemic attack",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0007787"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Mini stroke",
+                    "TIA",
+                    "Little stroke",
+                    "Cerebrovascular disease - TIA",
+                    "Carotid artery - TIA"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004006-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Transient ischemic attack ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004006-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Transient ischemic attack ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0004006-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Transient ischemic attack ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0004006-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Transient ischemic attack ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0004006-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Transient ischemic attack ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0004006-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Transient ischemic attack ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0004006-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Transient ischemic attack ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0004006-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Transient ischemic attack ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

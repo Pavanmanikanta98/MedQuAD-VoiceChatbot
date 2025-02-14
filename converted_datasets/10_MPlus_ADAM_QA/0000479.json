@@ -1,0 +1,102 @@
+{
+    "Document": {
+        "@id": "0000479",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001146.htm",
+        "Focus": "Blind loop syndrome",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0005750"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Stasis syndrome",
+                    "Stagnant loop syndrome"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000479-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Blind loop syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000479-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Blind loop syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000479-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Blind loop syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000479-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Blind loop syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000479-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Blind loop syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000479-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Blind loop syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000479-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Blind loop syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000479-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Blind loop syndrome ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

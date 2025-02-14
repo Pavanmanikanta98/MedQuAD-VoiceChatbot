@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0000820",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000386.htm",
+        "Focus": "Cholesterol testing and results",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Cholesterol test results",
+                    "LDL test results",
+                    "VLDL test results",
+                    "HDL test results",
+                    "Coronary risk profile results",
+                    "Hyperlipidemia-results",
+                    "Lipid disorder test results"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000820-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Cholesterol testing and results"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

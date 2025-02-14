@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0002633",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003591.htm",
+        "Focus": "Microalbuminuria test",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0730345",
+                        "C0456984"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T047",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002633-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Microalbuminuria test ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002633-7",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Microalbuminuria test? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

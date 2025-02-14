@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0000993",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003876.htm",
+        "Focus": "Coronary angiography",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Cardiac angiography",
+                    "Angiography - heart",
+                    "Angiogram - coronary",
+                    "Coronary artery disease - angiography",
+                    "CAD - angiography",
+                    "Angina - angiography",
+                    "Heart disease - angiography"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000993-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Coronary angiography"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

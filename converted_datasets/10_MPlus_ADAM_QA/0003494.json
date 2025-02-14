@@ -1,0 +1,50 @@
+{
+    "Document": {
+        "@id": "0003494",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003538.htm",
+        "Focus": "Screening and diagnosis for HIV",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0011900"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "HIV testing",
+                    "HIV screening",
+                    "HIV screening test",
+                    "HIV confirmatory test"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003494-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Screening and diagnosis for HIV ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003494-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Screening and diagnosis for HIV? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

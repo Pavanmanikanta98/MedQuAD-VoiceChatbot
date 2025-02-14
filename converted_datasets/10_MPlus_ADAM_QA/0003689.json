@@ -1,0 +1,85 @@
+{
+    "Document": {
+        "@id": "0003689",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003276.htm",
+        "Focus": "Splenomegaly",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0038002"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Spleen enlargement",
+                    "Enlarged spleen",
+                    "Spleen swelling"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003689-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Splenomegaly ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003689-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Splenomegaly ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003689-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Splenomegaly ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003689-4",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Splenomegaly ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003689-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Splenomegaly ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003689-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Splenomegaly ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

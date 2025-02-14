@@ -1,0 +1,113 @@
+{
+    "Document": {
+        "@id": "0001159",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000971.htm",
+        "Focus": "Developmental dysplasia of the hip",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0334044",
+                        "C0019555"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T019",
+                        "T046"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Developmental dislocation of the hip joint",
+                    "Developmental hip dysplasia",
+                    "DDH",
+                    "Congenital dysplasia of the hip",
+                    "Congenital dislocation of the hip",
+                    "CDH",
+                    "Pavlik harness"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001159-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Developmental dysplasia of the hip ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001159-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Developmental dysplasia of the hip ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001159-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Developmental dysplasia of the hip ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001159-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Developmental dysplasia of the hip ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001159-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Developmental dysplasia of the hip ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001159-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Developmental dysplasia of the hip ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001159-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Developmental dysplasia of the hip ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001159-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Developmental dysplasia of the hip ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

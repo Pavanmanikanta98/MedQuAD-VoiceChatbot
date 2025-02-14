@@ -1,0 +1,127 @@
+{
+    "Document": {
+        "@id": "0000548",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007653.htm",
+        "Focus": "Breast cancer in men",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0006142",
+                        "C0678222"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Infiltrating ductal carcinoma-male",
+                    "Ductal carcinoma in situ-male",
+                    "Intraductal carcinoma-male",
+                    "Inflammatory breast cancer-male",
+                    "Paget disease of the nipple-male",
+                    "Breast cancer-male"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000548-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Breast cancer in men ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000548-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Breast cancer in men ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000548-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Breast cancer in men ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000548-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Breast cancer in men ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000548-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Breast cancer in men ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000548-6",
+                        "@qtype": "support groups",
+                        "#text": "Where to find support for people with Breast cancer in men ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000548-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Breast cancer in men ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000548-8",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Breast cancer in men ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000548-9",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Breast cancer in men ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "10",
+                    "Question": {
+                        "@qid": "0000548-10",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Breast cancer in men ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

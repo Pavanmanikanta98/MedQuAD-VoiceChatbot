@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0003839",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000613.htm",
+        "Focus": "Taking medicine at home - create a routine",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003839-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Taking medicine at home - create a routine"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

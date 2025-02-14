@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0001600",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002365.htm",
+        "Focus": "Fistula",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0016169"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T190"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001600-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Fistula ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001600-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Fistula ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

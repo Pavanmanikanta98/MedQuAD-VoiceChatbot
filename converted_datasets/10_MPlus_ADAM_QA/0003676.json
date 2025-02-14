@@ -1,0 +1,71 @@
+{
+    "Document": {
+        "@id": "0003676",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002968.htm",
+        "Focus": "Spinal fusion",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C3278509"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Vertebral interbody fusion",
+                    "Posterior spinal fusion",
+                    "Arthrodesis",
+                    "Anterior spinal fusion",
+                    "Spine surgery - spinal fusion",
+                    "Low back pain - fusion",
+                    "Herniated disk - fusion"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003676-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Spinal fusion ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003676-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Spinal fusion ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003676-4",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Spinal fusion? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003676-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Spinal fusion ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0000501",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007196.htm",
+        "Focus": "Body mass index",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0577559"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "BMI"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000501-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Body mass index ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

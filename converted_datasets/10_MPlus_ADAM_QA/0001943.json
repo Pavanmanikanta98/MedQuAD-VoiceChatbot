@@ -1,0 +1,50 @@
+{
+    "Document": {
+        "@id": "0001943",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003558.htm",
+        "Focus": "Hepatitis virus panel",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0019186"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T005"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Hepatitis A antibody test",
+                    "Hepatitis B antibody test",
+                    "Hepatitis C antibody test",
+                    "Hepatitis D antibody test"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001943-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hepatitis virus panel ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001943-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Hepatitis virus panel? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

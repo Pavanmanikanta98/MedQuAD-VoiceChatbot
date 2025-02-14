@@ -1,0 +1,102 @@
+{
+    "Document": {
+        "@id": "0002076",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001499.htm",
+        "Focus": "Hyperemesis gravidarum",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0020450"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Nausea - persistent - in pregnancy",
+                    "Vomiting - persistent - in pregnancy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002076-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hyperemesis gravidarum ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002076-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Hyperemesis gravidarum ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002076-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Hyperemesis gravidarum ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002076-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Hyperemesis gravidarum ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002076-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Hyperemesis gravidarum ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002076-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Hyperemesis gravidarum ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002076-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Hyperemesis gravidarum ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002076-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Hyperemesis gravidarum ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

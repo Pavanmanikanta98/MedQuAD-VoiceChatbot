@@ -1,0 +1,78 @@
+{
+    "Document": {
+        "@id": "0001046",
+        "@source": "MPlusDrugs",
+        "@url": "https://www.nlm.nih.gov/medlineplus/druginfo/meds/a607023.html",
+        "Focus": "Rabies Vaccine",
+        "FocusAnnotations": {
+            "Category": "Drug"
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001046-1",
+                        "@qtype": "information",
+                        "#text": "What is Rabies Vaccine ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001046-3",
+                        "@qtype": "indication",
+                        "#text": "Who should get Rabies Vaccine and why is it prescribed ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001046-4",
+                        "@qtype": "important warning",
+                        "#text": "What important warning or information should I know about Rabies Vaccine ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001046-5",
+                        "@qtype": "side effects",
+                        "#text": "What are the side effects or risks of Rabies Vaccine ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001046-6",
+                        "@qtype": "severe reaction",
+                        "#text": "What to do in case of a severe reaction to Rabies Vaccine ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001046-7",
+                        "@qtype": "how can i learn more",
+                        "#text": "How can I learn more about Rabies Vaccine ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001046-8",
+                        "@qtype": "brand names",
+                        "#text": "What are the brand names of Rabies Vaccine ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

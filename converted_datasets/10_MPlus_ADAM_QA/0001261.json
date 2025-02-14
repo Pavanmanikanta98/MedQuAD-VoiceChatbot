@@ -1,0 +1,64 @@
+{
+    "Document": {
+        "@id": "0001261",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000692.htm",
+        "Focus": "Dizziness and vertigo - aftercare",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C1963093",
+                        "C0012833",
+                        "C0042571"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T033",
+                        "T184"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Meniere disease - aftercare",
+                    "Benign positional vertigo - aftercare"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001261-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Dizziness and vertigo - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001261-2",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Dizziness and vertigo - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001261-6",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Dizziness and vertigo - aftercare ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

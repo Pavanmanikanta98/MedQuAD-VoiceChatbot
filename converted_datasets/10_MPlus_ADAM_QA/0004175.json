@@ -1,0 +1,75 @@
+{
+    "Document": {
+        "@id": "0004175",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000614.htm",
+        "Focus": "Vaginal bleeding in early pregnancy",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C2979982",
+                        "C0156604"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T046",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004175-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Vaginal bleeding in early pregnancy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0004175-3",
+                        "@qtype": "information",
+                        "#text": "What is (are) Vaginal bleeding in early pregnancy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0004175-4",
+                        "@qtype": "causes",
+                        "#text": "What causes Vaginal bleeding in early pregnancy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0004175-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Vaginal bleeding in early pregnancy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0004175-7",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Vaginal bleeding in early pregnancy ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

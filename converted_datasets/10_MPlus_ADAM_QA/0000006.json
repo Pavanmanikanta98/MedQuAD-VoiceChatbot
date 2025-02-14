@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0000006",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003122.htm",
+        "Focus": "Abdomen - swollen",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Swollen belly",
+                    "Swelling in the abdomen",
+                    "Abdominal distention",
+                    "Distended abdomen"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000006-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Abdomen - swollen"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

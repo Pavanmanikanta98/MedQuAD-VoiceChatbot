@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0002294",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002972.htm",
+        "Focus": "Knee arthroscopy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Knee scope - arthroscopic lateral retinacular release",
+                    "Synovectomy - knee",
+                    "Patellar (knee) debridement",
+                    "Meniscus repair",
+                    "Lateral release",
+                    "Knee surgery",
+                    "Meniscus-arthroscopy",
+                    "Collateral ligament-arthroscopy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002294-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Knee arthroscopy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

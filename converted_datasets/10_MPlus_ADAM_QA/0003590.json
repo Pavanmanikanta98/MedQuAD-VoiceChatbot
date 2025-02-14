@@ -1,0 +1,51 @@
+{
+    "Document": {
+        "@id": "0003590",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000563.htm",
+        "Focus": "Sinusitis in adults - aftercare",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0037199"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003590-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Sinusitis in adults - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003590-2",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Sinusitis in adults - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003590-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Sinusitis in adults - aftercare ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

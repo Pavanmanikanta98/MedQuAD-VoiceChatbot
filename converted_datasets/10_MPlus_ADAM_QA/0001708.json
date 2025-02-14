@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001708",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002432.htm",
+        "Focus": "Genetically engineered foods",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Bioengineered foods",
+                    "GMOs",
+                    "Genetically modified foods"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001708-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Genetically engineered foods"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

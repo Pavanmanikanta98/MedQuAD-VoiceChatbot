@@ -1,0 +1,114 @@
+{
+    "Document": {
+        "@id": "0000268",
+        "@source": "MPlusDrugs",
+        "@url": "https://www.nlm.nih.gov/medlineplus/druginfo/meds/a609005.html",
+        "Focus": "Clindamycin Topical",
+        "FocusAnnotations": {
+            "Category": "Drug"
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000268-1",
+                        "@qtype": "indication",
+                        "#text": "Who should get Clindamycin Topical and why is it prescribed ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000268-2",
+                        "@qtype": "usage",
+                        "#text": "How should Clindamycin Topical be used and what is the dosage ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000268-4",
+                        "@qtype": "precautions",
+                        "#text": "Are there safety concerns or special precautions about Clindamycin Topical ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000268-5",
+                        "@qtype": "dietary",
+                        "#text": "What special dietary instructions should I follow with Clindamycin Topical ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000268-6",
+                        "@qtype": "forget a dose",
+                        "#text": "What should I do if I forget a dose of Clindamycin Topical ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000268-7",
+                        "@qtype": "side effects",
+                        "#text": "What are the side effects or risks of Clindamycin Topical ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000268-8",
+                        "@qtype": "storage and disposal",
+                        "#text": "What should I know about storage and disposal of Clindamycin Topical ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000268-9",
+                        "@qtype": "emergency or overdose",
+                        "#text": "What to do in case of emergency or overdose of Clindamycin Topical ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "10",
+                    "Question": {
+                        "@qid": "0000268-10",
+                        "@qtype": "other information",
+                        "#text": "What other information should I know about Clindamycin Topical ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "11",
+                    "Question": {
+                        "@qid": "0000268-11",
+                        "@qtype": "brand names",
+                        "#text": "What are the brand names of Clindamycin Topical ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "12",
+                    "Question": {
+                        "@qid": "0000268-12",
+                        "@qtype": "brand names of combination products",
+                        "#text": "What are the brand names of combination products of Clindamycin Topical ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

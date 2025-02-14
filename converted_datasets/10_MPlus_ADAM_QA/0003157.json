@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003157",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003614.htm",
+        "Focus": "Porphyrins - urine",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Urine uroporphyrin",
+                    "Urine coproporphyrin"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003157-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Porphyrins - urine"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

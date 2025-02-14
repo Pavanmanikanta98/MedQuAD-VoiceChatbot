@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0002062",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007285.htm",
+        "Focus": "Hydrocodone/oxycodone overdose",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Overdose - hydrocodone",
+                    "Overdose - oxycodone",
+                    "Vicodin overdose",
+                    "Percocet overdose",
+                    "Percodan overdose",
+                    "MS Contin overdose",
+                    "OxyContin overdose"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002062-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Hydrocodone/oxycodone overdose"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

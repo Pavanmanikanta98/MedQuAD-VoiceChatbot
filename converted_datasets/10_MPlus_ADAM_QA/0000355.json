@@ -1,0 +1,87 @@
+{
+    "Document": {
+        "@id": "0000355",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007273.htm",
+        "Focus": "Atrial myxoma",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0151241"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000355-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Atrial myxoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000355-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Atrial myxoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000355-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Atrial myxoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000355-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Atrial myxoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000355-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Atrial myxoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000355-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Atrial myxoma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000355-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Atrial myxoma ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

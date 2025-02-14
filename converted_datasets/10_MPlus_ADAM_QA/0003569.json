@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0003569",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000178.htm",
+        "Focus": "Shoulder replacement - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Total shoulder arthroplasty - discharge",
+                    "Endoprosthetic shoulder replacement - discharge",
+                    "Partial shoulder replacement - discharge",
+                    "Partial shoulder arthroplasty - discharge",
+                    "Replacement - shoulder - discharge",
+                    "Arthroplasty - shoulder - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003569-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Shoulder replacement - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

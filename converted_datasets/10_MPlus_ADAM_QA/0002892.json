@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0002892",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002191.htm",
+        "Focus": "Ostomy - resources",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Resources - ostomy"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002892-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Ostomy - resources"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

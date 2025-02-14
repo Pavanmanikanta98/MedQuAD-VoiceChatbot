@@ -1,0 +1,45 @@
+{
+    "Document": {
+        "@id": "0003378",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001929.htm",
+        "Focus": "Reportable diseases",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0012634"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Notifiable diseases"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003378-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Reportable diseases ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003378-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Reportable diseases ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

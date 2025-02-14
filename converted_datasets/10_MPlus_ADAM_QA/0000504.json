@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0000504",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000677.htm",
+        "Focus": "Bonding with your newborn",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000504-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Bonding with your newborn"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

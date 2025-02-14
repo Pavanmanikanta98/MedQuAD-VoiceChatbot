@@ -1,0 +1,99 @@
+{
+    "Document": {
+        "@id": "0001359",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000053.htm",
+        "Focus": "Electrical injury",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1556061"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Electrical shock"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001359-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Electrical injury ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001359-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Electrical injury ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001359-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Electrical injury ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001359-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Electrical injury ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001359-5",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Electrical injury ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001359-6",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Electrical injury ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001359-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Electrical injury ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001359-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Electrical injury ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

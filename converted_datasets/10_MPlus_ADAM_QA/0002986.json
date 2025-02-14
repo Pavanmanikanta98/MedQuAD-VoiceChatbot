@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0002986",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007362.htm",
+        "Focus": "Pelvic CT scan",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "CAT scan - pelvis",
+                    "Computed axial tomography scan - pelvis",
+                    "Computed tomography scan - pelvis",
+                    "CT scan - pelvis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002986-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Pelvic CT scan"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

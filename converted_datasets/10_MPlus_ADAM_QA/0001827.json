@@ -1,0 +1,82 @@
+{
+    "Document": {
+        "@id": "0001827",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003024.htm",
+        "Focus": "Headache",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C2096315",
+                        "C0018681"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T033",
+                        "T184"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Pain - head",
+                    "Rebound headaches",
+                    "Medication overuse headaches"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001827-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Headache ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001827-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Headache ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001827-3",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Headache ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001827-4",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Headache ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001827-5",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Headache ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

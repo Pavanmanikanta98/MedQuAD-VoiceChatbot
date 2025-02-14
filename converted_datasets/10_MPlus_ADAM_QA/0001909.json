@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001909",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003639.htm",
+        "Focus": "Hemoglobin electrophoresis",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Hb electrophoresis",
+                    "Hgb electrophoresis",
+                    "Electrophoresis - hemoglobin"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001909-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Hemoglobin electrophoresis"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

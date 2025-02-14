@@ -1,0 +1,103 @@
+{
+    "Document": {
+        "@id": "0003620",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000060.htm",
+        "Focus": "Skull fracture",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0037304"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Basilar skull fracture",
+                    "Depressed skull fracture",
+                    "Linear skull fracture"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003620-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Skull fracture ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003620-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Skull fracture ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003620-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Skull fracture ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003620-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Skull fracture ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003620-5",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Skull fracture ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003620-6",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Skull fracture ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003620-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Skull fracture ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003620-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Skull fracture ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

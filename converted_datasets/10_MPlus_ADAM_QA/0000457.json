@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0000457",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007460.htm",
+        "Focus": "Birth control pills - overview",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Contraception - pills - hormonal methods",
+                    "Hormonal birth control methods",
+                    "Birth control pills",
+                    "Contraceptive pills",
+                    "BCP",
+                    "OCP"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000457-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Birth control pills - overview"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

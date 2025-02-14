@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0000135",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002187.htm",
+        "Focus": "AIDS - resources",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0001175"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Resources - AIDS"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000135-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) AIDS - resources ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

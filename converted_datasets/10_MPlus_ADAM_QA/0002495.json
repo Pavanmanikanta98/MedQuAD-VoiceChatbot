@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0002495",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002423.htm",
+        "Focus": "Magnesium in diet",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Diet - magnesium"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002495-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Magnesium in diet"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

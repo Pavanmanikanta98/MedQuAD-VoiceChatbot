@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0002189",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000274.htm",
+        "Focus": "Inguinal hernia - discharge",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0019294"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T190"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Hernioraphy - discharge",
+                    "Hernioplasty - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002189-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Inguinal hernia - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002189-2",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Inguinal hernia - discharge ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

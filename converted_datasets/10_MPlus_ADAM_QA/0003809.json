@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0003809",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007492.htm",
+        "Focus": "Sweeteners - sugar substitutes",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003809-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Sweeteners - sugar substitutes"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

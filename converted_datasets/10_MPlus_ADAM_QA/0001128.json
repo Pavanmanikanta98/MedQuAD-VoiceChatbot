@@ -1,0 +1,38 @@
+{
+    "Document": {
+        "@id": "0001128",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000030.htm",
+        "Focus": "Dementia - daily care",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0497327",
+                        "C0580931",
+                        "C0011265"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T048",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001128-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Dementia - daily care ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

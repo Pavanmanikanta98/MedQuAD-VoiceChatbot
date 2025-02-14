@@ -1,0 +1,54 @@
+{
+    "Document": {
+        "@id": "0001115",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000027.htm",
+        "Focus": "Deep vein thrombosis - discharge",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0149871",
+                        "C0340708"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001115-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Deep vein thrombosis - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001115-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Deep vein thrombosis - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001115-4",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Deep vein thrombosis - discharge ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

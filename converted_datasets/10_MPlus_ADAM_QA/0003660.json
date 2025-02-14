@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0003660",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002822.htm",
+        "Focus": "Solder poisoning",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003660-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Solder poisoning"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

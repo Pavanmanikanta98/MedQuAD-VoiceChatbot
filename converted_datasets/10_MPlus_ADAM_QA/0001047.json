@@ -1,0 +1,51 @@
+{
+    "Document": {
+        "@id": "0001047",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000907.htm",
+        "Focus": "Cryotherapy for prostate cancer",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0376358",
+                        "C0600139"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Cryosurgery-prostate cancer",
+                    "Cryoablation-prostate cancer"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001047-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Cryotherapy for prostate cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001047-3",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Cryotherapy for prostate cancer ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

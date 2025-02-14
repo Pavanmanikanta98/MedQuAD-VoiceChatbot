@@ -1,0 +1,114 @@
+{
+    "Document": {
+        "@id": "0001923",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007320.htm",
+        "Focus": "Hemorrhagic disease of the newborn",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0019088",
+                        "C0012634"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Vitamin K deficiency bleeding",
+                    "VKDB"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001923-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hemorrhagic disease of the newborn ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001923-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Hemorrhagic disease of the newborn ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001923-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Hemorrhagic disease of the newborn ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001923-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Hemorrhagic disease of the newborn ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001923-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Hemorrhagic disease of the newborn ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001923-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Hemorrhagic disease of the newborn ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001923-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Hemorrhagic disease of the newborn ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001923-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Hemorrhagic disease of the newborn ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0001923-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Hemorrhagic disease of the newborn ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

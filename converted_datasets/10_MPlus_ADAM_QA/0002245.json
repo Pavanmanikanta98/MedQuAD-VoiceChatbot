@@ -1,0 +1,66 @@
+{
+    "Document": {
+        "@id": "0002245",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000801.htm",
+        "Focus": "Isolated sleep paralysis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0456511"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T046"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Sleep paralysis - isolated",
+                    "Parasomnia - isolated sleep paralysis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002245-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Isolated sleep paralysis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002245-2",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Isolated sleep paralysis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002245-3",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Isolated sleep paralysis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002245-4",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Isolated sleep paralysis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "Document": {
+        "@id": "0000332",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002542.htm",
+        "Focus": "Aspirin overdose",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0572036"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Acetylsalicylic acid overdose"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000332-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Aspirin overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000332-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Aspirin overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000332-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Aspirin overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000332-8",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Aspirin overdose ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

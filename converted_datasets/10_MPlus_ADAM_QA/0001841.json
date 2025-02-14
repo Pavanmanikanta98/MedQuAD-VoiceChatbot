@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001841",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000727.htm",
+        "Focus": "Healthy food trends -- chia seeds",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Healthy food trends -- sage",
+                    "Healthy food trends -- salvia"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001841-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Healthy food trends -- chia seeds"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

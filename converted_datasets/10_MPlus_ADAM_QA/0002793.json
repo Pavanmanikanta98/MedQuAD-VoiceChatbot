@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0002793",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002270.htm",
+        "Focus": "Newborn head molding",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0426103"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Newborn cranial deformation",
+                    "Molding of the newborn's head"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002793-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Newborn head molding ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002793-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Newborn head molding ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

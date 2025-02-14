@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001383",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003754.htm",
+        "Focus": "Endocervical culture",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Vaginal culture",
+                    "Female genital tract culture",
+                    "Culture - cervix"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001383-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Endocervical culture"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

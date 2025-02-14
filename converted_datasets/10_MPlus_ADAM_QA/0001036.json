@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0001036",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000024.htm",
+        "Focus": "Crush injury",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C2136690",
+                        "C0332679"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T037",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001036-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Crush injury ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001036-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Crush injury ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001571",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000166.htm",
+        "Focus": "Femur fracture repair - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "ORIF - femur - discharge",
+                    "Open reduction internal fixation - femur - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001571-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Femur fracture repair - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "Document": {
+        "@id": "0002822",
+        "@source": "GARD",
+        "@url": "https://rarediseases.info.nih.gov/gard/6621/hereditary-elliptocytosis",
+        "Focus": "Hereditary elliptocytosis",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0427480",
+                        "C0013902"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T047",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Pyropoikilocytosis hereditary"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002822-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Hereditary elliptocytosis ?"
+                },
+                "Answer": "Hereditary elliptocytosis refers to a group of inherited blood conditions where the red blood cells are abnormally shaped. Symptoms can include fatigue, shortness of breath, gallstones, and yellowing of the skin and eyes (jaundice). Affected individuals can also have an enlarged spleen. Treatment is usually not necessary unless severe anemia occurs. Surgery to remove the spleen may decrease the rate of red blood cell damage."
+            }
+        }
+    }
+}

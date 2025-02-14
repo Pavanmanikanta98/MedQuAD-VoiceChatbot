@@ -1,0 +1,81 @@
+{
+    "Document": {
+        "@id": "0002438",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007229.htm",
+        "Focus": "Low calcium level - infants",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0860967"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Hypocalcemia - infants"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002438-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Low calcium level - infants ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002438-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Low calcium level - infants ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002438-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Low calcium level - infants ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002438-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Low calcium level - infants ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002438-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Low calcium level - infants ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002438-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Low calcium level - infants ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

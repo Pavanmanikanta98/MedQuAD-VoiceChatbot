@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002953",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002931.htm",
+        "Focus": "Parathyroid gland removal",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Removal of parathyroid gland",
+                    "Parathyroidectomy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002953-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Parathyroid gland removal"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

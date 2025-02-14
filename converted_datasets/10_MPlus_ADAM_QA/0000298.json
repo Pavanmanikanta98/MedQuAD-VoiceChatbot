@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0000298",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003505.htm",
+        "Focus": "Apolipoprotein CII",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "ApoCII",
+                    "Apoprotein CII",
+                    "ApoC2"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000298-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Apolipoprotein CII"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

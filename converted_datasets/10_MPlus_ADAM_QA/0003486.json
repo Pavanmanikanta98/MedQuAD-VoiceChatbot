@@ -1,0 +1,97 @@
+{
+    "Document": {
+        "@id": "0003486",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000285.htm",
+        "Focus": "Sclerosing cholangitis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0008311",
+                        "C0008313",
+                        "C0566602"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Primary sclerosing cholangitis",
+                    "PSC"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003486-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Sclerosing cholangitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003486-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Sclerosing cholangitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003486-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Sclerosing cholangitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003486-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Sclerosing cholangitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003486-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Sclerosing cholangitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003486-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Sclerosing cholangitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003486-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Sclerosing cholangitis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

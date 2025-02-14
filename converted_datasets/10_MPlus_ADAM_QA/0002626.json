@@ -1,0 +1,75 @@
+{
+    "Document": {
+        "@id": "0002626",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002683.htm",
+        "Focus": "Methyl salicylate overdose",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0572035"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Deep heating rubs overdose",
+                    "Oil of wintergreen overdose"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002626-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Methyl salicylate overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002626-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Methyl salicylate overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002626-5",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Methyl salicylate overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002626-8",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Methyl salicylate overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002626-9",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Methyl salicylate overdose ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

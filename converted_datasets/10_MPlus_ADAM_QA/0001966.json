@@ -1,0 +1,78 @@
+{
+    "Document": {
+        "@id": "0001966",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000403.htm",
+        "Focus": "High blood cholesterol levels",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C3842522"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Lipid disorders",
+                    "Hyperlipoproteinemia",
+                    "Hyperlipidemia",
+                    "Dyslipidemia",
+                    "Hypercholesterolemia"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001966-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) High blood cholesterol levels ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001966-2",
+                        "@qtype": "causes",
+                        "#text": "What causes High blood cholesterol levels ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001966-3",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose High blood cholesterol levels ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001966-4",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for High blood cholesterol levels ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001966-5",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for High blood cholesterol levels ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

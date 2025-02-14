@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0001819",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003510.htm",
+        "Focus": "HCG blood test - quantitative",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Serial beta HCG",
+                    "Repeat quantitative beta HCG",
+                    "Human chorionic gonadotropin blood test - quantitative",
+                    "Beta-HCG blood test - quantitative",
+                    "Pregnancy test - blood - quantitative"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001819-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about HCG blood test - quantitative"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

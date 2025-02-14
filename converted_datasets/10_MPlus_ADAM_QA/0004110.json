@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0004110",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007248.htm",
+        "Focus": "Urinary catheter - infants",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C2135597"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Bladder catheter - infants",
+                    "Foley catheter - infants"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004110-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Urinary catheter - infants ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

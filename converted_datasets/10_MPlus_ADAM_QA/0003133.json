@@ -1,0 +1,76 @@
+{
+    "Document": {
+        "@id": "0003133",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002885.htm",
+        "Focus": "Poinsettia plant exposure",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C2220266"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Christmas flower poisoning",
+                    "Lobster plant poisoning",
+                    "Painted leaf poisoning"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003133-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Poinsettia plant exposure ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003133-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Poinsettia plant exposure ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003133-5",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Poinsettia plant exposure ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003133-8",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Poinsettia plant exposure ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0003133-9",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Poinsettia plant exposure ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

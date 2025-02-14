@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0001011",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000013.htm",
+        "Focus": "CPR - adult and child 9 years and older",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Cardiopulmonary resuscitation - adult",
+                    "Rescue breathing and chest compressions - adult",
+                    "Resuscitation - cardiopulmonary - adult",
+                    "Cardiopulmonary resuscitation - child 9 years and older",
+                    "Rescue breathing and chest compressions - child 9 years and older",
+                    "Resuscitation - cardiopulmonary - child 9 years and older"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001011-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about CPR - adult and child 9 years and older"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001061",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003330.htm",
+        "Focus": "CT scan",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "CAT scan",
+                    "Computed axial tomography scan",
+                    "Computed tomography scan"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001061-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about CT scan"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

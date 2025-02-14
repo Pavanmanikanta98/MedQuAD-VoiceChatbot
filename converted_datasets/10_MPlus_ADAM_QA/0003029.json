@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0003029",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000577.htm",
+        "Focus": "Peripheral artery disease of the legs - self-care",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1704436"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Peripheral vascular disease - self-care",
+                    "Intermittent claudication - self-care"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003029-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Peripheral artery disease of the legs - self-care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003029-6",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Peripheral artery disease of the legs - self-care ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

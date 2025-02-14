@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001717",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002367.htm",
+        "Focus": "Gestational age",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Fetal age",
+                    "Gestation"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001717-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Gestational age"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

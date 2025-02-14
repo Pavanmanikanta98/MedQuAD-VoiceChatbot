@@ -1,0 +1,51 @@
+{
+    "Document": {
+        "@id": "0000453",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007555.htm",
+        "Focus": "Birth control - slow release methods",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C2703065"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Contraception - hormonal methods",
+                    "Progestin implants",
+                    "Progestin injections",
+                    "Skin patch",
+                    "Vaginal ring"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000453-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Birth control - slow release methods ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000453-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Birth control - slow release methods ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

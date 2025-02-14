@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001529",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003678.htm",
+        "Focus": "Factor VIII assay",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Plasma factor VIII antigen"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001529-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Factor VIII assay"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

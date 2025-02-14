@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003766",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000430.htm",
+        "Focus": "Subcutaneous (SQ) injections",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "SQ injections",
+                    "Sub-Q injections"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003766-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Subcutaneous (SQ) injections"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

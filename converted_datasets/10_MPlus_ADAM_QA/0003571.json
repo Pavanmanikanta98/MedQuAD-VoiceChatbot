@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0003571",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000179.htm",
+        "Focus": "Shoulder surgery - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "SLAP repair - discharge",
+                    "Acromioplasty - discharge",
+                    "Bankart - discharge",
+                    "Shoulder repair - discharge",
+                    "Shoulder arthroscopy - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003571-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Shoulder surgery - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+[
+    {
+        "question": "What is (are) Congenital muscular dystrophy ?",
+        "answer": "Congenital muscular dystrophy (CMD) refers to a group of inherited conditions that affect the muscles and are present at birth or in early infancy. The severity of the condition, the associated signs and symptoms and the disease progression vary significantly by type. Common features include hypotonia; progressive muscle weakness and degeneration (atrophy); joint contractures; and delayed motor milestones (i.e. sitting up, walking, etc). CMD can be caused by a variety of different genes. Most forms are inherited in an autosomal recessive manner. Treatment is based on the signs and symptoms present in each person.",
+        "qtype": "information",
+        "focus": "Congenital muscular dystrophy",
+        "synonyms": [
+            "Congenital MD",
+            "CMD",
+            "MDC",
+            "Arthrogryposis due to muscular dystrophy",
+            "Bethlem myopathy",
+            "Congenital muscular dystrophy due to dystroglycanopathy",
+            "Congenital muscular dystrophy due to LMNA mutation",
+            "Congenital muscular dystrophy syringomyelia"
+        ],
+        "semantic_group": "Disorders"
+    }
+]

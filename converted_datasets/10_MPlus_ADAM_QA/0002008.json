@@ -1,0 +1,108 @@
+{
+    "Document": {
+        "@id": "0002008",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001199.htm",
+        "Focus": "Homocystinuria",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0019880"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Cystathionine beta synthase deficiency"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002008-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Homocystinuria ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002008-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Homocystinuria ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002008-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Homocystinuria ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002008-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Homocystinuria ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002008-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Homocystinuria ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002008-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Homocystinuria ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002008-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Homocystinuria ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002008-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Homocystinuria ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002008-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Homocystinuria ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

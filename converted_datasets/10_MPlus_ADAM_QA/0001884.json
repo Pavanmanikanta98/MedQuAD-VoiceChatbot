@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001884",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007343.htm",
+        "Focus": "Heart PET scan",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Heart nuclear medicine scan",
+                    "Heart positron emission tomography",
+                    "Myocardial PET scan"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001884-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Heart PET scan"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0004244",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002402.htm",
+        "Focus": "Vitamin B6",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Pyridoxal",
+                    "Pyridoxine",
+                    "Pyridoxamine"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004244-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Vitamin B6"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

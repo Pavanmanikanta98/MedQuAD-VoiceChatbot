@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0001001",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002988.htm",
+        "Focus": "Cosmetic ear surgery",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Otoplasty",
+                    "Ear pinning",
+                    "Ear surgery - cosmetic",
+                    "Ear reshaping",
+                    "Pinnaplasty"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001001-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Cosmetic ear surgery"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

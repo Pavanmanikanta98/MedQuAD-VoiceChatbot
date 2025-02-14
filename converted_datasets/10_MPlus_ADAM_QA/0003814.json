@@ -1,0 +1,117 @@
+{
+    "Document": {
+        "@id": "0003814",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001357.htm",
+        "Focus": "Swimming pool granuloma",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0275708",
+                        "C0018188"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T046",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Aquarium granuloma",
+                    "Fish tank granuloma"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003814-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Swimming pool granuloma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003814-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Swimming pool granuloma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003814-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Swimming pool granuloma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003814-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Swimming pool granuloma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003814-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Swimming pool granuloma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003814-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Swimming pool granuloma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003814-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Swimming pool granuloma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003814-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Swimming pool granuloma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0003814-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Swimming pool granuloma ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

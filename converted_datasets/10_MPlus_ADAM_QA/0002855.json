@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0002855",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003863.htm",
+        "Focus": "Open pleural biopsy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Biopsy - open pleura"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002855-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Open pleural biopsy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

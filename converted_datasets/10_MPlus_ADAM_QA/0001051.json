@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001051",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003369.htm",
+        "Focus": "CSF analysis",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Cerebrospinal fluid analysis"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001051-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about CSF analysis"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

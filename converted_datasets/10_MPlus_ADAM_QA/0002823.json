@@ -1,0 +1,87 @@
+{
+    "Document": {
+        "@id": "0002823",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000061.htm",
+        "Focus": "Nose fracture",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0339848"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Fracture of the nose",
+                    "Broken nose",
+                    "Nasal fracture",
+                    "Nasal bone fracture",
+                    "Nasal septal fracture"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002823-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Nose fracture ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002823-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Nose fracture ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002823-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Nose fracture ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002823-4",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Nose fracture ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002823-5",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Nose fracture ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002823-7",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Nose fracture ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

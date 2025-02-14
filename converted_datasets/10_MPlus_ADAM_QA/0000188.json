@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0000188",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003366.htm",
+        "Focus": "Aminoaciduria",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0238621"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Amino acids - urine",
+                    "Urine amino acids"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000188-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Aminoaciduria ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000188-8",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Aminoaciduria ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

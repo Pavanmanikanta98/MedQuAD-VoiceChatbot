@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0003162",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000406.htm",
+        "Focus": "Post surgical pain treatment - adults",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0030193"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Postoperative pain relief"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003162-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Post surgical pain treatment - adults ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

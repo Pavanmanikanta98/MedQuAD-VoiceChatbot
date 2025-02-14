@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0002520",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000392.htm",
+        "Focus": "Managing menopause at home",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Perimenopause - self-care",
+                    "Hormone replacement therapy - self-care",
+                    "HRT- self-care"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002520-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Managing menopause at home"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001507",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001009.htm",
+        "Focus": "Eyelid bump",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Bump on the eyelid",
+                    "Stye",
+                    "Hordeolum"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001507-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Eyelid bump"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

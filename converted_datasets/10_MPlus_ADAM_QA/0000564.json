@@ -1,0 +1,66 @@
+{
+    "Document": {
+        "@id": "0000564",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007405.htm",
+        "Focus": "Breast reduction",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0729251"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Reduction mammoplasty",
+                    "Reduction mammaplasty"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000564-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Breast reduction ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000564-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Breast reduction ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000564-4",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Breast reduction? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000564-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Breast reduction ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

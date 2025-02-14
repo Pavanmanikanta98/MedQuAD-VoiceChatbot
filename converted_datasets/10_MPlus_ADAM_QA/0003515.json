@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0003515",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007005.htm",
+        "Focus": "Selective mutism - resources",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0236818"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T048"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Resources - selective mutism"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003515-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Selective mutism - resources ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

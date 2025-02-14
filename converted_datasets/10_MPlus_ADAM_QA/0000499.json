@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0000499",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002888.htm",
+        "Focus": "Blue nightshade poisoning",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Bittersweet poisoning",
+                    "Bitter nightshade poisoning",
+                    "Scarlet berry poisoning",
+                    "Weedy nightshade poisoning"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000499-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Blue nightshade poisoning"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

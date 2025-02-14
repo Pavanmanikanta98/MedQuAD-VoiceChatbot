@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0001834",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007465.htm",
+        "Focus": "Health screening - men - ages 40 to 64",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Health maintenance visit - men - ages 40 to 64",
+                    "Physical exam - men - ages 40 to 64",
+                    "Yearly exam - men - ages 40 to 64",
+                    "Checkup - men - ages 40 to 64",
+                    "Men's health - ages 40 to 64",
+                    "Preventive care - men - ages 40 to 64"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001834-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Health screening - men - ages 40 to 64"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0004346",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007445.htm",
+        "Focus": "Your child and the flu",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0021400"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004346-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Your child and the flu ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004346-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Your child and the flu ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "Document": {
+        "@id": "0004066",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000328.htm",
+        "Focus": "Type 2 diabetes - self-care",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0011860"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004066-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Type 2 diabetes - self-care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004066-2",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Type 2 diabetes - self-care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0004066-4",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Type 2 diabetes - self-care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0004066-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Type 2 diabetes - self-care ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "Document": {
+        "@id": "0001806",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002708.htm",
+        "Focus": "Hand lotion poisoning",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0032343"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Hand cream poisoning"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001806-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hand lotion poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001806-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Hand lotion poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001806-5",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Hand lotion poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001806-8",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Hand lotion poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0001806-9",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Hand lotion poisoning ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

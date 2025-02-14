@@ -1,0 +1,63 @@
+{
+    "Document": {
+        "@id": "0004130",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003139.htm",
+        "Focus": "Urine - abnormal color",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0332572"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Discoloration of urine"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004130-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Urine - abnormal color ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004130-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Urine - abnormal color ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0004130-3",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Urine - abnormal color ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0004130-4",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Urine - abnormal color ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

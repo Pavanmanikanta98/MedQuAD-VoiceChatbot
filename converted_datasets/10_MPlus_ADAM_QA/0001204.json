@@ -1,0 +1,95 @@
+{
+    "Document": {
+        "@id": "0001204",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000964.htm",
+        "Focus": "Diaper rash",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0011974"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Dermatitis - diaper and Candida",
+                    "Candida-associated diaper dermatitis",
+                    "Diaper dermatitis",
+                    "Dermatitis - irritant contact"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001204-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Diaper rash ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001204-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Diaper rash ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001204-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Diaper rash ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001204-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Diaper rash ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001204-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Diaper rash ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001204-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Diaper rash ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001204-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Diaper rash ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

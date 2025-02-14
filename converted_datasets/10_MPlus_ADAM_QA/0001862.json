@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0001862",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000103.htm",
+        "Focus": "Heart bypass surgery - minimally invasive - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Minimally invasive direct coronary artery bypass - discharge",
+                    "MIDCAB - discharge",
+                    "Robot assisted coronary artery bypass - discharge",
+                    "RACAB - discharge",
+                    "Keyhole heart surgery - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001862-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Heart bypass surgery - minimally invasive - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0000428",
+        "@source": "MPlusHealthTopics",
+        "@url": "https://www.nlm.nih.gov/medlineplus/healthdisparities.html",
+        "Focus": "Health Disparities",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1171307"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000428-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Health Disparities ?"
+                },
+                "Answer": "Health disparities refer to differences in the health status of different groups of people. Some groups of people have higher rates of certain diseases, and more deaths and suffering from them, compared to others. These groups may be based on       - Race    - Ethnicity    - Immigrant status    - Disability    - Sex or gender    - Sexual orientation    - Geography    - Income       NIH: National Institute on Minority Health and Health Disparities"
+            }
+        }
+    }
+}

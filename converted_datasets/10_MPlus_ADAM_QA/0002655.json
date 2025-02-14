@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0002655",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007412.htm",
+        "Focus": "Mitral valve surgery - open",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Mitral valve replacement - open",
+                    "Mitral valve repair - open",
+                    "Mitral valvuloplasty"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002655-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Mitral valve surgery - open"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

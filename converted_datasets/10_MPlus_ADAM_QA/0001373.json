@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0001373",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007014.htm",
+        "Focus": "Emergency contraception",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Morning-after pill",
+                    "Postcoital contraception",
+                    "Birth control - emergency",
+                    "Plan B"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001373-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Emergency contraception"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

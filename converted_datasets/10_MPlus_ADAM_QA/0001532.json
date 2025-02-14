@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0001532",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000545.htm",
+        "Focus": "Factor XII (Hageman factor) deficiency",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001532-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Factor XII (Hageman factor) deficiency"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

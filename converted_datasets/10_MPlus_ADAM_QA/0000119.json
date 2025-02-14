@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0000119",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/004015.htm",
+        "Focus": "Aging changes in the bones - muscles - joints",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Osteoporosis and aging",
+                    "Muscle weakness associated with aging",
+                    "Osteoarthritis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000119-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Aging changes in the bones - muscles - joints"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0003750",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003735.htm",
+        "Focus": "String test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Duodenal parasites test"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003750-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about String test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

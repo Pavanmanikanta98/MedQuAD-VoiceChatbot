@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0000819",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000099.htm",
+        "Focus": "Cholesterol and lifestyle",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000819-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Cholesterol and lifestyle"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

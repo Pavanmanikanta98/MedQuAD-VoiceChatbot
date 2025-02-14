@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003654",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003481.htm",
+        "Focus": "Sodium blood test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Serum sodium",
+                    "Sodium - serum"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003654-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Sodium blood test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

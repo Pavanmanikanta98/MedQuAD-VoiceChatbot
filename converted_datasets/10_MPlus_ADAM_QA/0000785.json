@@ -1,0 +1,63 @@
+{
+    "Document": {
+        "@id": "0000785",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001552.htm",
+        "Focus": "Child abuse - physical",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0562389",
+                        "C0008060"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T048",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Battered child syndrome",
+                    "Physical abuse - children"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000785-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Child abuse - physical ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000785-2",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Child abuse - physical ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000785-3",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Child abuse - physical ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0002079",
+        "@source": "GARD",
+        "@url": "https://rarediseases.info.nih.gov/gard/2101/emery-dreifuss-muscular-dystrophy-dominant-type",
+        "Focus": "Emery-Dreifuss muscular dystrophy, dominant type",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0410189"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002079-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Emery-Dreifuss muscular dystrophy, dominant type ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

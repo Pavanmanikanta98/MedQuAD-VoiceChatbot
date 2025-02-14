@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0002474",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000252.htm",
+        "Focus": "Lyme disease - what to ask your doctor",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0024198"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "What to ask your doctor about Lyme disease"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002474-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Lyme disease - what to ask your doctor ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

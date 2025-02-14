@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000094",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007437.htm",
+        "Focus": "Adrenalectomy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Adrenal gland removal",
+                    "Removal of adrenal glands"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000094-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Adrenalectomy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

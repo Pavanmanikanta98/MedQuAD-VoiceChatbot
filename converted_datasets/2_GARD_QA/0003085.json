@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0003085",
+        "@source": "GARD",
+        "@url": "https://rarediseases.info.nih.gov/gard/2922/hypoplastic-right-heart-syndrome",
+        "Focus": "Hypoplastic right heart syndrome",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0344963"
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T019",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003085-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Hypoplastic right heart syndrome ?"
+                },
+                "Answer": "Hypoplastic right heart syndrome is a rare heart defect, present at birth (congenital), that results in low blood oxygen levels. It is caused by underdevelopment of the structures on the right side of the heart (tricuspid valve, right ventricle, pulmonary valve, and pulmonary artery) and commonly associated with atrial septal defect. The underdeveloped right side of the heart is unable to provide enough blood flow to the body, leading to low blood oxygen and cyanosis. It differs from hypoplastic left heart syndrome which involves the underdevelopment of the structures on the left side of the heart."
+            }
+        }
+    }
+}

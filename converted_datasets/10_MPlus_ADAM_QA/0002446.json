@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002446",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000109.htm",
+        "Focus": "Low-salt diet",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Low-sodium diet",
+                    "Salt restriction"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002446-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Low-salt diet"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

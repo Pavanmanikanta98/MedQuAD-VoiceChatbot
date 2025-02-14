@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0000237",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007584.htm",
+        "Focus": "Ankle arthroscopy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Ankle surgery",
+                    "Arthroscopy - ankle",
+                    "Surgery - ankle - arthroscopy",
+                    "Surgery - ankle - arthroscopic"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000237-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Ankle arthroscopy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "Document": {
+        "@id": "0001900",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000646.htm",
+        "Focus": "Helping your teen with depression",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0349217",
+                        "C0011570",
+                        "C0011581",
+                        "C0344315",
+                        "C1579931"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T048",
+                        "T033",
+                        "T184"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001900-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Helping your teen with depression ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001900-2",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Helping your teen with depression ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001900-4",
+                        "@qtype": "information",
+                        "#text": "What is (are) Helping your teen with depression ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001900-6",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Helping your teen with depression ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

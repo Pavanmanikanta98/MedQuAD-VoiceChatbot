@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0002223",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007266.htm",
+        "Focus": "Intravascular ultrasound",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "IVUS",
+                    "Ultrasound - coronary artery",
+                    "Endovascular ultrasound",
+                    "Intravascular echocardiography"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002223-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Intravascular ultrasound"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

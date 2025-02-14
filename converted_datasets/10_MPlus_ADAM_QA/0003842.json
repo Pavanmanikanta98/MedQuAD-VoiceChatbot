@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0003842",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000883.htm",
+        "Focus": "Taking multiple medicines safely",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003842-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Taking multiple medicines safely"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0000744",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003662.htm",
+        "Focus": "Ceruloplasmin blood test",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000744-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Ceruloplasmin blood test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

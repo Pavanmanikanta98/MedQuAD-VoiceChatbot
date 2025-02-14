@@ -1,0 +1,115 @@
+{
+    "Document": {
+        "@id": "0000418",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000773.htm",
+        "Focus": "Bell's palsy",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0376175",
+                        "C0015469"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Facial palsy",
+                    "Idiopathic peripheral facial palsy",
+                    "Cranial mononeuropathy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000418-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Bell's palsy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000418-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Bell's palsy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000418-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Bell's palsy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000418-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Bell's palsy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000418-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Bell's palsy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000418-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Bell's palsy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000418-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Bell's palsy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000418-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Bell's palsy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000418-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Bell's palsy ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

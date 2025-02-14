@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0004208",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007283.htm",
+        "Focus": "Venogram",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Phlebogram"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004208-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Venogram"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

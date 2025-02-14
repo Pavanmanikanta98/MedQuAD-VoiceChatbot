@@ -1,0 +1,109 @@
+{
+    "Document": {
+        "@id": "0001126",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000739.htm",
+        "Focus": "Dementia",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0497327",
+                        "C0011265"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T048"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Chronic brain syndrome",
+                    "Lewy body dementia",
+                    "DLB",
+                    "Vascular dementia",
+                    "Mild cognitive impairment",
+                    "MCI"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001126-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Dementia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001126-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Dementia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001126-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Dementia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001126-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Dementia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001126-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Dementia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001126-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Dementia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001126-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Dementia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001126-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Dementia ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

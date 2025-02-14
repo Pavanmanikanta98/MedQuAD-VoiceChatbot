@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000056",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007208.htm",
+        "Focus": "ACL reconstruction",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Anterior cruciate ligament repair"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000056-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about ACL reconstruction"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

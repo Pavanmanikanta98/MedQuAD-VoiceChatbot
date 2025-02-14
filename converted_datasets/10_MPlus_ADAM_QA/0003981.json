@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0003981",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007239.htm",
+        "Focus": "Total parenteral nutrition - infants",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "IV fluids - infants",
+                    "TPN - infants",
+                    "Intravenous fluids - infants",
+                    "Hyperalimentation - infants"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003981-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Total parenteral nutrition - infants"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

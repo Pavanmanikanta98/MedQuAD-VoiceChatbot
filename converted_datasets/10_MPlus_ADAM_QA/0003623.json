@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0003623",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000800.htm",
+        "Focus": "Sleep disorders - overview",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0851578",
+                        "C0037317"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T047",
+                        "T184"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003623-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Sleep disorders - overview ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003623-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Sleep disorders - overview ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

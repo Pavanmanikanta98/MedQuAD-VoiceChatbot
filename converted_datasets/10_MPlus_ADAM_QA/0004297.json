@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0004297",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000594.htm",
+        "Focus": "When to use the emergency room - child",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004297-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about When to use the emergency room - child"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

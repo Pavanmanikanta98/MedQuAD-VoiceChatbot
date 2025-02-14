@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0003450",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001930.htm",
+        "Focus": "Safe driving for teens",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Driving and teenagers",
+                    "Teens and safe driving",
+                    "Automobile safety - teenage drivers"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003450-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Safe driving for teens"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

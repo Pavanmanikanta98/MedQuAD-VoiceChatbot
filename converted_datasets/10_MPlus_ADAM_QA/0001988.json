@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0001988",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003391.htm",
+        "Focus": "His bundle electrography",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "His bundle electrogram",
+                    "HBE",
+                    "His bundle recording",
+                    "Electrogram - His bundle"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001988-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about His bundle electrography"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

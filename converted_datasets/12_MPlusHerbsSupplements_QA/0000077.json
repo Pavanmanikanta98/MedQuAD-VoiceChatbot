@@ -1,0 +1,87 @@
+{
+    "Document": {
+        "@id": "0000077",
+        "@source": "MPlusHerbsSupplements",
+        "@url": "https://www.nlm.nih.gov/medlineplus/druginfo/natural/390.html",
+        "Focus": "Propolis",
+        "FocusAnnotations": {
+            "Category": "Drug"
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000077-1",
+                        "@qtype": "information",
+                        "#text": "What is Propolis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000077-2",
+                        "@qtype": "how effective is it",
+                        "#text": "How effective is Propolis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000077-3",
+                        "@qtype": "how does it work",
+                        "#text": "What is the action of Propolis and how does it work ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000077-4",
+                        "@qtype": "precautions",
+                        "#text": "Are there safety concerns or special precautions about Propolis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000077-5",
+                        "@qtype": "interactions with medications",
+                        "#text": "Are there interactions between Propolis and other medications ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000077-6",
+                        "@qtype": "interactions with herbs and supplements",
+                        "#text": "Are there interactions between Propolis and herbs and supplements ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000077-7",
+                        "@qtype": "interactions with foods",
+                        "#text": "Are there interactions between Propolis and foods ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000077-8",
+                        "@qtype": "dose",
+                        "#text": "What is the dosage of Propolis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

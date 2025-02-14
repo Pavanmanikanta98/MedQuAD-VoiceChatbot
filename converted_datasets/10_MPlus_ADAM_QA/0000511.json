@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0000511",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003009.htm",
+        "Focus": "Bone marrow transplant",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Transplant - bone marrow",
+                    "Stem cell transplant",
+                    "Hematopoietic stem cell transplant",
+                    "Reduced intensity, nonmyeloablative transplant",
+                    "Mini transplant",
+                    "Allogenic bone marrow transplant",
+                    "Autologous bone marrow transplant",
+                    "Umbilical cord blood transplant"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000511-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Bone marrow transplant"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

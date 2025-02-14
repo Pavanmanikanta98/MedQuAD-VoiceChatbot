@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003711",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002742.htm",
+        "Focus": "Steam iron cleaner poisoning",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Chelating agent poisoning",
+                    "Mineral deposit remover poisoning"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003711-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Steam iron cleaner poisoning"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0002450",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007350.htm",
+        "Focus": "Lumbar spine CT scan",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "CAT scan - lumbar spine",
+                    "Computed axial tomography scan - lumbar spine",
+                    "Computed tomography scan - lumbar spine",
+                    "CT - lower back"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002450-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Lumbar spine CT scan"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "Document": {
+        "@id": "0000229",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000091.htm",
+        "Focus": "Angioplasty and stent - heart - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Drug-eluting stents - discharge",
+                    "PCI - discharge",
+                    "Percutaneous coronary intervention - discharge",
+                    "Balloon angioplasty - discharge",
+                    "Coronary angioplasty - discharge",
+                    "Coronary artery angioplasty - discharge",
+                    "Cardiac angioplasty - discharge",
+                    "PTCA - discharge",
+                    "Percutaneous transluminal coronary angioplasty - discharge",
+                    "Heart artery dilatation - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000229-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Angioplasty and stent - heart - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "Document": {
+        "@id": "0000059",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000750.htm",
+        "Focus": "Acne - self-care",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0001144",
+                        "C0702166"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Acne vulgaris - self-care",
+                    "Cystic acne - self-care",
+                    "Pimples - self-care",
+                    "Zits - self-care"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000059-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Acne - self-care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000059-4",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Acne - self-care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000059-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Acne - self-care ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

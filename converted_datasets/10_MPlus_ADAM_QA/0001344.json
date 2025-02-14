@@ -1,0 +1,111 @@
+{
+    "Document": {
+        "@id": "0001344",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000406.htm",
+        "Focus": "Ectopic Cushing syndrome",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0010481"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Cushing syndrome - ectopic",
+                    "Ectopic ACTH syndrome"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001344-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Ectopic Cushing syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001344-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Ectopic Cushing syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001344-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Ectopic Cushing syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001344-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Ectopic Cushing syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001344-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Ectopic Cushing syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001344-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Ectopic Cushing syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001344-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Ectopic Cushing syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001344-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Ectopic Cushing syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0001344-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Ectopic Cushing syndrome ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

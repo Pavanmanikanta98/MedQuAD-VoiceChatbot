@@ -1,0 +1,68 @@
+{
+    "Document": {
+        "@id": "0000028",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007382.htm",
+        "Focus": "Abortion - medical",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0156543"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Therapeutic medical abortion",
+                    "Elective medical abortion",
+                    "Induced abortion",
+                    "Nonsurgical abortion"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000028-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Abortion - medical ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000028-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Abortion - medical ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000028-4",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Abortion - medical? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000028-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Abortion - medical ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "Document": {
+        "@id": "0003739",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000042.htm",
+        "Focus": "Strains",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0080194"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Pulled muscle"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003739-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Strains ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003739-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Strains ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003739-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Strains ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003739-4",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Strains ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003739-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Strains ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003739-6",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Strains ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

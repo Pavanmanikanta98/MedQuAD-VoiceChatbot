@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0001835",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007466.htm",
+        "Focus": "Health screening - men age 65 and older",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Health maintenance visit - men - over age 65",
+                    "Physical exam - men - over age 65",
+                    "Yearly exam - men - over age 65",
+                    "Checkup - men - over age 65",
+                    "Men's health - over age 65",
+                    "Preventive care exam - men - over age 65"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001835-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Health screening - men age 65 and older"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

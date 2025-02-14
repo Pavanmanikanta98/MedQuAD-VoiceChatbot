@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0000308",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007347.htm",
+        "Focus": "Arm CT scan",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "CAT scan - arm",
+                    "Computed axial tomography scan - arm",
+                    "Computed tomography scan - arm",
+                    "CT scan - arm"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000308-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Arm CT scan"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

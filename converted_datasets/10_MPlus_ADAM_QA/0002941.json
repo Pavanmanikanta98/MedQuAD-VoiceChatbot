@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0002941",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003233.htm",
+        "Focus": "Papule",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0332563",
+                        "C1519353"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002941-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Papule ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "Document": {
+        "@id": "0002377",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001376.htm",
+        "Focus": "Leptospirosis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0023364"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Weil disease",
+                    "Icterohemorrhagic fever",
+                    "Swineherd's disease",
+                    "Rice-field fever",
+                    "Cane-cutter fever",
+                    "Swamp fever",
+                    "Mud fever",
+                    "Hemorrhagic jaundice",
+                    "Stuttgart disease",
+                    "Canicola fever"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002377-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Leptospirosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002377-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Leptospirosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002377-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Leptospirosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002377-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Leptospirosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002377-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Leptospirosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002377-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Leptospirosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002377-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Leptospirosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002377-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Leptospirosis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002377-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Leptospirosis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

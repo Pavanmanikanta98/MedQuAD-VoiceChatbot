@@ -1,0 +1,82 @@
+{
+    "Document": {
+        "@id": "0000514",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003180.htm",
+        "Focus": "Bone pain or tenderness",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0151825",
+                        "C1963077",
+                        "C0234233"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T033",
+                        "T184"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Aches and pains in bones",
+                    "Pain - bones"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000514-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Bone pain or tenderness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000514-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Bone pain or tenderness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000514-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Bone pain or tenderness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000514-4",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Bone pain or tenderness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000514-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Bone pain or tenderness ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

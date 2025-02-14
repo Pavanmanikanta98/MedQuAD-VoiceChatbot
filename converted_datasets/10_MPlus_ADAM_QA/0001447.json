@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001447",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003683.htm",
+        "Focus": "Erythropoietin test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Serum erythropoietin",
+                    "EPO"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001447-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Erythropoietin test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

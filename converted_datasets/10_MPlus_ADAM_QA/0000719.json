@@ -1,0 +1,44 @@
+{
+    "Document": {
+        "@id": "0000719",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002443.htm",
+        "Focus": "Celiac disease - nutritional considerations",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0007570",
+                        "C0518609"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T047",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Gluten-free diet",
+                    "Gluten sensitive enteropathy - diet",
+                    "Celiac sprue - diet"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000719-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Celiac disease - nutritional considerations ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

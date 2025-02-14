@@ -1,0 +1,72 @@
+{
+    "Document": {
+        "@id": "0003868",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003284.htm",
+        "Focus": "Telangiectasia",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0039446",
+                        "C1963248"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T047",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Vascular ectasias",
+                    "Spider veins"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003868-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Telangiectasia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003868-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Telangiectasia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003868-3",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Telangiectasia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003868-4",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Telangiectasia ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

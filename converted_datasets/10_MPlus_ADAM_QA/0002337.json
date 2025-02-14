@@ -1,0 +1,36 @@
+{
+    "Document": {
+        "@id": "0002337",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007664.htm",
+        "Focus": "Laser photocoagulation - eye",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Laser coagulation",
+                    "Laser eye surgery",
+                    "Photocoagulation",
+                    "Laser photocoagulation - diabetic eye disease",
+                    "Laser photocoagulation - diabetic retinopathy",
+                    "Focal photocoagulation",
+                    "Scatter (or pan retinal) photocoagulation",
+                    "Proliferative retinopathy - laser",
+                    "PRP - laser",
+                    "Grid pattern photocoagulation - laser"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002337-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Laser photocoagulation - eye"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

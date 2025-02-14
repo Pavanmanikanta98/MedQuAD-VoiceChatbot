@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0003586",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007349.htm",
+        "Focus": "Sinus CT scan",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "CAT scan - sinus",
+                    "Computed axial tomography scan - sinus",
+                    "Computed tomography scan - sinus",
+                    "CT scan - sinus"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003586-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Sinus CT scan"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

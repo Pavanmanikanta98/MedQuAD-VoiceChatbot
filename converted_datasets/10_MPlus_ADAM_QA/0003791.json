@@ -1,0 +1,62 @@
+{
+    "Document": {
+        "@id": "0003791",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000820.htm",
+        "Focus": "Surgery for pancreatic cancer - discharge",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0346647",
+                        "C0235974"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Pancreaticoduodenectomy",
+                    "Whipple procedure",
+                    "Open distal pancreatectomy and splenectomy",
+                    "Laparoscopic distal pancreatectomy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003791-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Surgery for pancreatic cancer - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003791-3",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Surgery for pancreatic cancer - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003791-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Surgery for pancreatic cancer - discharge ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

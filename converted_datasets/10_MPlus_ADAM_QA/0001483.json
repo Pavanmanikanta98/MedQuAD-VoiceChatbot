@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0001483",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003878.htm",
+        "Focus": "Exercise stress test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Exercise ECG",
+                    "ECG - exercise treadmill",
+                    "EKG - exercise treadmill",
+                    "Stress ECG",
+                    "Exercise electrocardiography",
+                    "Stress test - Exercise treadmill",
+                    "CAD - treadmill",
+                    "Coronary artery disease - treadmill",
+                    "Chest pain - treadmill",
+                    "Angina - treadmill",
+                    "Heart disease - treadmill"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001483-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Exercise stress test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

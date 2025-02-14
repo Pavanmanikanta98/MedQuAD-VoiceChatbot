@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0003454",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000801.htm",
+        "Focus": "Saline nasal washes",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Salt water washes",
+                    "Nasal irrigation",
+                    "Nasal lavage",
+                    "Sinusitis - nasal wash"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003454-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Saline nasal washes"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

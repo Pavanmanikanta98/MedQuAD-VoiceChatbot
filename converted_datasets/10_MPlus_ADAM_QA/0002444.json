@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0002444",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000732.htm",
+        "Focus": "Low-calorie cocktails",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Low-calorie spirits",
+                    "Low-calorie mixed drinks",
+                    "Low-calorie alcohol",
+                    "Low-calorie alcoholic beverages"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002444-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Low-calorie cocktails"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

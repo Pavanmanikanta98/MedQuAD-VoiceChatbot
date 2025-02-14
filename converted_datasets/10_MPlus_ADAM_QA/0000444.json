@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000444",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003595.htm",
+        "Focus": "Bilirubin - urine",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Conjugated bilirubin - urine",
+                    "Direct bilirubin - urine"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000444-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Bilirubin - urine"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

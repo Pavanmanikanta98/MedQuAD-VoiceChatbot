@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000505",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002963.htm",
+        "Focus": "Bone graft",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Autograft",
+                    "Allograft"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000505-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Bone graft"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

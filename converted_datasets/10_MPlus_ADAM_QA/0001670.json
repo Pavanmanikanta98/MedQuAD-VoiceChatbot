@@ -1,0 +1,60 @@
+{
+    "Document": {
+        "@id": "0001670",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000196.htm",
+        "Focus": "Gallstones - discharge",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0008350"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Chronic cholecystitis - discharge",
+                    "Dysfunctional gallbladder - discharge",
+                    "Choledocholithiasis - discharge",
+                    "Cholelithiasis - discharge",
+                    "Acute cholecystitis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001670-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Gallstones - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001670-2",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Gallstones - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001670-4",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Gallstones - discharge ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

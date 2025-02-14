@@ -1,0 +1,69 @@
+{
+    "Document": {
+        "@id": "0004115",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007374.htm",
+        "Focus": "Urinary incontinence - retropubic suspension",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0042024"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T046"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Open retropubic colposuspension",
+                    "Marshall-Marchetti-Krantz (MMK) procedure",
+                    "Laparoscopic retropubic colposuspension",
+                    "Needle suspension",
+                    "Burch colposuspension"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004115-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Urinary incontinence - retropubic suspension ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004115-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Urinary incontinence - retropubic suspension ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0004115-4",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Urinary incontinence - retropubic suspension? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0004115-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Urinary incontinence - retropubic suspension ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

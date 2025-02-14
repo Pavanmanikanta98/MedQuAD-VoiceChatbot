@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002375",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003383.htm",
+        "Focus": "Lepromin skin test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Leprosy skin test",
+                    "Hansen disease - skin test"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002375-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Lepromin skin test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

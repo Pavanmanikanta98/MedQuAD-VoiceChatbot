@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0001969",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000226.htm",
+        "Focus": "High blood pressure - what to ask your doctor",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0020538"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "What to ask your doctor about high blood pressure",
+                    "Hypertension - what to ask your doctor"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001969-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) High blood pressure - what to ask your doctor ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

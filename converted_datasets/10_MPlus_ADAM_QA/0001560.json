@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001560",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003755.htm",
+        "Focus": "Fecal smear",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Stool smear"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001560-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Fecal smear"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

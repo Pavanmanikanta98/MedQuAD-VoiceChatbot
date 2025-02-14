@@ -1,0 +1,45 @@
+{
+    "Document": {
+        "@id": "0003682",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000313.htm",
+        "Focus": "Spine surgery - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Diskectomy - discharge",
+                    "Foraminotomy - discharge",
+                    "Laminectomy - discharge",
+                    "Spinal fusion - discharge",
+                    "Spinal microdiskectomy - discharge",
+                    "Microdecompression - discharge",
+                    "Laminotomy - discharge",
+                    "Disk removal - discharge",
+                    "Spine surgery - diskectomy - discharge",
+                    "Intervertebral foramina - discharge",
+                    "Spine surgery - foraminotomy - discharge",
+                    "Lumbar decompression - discharge",
+                    "Decompressive laminectomy - discharge",
+                    "Spine surgery - laminectomy - discharge",
+                    "Vertebral interbody fusion - discharge",
+                    "Posterior spinal fusion - discharge",
+                    "Arthrodesis - discharge",
+                    "Anterior spinal fusion - discharge",
+                    "Spine surgery - spinal fusion - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003682-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Spine surgery - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

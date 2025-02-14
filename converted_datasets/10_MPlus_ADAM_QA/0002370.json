@@ -1,0 +1,96 @@
+{
+    "Document": {
+        "@id": "0002370",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001264.htm",
+        "Focus": "Legg-Calve-Perthes disease",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0023234",
+                        "C1442965"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Coxa plana",
+                    "Perthes disease"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002370-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Legg-Calve-Perthes disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002370-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Legg-Calve-Perthes disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002370-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Legg-Calve-Perthes disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002370-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Legg-Calve-Perthes disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002370-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Legg-Calve-Perthes disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002370-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Legg-Calve-Perthes disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002370-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Legg-Calve-Perthes disease ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

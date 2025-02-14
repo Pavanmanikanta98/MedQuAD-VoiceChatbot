@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0003306",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003234.htm",
+        "Focus": "Pustules",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0241157"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003306-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Pustules ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003306-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Pustules ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

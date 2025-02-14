@@ -1,0 +1,114 @@
+{
+    "Document": {
+        "@id": "0002809",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001515.htm",
+        "Focus": "Nipple discharge",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C3669208",
+                        "C0149741",
+                        "C0849787"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T033",
+                        "T184"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Discharge from breasts",
+                    "Milk secretions",
+                    "Lactation - abnormal",
+                    "Witch's milk (neonatal milk)",
+                    "Galactorrhea",
+                    "Inverted nipple",
+                    "Nipple problems"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002809-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Nipple discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002809-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Nipple discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002809-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Nipple discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002809-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Nipple discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002809-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Nipple discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002809-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Nipple discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002809-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Nipple discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002809-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Nipple discharge ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

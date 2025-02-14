@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0003036",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002282.htm",
+        "Focus": "Peristalsis",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Intestinal motility"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003036-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Peristalsis"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

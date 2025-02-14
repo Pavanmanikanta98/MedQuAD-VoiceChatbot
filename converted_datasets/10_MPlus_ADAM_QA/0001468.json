@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0001468",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003564.htm",
+        "Focus": "Ethylene glycol blood test",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001468-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Ethylene glycol blood test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

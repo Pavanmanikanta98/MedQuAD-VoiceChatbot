@@ -1,0 +1,105 @@
+{
+    "Document": {
+        "@id": "0001158",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001497.htm",
+        "Focus": "Developmental disorders of the female reproductive tract",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0008073"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T048"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001158-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Developmental disorders of the female reproductive tract ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001158-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Developmental disorders of the female reproductive tract ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001158-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Developmental disorders of the female reproductive tract ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001158-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Developmental disorders of the female reproductive tract ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001158-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Developmental disorders of the female reproductive tract ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001158-6",
+                        "@qtype": "support groups",
+                        "#text": "Where to find support for people with Developmental disorders of the female reproductive tract ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001158-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Developmental disorders of the female reproductive tract ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001158-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Developmental disorders of the female reproductive tract ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0001158-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Developmental disorders of the female reproductive tract ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

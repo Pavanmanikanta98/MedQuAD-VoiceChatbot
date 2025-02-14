@@ -1,0 +1,51 @@
+{
+    "Document": {
+        "@id": "0001140",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003426.htm",
+        "Focus": "Dental plaque identification at home",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0011389"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001140-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Dental plaque identification at home ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001140-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Dental plaque identification at home? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0001140-9",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Dental plaque identification at home ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

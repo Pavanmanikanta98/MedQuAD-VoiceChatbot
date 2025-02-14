@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0004135",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003608.htm",
+        "Focus": "Urine concentration test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Water loading test",
+                    "Water deprivation test"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004135-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Urine concentration test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "Document": {
+        "@id": "0000003",
+        "@source": "CDC",
+        "@url": "http://www.cdc.gov/HAI/organisms/acinetobacter.html",
+        "Focus": "Acinetobacter in Healthcare Settings",
+        "UMLS": {
+            "CUI": null,
+            "SemanticType": null,
+            "SemanticGroup": null
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000003-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Acinetobacter in Healthcare Settings ?"
+                    },
+                    "Answer": "Acinetobacter [asz\u2212in\u2212\u00e9e\u2212toe\u2013back\u2212ter] is a group of bacteria commonly found in soil and water. While there are many types or \u201cspecies\u201d of Acinetobacter and all can cause human disease, Acinetobacter baumannii [asz\u2212in\u2212\u00e9e\u2212toe\u2013back\u2212ter   boe-maa-nee-ie] accounts for about 80% of reported infections.\n                \nOutbreaks of Acinetobacter infections typically occur in intensive care units and healthcare settings housing very ill patients. Acinetobacter infections rarely occur outside of healthcare settings."
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000003-2",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Acinetobacter in Healthcare Settings ?"
+                    },
+                    "Answer": "Acinetobacter causes a variety of diseases, ranging from pneumonia to serious blood or wound infections, and the symptoms vary depending on the disease. Acinetobacter may also \u201ccolonize\u201d or live in a patient without causing infection or symptoms, especially in tracheostomy sites or open wounds."
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000003-3",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Acinetobacter in Healthcare Settings? ?"
+                    },
+                    "Answer": "Acinetobacter poses very little risk to healthy people. However, people who have weakened immune systems, chronic lung disease, or diabetes may be more susceptible to infections with Acinetobacter. Hospitalized patients, especially very ill patients on a ventilator, those with a prolonged hospital stay, those who have open wounds, or any person with invasive devices like urinary catheters are also at greater risk for Acinetobacter infection. Acinetobacter can be spread to susceptible persons by person-to-person contact or contact with contaminated surfaces."
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000003-4",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Acinetobacter in Healthcare Settings ?"
+                    },
+                    "Answer": "Acinetobacter can live on the skin and may survive in the environment for several days. Careful attention to infection control procedures, such as hand hygiene and environmental cleaning, can reduce the risk of transmission."
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000003-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Acinetobacter in Healthcare Settings ?"
+                    },
+                    "Answer": "Acinetobacter is often resistant to many commonly prescribed antibiotics. Decisions on treatment of infections with Acinetobacter should be made on a case-by-case basis by a healthcare provider. Acinetobacter infection typically occurs in ill patients and can either cause or contribute to death in these patients."
+                }
+            ]
+        }
+    }
+}

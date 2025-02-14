@@ -1,0 +1,108 @@
+{
+    "Document": {
+        "@id": "0003878",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001242.htm",
+        "Focus": "Tenosynovitis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0039520"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Inflammation of the tendon sheath"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003878-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Tenosynovitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003878-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Tenosynovitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003878-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Tenosynovitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003878-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Tenosynovitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003878-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Tenosynovitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003878-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Tenosynovitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003878-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Tenosynovitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003878-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Tenosynovitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0003878-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Tenosynovitis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

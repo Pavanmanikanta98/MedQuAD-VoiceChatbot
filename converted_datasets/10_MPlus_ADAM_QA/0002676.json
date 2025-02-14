@@ -1,0 +1,112 @@
+{
+    "Document": {
+        "@id": "0002676",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001448.htm",
+        "Focus": "Mouth ulcers",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0149745"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Oral ulcer",
+                    "Stomatitis - ulcerative",
+                    "Ulcer - mouth"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002676-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Mouth ulcers ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002676-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Mouth ulcers ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002676-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Mouth ulcers ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002676-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Mouth ulcers ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002676-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Mouth ulcers ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002676-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Mouth ulcers ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002676-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Mouth ulcers ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002676-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Mouth ulcers ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002676-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Mouth ulcers ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

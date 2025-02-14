@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0002398",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002723.htm",
+        "Focus": "Lip moisturizer poisoning",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Chapstick poisoning"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002398-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Lip moisturizer poisoning"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

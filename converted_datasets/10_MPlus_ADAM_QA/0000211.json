@@ -1,0 +1,106 @@
+{
+    "Document": {
+        "@id": "0000211",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001180.htm",
+        "Focus": "Androgen insensitivity syndrome",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0936016",
+                        "C0039585",
+                        "C0237677"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T047",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Testicular feminization"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000211-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Androgen insensitivity syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000211-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Androgen insensitivity syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000211-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Androgen insensitivity syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000211-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Androgen insensitivity syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000211-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Androgen insensitivity syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000211-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Androgen insensitivity syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000211-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Androgen insensitivity syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000211-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Androgen insensitivity syndrome ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

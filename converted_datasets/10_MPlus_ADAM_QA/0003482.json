@@ -1,0 +1,108 @@
+{
+    "Document": {
+        "@id": "0003482",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001003.htm",
+        "Focus": "Scleritis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0036416"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Inflammation - sclera"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003482-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Scleritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003482-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Scleritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003482-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Scleritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003482-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Scleritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003482-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Scleritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003482-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Scleritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003482-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Scleritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003482-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Scleritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0003482-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Scleritis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

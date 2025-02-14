@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0004320",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001963.htm",
+        "Focus": "Wine and heart health",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Health and wine",
+                    "Wine and heart disease",
+                    "Preventing heart disease - wine",
+                    "Preventing heart disease - alcohol"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004320-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Wine and heart health"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

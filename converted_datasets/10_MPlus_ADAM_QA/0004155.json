@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0004155",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000048.htm",
+        "Focus": "Using oxygen at home",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Oxygen - home use"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004155-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Using oxygen at home"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

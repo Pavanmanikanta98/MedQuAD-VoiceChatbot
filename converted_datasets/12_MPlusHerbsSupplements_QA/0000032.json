@@ -1,0 +1,87 @@
+{
+    "Document": {
+        "@id": "0000032",
+        "@source": "MPlusHerbsSupplements",
+        "@url": "https://www.nlm.nih.gov/medlineplus/druginfo/natural/808.html",
+        "Focus": "Deer Velvet",
+        "FocusAnnotations": {
+            "Category": "Drug"
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000032-1",
+                        "@qtype": "information",
+                        "#text": "What is Deer Velvet ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000032-2",
+                        "@qtype": "how effective is it",
+                        "#text": "How effective is Deer Velvet ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000032-3",
+                        "@qtype": "how does it work",
+                        "#text": "What is the action of Deer Velvet and how does it work ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000032-4",
+                        "@qtype": "precautions",
+                        "#text": "Are there safety concerns or special precautions about Deer Velvet ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000032-5",
+                        "@qtype": "interactions with medications",
+                        "#text": "Are there interactions between Deer Velvet and other medications ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000032-6",
+                        "@qtype": "interactions with herbs and supplements",
+                        "#text": "Are there interactions between Deer Velvet and herbs and supplements ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000032-7",
+                        "@qtype": "interactions with foods",
+                        "#text": "Are there interactions between Deer Velvet and foods ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000032-8",
+                        "@qtype": "dose",
+                        "#text": "What is the dosage of Deer Velvet ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

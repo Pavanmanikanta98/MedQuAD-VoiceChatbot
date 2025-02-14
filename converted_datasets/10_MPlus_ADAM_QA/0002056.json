@@ -1,0 +1,99 @@
+{
+    "Document": {
+        "@id": "0002056",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001083.htm",
+        "Focus": "Hydrocarbon pneumonia",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0032285"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Pneumonia - hydrocarbon"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002056-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hydrocarbon pneumonia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002056-2",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Hydrocarbon pneumonia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002056-3",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Hydrocarbon pneumonia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002056-4",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Hydrocarbon pneumonia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002056-5",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Hydrocarbon pneumonia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002056-6",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Hydrocarbon pneumonia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002056-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Hydrocarbon pneumonia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002056-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Hydrocarbon pneumonia ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

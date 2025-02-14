@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0003833",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000198.htm",
+        "Focus": "Taking antacids",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Heartburn - self-care"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003833-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Taking antacids"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

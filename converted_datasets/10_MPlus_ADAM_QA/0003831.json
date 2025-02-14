@@ -1,0 +1,73 @@
+{
+    "Document": {
+        "@id": "0003831",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000573.htm",
+        "Focus": "Tailbone trauma - aftercare",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C3714660",
+                        "C3263723",
+                        "C0043251"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T037",
+                        "T046"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Coccyx injury",
+                    "Coccyx fracture"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003831-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Tailbone trauma - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003831-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Tailbone trauma - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003831-3",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Tailbone trauma - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003831-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Tailbone trauma - aftercare ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

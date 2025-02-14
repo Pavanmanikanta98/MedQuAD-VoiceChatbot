@@ -1,0 +1,68 @@
+{
+    "Document": {
+        "@id": "0005553",
+        "@source": "GARD",
+        "@url": "https://rarediseases.info.nih.gov/gard/31/serpiginous-choroiditis",
+        "Focus": "Serpiginous choroiditis",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0729842"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Geographic choroiditis",
+                    "Geographic helicoid peripapillary choroidopathy (GHPC)",
+                    "Geographic serpiginous choroiditis",
+                    "Peripapillary choriopathy",
+                    "Serpiginous choroidopathy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0005553-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Serpiginous choroiditis ?"
+                    },
+                    "Answer": "Serpiginous choroiditis is a rare inflammatory eye condition that typically develops between age 30 and 70 years. Affected individuals have lesions in the eye that last from weeks to months and involve scarring of the eye tissue. Recurrence of these lesions is common in serpiginous choroiditis. Vision loss may occur in one or both eyes when the macula is involved. Treatment options involve anti-inflammatory and immune-suppressing medications."
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0005553-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Serpiginous choroiditis ?"
+                    },
+                    "Answer": "What causes serpiginous choroiditis? The cause of serpiginous choroiditis is unknown. Speculation exists regarding an association with exposure to various toxic compounds and/or infectious agents. Some researchers believe the condition is related to an organ-specific autoimmune inflammatory process."
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0005553-3",
+                        "@qtype": "inheritance",
+                        "#text": "Is Serpiginous choroiditis inherited ?"
+                    },
+                    "Answer": "Can I inherit serpiginous choroiditis if my mother has the condition? No familial predillection or propensity has been described."
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0005553-4",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Serpiginous choroiditis ?"
+                    },
+                    "Answer": "Is there any treatment for serpiginous choroiditis? There are a few treatment options for individuals with serpiginous choroiditis. Treatment may involve an anti-inflammatory medication, such as prednisone, or an immune system suppressing combination of prednisone, cyclosporine, and azathioprine. Additionally, the role of cyclosporine alone has been investigated. These treatments may be administered for a long period of time to prevent recurrences. A serious complication of serpiginous choroiditis is choroidal neovascularization. Laser photocoagulation or surgery may be helpful in some of these cases."
+                }
+            ]
+        }
+    }
+}

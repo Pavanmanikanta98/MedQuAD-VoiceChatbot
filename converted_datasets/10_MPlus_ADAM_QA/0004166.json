@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0004166",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001257.htm",
+        "Focus": "Uvulitis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0042174"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004166-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Uvulitis ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

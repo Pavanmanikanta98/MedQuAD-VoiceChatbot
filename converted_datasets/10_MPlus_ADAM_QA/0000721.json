@@ -1,0 +1,116 @@
+{
+    "Document": {
+        "@id": "0000721",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000233.htm",
+        "Focus": "Celiac disease - sprue",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0007570",
+                        "C0205707"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Sprue",
+                    "Nontropical sprue",
+                    "Gluten intolerance",
+                    "Gluten-sensitive enteropathy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000721-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Celiac disease - sprue ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000721-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Celiac disease - sprue ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000721-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Celiac disease - sprue ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000721-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Celiac disease - sprue ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000721-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Celiac disease - sprue ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000721-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Celiac disease - sprue ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000721-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Celiac disease - sprue ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000721-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Celiac disease - sprue ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000721-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Celiac disease - sprue ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

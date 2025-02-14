@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0000513",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007197.htm",
+        "Focus": "Bone mineral density test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "BMD test",
+                    "Bone density test",
+                    "Bone densitometry",
+                    "DEXA scan",
+                    "DXA",
+                    "Dual-energy x-ray absorptiometry",
+                    "p-DEXA",
+                    "Osteoporosis-BMD"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000513-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Bone mineral density test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0002696",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002153.htm",
+        "Focus": "Multiple sclerosis - resources",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0026769"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Resources - multiple sclerosis"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002696-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Multiple sclerosis - resources ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

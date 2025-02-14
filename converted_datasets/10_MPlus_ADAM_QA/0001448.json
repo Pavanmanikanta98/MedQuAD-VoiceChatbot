@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0001448",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002355.htm",
+        "Focus": "Eschar",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0521172"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T046"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Escharotic"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001448-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Eschar ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

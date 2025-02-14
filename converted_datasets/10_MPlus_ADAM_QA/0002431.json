@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0002431",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002157.htm",
+        "Focus": "Loss of a spouse - resources",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Resources - loss of a spouse"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002431-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Loss of a spouse - resources"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

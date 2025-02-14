@@ -1,0 +1,41 @@
+{
+    "Document": {
+        "@id": "0001131",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000216.htm",
+        "Focus": "Dementia - what to ask your doctor",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0497327",
+                        "C0011265"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T048"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "What to ask your doctor about dementia",
+                    "Alzheimer disease- what to ask your doctor",
+                    "Cognitive impairment - what to ask your doctor"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001131-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Dementia - what to ask your doctor ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

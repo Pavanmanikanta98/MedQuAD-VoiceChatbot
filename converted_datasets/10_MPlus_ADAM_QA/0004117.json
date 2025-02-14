@@ -1,0 +1,66 @@
+{
+    "Document": {
+        "@id": "0004117",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007376.htm",
+        "Focus": "Urinary incontinence - vaginal sling procedures",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0042024"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T046"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Pubo-vaginal sling",
+                    "Transobturator sling"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004117-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Urinary incontinence - vaginal sling procedures ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004117-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Urinary incontinence - vaginal sling procedures ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0004117-4",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Urinary incontinence - vaginal sling procedures? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0004117-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Urinary incontinence - vaginal sling procedures ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

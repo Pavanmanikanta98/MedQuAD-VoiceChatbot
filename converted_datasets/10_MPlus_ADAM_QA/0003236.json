@@ -1,0 +1,63 @@
+{
+    "Document": {
+        "@id": "0003236",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002527.htm",
+        "Focus": "Promethazine overdose",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0747980"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Phenergan overdose"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003236-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Promethazine overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003236-4",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Promethazine overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003236-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Promethazine overdose ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003236-8",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Promethazine overdose ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

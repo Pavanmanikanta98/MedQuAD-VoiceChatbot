@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0000646",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000886.htm",
+        "Focus": "Calorie count - Alcoholic beverages",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Weight loss - calorie count - alcoholic beverages",
+                    "Overweight - calorie count - alcoholic beverages",
+                    "Obesity - calorie count - alcoholic beverages"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000646-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Calorie count - Alcoholic beverages"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

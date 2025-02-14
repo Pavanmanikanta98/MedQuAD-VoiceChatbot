@@ -1,0 +1,107 @@
+{
+    "Document": {
+        "@id": "0002603",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000116.htm",
+        "Focus": "Mesothelioma - benign-fibrous",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0025500",
+                        "C1290375"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Mesothelioma - benign",
+                    "Mesothelioma - fibrous",
+                    "Pleural fibroma",
+                    "Solitary fibrous tumor of the pleura"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002603-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Mesothelioma - benign-fibrous ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002603-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Mesothelioma - benign-fibrous ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002603-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Mesothelioma - benign-fibrous ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002603-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Mesothelioma - benign-fibrous ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002603-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Mesothelioma - benign-fibrous ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002603-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Mesothelioma - benign-fibrous ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002603-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Mesothelioma - benign-fibrous ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002603-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Mesothelioma - benign-fibrous ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

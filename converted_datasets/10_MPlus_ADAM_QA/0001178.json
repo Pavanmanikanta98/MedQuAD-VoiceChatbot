@@ -1,0 +1,54 @@
+{
+    "Document": {
+        "@id": "0001178",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000078.htm",
+        "Focus": "Diabetes - eye care",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0011860",
+                        "C0011849"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001178-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Diabetes - eye care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001178-4",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Diabetes - eye care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001178-6",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Diabetes - eye care ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

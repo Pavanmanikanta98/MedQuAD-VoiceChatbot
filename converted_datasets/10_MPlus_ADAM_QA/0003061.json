@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0003061",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002528.htm",
+        "Focus": "Phenindamine overdose",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Amilon",
+                    "Fenaclor",
+                    "Nolamine",
+                    "Norphenamine",
+                    "Prophamine"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003061-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Phenindamine overdose"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "Document": {
+        "@id": "0002971",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002993.htm",
+        "Focus": "Patent urachus repair",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0266357"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T019"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Patent urachal tube repair"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002971-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Patent urachus repair ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002971-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Patent urachus repair ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002971-4",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Patent urachus repair? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002971-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Patent urachus repair ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

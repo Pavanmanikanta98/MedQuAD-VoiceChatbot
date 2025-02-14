@@ -1,0 +1,90 @@
+{
+    "Document": {
+        "@id": "0001769",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000358.htm",
+        "Focus": "Graves disease",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0018213"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Diffuse thyrotoxic goiter"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001769-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Graves disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001769-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Graves disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001769-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Graves disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001769-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Graves disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001769-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Graves disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001769-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Graves disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001769-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Graves disease ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

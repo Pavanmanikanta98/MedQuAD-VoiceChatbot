@@ -1,0 +1,78 @@
+{
+    "Document": {
+        "@id": "0000379",
+        "@source": "MPlusDrugs",
+        "@url": "https://www.nlm.nih.gov/medlineplus/druginfo/meds/a682198.html",
+        "Focus": "Diphtheria, Tetanus, and Pertussis (DTaP) Vaccine",
+        "FocusAnnotations": {
+            "Category": "Drug"
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000379-1",
+                        "@qtype": "why get vaccinated",
+                        "#text": "Why get vaccinated with Diphtheria, Tetanus, and Pertussis (DTaP) Vaccine ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000379-2",
+                        "@qtype": "indication",
+                        "#text": "Who should get Diphtheria, Tetanus, and Pertussis (DTaP) Vaccine and why is it prescribed ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000379-3",
+                        "@qtype": "contraindication",
+                        "#text": "Who should not get Diphtheria, Tetanus, and Pertussis (DTaP) Vaccine and what are its contraindications ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000379-5",
+                        "@qtype": "side effects",
+                        "#text": "What are the side effects or risks of Diphtheria, Tetanus, and Pertussis (DTaP) Vaccine ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000379-6",
+                        "@qtype": "severe reaction",
+                        "#text": "What to do in case of a severe reaction to Diphtheria, Tetanus, and Pertussis (DTaP) Vaccine ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000379-8",
+                        "@qtype": "how can i learn more",
+                        "#text": "How can I learn more about Diphtheria, Tetanus, and Pertussis (DTaP) Vaccine ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000379-9",
+                        "@qtype": "brand names of combination products",
+                        "#text": "What are the brand names of combination products of Diphtheria, Tetanus, and Pertussis (DTaP) Vaccine ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

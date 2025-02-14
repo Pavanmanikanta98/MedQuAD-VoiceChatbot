@@ -1,0 +1,90 @@
+{
+    "Document": {
+        "@id": "0001649",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000057.htm",
+        "Focus": "Frostbite",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0016736"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T037"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Cold exposure - arms or legs"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001649-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Frostbite ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001649-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Frostbite ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001649-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Frostbite ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001649-4",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Frostbite ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001649-5",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Frostbite ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001649-6",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Frostbite ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001649-7",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Frostbite ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001751",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003671.htm",
+        "Focus": "Glucose-6-phosphate dehydrogenase test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "RBC G6PD test",
+                    "G6PD screen"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001751-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Glucose-6-phosphate dehydrogenase test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

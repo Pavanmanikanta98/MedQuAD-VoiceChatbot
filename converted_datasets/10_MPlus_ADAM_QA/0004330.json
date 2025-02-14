@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0004330",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007585.htm",
+        "Focus": "Wrist arthroscopy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Wrist surgery",
+                    "Arthroscopy - wrist",
+                    "Surgery - wrist - arthroscopy",
+                    "Surgery - wrist - arthroscopic",
+                    "Carpal tunnel release"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004330-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Wrist arthroscopy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

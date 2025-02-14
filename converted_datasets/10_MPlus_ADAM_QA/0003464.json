@@ -1,0 +1,55 @@
+{
+    "Document": {
+        "@id": "0003464",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000864.htm",
+        "Focus": "Savings account for health care costs",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0580931"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Health Savings Accounts",
+                    "Flexible Spending Accounts",
+                    "Medical Savings Accounts",
+                    "Health Reimbursement Arrangements",
+                    "HSA",
+                    "MSA",
+                    "Archer MSA",
+                    "FSA",
+                    "HRA"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003464-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Savings account for health care costs ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003464-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Savings account for health care costs ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

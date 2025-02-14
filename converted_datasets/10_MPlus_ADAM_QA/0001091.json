@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001091",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003866.htm",
+        "Focus": "Cytology exam of pleural fluid",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Pleural fluid cytology"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001091-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Cytology exam of pleural fluid"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

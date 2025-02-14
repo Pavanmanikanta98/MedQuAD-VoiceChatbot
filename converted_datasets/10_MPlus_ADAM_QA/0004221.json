@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0004221",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007512.htm",
+        "Focus": "Vertebroplasty",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004221-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Vertebroplasty"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

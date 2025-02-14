@@ -1,0 +1,103 @@
+{
+    "Document": {
+        "@id": "0000089",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001493.htm",
+        "Focus": "Adhesion",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0001511"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T046"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Pelvic adhesion",
+                    "Intraperitoneal adhesion",
+                    "Intrauterine adhesion"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000089-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Adhesion ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000089-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Adhesion ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000089-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Adhesion ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000089-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Adhesion ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000089-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Adhesion ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000089-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Adhesion ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000089-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Adhesion ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000089-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Adhesion ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

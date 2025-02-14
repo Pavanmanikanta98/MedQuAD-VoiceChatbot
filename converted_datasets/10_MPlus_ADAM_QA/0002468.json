@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0002468",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003010.htm",
+        "Focus": "Lung transplant",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Solid organ transplant - lung"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002468-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Lung transplant"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "Document": {
+        "@id": "0001696",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000165.htm",
+        "Focus": "Gastrostomy feeding tube - bolus",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0743845"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Feeding - gastrostomy tube - bolus",
+                    "G-tube - bolus",
+                    "Gastrostomy button - bolus",
+                    "Bard Button - bolus",
+                    "MIC-KEY - bolus"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001696-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Gastrostomy feeding tube - bolus ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001696-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Gastrostomy feeding tube - bolus ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

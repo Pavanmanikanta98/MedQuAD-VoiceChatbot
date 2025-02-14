@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0004192",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000476.htm",
+        "Focus": "Vancomycin-resistant enterococci",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Super-bugs",
+                    "VRE",
+                    "Gastroenteritis - VRE",
+                    "Colitis - VRE"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004192-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Vancomycin-resistant enterococci"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

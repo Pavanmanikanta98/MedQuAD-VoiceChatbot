@@ -1,0 +1,60 @@
+{
+    "Document": {
+        "@id": "0001109",
+        "@source": "MPlusDrugs",
+        "@url": "https://www.nlm.nih.gov/medlineplus/druginfo/meds/a607025.html",
+        "Focus": "Shingles (Zoster) Vaccine",
+        "FocusAnnotations": {
+            "Category": "Drug"
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001109-1",
+                        "@qtype": "information",
+                        "#text": "What is Shingles (Zoster) Vaccine ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001109-4",
+                        "@qtype": "side effects",
+                        "#text": "What are the side effects or risks of Shingles (Zoster) Vaccine ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001109-5",
+                        "@qtype": "severe reaction",
+                        "#text": "What to do in case of a severe reaction to Shingles (Zoster) Vaccine ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001109-6",
+                        "@qtype": "how can i learn more",
+                        "#text": "How can I learn more about Shingles (Zoster) Vaccine ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001109-7",
+                        "@qtype": "brand names",
+                        "#text": "What are the brand names of Shingles (Zoster) Vaccine ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

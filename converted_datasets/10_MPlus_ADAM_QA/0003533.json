@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0003533",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002306.htm",
+        "Focus": "Serosanguineous",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Serosanguinous"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003533-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Serosanguineous"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

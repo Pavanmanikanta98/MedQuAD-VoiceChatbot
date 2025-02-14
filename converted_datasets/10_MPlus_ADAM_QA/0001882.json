@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0001882",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000097.htm",
+        "Focus": "Heart pacemaker - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Cardiac pacemaker implantation - discharge",
+                    "Artificial pacemaker - discharge",
+                    "Permanent pacemaker - discharge",
+                    "Internal pacemaker - discharge",
+                    "Cardiac resynchronization therapy - discharge",
+                    "CRT - discharge",
+                    "Biventricular pacemaker - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001882-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Heart pacemaker - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

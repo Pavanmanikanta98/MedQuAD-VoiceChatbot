@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0003416",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002876.htm",
+        "Focus": "Rhubarb leaves poisoning",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Rheum officinale poisoning"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003416-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Rhubarb leaves poisoning"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

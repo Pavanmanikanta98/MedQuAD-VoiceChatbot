@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0003688",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001293.htm",
+        "Focus": "Splenic infarction",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0037998"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003688-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Splenic infarction ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003688-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Splenic infarction ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

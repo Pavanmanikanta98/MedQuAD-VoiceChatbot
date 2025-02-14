@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0001243",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007250.htm",
+        "Focus": "Diskectomy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Spinal microdiskectomy",
+                    "Microdecompression",
+                    "Laminotomy",
+                    "Disk removal",
+                    "Spine surgery - diskectomy",
+                    "Discectomy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001243-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Diskectomy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

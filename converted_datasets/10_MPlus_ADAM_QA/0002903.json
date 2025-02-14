@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0002903",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002208.htm",
+        "Focus": "Over-the-counter medicines",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Medicines to have at home"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002903-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Over-the-counter medicines"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

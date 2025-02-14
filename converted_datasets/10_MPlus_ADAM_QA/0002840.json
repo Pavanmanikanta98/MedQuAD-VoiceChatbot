@@ -1,0 +1,108 @@
+{
+    "Document": {
+        "@id": "0002840",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000507.htm",
+        "Focus": "Obstructive uropathy",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0178879"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Uropathy - obstructive"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002840-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Obstructive uropathy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002840-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Obstructive uropathy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002840-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Obstructive uropathy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002840-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Obstructive uropathy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002840-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Obstructive uropathy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002840-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Obstructive uropathy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002840-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Obstructive uropathy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002840-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Obstructive uropathy ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002840-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Obstructive uropathy ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

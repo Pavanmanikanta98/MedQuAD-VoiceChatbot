@@ -1,0 +1,73 @@
+{
+    "Document": {
+        "@id": "0003995",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002934.htm",
+        "Focus": "Tracheoesophageal fistula and esophageal atresia repair",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0014850",
+                        "C0040588"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T019",
+                        "T190",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "TEF repair",
+                    "Esophageal atresia repair"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003995-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Tracheoesophageal fistula and esophageal atresia repair ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003995-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Tracheoesophageal fistula and esophageal atresia repair ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003995-4",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Tracheoesophageal fistula and esophageal atresia repair? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003995-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Tracheoesophageal fistula and esophageal atresia repair ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0004213",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007268.htm",
+        "Focus": "Ventricular assist device",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "VAD",
+                    "RVAD",
+                    "LVAD",
+                    "BVAD",
+                    "Right ventricular assist device",
+                    "Left ventricular assist device",
+                    "Biventricular assist device",
+                    "Heart pump",
+                    "Left ventricular assist system",
+                    "LVAS",
+                    "Implantable ventricular assist device"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004213-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Ventricular assist device"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

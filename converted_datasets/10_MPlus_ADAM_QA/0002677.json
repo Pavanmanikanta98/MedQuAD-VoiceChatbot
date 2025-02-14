@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002677",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002666.htm",
+        "Focus": "Mouthwash overdose",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Listerine overdose",
+                    "Antiseptic mouth rinse overdose"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002677-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Mouthwash overdose"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "Document": {
+        "@id": "0001606",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001187.htm",
+        "Focus": "Fluid imbalance",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C2364164"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T046"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Water imbalance"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001606-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Fluid imbalance ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001606-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Fluid imbalance ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001606-3",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Fluid imbalance ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001606-4",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Fluid imbalance ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

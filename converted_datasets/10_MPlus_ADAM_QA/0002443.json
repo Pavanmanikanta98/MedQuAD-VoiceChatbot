@@ -1,0 +1,64 @@
+{
+    "Document": {
+        "@id": "0002443",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000675.htm",
+        "Focus": "Low white blood cell count and cancer",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0006826",
+                        "C0948695"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T191",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Neutropenia and cancer",
+                    "Absolute neutrophil count and cancer",
+                    "ANC and cancer"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002443-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Low white blood cell count and cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002443-4",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Low white blood cell count and cancer ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002443-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Low white blood cell count and cancer ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

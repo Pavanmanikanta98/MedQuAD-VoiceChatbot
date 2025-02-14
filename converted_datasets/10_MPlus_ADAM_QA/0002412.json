@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0002412",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003436.htm",
+        "Focus": "Liver function tests",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "LFT"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002412-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Liver function tests"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

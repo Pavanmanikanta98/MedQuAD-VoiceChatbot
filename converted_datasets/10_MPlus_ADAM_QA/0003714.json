@@ -1,0 +1,35 @@
+{
+    "Document": {
+        "@id": "0003714",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007274.htm",
+        "Focus": "Stereotactic radiosurgery - CyberKnife",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Stereotactic radiotherapy",
+                    "SRT",
+                    "Stereotactic body radiotherapy",
+                    "SBRT",
+                    "Fractionated stereotactic radiotherapy",
+                    "SRS",
+                    "CyberKnife",
+                    "CyberKnife radiosurgery",
+                    "Non-invasive neurosurgery"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003714-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Stereotactic radiosurgery - CyberKnife"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

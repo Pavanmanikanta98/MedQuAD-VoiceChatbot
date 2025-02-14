@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001414",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003030.htm",
+        "Focus": "Epicanthal folds",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Plica palpebronasalis"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001414-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Epicanthal folds"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

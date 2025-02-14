@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0003857",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000829.htm",
+        "Focus": "Targeted therapy: questions to ask your doctor",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Carcinoma-targeted",
+                    "Squamous cell-targeted",
+                    "Adenocarcinoma-targeted",
+                    "Lymphoma-targeted",
+                    "Tumor-targeted",
+                    "Leukemia-targeted",
+                    "Cancer-targeted"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003857-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Targeted therapy: questions to ask your doctor"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0002758",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003805.htm",
+        "Focus": "Neck x-ray",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "X-ray - neck",
+                    "Cervical spine x-ray",
+                    "Lateral neck x-ray"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002758-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Neck x-ray"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

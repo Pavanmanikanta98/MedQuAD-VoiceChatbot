@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0000332",
+        "@source": "MPlusHealthTopics",
+        "@url": "https://www.nlm.nih.gov/medlineplus/eosinophilicdisorders.html",
+        "Focus": "Eosinophilic Disorders",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1306759"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Eosinophilia"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000332-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Eosinophilic Disorders ?"
+                },
+                "Answer": "Eosinophils are a type of white blood cell. They help fight off infections and play a role in your body's immune response. They can also build up and cause inflammation.    Normally your blood doesn't have a large number of eosinophils. Your body may produce more of them in response to       - Allergic disorders    - Skin conditions    - Parasitic and fungal infections    - Autoimmune diseases    - Some cancers    - Bone marrow disorders       In some conditions, the eosinophils can move outside the bloodstream and build up in organs and tissues. Treatment of the problem depends on the cause."
+            }
+        }
+    }
+}

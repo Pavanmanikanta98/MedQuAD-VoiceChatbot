@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0002257",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002110.htm",
+        "Focus": "Jet lag prevention",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0231311"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002257-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Jet lag prevention ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002257-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Jet lag prevention ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

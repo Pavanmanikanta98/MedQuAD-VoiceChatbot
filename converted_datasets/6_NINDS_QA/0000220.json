@@ -1,0 +1,59 @@
+{
+    "Document": {
+        "@id": "0000220",
+        "@source": "NINDS",
+        "@url": "http://www.ninds.nih.gov/disorders/opca/opca.htm",
+        "Focus": "Olivopontocerebellar Atrophy",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0028968"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000220-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Olivopontocerebellar Atrophy ?"
+                    },
+                    "Answer": "Olivopontocerebellar atrophy (OPCA) is a term that describes the degeneration of neurons in specific areas of the brain  the cerebellum, pons, and inferior olives. OPCA is present in several neurodegenerative syndromes, including inherited and non-inherited forms of ataxia (such as the hereditary spinocerebellar ataxia known as Machado-Joseph disease) and multiple system atrophy (MSA), with which it is primarily associated. http://www.ninds.nih.gov/disorders/msa/msa.htm\n                \nOPCA may also be found in the brains of individuals with prion disorders and inherited metabolic diseases. The characteristic areas of brain damage that indicate OPCA can be seen by imaging the brain using CT scans or MRI studies."
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000220-2",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Olivopontocerebellar Atrophy ?"
+                    },
+                    "Answer": "There is no specific treatmentfor OPCA. Physicians may try different medications to treat the ataxia, tremor, and rigidity that are associated with the disorder. Other treatments are directed at specific symptoms. Stiffness, spasms, sleep disorders, depression, and tremor may be improved with medication. A physical therapist may be helpful in establishing a routine of exercise and stretching, and in obtaining devices or appliances to assist in walking and other daily activities."
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000220-3",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Olivopontocerebellar Atrophy ?"
+                    },
+                    "Answer": "There is no cure for OPCA. The disorder is slowly progressive with death usually occurring approximately 20 years after onset."
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000220-4",
+                        "@qtype": "research",
+                        "#text": "what research (or clinical trials) is being done for Olivopontocerebellar Atrophy ?"
+                    },
+                    "Answer": "The NINDS supports and conducts a broad range of basic and clinical research on cerebellar degeneration, including work aimed at finding the cause(s) of OPCA and ways to treat, cure, and, ultimately, prevent the disease. There has been great progress recently since the genes for several of the hereditary forms of OPCA have been found."
+                }
+            ]
+        }
+    }
+}

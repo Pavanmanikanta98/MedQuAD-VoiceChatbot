@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0001852",
+        "@source": "GARD",
+        "@url": "https://rarediseases.info.nih.gov/gard/10780/diffuse-idiopathic-pulmonary-neuroendocrine-cell-hyperplasia",
+        "Focus": "Diffuse idiopathic pulmonary neuroendocrine cell hyperplasia",
+        "FocusAnnotations": {
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1333291"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "DIPNECH"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001852-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Diffuse idiopathic pulmonary neuroendocrine cell hyperplasia ?"
+                },
+                "Answer": "Diffuse idiopathic pulmonary neuroendocrine cell hyperplasia (DIPNECH) is a rare condition in which cells called neuroendocrine cells spread and cluster in the small airways of the lungs. The majority of affected individuals are middled-aged women. Symptoms include shortness of breath and coughing. It is considered to be a precursor for pulmonary carcinoid tumors. Because so few cases have been reported in the medical literature, there is limited information on the prognosis and management of this condition."
+            }
+        }
+    }
+}

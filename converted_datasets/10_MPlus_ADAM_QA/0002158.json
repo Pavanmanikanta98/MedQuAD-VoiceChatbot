@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0002158",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007370.htm",
+        "Focus": "Implantable cardioverter-defibrillator",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "ICD",
+                    "Defibrillation"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002158-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Implantable cardioverter-defibrillator"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

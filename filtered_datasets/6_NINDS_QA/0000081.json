@@ -1,0 +1,34 @@
+[
+    {
+        "question": "What is (are) Colpocephaly ?",
+        "answer": "Colpocephaly is a congenital brain abnormality in which the occipital horns - the posterior or rear portion of the lateral ventricles (cavities) of the brain -- are larger than normal because white matter in the posterior cerebrum has failed to develop or thicken. Colpocephaly, one of a group of structural brain disorders known as cephalic disorders, is characterized by microcephaly (an abnormally small head) and impaired intellect. Other features may include movement abnormalities, muscle spasms, and seizures. Although the cause of colpocephaly is unknown, researchers believe that the disorder results from some kind of disturbance in the fetal environment that occurs between the second and sixth months of pregnancy. Colpocephaly may be diagnosed late in pregnancy, although it is often misdiagnosed as hydrocephalus (excessive accumulation of cerebrospinal fluid in the brain). It may be more accurately diagnosed after birth when signs of impaired intellect, microcephaly, and seizures are present.",
+        "qtype": "information",
+        "focus": "Colpocephaly",
+        "synonyms": [],
+        "semantic_group": "Disorders"
+    },
+    {
+        "question": "What are the treatments for Colpocephaly ?",
+        "answer": "There is no definitive treatment for colpocephaly. Anticonvulsant medications are often prescribed to prevent seizures, and doctors rely on exercise therapies and orthopedic appliances to reduce shrinkage or shortening of muscles.",
+        "qtype": "treatment",
+        "focus": "Colpocephaly",
+        "synonyms": [],
+        "semantic_group": "Disorders"
+    },
+    {
+        "question": "What is the outlook for Colpocephaly ?",
+        "answer": "The prognosis for individuals with colpocephaly depends on the severity of the associated conditions and the degree of abnormal brain development. Some children benefit from special education.",
+        "qtype": "outlook",
+        "focus": "Colpocephaly",
+        "synonyms": [],
+        "semantic_group": "Disorders"
+    },
+    {
+        "question": "what research (or clinical trials) is being done for Colpocephaly ?",
+        "answer": "The National Institute of Neurological Disorders and Stroke (NINDS), and other institutes of the National Institutes of Health (NIH), conduct research related to colpocephaly and other cephalic disorders in laboratories at the NIH, and also support additional research through grants to major medical institutions across the country. Much of this research focuses on finding ways to prevent brain abnormalities such as colpocephaly.",
+        "qtype": "research",
+        "focus": "Colpocephaly",
+        "synonyms": [],
+        "semantic_group": "Disorders"
+    }
+]

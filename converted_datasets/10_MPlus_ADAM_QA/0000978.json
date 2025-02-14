@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0000978",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000701.htm",
+        "Focus": "COPD and other health problems",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000978-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about COPD and other health problems"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "Document": {
+        "@id": "0001545",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000363.htm",
+        "Focus": "Familial Mediterranean fever",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0031069"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Familial paroxysmal polyserositis",
+                    "Periodic peritonitis",
+                    "Recurrent polyserositis",
+                    "Benign paroxysmal peritonitis",
+                    "Periodic disease",
+                    "Periodic fever",
+                    "FMF"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001545-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Familial Mediterranean fever ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001545-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Familial Mediterranean fever ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001545-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Familial Mediterranean fever ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001545-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Familial Mediterranean fever ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001545-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Familial Mediterranean fever ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001545-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Familial Mediterranean fever ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001545-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Familial Mediterranean fever ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001545-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Familial Mediterranean fever ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

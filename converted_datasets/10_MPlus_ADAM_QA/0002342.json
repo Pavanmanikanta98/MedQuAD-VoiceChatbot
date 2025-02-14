@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0002342",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000525.htm",
+        "Focus": "Lasik eye surgery - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Laser-assisted in situ keratomileusis - discharge",
+                    "Laser vision correction - discharge",
+                    "LASIK - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002342-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Lasik eye surgery - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

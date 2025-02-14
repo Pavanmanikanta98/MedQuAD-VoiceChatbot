@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0001972",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007484.htm",
+        "Focus": "High blood pressure medicines",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0460139"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Hypertension - medicines"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001972-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) High blood pressure medicines ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

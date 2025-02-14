@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0000318",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002183.htm",
+        "Focus": "Arthritis - resources",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0003864"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Resources - arthritis"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000318-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Arthritis - resources ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

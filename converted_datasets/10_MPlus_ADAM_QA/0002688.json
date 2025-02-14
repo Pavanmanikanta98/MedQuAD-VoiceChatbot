@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0002688",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002264.htm",
+        "Focus": "Mucosa",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Mucous membrane"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002688-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Mucosa"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

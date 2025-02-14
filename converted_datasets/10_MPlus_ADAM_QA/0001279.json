@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0001279",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000060.htm",
+        "Focus": "Drinking water safely during cancer treatment",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001279-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Drinking water safely during cancer treatment"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

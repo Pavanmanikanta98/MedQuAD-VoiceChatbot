@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0000100",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000472.htm",
+        "Focus": "Advance care directives",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0580931"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000100-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Advance care directives ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000100-4",
+                        "@qtype": "information",
+                        "#text": "What is (are) Advance care directives ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

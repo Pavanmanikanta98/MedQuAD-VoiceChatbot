@@ -1,0 +1,65 @@
+{
+    "Document": {
+        "@id": "0003753",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000341.htm",
+        "Focus": "Stroke - risk factors",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0038454",
+                        "C0455624"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T047",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Preventing stroke",
+                    "Stroke - prevention",
+                    "CVA - prevention",
+                    "TIA - prevention"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003753-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Stroke - risk factors ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003753-2",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Stroke - risk factors? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003753-3",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Stroke - risk factors? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0000889",
+        "@source": "MPlusHealthTopics",
+        "@url": "https://www.nlm.nih.gov/medlineplus/throatdisorders.html",
+        "Focus": "Throat Disorders",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0544058"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Pharyngeal disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000889-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Throat Disorders ?"
+                },
+                "Answer": "Your throat is a tube that carries food to your esophagus and air to your windpipe and larynx. The technical name for throat is pharynx.     Throat problems are common. You've probably had a sore throat. The cause is usually a viral infection, but other causes include allergies, infection with strep bacteria or the upward movement of stomach acids into the esophagus, called GERD.     Other problems that affect the throat include       - Tonsillitis - an infection in the tonsils    - Pharyngitis - inflammation of the pharynx     - Cancers     - Croup - inflammation, usually in small children, which causes a barking cough       Most throat problems are minor and go away on their own. Treatments, when needed, depend on the problem."
+            }
+        }
+    }
+}

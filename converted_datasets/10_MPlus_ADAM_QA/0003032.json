@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0003032",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000462.htm",
+        "Focus": "Peripherally inserted central catheter - dressing change",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "PICC - dressing change"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003032-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Peripherally inserted central catheter - dressing change"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

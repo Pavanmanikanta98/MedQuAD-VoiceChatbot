@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0002896",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000891.htm",
+        "Focus": "Outdoor fitness routine",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Exercise - outdoors"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002896-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Outdoor fitness routine"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

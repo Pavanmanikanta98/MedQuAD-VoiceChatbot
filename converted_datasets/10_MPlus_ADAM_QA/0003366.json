@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003366",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003781.htm",
+        "Focus": "Renal arteriography",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Renal angiogram",
+                    "Angiography - kidney"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003366-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Renal arteriography"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

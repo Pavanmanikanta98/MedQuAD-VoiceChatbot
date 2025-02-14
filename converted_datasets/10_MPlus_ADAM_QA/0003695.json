@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0003695",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002583.htm",
+        "Focus": "Sports cream overdose",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Ben-Gay overdose",
+                    "Menthol and methyl salicylate overdose",
+                    "Methyl salicylate and menthol overdose"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003695-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Sports cream overdose"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

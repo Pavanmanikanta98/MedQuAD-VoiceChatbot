@@ -1,0 +1,45 @@
+{
+    "Document": {
+        "@id": "0003779",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003673.htm",
+        "Focus": "Sugar-water hemolysis test",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0456984"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Sucrose hemolysis test"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003779-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Sugar-water hemolysis test ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003779-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Sugar-water hemolysis test? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

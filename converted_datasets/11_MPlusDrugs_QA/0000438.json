@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0000438",
+        "@source": "MPlusDrugs",
+        "@url": "https://www.nlm.nih.gov/medlineplus/druginfo/meds/a611029.html",
+        "Focus": "Eprosartan and Hydrochlorothiazide",
+        "FocusAnnotations": {
+            "Category": "Drug"
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000438-1",
+                        "@qtype": "brand names of combination products",
+                        "#text": "What are the brand names of combination products of Eprosartan and Hydrochlorothiazide ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000438-2",
+                        "@qtype": "brand names of combination products",
+                        "#text": "What are the brand names of combination products of Eprosartan and Hydrochlorothiazide ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

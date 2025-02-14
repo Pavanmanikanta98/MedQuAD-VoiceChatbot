@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000638",
+        "@source": "MPlusHealthTopics",
+        "@url": "https://www.nlm.nih.gov/medlineplus/nativeamericanhealth.html",
+        "Focus": "Native American Health",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Alaska Native health",
+                    "American Indian health"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000638-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Native American Health"
+                },
+                "Answer": "Summary : Every racial or ethnic group has specific health concerns. Differences in the health of groups can result from:       - Genetics    - Environmental factors    - Access to care    - Cultural factors        On this page, you'll find links to health issues that affect Native Americans."
+            }
+        }
+    }
+}

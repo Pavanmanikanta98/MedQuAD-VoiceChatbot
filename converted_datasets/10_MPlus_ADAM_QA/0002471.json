@@ -1,0 +1,114 @@
+{
+    "Document": {
+        "@id": "0002471",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000481.htm",
+        "Focus": "Lupus nephritis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0027697",
+                        "C0024143"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Nephritis - lupus",
+                    "Lupus glomerular disease"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002471-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Lupus nephritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002471-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Lupus nephritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002471-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Lupus nephritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002471-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Lupus nephritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002471-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Lupus nephritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002471-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Lupus nephritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002471-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Lupus nephritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002471-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Lupus nephritis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002471-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Lupus nephritis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

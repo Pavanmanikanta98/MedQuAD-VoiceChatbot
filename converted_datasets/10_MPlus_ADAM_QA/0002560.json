@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0002560",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007592.htm",
+        "Focus": "Medicines for ADHD",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002560-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Medicines for ADHD"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

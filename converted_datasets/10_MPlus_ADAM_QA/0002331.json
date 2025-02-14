@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0002331",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002248.htm",
+        "Focus": "Large for gestational age (LGA)",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0158915"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002331-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Large for gestational age (LGA) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002331-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Large for gestational age (LGA) ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

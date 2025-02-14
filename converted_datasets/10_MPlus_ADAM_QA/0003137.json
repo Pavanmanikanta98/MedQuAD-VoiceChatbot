@@ -1,0 +1,90 @@
+{
+    "Document": {
+        "@id": "0003137",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000027.htm",
+        "Focus": "Poison ivy - oak - sumac rash",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0162451",
+                        "C0860456"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003137-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Poison ivy - oak - sumac rash ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003137-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Poison ivy - oak - sumac rash ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003137-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Poison ivy - oak - sumac rash ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003137-4",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Poison ivy - oak - sumac rash ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003137-5",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Poison ivy - oak - sumac rash ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003137-6",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Poison ivy - oak - sumac rash ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003137-7",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Poison ivy - oak - sumac rash ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

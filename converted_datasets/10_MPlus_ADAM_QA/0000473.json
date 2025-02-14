@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0000473",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000022.htm",
+        "Focus": "Bleeding during cancer treatment",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000473-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Bleeding during cancer treatment"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

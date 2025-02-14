@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0002562",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000758.htm",
+        "Focus": "Medicines for sleep",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Benzodiazepines",
+                    "Sedatives",
+                    "Hypnotics",
+                    "Sleeping pills"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002562-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Medicines for sleep"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

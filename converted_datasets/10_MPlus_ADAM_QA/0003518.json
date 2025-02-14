@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003518",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000143.htm",
+        "Focus": "Self catheterization - male",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Clean intermittent catheterization - male",
+                    "CIC - male"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003518-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Self catheterization - male"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

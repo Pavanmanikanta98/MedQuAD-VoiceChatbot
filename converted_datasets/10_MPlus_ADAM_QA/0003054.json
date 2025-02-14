@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0003054",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003967.htm",
+        "Focus": "Pets and the immunocompromised person",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "AIDS patients and pets",
+                    "Bone marrow transplant patients and pets",
+                    "Chemotherapy patients and pets"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003054-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Pets and the immunocompromised person"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

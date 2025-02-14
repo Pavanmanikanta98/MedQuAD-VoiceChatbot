@@ -1,0 +1,51 @@
+{
+    "Document": {
+        "@id": "0003634",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002302.htm",
+        "Focus": "Small for gestational age (SGA)",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0302511",
+                        "C0235991"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T046",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Low birth weight"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003634-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Small for gestational age (SGA) ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003634-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Small for gestational age (SGA) ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

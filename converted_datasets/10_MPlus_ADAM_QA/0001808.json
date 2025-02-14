@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0001808",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003811.htm",
+        "Focus": "Hand x-ray",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "X-ray - hand"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001808-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Hand x-ray"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

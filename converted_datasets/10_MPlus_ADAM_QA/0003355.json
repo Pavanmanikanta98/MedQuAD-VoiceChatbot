@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0003355",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001919.htm",
+        "Focus": "Reflux wedge",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0017168",
+                        "C0232483"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T046",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003355-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Reflux wedge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003355-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Reflux wedge ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

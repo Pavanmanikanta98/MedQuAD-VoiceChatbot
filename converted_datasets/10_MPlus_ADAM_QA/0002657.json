@@ -1,0 +1,46 @@
+{
+    "Document": {
+        "@id": "0002657",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007603.htm",
+        "Focus": "MMR (measles, mumps,and rubella) vaccine - what you need to know",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0026780",
+                        "C0035920",
+                        "C0025007"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002657-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) MMR (measles, mumps,and rubella) vaccine - what you need to know ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002657-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) MMR (measles, mumps,and rubella) vaccine - what you need to know ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

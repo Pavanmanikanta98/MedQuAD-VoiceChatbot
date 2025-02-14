@@ -1,0 +1,102 @@
+{
+    "Document": {
+        "@id": "0003309",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001464.htm",
+        "Focus": "Pyogenic granuloma",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0085653",
+                        "C0263218"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Lobular capillary hemangioma"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003309-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Pyogenic granuloma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003309-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Pyogenic granuloma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003309-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Pyogenic granuloma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003309-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Pyogenic granuloma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003309-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Pyogenic granuloma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003309-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Pyogenic granuloma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003309-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Pyogenic granuloma ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003309-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Pyogenic granuloma ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

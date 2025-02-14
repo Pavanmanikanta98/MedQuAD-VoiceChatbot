@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0002350",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002428.htm",
+        "Focus": "Lead - nutritional considerations",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0518609"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Lead poisoning - nutritional considerations",
+                    "Toxic metal - nutritional considerations"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002350-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Lead - nutritional considerations ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

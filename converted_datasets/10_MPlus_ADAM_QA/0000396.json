@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000396",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003817.htm",
+        "Focus": "Barium enema",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Lower gastrointestinal series",
+                    "Lower GI series"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000396-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Barium enema"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

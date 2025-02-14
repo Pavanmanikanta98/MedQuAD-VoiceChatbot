@@ -1,0 +1,102 @@
+{
+    "Document": {
+        "@id": "0001961",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001383.htm",
+        "Focus": "Herpetic stomatitis",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0038366"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Stomatitis - herpetic",
+                    "primary herpetic gingivostomatitis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001961-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Herpetic stomatitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001961-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Herpetic stomatitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001961-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Herpetic stomatitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001961-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Herpetic stomatitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001961-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Herpetic stomatitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001961-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Herpetic stomatitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001961-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Herpetic stomatitis ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001961-8",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Herpetic stomatitis ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

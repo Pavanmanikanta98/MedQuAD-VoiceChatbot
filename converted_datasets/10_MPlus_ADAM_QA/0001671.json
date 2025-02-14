@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001671",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003458.htm",
+        "Focus": "Gamma-glutamyl transpeptidase (GGT) blood test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Gamma-GT",
+                    "GGTP",
+                    "GGT"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001671-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Gamma-glutamyl transpeptidase (GGT) blood test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

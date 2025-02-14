@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0002951",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003898.htm",
+        "Focus": "Parathyroid biopsy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Biopsy - parathyroid"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002951-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Parathyroid biopsy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

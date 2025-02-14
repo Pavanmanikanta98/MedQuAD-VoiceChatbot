@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003170",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000051.htm",
+        "Focus": "Postural drainage",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Chest physical therapy",
+                    "CPT"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003170-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Postural drainage"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

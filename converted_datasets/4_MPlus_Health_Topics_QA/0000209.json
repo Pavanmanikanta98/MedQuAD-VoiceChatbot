@@ -1,0 +1,38 @@
+{
+    "Document": {
+        "@id": "0000209",
+        "@source": "MPlusHealthTopics",
+        "@url": "https://www.nlm.nih.gov/medlineplus/clostridiumdifficileinfections.html",
+        "Focus": "Clostridium Difficile Infections",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0343386"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "C. diff. infections",
+                    "Clostridium enterocolitis",
+                    "pseudomembranous colitis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000209-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Clostridium Difficile Infections ?"
+                },
+                "Answer": "Clostridium difficile (C. difficile) is a bacterium that causes diarrhea and more serious intestinal conditions such as colitis. Symptoms include       -  Watery diarrhea (at least three bowel movements per day for two or more days)    -  Fever    -  Loss of appetite    -  Nausea    -  Abdominal pain or tenderness       You might get C. difficile disease if you have an illness that requires prolonged use of antibiotics. Increasingly, the disease can also be spread in the hospital. The elderly are also at risk. Treatment is with antibiotics.    Centers for Disease Control and Prevention"
+            }
+        }
+    }
+}

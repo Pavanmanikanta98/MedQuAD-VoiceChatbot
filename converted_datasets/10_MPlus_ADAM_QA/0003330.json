@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003330",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003823.htm",
+        "Focus": "Radionuclide cisternogram",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "CSF flow scan",
+                    "Cisternogram"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003330-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Radionuclide cisternogram"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001370",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003332.htm",
+        "Focus": "ELISA",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Enzyme-linked immunoassay",
+                    "EIA"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001370-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about ELISA"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "Document": {
+        "@id": "0003145",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001318.htm",
+        "Focus": "Polychromatophilia",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0333942"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Polychromasia"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003145-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Polychromatophilia ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

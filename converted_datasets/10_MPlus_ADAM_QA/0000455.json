@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0000455",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002599.htm",
+        "Focus": "Birth control pill overdose",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000455-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Birth control pill overdose"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

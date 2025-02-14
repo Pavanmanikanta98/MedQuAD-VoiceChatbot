@@ -1,0 +1,58 @@
+{
+    "Document": {
+        "@id": "0001893",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000836.htm",
+        "Focus": "Heel pain and Achilles tendonitis - aftercare",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0263933",
+                        "C0231780",
+                        "C0149846"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T047",
+                        "T184"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001893-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Heel pain and Achilles tendonitis - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001893-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Heel pain and Achilles tendonitis - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001893-3",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Heel pain and Achilles tendonitis - aftercare ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0002891",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007499.htm",
+        "Focus": "Osteotomy of the knee",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Proximal tibial osteotomy",
+                    "Lateral closing wedge osteotomy",
+                    "High tibial osteotomy",
+                    "Distal femoral osteotomy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002891-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Osteotomy of the knee"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

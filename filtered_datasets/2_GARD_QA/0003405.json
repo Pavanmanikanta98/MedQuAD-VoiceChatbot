@@ -1,0 +1,15 @@
+[
+    {
+        "question": "What is (are) Kluver Bucy syndrome ?",
+        "answer": "Kluver Bucy syndrome is a rare behavioral impairment characterized by inappropriate sexual behaviors and mouthing of objects. Other signs and symptoms, include a diminished ability to visually recognize objects, loss of normal fear and anger responses, memory loss, distractibility, seizures, and dementia. It is associated with damage to the anterior temporal lobes of the brain. Cases have been reported in association with herpes encephalitis and head trauma. Treatment is symptomatic and may include the use of psychotropic medications.",
+        "qtype": "information",
+        "focus": "Kluver Bucy syndrome",
+        "synonyms": [
+            "Bilateral temporal lobe disorder",
+            "Post-encephalitic Kluver Bucy syndrome (type)",
+            "Post-traumatic Kluver Bucy syndrome (type)",
+            "Memory loss, extreme sexual behavior, placidity, and visual distractibility"
+        ],
+        "semantic_group": "Disorders"
+    }
+]

@@ -1,0 +1,59 @@
+{
+    "Document": {
+        "@id": "0003220",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000678.htm",
+        "Focus": "Preventing stroke",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0038454"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Stroke - prevention",
+                    "CVA - prevention",
+                    "cerebral vascular accident - prevention",
+                    "TIA - prevention, transient ischemic attack - prevention"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003220-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Preventing stroke ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003220-2",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Preventing stroke ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003220-3",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Preventing stroke? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

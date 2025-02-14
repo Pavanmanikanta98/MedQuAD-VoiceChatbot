@@ -1,0 +1,71 @@
+{
+    "Document": {
+        "@id": "0003522",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003291.htm",
+        "Focus": "Sensorineural deafness",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0018784"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Nerve deafness",
+                    "Hearing loss - sensorineural",
+                    "Acquired hearing loss",
+                    "SNHL",
+                    "Noise-induced hearing loss",
+                    "NIHL",
+                    "Presbycusis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003522-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Sensorineural deafness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003522-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Sensorineural deafness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003522-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Sensorineural deafness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003522-4",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Sensorineural deafness ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

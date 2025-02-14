@@ -1,0 +1,45 @@
+{
+    "Document": {
+        "@id": "0000171",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003715.htm",
+        "Focus": "Alpha-1 antitrypsin test",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0456984"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "A1AT test"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000171-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Alpha-1 antitrypsin test ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000171-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Alpha-1 antitrypsin test? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

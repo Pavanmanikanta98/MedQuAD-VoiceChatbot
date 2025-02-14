@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0002159",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007279.htm",
+        "Focus": "In vitro fertilization (IVF)",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "IVF",
+                    "Assisted reproductive technology",
+                    "ART",
+                    "Test-tube baby procedure"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002159-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about In vitro fertilization (IVF)"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

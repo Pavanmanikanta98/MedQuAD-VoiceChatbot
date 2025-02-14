@@ -1,0 +1,84 @@
+{
+    "Document": {
+        "@id": "0002607",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007290.htm",
+        "Focus": "Metabolic syndrome",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0524620"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Insulin resistance syndrome",
+                    "Syndrome X"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002607-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Metabolic syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002607-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Metabolic syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002607-3",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Metabolic syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002607-4",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Metabolic syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002607-5",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Metabolic syndrome ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002607-6",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Metabolic syndrome ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

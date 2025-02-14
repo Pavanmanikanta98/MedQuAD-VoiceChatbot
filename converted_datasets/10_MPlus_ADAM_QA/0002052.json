@@ -1,0 +1,108 @@
+{
+    "Document": {
+        "@id": "0002052",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000770.htm",
+        "Focus": "Huntington disease",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0020179"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Huntington chorea"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002052-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Huntington disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002052-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Huntington disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002052-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Huntington disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002052-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Huntington disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002052-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Huntington disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002052-6",
+                        "@qtype": "support groups",
+                        "#text": "Where to find support for people with Huntington disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002052-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Huntington disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0002052-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Huntington disease ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0002052-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Huntington disease ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

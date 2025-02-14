@@ -1,0 +1,69 @@
+{
+    "Document": {
+        "@id": "0003401",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007558.htm",
+        "Focus": "Retrosternal thyroid surgery",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1540449"
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T019",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Substernalthyroid - surgery",
+                    "Mediastinal goiter - surgery"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003401-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Retrosternal thyroid surgery ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003401-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Retrosternal thyroid surgery ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003401-4",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Retrosternal thyroid surgery? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003401-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Retrosternal thyroid surgery ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

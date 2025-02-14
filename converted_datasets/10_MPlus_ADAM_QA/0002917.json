@@ -1,0 +1,39 @@
+{
+    "Document": {
+        "@id": "0002917",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007489.htm",
+        "Focus": "Pain medications - narcotics",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0030193"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Painkillers",
+                    "Drugs for pain",
+                    "Analgesics",
+                    "Opioids"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002917-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Pain medications - narcotics ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0003609",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003451.htm",
+        "Focus": "Skin lesion aspiration",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0037284"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003609-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Skin lesion aspiration ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003609-7",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Skin lesion aspiration? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

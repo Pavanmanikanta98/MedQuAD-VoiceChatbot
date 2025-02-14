@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0001747",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007562.htm",
+        "Focus": "Glucose screening and tolerance tests during pregnancy",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1409616"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Oral glucose tolerance test - pregnancy (OGTT)",
+                    "Glucose challenge test - pregnancy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001747-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Glucose screening and tolerance tests during pregnancy ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

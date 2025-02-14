@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0000553",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007402.htm",
+        "Focus": "Breast lift",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Mastopexy",
+                    "Breast lift with reduction",
+                    "Breast lift with augmentation"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000553-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Breast lift"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

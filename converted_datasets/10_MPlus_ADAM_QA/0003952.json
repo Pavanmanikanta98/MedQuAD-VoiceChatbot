@@ -1,0 +1,49 @@
+{
+    "Document": {
+        "@id": "0003952",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002056.htm",
+        "Focus": "Toddler test or procedure preparation",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0456984"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Preparing toddler for test/procedure",
+                    "Test/procedure preparation - toddler",
+                    "Preparing for a medical test or procedure - toddler"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003952-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Toddler test or procedure preparation ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003952-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Toddler test or procedure preparation ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

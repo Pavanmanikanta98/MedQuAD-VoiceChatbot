@@ -1,0 +1,39 @@
+{
+    "Document": {
+        "@id": "0000618",
+        "@source": "MPlusHealthTopics",
+        "@url": "https://www.nlm.nih.gov/medlineplus/monkeypoxvirusinfections.html",
+        "Focus": "Monkeypox Virus Infections",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0042776",
+                        "C1456660",
+                        "C0319157",
+                        "C0042769"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T005",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000618-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Monkeypox Virus Infections ?"
+                },
+                "Answer": "Monkeypox is a rare viral disease. It occurs mostly in central and western Africa. Wild rodents and squirrels carry it, but it is called monkeypox because scientists saw it first in lab monkeys. In 2003, it was reported in prairie dogs and humans in the U.S.     Centers for Disease Control and Prevention"
+            }
+        }
+    }
+}

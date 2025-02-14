@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0004096",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003856.htm",
+        "Focus": "Upper airway biopsy",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Biopsy - upper airway"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004096-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Upper airway biopsy"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

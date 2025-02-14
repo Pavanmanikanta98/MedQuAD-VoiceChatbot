@@ -1,0 +1,95 @@
+{
+    "Document": {
+        "@id": "0002016",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000146.htm",
+        "Focus": "Hospital-acquired pneumonia",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0949083"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Nosocomial pneumonia",
+                    "Ventilator-associated pneumonia",
+                    "Health-care associated pneumonia",
+                    "HCAP"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002016-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hospital-acquired pneumonia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002016-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Hospital-acquired pneumonia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002016-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Hospital-acquired pneumonia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002016-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Hospital-acquired pneumonia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002016-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Hospital-acquired pneumonia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002016-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Hospital-acquired pneumonia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0002016-7",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Hospital-acquired pneumonia ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

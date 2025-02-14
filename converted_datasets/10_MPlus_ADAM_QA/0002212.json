@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0002212",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000251.htm",
+        "Focus": "Intestinal leiomyoma",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0023267",
+                        "C0042133"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Leiomyoma - intestine"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002212-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Intestinal leiomyoma ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

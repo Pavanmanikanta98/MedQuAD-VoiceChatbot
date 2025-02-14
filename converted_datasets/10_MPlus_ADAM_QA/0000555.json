@@ -1,0 +1,69 @@
+{
+    "Document": {
+        "@id": "0000555",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002918.htm",
+        "Focus": "Breast lump removal",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0577559"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Lumpectomy",
+                    "Wide local excision",
+                    "Breast conservation surgery",
+                    "Breast-sparing surgery",
+                    "Partial mastectomy"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000555-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Breast lump removal ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000555-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Breast lump removal ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000555-4",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Breast lump removal? ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000555-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Breast lump removal ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

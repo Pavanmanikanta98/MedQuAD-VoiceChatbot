@@ -1,0 +1,69 @@
+{
+    "Document": {
+        "@id": "0003449",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000610.htm",
+        "Focus": "Sacroiliac joint pain - aftercare",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0458232"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "SIJ pain - aftercare",
+                    "SIJ dysfunction - aftercare",
+                    "SIJ strain - aftercare",
+                    "SIJ subluxation -aftercare",
+                    "SIJ syndrome - aftercare"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003449-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Sacroiliac joint pain - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003449-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Sacroiliac joint pain - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003449-3",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Sacroiliac joint pain - aftercare ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003449-7",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Sacroiliac joint pain - aftercare ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

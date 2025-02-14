@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001556",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003758.htm",
+        "Focus": "Fecal culture",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Stool culture",
+                    "Culture - stool"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001556-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Fecal culture"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

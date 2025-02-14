@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0004098",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003605.htm",
+        "Focus": "Urea nitrogen urine test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Urine urea nitrogen"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004098-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Urea nitrogen urine test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

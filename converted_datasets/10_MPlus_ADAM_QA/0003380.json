@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0003380",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002290.htm",
+        "Focus": "Respiratory",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Respiration"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003380-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Respiratory"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

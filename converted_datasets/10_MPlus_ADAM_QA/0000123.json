@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000123",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/004006.htm",
+        "Focus": "Aging changes in the heart and blood vessels",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Heart disease - aging",
+                    "Atherosclerosis - aging"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000123-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Aging changes in the heart and blood vessels"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0003545",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002050.htm",
+        "Focus": "Sex-linked dominant",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Inheritance - sex-linked dominant",
+                    "Genetics - sex-linked dominant",
+                    "X-linked dominant",
+                    "Y-linked dominant"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003545-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Sex-linked dominant"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

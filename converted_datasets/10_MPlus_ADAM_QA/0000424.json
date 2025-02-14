@@ -1,0 +1,112 @@
+{
+    "Document": {
+        "@id": "0000424",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001420.htm",
+        "Focus": "Benign positional vertigo",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0155502"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Vertigo - positional",
+                    "Benign paroxysmal positional vertigo",
+                    "BPPV: dizziness- positional"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000424-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Benign positional vertigo ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000424-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Benign positional vertigo ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000424-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Benign positional vertigo ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000424-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Benign positional vertigo ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000424-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Benign positional vertigo ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000424-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Benign positional vertigo ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000424-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Benign positional vertigo ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000424-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Benign positional vertigo ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0000424-9",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Benign positional vertigo ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

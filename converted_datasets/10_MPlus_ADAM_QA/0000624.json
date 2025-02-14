@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0000624",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002911.htm",
+        "Focus": "C-section",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Abdominal delivery",
+                    "Abdominal birth",
+                    "Cesarean birth"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000624-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about C-section"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

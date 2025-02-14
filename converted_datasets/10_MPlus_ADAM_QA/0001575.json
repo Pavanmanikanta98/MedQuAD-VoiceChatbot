@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0001575",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002398.htm",
+        "Focus": "Fetal development",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Zygote",
+                    "Blastocyst",
+                    "Embryo",
+                    "Fetus"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001575-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Fetal development"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

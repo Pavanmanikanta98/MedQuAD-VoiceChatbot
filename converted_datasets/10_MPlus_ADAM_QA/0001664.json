@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0001664",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007371.htm",
+        "Focus": "Gallbladder removal - laparoscopic",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Cholecystectomy - laparoscopic",
+                    "Surgery - gallbladder - laparoscopic"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001664-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Gallbladder removal - laparoscopic"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

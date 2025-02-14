@@ -1,0 +1,38 @@
+{
+    "Document": {
+        "@id": "0000909",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007006.htm",
+        "Focus": "Colon cancer - resources",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0346629",
+                        "C0699790",
+                        "C0007102"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Resources - colon cancer"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000909-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Colon cancer - resources ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

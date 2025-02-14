@@ -1,0 +1,59 @@
+{
+    "Document": {
+        "@id": "0001877",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000366.htm",
+        "Focus": "Heart failure - tests",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0018801"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "CHF - tests",
+                    "Congestive heart failure - tests",
+                    "Cardiomyopathy - tests",
+                    "HF - tests"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001877-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Heart failure - tests ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001877-3",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Heart failure - tests ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001877-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Heart failure - tests ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

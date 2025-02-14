@@ -1,0 +1,33 @@
+{
+    "Document": {
+        "@id": "0002046",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007436.htm",
+        "Focus": "HPV vaccine",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Vaccine - HPV",
+                    "Immunization - HPV",
+                    "Gardasil",
+                    "Cervarix",
+                    "HPV2",
+                    "HPV4",
+                    "Vaccine to prevent cervical cancer"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002046-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about HPV vaccine"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

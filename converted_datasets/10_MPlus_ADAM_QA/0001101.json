@@ -1,0 +1,42 @@
+{
+    "Document": {
+        "@id": "0001101",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000770.htm",
+        "Focus": "DASH diet to lower high blood pressure",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0020538"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001101-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) DASH diet to lower high blood pressure ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0001101-7",
+                        "@qtype": "information",
+                        "#text": "What is (are) DASH diet to lower high blood pressure ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

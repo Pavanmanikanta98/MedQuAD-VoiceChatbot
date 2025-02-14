@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0003534",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003562.htm",
+        "Focus": "Serotonin blood test",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "5-HT level",
+                    "5-hydroxytryptamine level",
+                    "Serotonin test"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003534-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Serotonin blood test"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

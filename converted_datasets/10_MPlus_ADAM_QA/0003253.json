@@ -1,0 +1,106 @@
+{
+    "Document": {
+        "@id": "0003253",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000524.htm",
+        "Focus": "Prostatitis - nonbacterial",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0033581"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "NBP",
+                    "Prostatodynia",
+                    "Pelvic pain syndrome",
+                    "CPPS",
+                    "Chronic nonbacterial prostatitis",
+                    "Chronic genitourinary pain"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003253-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Prostatitis - nonbacterial ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0003253-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Prostatitis - nonbacterial ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003253-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Prostatitis - nonbacterial ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003253-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Prostatitis - nonbacterial ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0003253-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Prostatitis - nonbacterial ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0003253-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Prostatitis - nonbacterial ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003253-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Prostatitis - nonbacterial ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003253-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Prostatitis - nonbacterial ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

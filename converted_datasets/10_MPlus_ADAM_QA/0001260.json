@@ -1,0 +1,92 @@
+{
+    "Document": {
+        "@id": "0001260",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003093.htm",
+        "Focus": "Dizziness",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C1963093",
+                        "C0012833",
+                        "C0042571"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T033",
+                        "T184"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Lightheadedness - dizzy",
+                    "Loss of balance",
+                    "Vertigo"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001260-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Dizziness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001260-2",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Dizziness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0001260-3",
+                        "@qtype": "causes",
+                        "#text": "What causes Dizziness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0001260-4",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Dizziness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0001260-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Dizziness ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001260-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Dizziness ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

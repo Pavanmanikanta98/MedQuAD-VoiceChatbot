@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0004120",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000146.htm",
+        "Focus": "Urinary incontinence products - self-care",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0042024"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T046"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Adult diapers",
+                    "Disposable urinary collection devices"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004120-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Urinary incontinence products - self-care ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0004120-9",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Urinary incontinence products - self-care ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

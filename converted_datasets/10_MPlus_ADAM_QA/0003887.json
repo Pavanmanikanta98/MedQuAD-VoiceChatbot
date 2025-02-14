@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003887",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003909.htm",
+        "Focus": "Testicular self-exam",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Screening - testicular cancer - self-exam",
+                    "Testicular cancer - screening - self-exam"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003887-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Testicular self-exam"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

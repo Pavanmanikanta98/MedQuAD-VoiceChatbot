@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0000421",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007532.htm",
+        "Focus": "Benefits of quitting tobacco",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Secondhand smoke",
+                    "Cigarette smoking - quitting",
+                    "Tobacco cessation",
+                    "Smoking and smokeless tobacco - quitting",
+                    "Why you should quit smoking"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000421-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Benefits of quitting tobacco"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

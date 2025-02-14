@@ -1,0 +1,113 @@
+{
+    "Document": {
+        "@id": "0004161",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000914.htm",
+        "Focus": "Uterine fibroids",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0042133"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T191"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Leiomyoma",
+                    "Fibromyoma",
+                    "Myoma",
+                    "Fibroids"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004161-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Uterine fibroids ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004161-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Uterine fibroids ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0004161-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Uterine fibroids ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0004161-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Uterine fibroids ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0004161-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Uterine fibroids ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0004161-6",
+                        "@qtype": "support groups",
+                        "#text": "Where to find support for people with Uterine fibroids ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0004161-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Uterine fibroids ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0004161-8",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Uterine fibroids ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "9",
+                    "Question": {
+                        "@qid": "0004161-9",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Uterine fibroids ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

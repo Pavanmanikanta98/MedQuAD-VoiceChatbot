@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0000015",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003796.htm",
+        "Focus": "Abdominal MRI scan",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Nuclear magnetic resonance - abdomen",
+                    "NMR - abdomen",
+                    "Magnetic resonance imaging - abdomen",
+                    "MRI of the abdomen"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000015-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Abdominal MRI scan"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

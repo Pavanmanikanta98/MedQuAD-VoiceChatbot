@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0002588",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000684.htm",
+        "Focus": "Meniscus tears - aftercare",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Knee cartilage tear - aftercare"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002588-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Meniscus tears - aftercare"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

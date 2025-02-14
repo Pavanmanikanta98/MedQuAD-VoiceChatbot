@@ -1,0 +1,43 @@
+{
+    "Document": {
+        "@id": "0004044",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007452.htm",
+        "Focus": "Troponin test",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0456984"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "TroponinI",
+                    "TnI",
+                    "TroponinT",
+                    "TnT",
+                    "Cardiac-specific troponin I",
+                    "Cardiac-specific troponin T",
+                    "cTnl",
+                    "cTnT"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0004044-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Troponin test ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

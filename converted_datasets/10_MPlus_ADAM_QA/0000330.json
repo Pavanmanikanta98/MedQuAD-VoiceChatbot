@@ -1,0 +1,110 @@
+{
+    "Document": {
+        "@id": "0000330",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000121.htm",
+        "Focus": "Aspiration pneumonia",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C1761609",
+                        "C0032290"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T046",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Anaerobic pneumonia",
+                    "Aspiration of vomitus",
+                    "Necrotizing pneumonia",
+                    "Aspiration pneumonitis"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000330-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Aspiration pneumonia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000330-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Aspiration pneumonia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000330-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Aspiration pneumonia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000330-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Aspiration pneumonia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000330-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Aspiration pneumonia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000330-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Aspiration pneumonia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000330-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Aspiration pneumonia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000330-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Aspiration pneumonia ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

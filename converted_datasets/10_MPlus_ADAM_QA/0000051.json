@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0000051",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003615.htm",
+        "Focus": "Acid loading test (pH)",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000051-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Acid loading test (pH)"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

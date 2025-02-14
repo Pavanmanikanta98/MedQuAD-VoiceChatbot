@@ -1,0 +1,45 @@
+{
+    "Document": {
+        "@id": "0002465",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007468.htm",
+        "Focus": "Lung problems and volcanic smog",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0740941"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Vog"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002465-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Lung problems and volcanic smog ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002465-2",
+                        "@qtype": "information",
+                        "#text": "What is (are) Lung problems and volcanic smog ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

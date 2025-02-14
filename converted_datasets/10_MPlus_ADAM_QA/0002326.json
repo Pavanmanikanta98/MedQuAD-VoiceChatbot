@@ -1,0 +1,31 @@
+{
+    "Document": {
+        "@id": "0002326",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002663.htm",
+        "Focus": "Lanolin poisoning",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Wool wax poisoning",
+                    "Wool alcohol poisoning",
+                    "Glossylan poisoning",
+                    "Golden dawn poisoning",
+                    "Sparklelan poisoning"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002326-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Lanolin poisoning"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

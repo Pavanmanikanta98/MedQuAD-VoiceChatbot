@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000764",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002036.htm",
+        "Focus": "Chapped lips",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Lips - chapped and dry"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000764-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Chapped lips"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

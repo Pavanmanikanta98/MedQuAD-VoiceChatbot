@@ -1,0 +1,75 @@
+{
+    "Document": {
+        "@id": "0002077",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/007228.htm",
+        "Focus": "Hyperglycemia - infants",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0020456"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "High blood sugar - infants",
+                    "High blood glucose level - infants"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002077-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hyperglycemia - infants ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002077-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Hyperglycemia - infants ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002077-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Hyperglycemia - infants ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002077-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Hyperglycemia - infants ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002077-5",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Hyperglycemia - infants ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

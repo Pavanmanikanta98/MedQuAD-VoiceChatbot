@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0003302",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003399.htm",
+        "Focus": "Pulse",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Heart rate",
+                    "Heart beat"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003302-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Pulse"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

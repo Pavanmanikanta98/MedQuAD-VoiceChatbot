@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0000623",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003356.htm",
+        "Focus": "C-reactive protein",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "CRP",
+                    "High-sensitivity C-reactive protein",
+                    "hs-CRP"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000623-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about C-reactive protein"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

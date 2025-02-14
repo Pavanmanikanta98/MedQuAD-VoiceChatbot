@@ -1,0 +1,28 @@
+{
+    "Document": {
+        "@id": "0000057",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000189.htm",
+        "Focus": "ACL reconstruction - discharge",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Anterior cruciate ligament reconstruction - discharge",
+                    "ACL reconstruction - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000057-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about ACL reconstruction - discharge"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0003917",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000556.htm",
+        "Focus": "Thrombocytopenia - drug induced",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Drug-induced thrombocytopenia"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003917-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Thrombocytopenia - drug induced"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Document": {
+        "@id": "0000672",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003394.htm",
+        "Focus": "Capillary nail refill test",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0456984"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Nail blanch test",
+                    "Capillary refill time"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000672-1",
+                    "@qtype": "information",
+                    "#text": "What is (are) Capillary nail refill test ?"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

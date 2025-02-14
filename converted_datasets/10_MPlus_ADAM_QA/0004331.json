@@ -1,0 +1,79 @@
+{
+    "Document": {
+        "@id": "0004331",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003175.htm",
+        "Focus": "Wrist pain",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0221785"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T184"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Pain - wrist",
+                    "Pain - carpal tunnel",
+                    "Injury - wrist",
+                    "Arthritis - wrist",
+                    "Gout - wrist",
+                    "Pseudogout - wrist"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004331-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Wrist pain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0004331-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Wrist pain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0004331-3",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Wrist pain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0004331-4",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Wrist pain ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0004331-5",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Wrist pain ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

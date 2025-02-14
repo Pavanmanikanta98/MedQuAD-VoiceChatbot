@@ -1,0 +1,81 @@
+{
+    "Document": {
+        "@id": "0002640",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001367.htm",
+        "Focus": "Milia",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0345996"
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T190",
+                        "T047"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002640-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Milia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0002640-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Milia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0002640-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Milia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0002640-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Milia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0002640-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Milia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002640-6",
+                        "@qtype": "prevention",
+                        "#text": "How to prevent Milia ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

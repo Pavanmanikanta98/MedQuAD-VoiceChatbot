@@ -1,0 +1,49 @@
+{
+    "Document": {
+        "@id": "0001748",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003466.htm",
+        "Focus": "Glucose tolerance test - non-pregnant",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0549206"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Oral glucose tolerance test- non-pregnant",
+                    "OGTT - non-pregnant",
+                    "Diabetes - glucose tolerance test"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001748-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Glucose tolerance test - non-pregnant ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001748-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Glucose tolerance test - non-pregnant? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "Document": {
+        "@id": "0003185",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002129.htm",
+        "Focus": "Pregnancy - health risks",
+        "FocusAnnotations": {
+            "Category": "Other"
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003185-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Pregnancy - health risks"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

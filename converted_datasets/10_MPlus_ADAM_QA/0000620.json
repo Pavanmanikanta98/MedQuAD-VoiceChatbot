@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0000620",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002764.htm",
+        "Focus": "Button batteries",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Swallowing batteries"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0000620-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Button batteries"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "Document": {
+        "@id": "0003379",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002150.htm",
+        "Focus": "Resources",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": "Support groups - by disease and condition"
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003379-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Resources"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "Document": {
+        "@id": "0001855",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000090.htm",
+        "Focus": "Heart attack - discharge",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0027051"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T047"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Myocardial infarction - discharge",
+                    "MI - discharge",
+                    "Coronary event - discharge",
+                    "Infarct - discharge"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001855-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Heart attack - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0001855-2",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Heart attack - discharge ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0001855-6",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Heart attack - discharge ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

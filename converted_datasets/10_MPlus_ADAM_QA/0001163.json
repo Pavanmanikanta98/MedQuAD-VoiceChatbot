@@ -1,0 +1,29 @@
+{
+    "Document": {
+        "@id": "0001163",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002006.htm",
+        "Focus": "Developmental milestones record - 2 months",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Normal childhood growth milestones - 2 months",
+                    "Childhood growth milestones - 2 months",
+                    "Growth milestones for children - 2 months"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0001163-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Developmental milestones record - 2 months"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

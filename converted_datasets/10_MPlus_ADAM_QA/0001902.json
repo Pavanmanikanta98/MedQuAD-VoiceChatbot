@@ -1,0 +1,45 @@
+{
+    "Document": {
+        "@id": "0001902",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/003646.htm",
+        "Focus": "Hematocrit",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0518014"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "HCT"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0001902-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Hematocrit ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0001902-8",
+                        "@qtype": "susceptibility",
+                        "#text": "Who is at risk for Hematocrit? ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

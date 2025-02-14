@@ -1,0 +1,46 @@
+{
+    "Document": {
+        "@id": "0004279",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000811.htm",
+        "Focus": "Weight gain after quitting smoking: What to do",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C2911647",
+                        "C0043094",
+                        "C1519384"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0004279-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Weight gain after quitting smoking: What to do ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0004279-5",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Weight gain after quitting smoking: What to do ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

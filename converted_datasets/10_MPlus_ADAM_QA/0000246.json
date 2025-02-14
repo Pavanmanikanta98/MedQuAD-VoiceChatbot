@@ -1,0 +1,103 @@
+{
+    "Document": {
+        "@id": "0000246",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001185.htm",
+        "Focus": "Anorchia",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C1261504"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T019"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": [
+                    "Vanishing testes - anorchia",
+                    "Empty scrotum - anorchia",
+                    "Scrotum - empty (anorchia)"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0000246-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Anorchia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "2",
+                    "Question": {
+                        "@qid": "0000246-2",
+                        "@qtype": "causes",
+                        "#text": "What causes Anorchia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0000246-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Anorchia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0000246-4",
+                        "@qtype": "exams and tests",
+                        "#text": "How to diagnose Anorchia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "5",
+                    "Question": {
+                        "@qid": "0000246-5",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Anorchia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0000246-6",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Anorchia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0000246-7",
+                        "@qtype": "complications",
+                        "#text": "What are the complications of Anorchia ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0000246-8",
+                        "@qtype": "when to contact a medical professional",
+                        "#text": "Do I need to see a doctor for Anorchia ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

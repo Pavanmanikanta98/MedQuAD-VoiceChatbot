@@ -1,0 +1,32 @@
+{
+    "Document": {
+        "@id": "0002144",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/000821.htm",
+        "Focus": "Immune response",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Innate immunity",
+                    "Humoral immunity",
+                    "Cellular immunity",
+                    "Immunity",
+                    "Inflammatory response",
+                    "Acquired (adaptive) immunity"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0002144-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Immune response"
+                },
+                "Answer": null
+            }
+        }
+    }
+}

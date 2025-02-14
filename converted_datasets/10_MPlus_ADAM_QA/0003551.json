@@ -1,0 +1,72 @@
+{
+    "Document": {
+        "@id": "0003551",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/002717.htm",
+        "Focus": "Shaving cream poisoning",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": "C0518505"
+                },
+                "SemanticTypes": {
+                    "SemanticType": "T033"
+                },
+                "SemanticGroup": "Disorders"
+            },
+            "Synonyms": {
+                "Synonym": "Shaving lotion poisoning"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0003551-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Shaving cream poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "3",
+                    "Question": {
+                        "@qid": "0003551-3",
+                        "@qtype": "symptoms",
+                        "#text": "What are the symptoms of Shaving cream poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "4",
+                    "Question": {
+                        "@qid": "0003551-4",
+                        "@qtype": "considerations",
+                        "#text": "What to do for Shaving cream poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "7",
+                    "Question": {
+                        "@qid": "0003551-7",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Shaving cream poisoning ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "8",
+                    "Question": {
+                        "@qid": "0003551-8",
+                        "@qtype": "outlook",
+                        "#text": "What is the outlook for Shaving cream poisoning ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

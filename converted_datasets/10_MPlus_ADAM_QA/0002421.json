@@ -1,0 +1,48 @@
+{
+    "Document": {
+        "@id": "0002421",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000576.htm",
+        "Focus": "Living with heart disease and angina",
+        "FocusAnnotations": {
+            "Category": "Disease",
+            "UMLS": {
+                "CUIs": {
+                    "CUI": [
+                        "C0018799",
+                        "C0002962"
+                    ]
+                },
+                "SemanticTypes": {
+                    "SemanticType": [
+                        "T047",
+                        "T033"
+                    ]
+                },
+                "SemanticGroup": "Disorders"
+            }
+        },
+        "QAPairs": {
+            "QAPair": [
+                {
+                    "@pid": "1",
+                    "Question": {
+                        "@qid": "0002421-1",
+                        "@qtype": "information",
+                        "#text": "What is (are) Living with heart disease and angina ?"
+                    },
+                    "Answer": null
+                },
+                {
+                    "@pid": "6",
+                    "Question": {
+                        "@qid": "0002421-6",
+                        "@qtype": "treatment",
+                        "#text": "What are the treatments for Living with heart disease and angina ?"
+                    },
+                    "Answer": null
+                }
+            ]
+        }
+    }
+}

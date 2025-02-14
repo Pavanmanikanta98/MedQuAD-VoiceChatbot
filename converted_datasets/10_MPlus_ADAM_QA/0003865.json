@@ -1,0 +1,30 @@
+{
+    "Document": {
+        "@id": "0003865",
+        "@source": "ADAM",
+        "@url": "https://www.nlm.nih.gov/medlineplus/ency/article/001975.htm",
+        "Focus": "Teenagers and drugs",
+        "FocusAnnotations": {
+            "Category": "Other",
+            "Synonyms": {
+                "Synonym": [
+                    "Teenagers and drugs",
+                    "Symptoms of drug use in teenagers",
+                    "Drug abuse - teenagers",
+                    "Substance abuse - teenagers"
+                ]
+            }
+        },
+        "QAPairs": {
+            "QAPair": {
+                "@pid": "1",
+                "Question": {
+                    "@qid": "0003865-1",
+                    "@qtype": "information",
+                    "#text": "Do you have information about Teenagers and drugs"
+                },
+                "Answer": null
+            }
+        }
+    }
+}
