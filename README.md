@@ -121,21 +121,28 @@ During the fine-tuning process, I encountered the following issue:
 ### Images of the Problem
 Below are two images illustrating the issue:
 
-![Image 1: Validation Loss Not Logged](path_to_image_1.png)  
+![Image](https://github.com/user-attachments/assets/3c94cf85-46a4-4d8e-9d08-ee0efb99febe)
 *Figure 1: Validation loss was not logged during training.*
 
-![Image 2: Model Repetition](path_to_image_2.png)  
+![Image](https://github.com/user-attachments/assets/735967f0-23a2-44c6-9e4a-293cb49e42e8)
 *Figure 2: The model repeated the input question instead of generating a meaningful response.*
 
----
+# Future Research
 
-## Future Research
-To address these issues, I plan to:
-- Investigate alternative models like **ClinicalBERT**, which are specifically designed for healthcare applications.
-- Conduct further research on fine-tuning strategies and hyperparameter tuning.
-- Explore additional tools and frameworks for speech integration and deployment.
+To make this project even better, I have a few ideas for what I can work on next:
 
----
+- **Try Different Models**:  
+  I want to explore models like **ClinicalBERT**, which are specifically made for healthcare tasks. These might work better than the one I used now.
 
-## Conclusion
-This project demonstrates the development of a healthcare assistant chatbot using a large dataset and advanced NLP techniques. While challenges were encountered during fine-tuning, the groundwork has been laid for future improvements. By addressing these issues, we aim to deliver a robust and functional chatbot that can assist users with healthcare-related queries.
+- **Improve Fine-Tuning**:  
+  I need to learn more about how to fine-tune models effectively. Maybe tweaking things like the learning rate or training time will help solve the problems I ran into.
+
+
+
+# Conclusion
+
+This project was a great learning experience for me. I built a healthcare assistant chatbot that can answer questions about symptoms, treatments, and medications using a big dataset and some cool NLP techniques.  
+
+Of course, I ran into a few challenges—like issues with logging validation loss and the model repeating questions—but these are all part of the process. I’ve learned so much along the way, and I feel like I’ve set up a good foundation.  
+
+With a bit more work, I believe I can turn this into a really helpful tool that people can use to get quick answers about their health. I’m excited to keep improving it!
