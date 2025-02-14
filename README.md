@@ -1,8 +1,7 @@
 # Healthcare Assistant Chatbot
 
 ## Overview
-This project aims to develop a voice-based AI chatbot designed to assist users with healthcare-related queries. The chatbot will answer questions about symptoms, treatments, medications, and general health advice. This README outlines the plan of action, dataset preparation, model fine-tuning, and deployment steps.
-
+The goal of this project is to create a voice-enabled AI chatbot that can assist users with healthcare-related questions. The chatbot will provide information on topics such as symptoms, treatments, medications, and general health advice. 
 ---
 
 ## Plan of Action
