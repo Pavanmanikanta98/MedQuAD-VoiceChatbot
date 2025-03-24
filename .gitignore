@@ -1,1 +1,16 @@
 venv/
+
+
+fine_tuned_dialo_gpt/
+results/
+
+temp.py
+sample.py
+
+__pycache__
+
+test.py
+test2.py
+
+.gradio
+.env
