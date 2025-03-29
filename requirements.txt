@@ -3,4 +3,13 @@ pandas
 peft
 transformers
 torch
-sklearn
+scikit-learn
+gradio
+dotenv
+assemblyai
+bs4
+requests
+beautifulsoup4
+langchain_community
+langchain_huggingface
+langchain
